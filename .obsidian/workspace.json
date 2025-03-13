@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Reunión 2 TFM"
             }
+          },
+          {
+            "id": "f8ad8f6d9ebbda02",
+            "type": "leaf",
+            "state": {
+              "type": "markwhen-view",
+              "state": {
+                "file": "TFM/CronogramaTFM.mw.mw",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "markwhen-icon",
+              "title": "CronogramaTFM.mw.mw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +212,14 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "ea9621be40bf809f",
+  "active": "f8ad8f6d9ebbda02",
   "lastOpenFiles": [
+    "TFM/Markwhen 3-13-2025 22.21.35.mw",
+    "TFM meetings/Reunión 2 TFM.md",
     "TFM meetings/Primera reunión TFM.md",
     "TFM/CronogramaTFM.mw.mw",
     "Repositorios/Pàgina principal  Sidbrint.md",
     "Repositorios/HerStory (2024-27) – Women and Wikipedia.md",
-    "TFM meetings/Reunión 2 TFM.md",
     "TFM/Markwhen 3-11-2025 11.21.27.mw",
     "TFM",
     "TFM meetings/Git",
