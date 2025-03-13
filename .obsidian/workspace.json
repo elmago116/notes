@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ensayo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "12422896db0c1d31",
+  "active": "b3ff1dd7f7144981",
   "lastOpenFiles": [
     "TFM/Cognitive Science and Phenomenology.md",
     "Repositorios/HerStory (2024-27) – Women and Wikipedia.md",
