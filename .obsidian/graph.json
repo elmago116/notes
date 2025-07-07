@@ -1,22 +1,37 @@
 {
   "collapse-filter": false,
-  "search": "[\"author\":",
+  "search": "#similarProject",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 1.710205078125,
+  "lineSizeMultiplier": 1.78397623697917,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.7463266481913469,
+  "centerStrength": 0,
+  "repelStrength": 8.7451171875,
+  "linkStrength": 0.855672200520833,
+  "linkDistance": 30,
+  "scale": 0.5657044467043034,
   "close": false
 }

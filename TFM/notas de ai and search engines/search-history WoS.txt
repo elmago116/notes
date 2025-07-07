@@ -1,0 +1,223 @@
+# Web of Science Search Strategy (v0.1)
+
+# Database: Web of Science Core Collection
+
+# Entitlements:
+
+- WOS.IC: 1993 to 2025
+- WOS.CCR: 1985 to 2025
+- WOS.SCI: 1900 to 2025
+- WOS.AHCI: 1975 to 2025
+- WOS.BHCI: 2005 to 2025
+- WOS.BSCI: 2005 to 2025
+- WOS.ESCI: 2020 to 2025
+- WOS.ISTP: 1990 to 2025
+- WOS.SSCI: 1956 to 2025
+- WOS.ISSHP: 1990 to 2025
+
+
+# Searches:
+
+Search: TS=(
+    (
+        ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+        OR "archival discover*" OR "cultural heritage" OR "historical corpus" 
+        OR "user-centered metadata" OR "metadata schema")
+        AND 
+        ("data stori*" OR "interactive visual*" OR "user test*" 
+        OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+    )
+    OR 
+    (
+        ("semantic web" OR "RDF mapping" OR "ontology engineering") 
+        NEAR/5 
+        ("digital humanit*" OR "GLAM sector" OR "historical memory")
+    )
+    OR 
+    ("linked open data" OR "wikidata" OR "glam")
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage")
+AND PY=2015-2025
+NOT TS=("VR" OR "AR") and Review Article (Document Types)				Date Run: Tue Jun 17 2025 16:44:01 GMT+0200 (Central European Summer Time)		Results: 14
+
+Search: ((TS=((
+    ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+    OR "archival discover*" OR "cultural heritage" OR "historical corpus" 
+    OR "user-centered metadata" OR "metadata schema") 
+    AND 
+    ("data stori*" OR "interactive visual*" OR "user test*" 
+    OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+) 
+OR 
+    (("semantic web" OR "RDF mapping" OR "ontology engineering") 
+    NEAR/5 
+    ("digital humanit*" OR "GLAM sector" OR "historical memory"))
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage" OR "archives")
+AND PY=2015-2025) OR (QMTS=("linked open data")) OR (QMTS=("wikidata")) OR (QMTS=("glam"))) NOT (QMTS=("VR") OR QMTS=("AR")) and Review Article (Document Types)				Date Run: Tue Jun 17 2025 16:35:30 GMT+0200 (Central European Summer Time)		Results: 43
+
+Search: TS=(
+    (
+        ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+        OR "archival discover*" OR "cultural heritage" OR "historical corpus"
+        OR "user-centered metadata" OR "metadata schema")
+        AND 
+        ("data stori*" OR "interactive visual*" OR "user test*" 
+        OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+    )
+    OR 
+    (
+        ("semantic web" OR "RDF mapping" OR "ontology engineering") 
+        NEAR/5 
+        ("digital humanit*" OR "GLAM sector" OR "historical memory")
+    )
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage")
+AND PY=2015-2025				Date Run: Tue Jun 17 2025 16:33:36 GMT+0200 (Central European Summer Time)		Results: 244
+
+Search: TS=(
+    (
+        ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+        OR "archival discover*" OR "cultural heritage" OR "historical corpus"
+        OR "user-centered metadata" OR "metadata schema")
+        AND 
+        ("data stori*" OR "interactive visual*" OR "user test*" 
+        OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+    )
+    OR 
+    (
+        ("semantic web" OR "RDF mapping" OR "ontology engineering") 
+        NEAR/5 
+        ("digital humanit*" OR "GLAM sector" OR "historical memory")
+    )
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage")
+AND PY=2015-2025 and Hybrid  (OR – Search within topic)				Date Run: Tue Jun 17 2025 16:33:28 GMT+0200 (Central European Summer Time)		Results: 1027887
+
+Search: TS=(
+    (
+        ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+        OR "archival discover*" OR "cultural heritage" OR "historical corpus"
+        OR "user-centered metadata" OR "metadata schema")
+        AND 
+        ("data stori*" OR "interactive visual*" OR "user test*" 
+        OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+    )
+    OR 
+    (
+        ("semantic web" OR "RDF mapping" OR "ontology engineering") 
+        NEAR/5 
+        ("digital humanit*" OR "GLAM sector" OR "historical memory")
+    )
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage")
+AND PY=2015-2025				Date Run: Tue Jun 17 2025 16:31:58 GMT+0200 (Central European Summer Time)		Results: 244
+
+Search: ((TS=((
+    ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+    OR "archival discover*" OR "cultural heritage" OR "historical corpus" 
+    OR "user-centered metadata" OR "metadata schema") 
+    AND 
+    ("data stori*" OR "interactive visual*" OR "user test*" 
+    OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+) 
+OR 
+    (("semantic web" OR "RDF mapping" OR "ontology engineering") 
+    NEAR/5 
+    ("digital humanit*" OR "GLAM sector" OR "historical memory"))
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage" OR "archives")
+AND PY=2015-2025) OR (QMTS=("linked open data")) OR (QMTS=("wikidata")) OR (QMTS=("glam"))) NOT (QMTS=("VR") OR QMTS=("AR"))				Date Run: Tue Jun 17 2025 16:16:54 GMT+0200 (Central European Summer Time)		Results: 3160
+
+Search: TS=((
+    ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+    OR "archival discover*" OR "cultural heritage" OR "historical corpus" 
+    OR "user-centered metadata" OR "metadata schema") 
+    AND 
+    ("data stori*" OR "interactive visual*" OR "user test*" 
+    OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+) 
+OR 
+    (("semantic web" OR "RDF mapping" OR "ontology engineering") 
+    NEAR/5 
+    ("digital humanit*" OR "GLAM sector" OR "historical memory"))
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage")
+AND PY=2015-2025 and Linked Open Data (OR – Search within topic) and Wikidata (OR – Search within topic) and Glam (OR – Search within topic) and Vr (Exclude – Search within topic)				Date Run: Tue Jun 17 2025 16:16:52 GMT+0200 (Central European Summer Time)		Results: 3172
+
+Search: TS=((
+    ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+    OR "archival discover*" OR "cultural heritage" OR "historical corpus" 
+    OR "user-centered metadata" OR "metadata schema") 
+    AND 
+    ("data stori*" OR "interactive visual*" OR "user test*" 
+    OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+) 
+OR 
+    (("semantic web" OR "RDF mapping" OR "ontology engineering") 
+    NEAR/5 
+    ("digital humanit*" OR "GLAM sector" OR "historical memory"))
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage")
+AND PY=2015-2025 and Linked Open Data (OR – Search within topic) and Europeana (OR – Search within topic) and Wikidata (OR – Search within topic) and Glam (OR – Search within topic) and Vr (Exclude – Search within topic)				Date Run: Tue Jun 17 2025 16:16:02 GMT+0200 (Central European Summer Time)		Results: 3403
+
+Search: TS=((
+    ("digital collection*" OR "GLAM metadata" OR "museum informat*" 
+    OR "archival discover*" OR "cultural heritage" OR "historical corpus" 
+    OR "user-centered metadata" OR "metadata schema") 
+    AND 
+    ("data stori*" OR "interactive visual*" OR "user test*" 
+    OR "metadata crosswalk*" OR "FAIR data" OR "linked open data")
+) 
+OR 
+    (("semantic web" OR "RDF mapping" OR "ontology engineering") 
+    NEAR/5 
+    ("digital humanit*" OR "GLAM sector" OR "historical memory"))
+)
+AND TS=("libraries" OR "museums" OR "archives" OR "cultural heritage")
+AND PY=2015-2025				Date Run: Tue Jun 17 2025 16:14:00 GMT+0200 (Central European Summer Time)		Results: 244
+
+Search: TS=(
+    (
+        ("participatory design" OR "co-creation*" OR "user centered design" OR "human centered interaction" OR "social innovation")
+        AND 
+        ("knowledge graph*" OR "CK theory" OR "interaction patterns" OR "usability testing" OR "cognitive load")
+    )
+    OR 
+    (
+        ("metadata usability" OR "cultural heritage metadata" OR "GLAM interoperability")
+        AND 
+        ("knowledge graph*" OR "CK theory" OR "interaction patterns" OR "usability testing" OR "cognitive load")
+    )
+)
+AND WC=("Computer Science, Information Systems" OR "Social Sciences, Interdisciplinary" OR "Art")				Date Run: Tue Jun 17 2025 16:04:04 GMT+0200 (Central European Summer Time)		Results: 83
+
+Search: (TS=(
+    ("participatory design" OR "co-creation*" OR "user centered design" 
+    OR "human centered interaction" OR "social innovation")
+    AND 
+    ("knowledge graph*" OR "CK theory" OR "interaction patterns" 
+    OR "usability testing" OR "cognitive load")
+)
+AND WC=("Computer Science, Information Systems" OR "Computer Science, Interdisciplinary Applications" OR "Social Sciences, Interdisciplinary" OR "Art" OR "Arts & Humanities Other Topics")
+AND PY=2015-2025) AND (QMTS=("usability testing")) OR (QMTS=("user-centered design")) OR (QMTS=("user centered design")) OR (QMTS=("heuristic evaluation")) OR (QMTS=("usability evaluation")) OR (QMTS=("participatory design")) OR (QMTS=("interaction design")) OR (QMTS=("knowledge graphs")) OR (QMTS=("prototype")) OR (QMTS=("history*"))				Date Run: Tue Jun 17 2025 15:56:24 GMT+0200 (Central European Summer Time)		Results: 2159915
+
+Search: TS=(
+    ("participatory design" OR "co-creation*" OR "user centered design" 
+    OR "human centered interaction" OR "social innovation")
+    AND 
+    ("knowledge graph*" OR "CK theory" OR "interaction patterns" 
+    OR "usability testing" OR "cognitive load")
+)
+AND WC=("Computer Science, Information Systems" OR "Computer Science, Interdisciplinary Applications" OR "Social Sciences, Interdisciplinary" OR "Art" OR "Arts & Humanities Other Topics")
+AND PY=2015-2025 and Usability Testing (OR – Search within topic) and User-centered Design (OR – Search within topic) and User Centered Design (OR – Search within topic) and Heuristic Evaluation (OR – Search within topic) and Usability Evaluation (OR – Search within topic) and Participatory Design (OR – Search within topic) and Interaction Design (OR – Search within topic) and Knowledge Graphs (OR – Search within topic) and Prototype (OR – Search within topic)				Date Run: Tue Jun 17 2025 15:53:07 GMT+0200 (Central European Summer Time)		Results: 363581
+
+Search: TS=(
+    ("participatory design" OR "co-creation*" OR "user centered design" 
+    OR "human centered interaction" OR "social innovation")
+    AND 
+    ("knowledge graph*" OR "CK theory" OR "interaction patterns" 
+    OR "usability testing" OR "cognitive load")
+)
+AND WC=("Computer Science, Information Systems" OR "Computer Science, Interdisciplinary Applications" OR "Social Sciences, Interdisciplinary" OR "Art" OR "Arts & Humanities Other Topics")
+AND PY=2015-2025				Date Run: Tue Jun 17 2025 15:42:28 GMT+0200 (Central European Summer Time)		Results: 106

@@ -1,7 +1,14 @@
 [
-  "obsidian-day-planner",
-  "obsidian-tasks-plugin",
   "dataview",
   "markwhen",
-  "github-sync"
+  "obsidian-markmind",
+  "omnisearch",
+  "tag-wrangler",
+  "obsidian-style-settings",
+  "highlightr-plugin",
+  "obsidian-checklist-plugin",
+  "text-extractor",
+  "pdf-plus",
+  "onyx-boox-extractor",
+  "calendar"
 ]

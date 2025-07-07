@@ -11,10 +11,10 @@
             "id": "8e32f24a4588b082",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -46,7 +46,7 @@
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -147,6 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e32f24a4588b082",
-  "lastOpenFiles": []
+  "active": "d28365d8e617aba8",
+  "lastOpenFiles": [
+    "Scopus - Document details - Literature analysis.md",
+    "PDF/Towards Harnessing Large Language Models as Autonomous Agents for Semantic Triple Extraction from Unstructured Tex.pdf",
+    "Welcome to FrameNet! _ fndrupal.md",
+    "Scopus - Document details - Content Analysis of References_ Adjunct or Alternative to Citation Counting_.md",
+    "Heurísticos estéticos para el diseño_ determinantes cognitivos y socio-culturales _ Kepes.md",
+    "Usability Evaluation of a Knowledge Graph–Based Dementia Care Intelligent Recommender System Mixed Methods Study.md",
+    "Heurísticos estéticos para el diseño_ determinantes perceptuales y estándares absolutos de belleza _ Kepes.md",
+    "Scientometrics - an overview _ ScienceDirect Topics.md",
+    "Human-Centered Design to Address Biases in Artificial Intelligence - PMC.md",
+    "Navigating the landscape of AI literacy education_ insights from a decade of research (2014–2024) - Humanities and Social Sciences Communications.md"
+  ]
 }

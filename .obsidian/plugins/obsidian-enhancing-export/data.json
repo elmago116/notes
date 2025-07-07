@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "name": "Markdown",
+      "arguments": ""
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF"
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    }
+  ],
+  "defaultExportDirectoryMode": "Custom",
+  "openExportedFile": false,
+  "env": {},
+  "showExportProgressBar": true,
+  "customDefaultExportDirectory": {
+    "darwin": "/Users/elenagomez/Library/Mobile Documents/iCloud~md~obsidian/Documents/Exported"
+  },
+  "lastEditName": "Markdown"
+}

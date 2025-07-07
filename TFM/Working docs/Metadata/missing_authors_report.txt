@@ -1,0 +1,95 @@
+MISSING AUTHORS ANALYSIS REPORT
+==================================================
+
+FILE: metadataScopus1.ris
+Total records: 473
+Records without authors: 2 (0.4%)
+
+Sample records without authors:
+  [223] CONF (2022)
+    Title: 2022 1st International Conference on Software Engineering and Information Technology, ICoSEIT 2022
+    DOI: No DOI
+
+  [334] CONF (2019)
+    Title: Proceedings - 2019 IEEE International Professional Communication Conference, ProComm 2019
+    DOI: No DOI
+
+----------------------------------------
+
+FILE: metadataScopus2.ris
+Total records: 1411
+Records without authors: 25 (1.8%)
+
+Sample records without authors:
+  [185] CONF (2024)
+    Title: Proceedings of the 2024 7th International Conference on Computer Information Science and Artificial ...
+    DOI: No DOI
+
+  [192] CONF (2024)
+    Title: HT 2024: Creative Intelligence - 35th ACM Conference on Hypertext and Social Media
+    DOI: No DOI
+
+  [304] CONF (2024)
+    Title: 2024 3rd International Conference on Artificial Intelligence, Internet of Things and Cloud Computing...
+    DOI: No DOI
+
+  [336] CONF (2024)
+    Title: DCMI 2024 - Metadata Innovation: Trust, Transformation, and Humanity
+    DOI: No DOI
+
+  [342] CONF (2024)
+    Title: Proceedings - 2024 International Conference on Advances in Electrical Engineering and Computer Appli...
+    DOI: No DOI
+
+  [425] CONF (2023)
+    Title: ICISDM 2023 - 7th International Conference on Information System and Data Mining
+    DOI: No DOI
+
+  [539] CONF (2023)
+    Title: Proceedings - 2023 IEEE/ACM 20th International Conference on Mining Software Repositories, MSR 2023
+    DOI: No DOI
+
+  [605] JOUR (2022)
+    Title: Research on Interdisciplinary Knowledge Discovery Based on Knowledge Graph to Support Scientific Res...
+    DOI: 10.16353/j.cnki.1000-7490.2022.11.002
+
+  [673] CONF (2022)
+    Title: ICSIE 2022 - 2022 11th International Conference on Software and Information Engineering
+    DOI: No DOI
+
+  [691] CONF (2022)
+    Title: JCDL 2022 - Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2022
+    DOI: No DOI
+
+----------------------------------------
+
+FILE: metadataScopus3.ris
+Total records: 214
+Records without authors: 0 (0.0%)
+
+----------------------------------------
+
+FILE: metadataWoS1.ris
+Total records: 105
+Records without authors: 0 (0.0%)
+
+----------------------------------------
+
+FILE: metadataWoS1+.ris
+Total records: 82
+Records without authors: 0 (0.0%)
+
+----------------------------------------
+
+FILE: metadataWoS2.ris
+Total records: 132
+Records without authors: 0 (0.0%)
+
+----------------------------------------
+
+FILE: metadataWoS3.ris
+Total records: 243
+Records without authors: 0 (0.0%)
+
+----------------------------------------
+

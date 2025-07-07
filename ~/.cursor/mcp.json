@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "drawio": {
+      "command": "/opt/homebrew/bin/node",
+      "args": [
+        "/opt/homebrew/bin/npx",
+        "-y",
+        "drawio-mcp-server"
+      ]
+    }
+  }
+} 

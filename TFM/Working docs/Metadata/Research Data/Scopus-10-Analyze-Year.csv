@@ -1,0 +1,19 @@
+﻿Scopus-10-Analyze-Year
+
+"Your query : (TITLE-ABS-KEY( (""participatory design"" OR ""co-creation*"" OR ""user centered design"" OR ""human centered interaction"" OR ""social innovation"") AND (""knowledge graph*"" OR ""CK theory"" OR ""interaction patterns"" OR ""usability testing"" OR ""cognitive load""))AND SUBJAREA(COMP OR SOCI OR ARTS)AND PUBYEAR > 2014)"
+
+
+Number of results : 10
+
+"YEAR",
+"2025","48"
+"2024","77"
+"2023","67"
+"2022","55"
+"2021","41"
+"2020","42"
+"2019","51"
+"2018","28"
+"2017","27"
+"2016","19"
+"2015","19"

@@ -1,0 +1,873 @@
+@prefix : <http://HerStory.org/censura#> .
+# Should we add the website of the Database? 
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# ===================================================================
+# CENSURA ONTOLOGY - Literary Censorship During Spanish Civil War
+# ===================================================================
+
+<http://HerStory.org/censura> a owl:Ontology ;
+    dc:title "CensuraOnt - Literary Censorship Ontology"@en ,
+             "CensuraOnt - Ontología de Censura Literaria"@es ,
+             "CensuraOnt - Ontologia de Censura Literària"@ca ;
+    dc:description "Ontology representing the literary censorship system during the Spanish Civil War period, including books, authors, censors, and administrative processes."@en ,
+                   "Ontología que representa el sistema de censura literaria durante el período de la Guerra Civil Española, incluyendo libros, autores, censores y procesos administrativos."@es ,
+                   "Ontologia que representa el sistema de censura literària durant el període de la Guerra Civil Espanyola, incloent llibres, autors, censors i processos administratius."@ca ;
+    dc:creator "HerStory Project - University of Barcelona" ;
+    dcterms:created "2025-01-15"^^xsd:date ;
+    dcterms:modified "2025-01-15"^^xsd:date ;
+    dcterms:publisher "University of Barcelona - Faculty of Information and Audiovisual Media" ;
+    dcterms:subject "Literary Censorship", "Spanish Civil War", "Cultural Heritage", "Digital Humanities" ;
+    dcterms:type "Ontology" ;
+    dcterms:language "en", "es", "ca" ;
+    dcterms:rights "Creative Commons Attribution 4.0 International" ;
+    dcterms:source "Historical Archives of Literary Censorship - Generalitat de Catalunya" ;
+    dcterms:coverage "Spain, 1936-1975" ;
+    dcterms:identifier "http://HerStory.org/censura" ;
+    owl:versionInfo "1.0" ;
+    rdfs:seeAlso <https://cultura.cercador.cultura.gencat.cat/> .
+
+# ===================================================================
+# CLASSES - Main Entities
+# ===================================================================
+
+# Core Entities
+:Autor a owl:Class ;
+    rdfs:label "Author"@en, "Autor"@es, "Autor"@ca ;
+    rdfs:comment "Person who writes or has written literary works subject to censorship review."@en .
+
+:LibrosPresentados a owl:Class ;
+    rdfs:label "Presented Books"@en, "Libros Presentados"@es, "Llibres Presentats"@ca ;
+    rdfs:comment "Books submitted for censorship review before publication or importation."@en .
+
+:LibrosPublicados a owl:Class ;
+    rdfs:label "Published Books"@en, "Libros Publicados"@es, "Llibres Publicats"@ca ;
+    rdfs:comment "Books that have been published and may be subject to post-publication review."@en .
+
+:Expedientes a owl:Class ;
+    rdfs:label "Files"@en, "Expedientes"@es, "Expedients"@ca ;
+    rdfs:comment "Administrative files containing documentation related to censorship cases."@en .
+
+:SolicitudesDeImportacion a owl:Class ;
+    rdfs:label "Import Requests"@en, "Solicitudes de Importación"@es, "Sol·licituds d'Importació"@ca ;
+    rdfs:comment "Formal requests for importing books or publications from abroad."@en .
+
+:Importadores a owl:Class ;
+    rdfs:label "Importers"@en, "Importadores"@es, "Importadors"@ca ;
+    rdfs:comment "Individuals or organizations requesting to import books or publications."@en .
+
+:Lectores a owl:Class ;
+    rdfs:label "Censors"@en, "Lectores"@es, "Lectors"@ca ;
+    rdfs:comment "Official censors responsible for reviewing and evaluating literary works."@en .
+
+:InformesLectores a owl:Class ;
+    rdfs:label "Censor Reports"@en, "Informes de Lectores"@es, "Informes de Lectors"@ca ;
+    rdfs:comment "Official reports written by censors evaluating literary works."@en .
+
+:Editores a owl:Class ;
+    rdfs:label "Publishers"@en, "Editores"@es, "Editors"@ca ;
+    rdfs:comment "Publishing houses or individuals responsible for publishing books."@en .
+
+:ProveedoresPapel a owl:Class ;
+    rdfs:label "Paper Suppliers"@en, "Proveedores de Papel"@es, "Proveïdors de Paper"@ca ;
+    rdfs:comment "Suppliers providing paper materials for book printing and publication."@en .
+
+# Supporting Entities
+:Coleccion a owl:Class ;
+    rdfs:label "Collection"@en, "Colección"@es, "Col·lecció"@ca ;
+    rdfs:comment "Thematic or systematic grouping of books or publications."@en .
+
+:Idioma a owl:Class ;
+    rdfs:label "Language"@en, "Idioma"@es, "Idioma"@ca ;
+    rdfs:comment "Language in which a book or publication is written."@en .
+
+:TachadurasEnmiendas a owl:Class ;
+    rdfs:label "Strikethroughs and Amendments"@en, "Tachaduras y Enmiendas"@es, "Ratlles i Esmenes"@ca ;
+    rdfs:comment "Editorial marks and corrections made by censors in reviewed texts."@en .
+
+:FirmasLectores a owl:Class ;
+    rdfs:label "Censor Signatures"@en, "Firmas de Lectores"@es, "Signatures de Lectors"@ca ;
+    rdfs:comment "Official signatures of censors on reviewed documents."@en .
+
+# External Reference Entities
+:OtrasBasesDatos a owl:Class ;
+    rdfs:label "Other Databases"@en, "Otras Bases de Datos"@es, "Altres Bases de Dades"@ca ;
+    rdfs:comment "References to external databases containing related information."@en .
+
+:TextoCompleto a owl:Class ;
+    rdfs:label "Full Text"@en, "Texto Completo"@es, "Text Complet"@ca ;
+    rdfs:comment "Complete textual content of books or documents."@en .
+
+# ===================================================================
+# DATATYPE PROPERTIES - Attributes
+# ===================================================================
+
+# Autor Properties
+:tituloNombreAutor a owl:DatatypeProperty ;
+    rdfs:label "Author Name/Title"@en, "Nombre/Título del Autor"@es, "Nom/Títol de l'Autor"@ca ;
+    rdfs:domain :Autor ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Full name and title of the author."@en, "Nombre completo y título del autor."@es, "Nom complet i títol de l'autor."@ca .
+
+:generoAutor a owl:DatatypeProperty ;
+    rdfs:label "Author Gender"@en, "Género del Autor"@es, "Gènere de l'Autor"@ca ;
+    rdfs:domain :Autor ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Gender of the author."@en, "Género del autor."@es, "Gènere de l'autor."@ca .
+
+:registroEscritoPor a owl:DatatypeProperty ;
+    rdfs:label "Record Written By"@en, "Registro Escrito Por"@es, "Registre Escrit Per"@ca ;
+    rdfs:domain :Autor ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Person who created the author record."@en, "Persona que creó el registro del autor."@es, "Persona que va crear el registre de l'autor."@ca .
+
+:fechaRegistro a owl:DatatypeProperty ;
+    rdfs:label "Registration Date"@en, "Fecha de Registro"@es, "Data de Registre"@ca ;
+    rdfs:domain :Autor ;
+    rdfs:range xsd:date ;
+    rdfs:comment "Date when the author record was created."@en, "Fecha cuando se creó el registro del autor."@es, "Data quan es va crear el registre de l'autor."@ca .
+
+:aliasURL a owl:DatatypeProperty ;
+    rdfs:label "URL Alias"@en, "Alias de URL"@es, "Àlies d'URL"@ca ;
+    rdfs:domain :Autor ;
+    rdfs:range xsd:string ;
+    rdfs:comment "URL identifier or alias for the author."@en, "Identificador URL o alias para el autor."@es, "Identificador URL o àlies per a l'autor."@ca .
+
+# Book Properties (Common)
+:titulo a owl:DatatypeProperty ;
+    rdfs:label "Title"@en, "Título"@es, "Títol"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Title of the book or publication."@en ;
+    rdfs:subPropertyOf dcterms:title .
+
+:tituloUniforme a owl:DatatypeProperty ;
+    rdfs:label "Uniform Title"@en, "Título Uniforme"@es, "Títol Uniforme"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Standardized title for cataloging purposes."@en ;
+    rdfs:subPropertyOf dcterms:title .
+
+:autorCitado a owl:DatatypeProperty ;
+    rdfs:label "Cited Author"@en, "Autor Citado"@es, "Autor Citat"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Author as cited in the work."@en ;
+    rdfs:subPropertyOf dcterms:creator .
+
+:contribuidorCitado a owl:DatatypeProperty ;
+    rdfs:label "Cited Contributor"@en, "Contribuidor Citado"@es, "Contribuïdor Citat"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Contributor as cited in the work."@en ;
+    rdfs:subPropertyOf dcterms:contributor .
+
+# Published Books Specific Properties
+:semaAs a owl:DatatypeProperty ;
+    rdfs:label "Sema As"@en, "Sema Como"@es, "Sema Com"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Semantic classification field."@en, "Campo de clasificación semántica."@es, "Camp de classificació semàntica."@ca .
+
+:textoEnlace a owl:DatatypeProperty ;
+    rdfs:label "Link Text"@en, "Texto del Enlace"@es, "Text de l'Enllaç"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Descriptive text for hyperlinks."@en, "Texto descriptivo para hipervínculos."@es, "Text descriptiu per a hiperenllaços."@ca .
+
+:numeroControlBNE a owl:DatatypeProperty ;
+    rdfs:label "BNE Control Number"@en, "Número de Control BNE"@es, "Número de Control BNE"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Biblioteca Nacional de España control number."@en ;
+    rdfs:subPropertyOf dcterms:identifier .
+
+:numeroCopyrightDL a owl:DatatypeProperty ;
+    rdfs:label "Copyright/Legal Deposit Number"@en, "Número de Copyright/Depósito Legal"@es, "Número de Copyright/Dipòsit Legal"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Copyright or legal deposit identification number."@en ;
+    rdfs:subPropertyOf dcterms:identifier .
+
+:puntoAccesoPrincipal a owl:DatatypeProperty ;
+    rdfs:label "Main Access Point"@en, "Punto de Acceso Principal"@es, "Punt d'Accés Principal"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Primary bibliographic access point."@en, "Punto de acceso bibliográfico principal."@es, "Punt d'accés bibliogràfic principal."@ca .
+
+:mencionTitulo a owl:DatatypeProperty ;
+    rdfs:label "Title Statement"@en, "Mención de Título"@es, "Menció de Títol"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Bibliographic title statement."@en, "Mención bibliográfica del título."@es, "Menció bibliogràfica del títol."@ca .
+
+:publicacionDistribucion a owl:DatatypeProperty ;
+    rdfs:label "Publication/Distribution"@en, "Publicación/Distribución"@es, "Publicació/Distribució"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Publication and distribution information."@en ;
+    rdfs:subPropertyOf dcterms:publisher .
+
+:mencionSerie a owl:DatatypeProperty ;
+    rdfs:label "Series Statement"@en, "Mención de Serie"@es, "Menció de Sèrie"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Information about the series to which the publication belongs."@en .
+
+:encabezamientoMateria a owl:DatatypeProperty ;
+    rdfs:label "Subject Heading"@en, "Encabezamiento de Materia"@es, "Encapçalament de Matèria"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Subject classification or topic heading."@en ;
+    rdfs:subPropertyOf dcterms:subject .
+
+:puntoAccesoAdicional a owl:DatatypeProperty ;
+    rdfs:label "Additional Access Point"@en, "Punto de Acceso Adicional"@es, "Punt d'Accés Addicional"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Secondary bibliographic access point."@en, "Punto de acceso bibliográfico secundario."@es, "Punt d'accés bibliogràfic secundari."@ca .
+
+:informacionObraBD a owl:DatatypeProperty ;
+    rdfs:label "Work Information in Other Databases"@en, "Información de la Obra en Otras Bases de Datos"@es, "Informació de l'Obra en Altres Bases de Dades"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range xsd:string ;
+    rdfs:comment "References to the work in external databases."@en, "Referencias a la obra en bases de datos externas."@es, "Referències a l'obra en bases de dades externes."@ca .
+
+# Expedientes Properties
+:tituloExpediente a owl:DatatypeProperty ;
+    rdfs:label "File Title"@en, "Título del Expediente"@es, "Títol de l'Expedient"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Title of the administrative file."@en, "Título del expediente administrativo."@es, "Títol de l'expedient administratiu."@ca .
+
+:resolucion a owl:DatatypeProperty ;
+    rdfs:label "Resolution"@en, "Resolución"@es, "Resolució"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Final resolution or decision of the file."@en, "Resolución o decisión final del expediente."@es, "Resolució o decisió final de l'expedient."@ca .
+
+:identificadorAHA a owl:DatatypeProperty ;
+    rdfs:label "AHA Identifier"@en, "Identificador AHA"@es, "Identificador AHA"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Archive Historical identifier for file location."@en ;
+    rdfs:subPropertyOf dcterms:identifier .
+
+:estadoExpediente a owl:DatatypeProperty ;
+    rdfs:label "File Status"@en, "Estado del Expediente"@es, "Estat de l'Expedient"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Current status of the administrative file."@en, "Estado actual del expediente administrativo."@es, "Estat actual de l'expedient administratiu."@ca .
+
+:localizacionFisica a owl:DatatypeProperty ;
+    rdfs:label "Physical Location"@en, "Localización Física"@es, "Localització Física"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Physical location where the file is stored."@en, "Ubicación física donde se almacena el expediente."@es, "Ubicació física on s'emmagatzema l'expedient."@ca .
+
+:contenidoExpediente a owl:DatatypeProperty ;
+    rdfs:label "File Content"@en, "Contenido del Expediente"@es, "Contingut de l'Expedient"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Description of the file contents."@en, "Descripción del contenido del expediente."@es, "Descripció del contingut de l'expedient."@ca .
+
+:fechasExtremas a owl:DatatypeProperty ;
+    rdfs:label "Extreme Dates"@en, "Fechas Extremas"@es, "Dates Extremes"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Earliest and latest dates in the file."@en, "Fechas más tempranas y más tardías del expediente."@es, "Dates més primerenques i més tardanes de l'expedient."@ca .
+
+:observacionesProyecto a owl:DatatypeProperty ;
+    rdfs:label "Project Observations"@en, "Observaciones del Proyecto"@es, "Observacions del Projecte"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Observations made by project team members."@en, "Observaciones realizadas por miembros del equipo del proyecto."@es, "Observacions fetes per membres de l'equip del projecte."@ca .
+
+:observacionesUsuarios a owl:DatatypeProperty ;
+    rdfs:label "User Observations"@en, "Observaciones de Usuarios"@es, "Observacions d'Usuaris"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Observations made by project users."@en, "Observaciones realizadas por usuarios del proyecto."@es, "Observacions fetes per usuaris del projecte."@ca .
+
+:fechaEntrada a owl:DatatypeProperty ;
+    rdfs:label "Entry Date"@en, "Fecha de Entrada"@es, "Data d'Entrada"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:date ;
+    rdfs:comment "Date when the file entered the system."@en ;
+    rdfs:subPropertyOf dcterms:date .
+
+:fechaSalida a owl:DatatypeProperty ;
+    rdfs:label "Exit Date"@en, "Fecha de Salida"@es, "Data de Sortida"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range xsd:date ;
+    rdfs:comment "Date when the file exited the system."@en ;
+    rdfs:subPropertyOf dcterms:date .
+
+:url a owl:DatatypeProperty ;
+    rdfs:label "URL"@en, "URL"@es, "URL"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:anyURI ;
+    rdfs:comment "Web address or uniform resource locator."@en, "Dirección web o localizador uniforme de recursos."@es, "Adreça web o localitzador uniforme de recursos."@ca .
+
+# Import Request Properties
+:paisOrigen a owl:DatatypeProperty ;
+    rdfs:label "Country of Origin"@en, "País de Origen"@es, "País d'Origen"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Geographic origin of the imported publication."@en ;
+    rdfs:subPropertyOf dcterms:spatial .
+
+:cantidadImportar a owl:DatatypeProperty ;
+    rdfs:label "Import Quantity"@en, "Cantidad a Importar"@es, "Quantitat a Importar"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Quantity of items requested for import."@en, "Cantidad de elementos solicitados para importación."@es, "Quantitat d'elements sol·licitats per a importació."@ca .
+
+:cantidadImportarEstado a owl:DatatypeProperty ;
+    rdfs:label "Import Quantity Status"@en, "Estado de Cantidad a Importar"@es, "Estat de Quantitat a Importar"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of the import quantity information."@en, "Estado de la información de cantidad a importar."@es, "Estat de la informació de quantitat a importar."@ca .
+
+:tirada a owl:DatatypeProperty ;
+    rdfs:label "Print Run"@en, "Tirada"@es, "Tirada"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Number of copies printed."@en, "Número de copias impresas."@es, "Nombre de còpies impreses."@ca .
+
+:caracterPublicacion a owl:DatatypeProperty ;
+    rdfs:label "Publication Character"@en, "Carácter de la Publicación"@es, "Caràcter de la Publicació"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Nature or type of the publication."@en, "Naturaleza o tipo de la publicación."@es, "Naturalesa o tipus de la publicació."@ca .
+
+:caracterPublicacionEstado a owl:DatatypeProperty ;
+    rdfs:label "Publication Character Status"@en, "Estado del Carácter de Publicación"@es, "Estat del Caràcter de Publicació"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of publication character information."@en, "Estado de la información del carácter de publicación."@es, "Estat de la informació del caràcter de publicació."@ca .
+
+:clasePapel a owl:DatatypeProperty ;
+    rdfs:label "Paper Class"@en, "Clase de Papel"@es, "Classe de Paper"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Type or quality class of paper used."@en, "Tipo o clase de calidad del papel utilizado."@es, "Tipus o classe de qualitat del paper utilitzat."@ca .
+
+:clasePapelEstado a owl:DatatypeProperty ;
+    rdfs:label "Paper Class Status"@en, "Estado de Clase de Papel"@es, "Estat de Classe de Paper"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of paper class information."@en, "Estado de la información de clase de papel."@es, "Estat de la informació de classe de paper."@ca .
+
+:formato a owl:DatatypeProperty ;
+    rdfs:label "Format"@en, "Formato"@es, "Format"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Physical format of the publication."@en, "Formato físico de la publicación."@es, "Format físic de la publicació."@ca .
+
+:formatoEstado a owl:DatatypeProperty ;
+    rdfs:label "Format Status"@en, "Estado del Formato"@es, "Estat del Format"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of format information."@en, "Estado de la información del formato."@es, "Estat de la informació del format."@ca .
+
+:medidaPapel a owl:DatatypeProperty ;
+    rdfs:label "Paper Measurement"@en, "Medida de Papel"@es, "Mesura de Paper"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Physical dimensions of the paper."@en, "Dimensiones físicas del papel."@es, "Dimensions físiques del paper."@ca .
+
+:medidaPapelEstado a owl:DatatypeProperty ;
+    rdfs:label "Paper Measurement Status"@en, "Estado de Medida de Papel"@es, "Estat de Mesura de Paper"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of paper measurement information."@en, "Estado de la información de medida de papel."@es, "Estat de la informació de mesura de paper."@ca .
+
+:pesoPapel a owl:DatatypeProperty ;
+    rdfs:label "Paper Weight"@en, "Peso de Papel"@es, "Pes de Paper"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Weight specification of the paper."@en, "Especificación del peso del papel."@es, "Especificació del pes del paper."@ca .
+
+:pesoPapelEstado a owl:DatatypeProperty ;
+    rdfs:label "Paper Weight Status"@en, "Estado de Peso de Papel"@es, "Estat de Pes de Paper"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of paper weight information."@en, "Estado de la información del peso del papel."@es, "Estat de la informació del pes del paper."@ca .
+
+:precioVenta a owl:DatatypeProperty ;
+    rdfs:label "Sale Price"@en, "Precio de Venta"@es, "Preu de Venda"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Proposed sale price of the publication."@en, "Precio de venta propuesto de la publicación."@es, "Preu de venda proposat de la publicació."@ca .
+
+:precioVentaEstado a owl:DatatypeProperty ;
+    rdfs:label "Sale Price Status"@en, "Estado de Precio de Venta"@es, "Estat de Preu de Venda"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of sale price information."@en, "Estado de la información del precio de venta."@es, "Estat de la informació del preu de venda."@ca .
+
+:rangoPrecio a owl:DatatypeProperty ;
+    rdfs:label "Price Range"@en, "Rango de Precio"@es, "Rang de Preu"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Price range for the publication."@en, "Rango de precios para la publicación."@es, "Rang de preus per a la publicació."@ca .
+
+:volumenesPaginas a owl:DatatypeProperty ;
+    rdfs:label "Volumes and Pages"@en, "Volúmenes y Páginas"@es, "Volums i Pàgines"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Number of volumes and pages in the publication."@en, "Número de volúmenes y páginas de la publicación."@es, "Nombre de volums i pàgines de la publicació."@ca .
+
+:volumenesPaginasEstado a owl:DatatypeProperty ;
+    rdfs:label "Volumes and Pages Status"@en, "Estado de Volúmenes y Páginas"@es, "Estat de Volums i Pàgines"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of volumes and pages information."@en, "Estado de la información de volúmenes y páginas."@es, "Estat de la informació de volums i pàgines."@ca .
+
+:motaPolitico a owl:DatatypeProperty ;
+    rdfs:label "Political Note"@en, "Nota Política"@es, "Nota Política"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Political evaluation or note about the content."@en, "Evaluación o nota política sobre el contenido."@es, "Avaluació o nota política sobre el contingut."@ca .
+
+:motaPoliticoEstado a owl:DatatypeProperty ;
+    rdfs:label "Political Note Status"@en, "Estado de Nota Política"@es, "Estat de Nota Política"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of political note information."@en, "Estado de la información de nota política."@es, "Estat de la informació de nota política."@ca .
+
+:selLectorMotaPolitico a owl:DatatypeProperty ;
+    rdfs:label "Reader Selection Political Note"@en, "Selección de Lector Nota Política"@es, "Selecció de Lector Nota Política"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Censor selection based on political evaluation."@en, "Selección de censor basada en evaluación política."@es, "Selecció de censor basada en avaluació política."@ca .
+
+# Importer Properties
+:nombreImportador a owl:DatatypeProperty ;
+    rdfs:label "Importer Name"@en, "Nombre del Importador"@es, "Nom de l'Importador"@ca ;
+    rdfs:domain :Importadores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the person or organization importing."@en, "Nombre de la persona u organización que importa."@es, "Nom de la persona o organització que importa."@ca .
+
+:nombreImportadorEstado a owl:DatatypeProperty ;
+    rdfs:label "Importer Name Status"@en, "Estado del Nombre del Importador"@es, "Estat del Nom de l'Importador"@ca ;
+    rdfs:domain :Importadores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of importer name information."@en, "Estado de la información del nombre del importador."@es, "Estat de la informació del nom de l'importador."@ca .
+
+:fecha a owl:DatatypeProperty ;
+    rdfs:label "Date"@en, "Fecha"@es, "Data"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:date ;
+    rdfs:comment "General date property."@en, "Propiedad general de fecha."@es, "Propietat general de data."@ca ;
+    rdfs:subPropertyOf dcterms:date .
+
+:informacionProveedorBD a owl:DatatypeProperty ;
+    rdfs:label "Supplier Information in Other Databases"@en, "Información del Proveedor en Otras Bases de Datos"@es, "Informació del Proveïdor en Altres Bases de Dades"@ca ;
+    rdfs:domain :Importadores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "References to the supplier in external databases."@en, "Referencias al proveedor en bases de datos externas."@es, "Referències al proveïdor en bases de dades externes."@ca .
+
+:genero a owl:DatatypeProperty ;
+    rdfs:label "Gender"@en, "Género"@es, "Gènere"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Gender information."@en, "Información de género."@es, "Informació de gènere."@ca .
+
+# Censor Properties
+:nombreLector a owl:DatatypeProperty ;
+    rdfs:label "Censor Name"@en, "Nombre del Lector"@es, "Nom del Lector"@ca ;
+    rdfs:domain :Lectores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the official censor."@en, "Nombre del censor oficial."@es, "Nom del censor oficial."@ca .
+
+:nombreLectorEstado a owl:DatatypeProperty ;
+    rdfs:label "Censor Name Status"@en, "Estado del Nombre del Lector"@es, "Estat del Nom del Lector"@ca ;
+    rdfs:domain :Lectores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of censor name information."@en, "Estado de la información del nombre del censor."@es, "Estat de la informació del nom del censor."@ca .
+
+:tipoLector a owl:DatatypeProperty ;
+    rdfs:label "Censor Type"@en, "Tipo de Lector"@es, "Tipus de Lector"@ca ;
+    rdfs:domain :Lectores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Type or category of censor (civil, ecclesiastical, military)."@en, "Tipo o categoría de censor (civil, eclesiástico, militar)."@es, "Tipus o categoria de censor (civil, eclesiàstic, militar)."@ca .
+
+:nombreLectorResuelto a owl:DatatypeProperty ;
+    rdfs:label "Resolved Censor Name"@en, "Nombre del Lector Resuelto"@es, "Nom del Lector Resolt"@ca ;
+    rdfs:domain :Lectores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Resolved or clarified name of the censor."@en, "Nombre resuelto o aclarado del censor."@es, "Nom resolt o aclarit del censor."@ca .
+
+:informacionLectorBD a owl:DatatypeProperty ;
+    rdfs:label "Censor Information in Other Databases"@en, "Información del Lector en Otras Bases de Datos"@es, "Informació del Lector en Altres Bases de Dades"@ca ;
+    rdfs:domain :Lectores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "References to the censor in external databases."@en, "Referencias al censor en bases de datos externas."@es, "Referències al censor en bases de dades externes."@ca .
+
+# General Properties
+:nombre a owl:DatatypeProperty ;
+    rdfs:label "Name"@en, "Nombre"@es, "Nom"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "General name property."@en, "Propiedad general de nombre."@es, "Propietat general de nom."@ca .
+
+:informacion a owl:DatatypeProperty ;
+    rdfs:label "Information"@en, "Información"@es, "Informació"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string ;
+    rdfs:comment "General information property."@en, "Propiedad general de información."@es, "Propietat general d'informació."@ca .
+
+:referencia a owl:DatatypeProperty ;
+    rdfs:label "Reference"@en, "Referencia"@es, "Referència"@ca ;
+    rdfs:domain :TachadurasEnmiendas ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Reference to amendments or strikethroughs."@en, "Referencia a enmiendas o tachaduras."@es, "Referència a esmenes o ratlles."@ca .
+
+:fechaFirma a owl:DatatypeProperty ;
+    rdfs:label "Signature Date"@en, "Fecha de Firma"@es, "Data de Signatura"@ca ;
+    rdfs:domain :FirmasLectores ;
+    rdfs:range xsd:date ;
+    rdfs:comment "Date when the censor signed the document."@en ;
+    rdfs:subPropertyOf dcterms:date .
+
+:nombreColeccion a owl:DatatypeProperty ;
+    rdfs:label "Collection Name"@en, "Nombre de la Colección"@es, "Nom de la Col·lecció"@ca ;
+    rdfs:domain :Coleccion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the collection."@en, "Nombre de la colección."@es, "Nom de la col·lecció."@ca .
+
+:coleccionWebVoces a owl:DatatypeProperty ;
+    rdfs:label "Voices Web Collection"@en, "Colección Web Voces"@es, "Col·lecció Web Veus"@ca ;
+    rdfs:domain :Coleccion ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Reference to voices web collection."@en, "Referencia a la colección web de voces."@es, "Referència a la col·lecció web de veus."@ca .
+
+:nombreIdioma a owl:DatatypeProperty ;
+    rdfs:label "Language Name"@en, "Nombre del Idioma"@es, "Nom de l'Idioma"@ca ;
+    rdfs:domain :Idioma ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the language."@en ;
+    rdfs:subPropertyOf dcterms:language .
+
+:nombreEditor a owl:DatatypeProperty ;
+    rdfs:label "Publisher Name"@en, "Nombre del Editor"@es, "Nom de l'Editor"@ca ;
+    rdfs:domain :Editores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the publisher."@en, "Nombre del editor."@es, "Nom de l'editor."@ca .
+
+:nombreEditorEstado a owl:DatatypeProperty ;
+    rdfs:label "Publisher Name Status"@en, "Estado del Nombre del Editor"@es, "Estat del Nom de l'Editor"@ca ;
+    rdfs:domain :Editores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of publisher name information."@en, "Estado de la información del nombre del editor."@es, "Estat de la informació del nom de l'editor."@ca .
+
+:informacionEditorBD a owl:DatatypeProperty ;
+    rdfs:label "Publisher Information in Other Databases"@en, "Información del Editor en Otras Bases de Datos"@es, "Informació de l'Editor en Altres Bases de Dades"@ca ;
+    rdfs:domain :Editores ;
+    rdfs:range xsd:string ;
+    rdfs:comment "References to the publisher in external databases."@en, "Referencias al editor en bases de datos externas."@es, "Referències a l'editor en bases de dades externes."@ca .
+
+:nombreProveedor a owl:DatatypeProperty ;
+    rdfs:label "Supplier Name"@en, "Nombre del Proveedor"@es, "Nom del Proveïdor"@ca ;
+    rdfs:domain :ProveedoresPapel ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the supplier."@en, "Nombre del proveedor."@es, "Nom del proveïdor."@ca .
+
+:nombreProveedorPapel a owl:DatatypeProperty ;
+    rdfs:label "Paper Supplier Name"@en, "Nombre del Proveedor de Papel"@es, "Nom del Proveïdor de Paper"@ca ;
+    rdfs:domain :ProveedoresPapel ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the paper supplier."@en, "Nombre del proveedor de papel."@es, "Nom del proveïdor de paper."@ca .
+
+:nombreProveedorPapelEstado a owl:DatatypeProperty ;
+    rdfs:label "Paper Supplier Name Status"@en, "Estado del Nombre del Proveedor de Papel"@es, "Estat del Nom del Proveïdor de Paper"@ca ;
+    rdfs:domain :ProveedoresPapel ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Status of paper supplier name information."@en, "Estado de la información del nombre del proveedor de papel."@es, "Estat de la informació del nom del proveïdor de paper."@ca .
+
+:informacionEditorOtrasBDD a owl:DatatypeProperty ;
+    rdfs:label "Publisher Information in Other Databases"@en, "Información del Editor en Otras Bases de Datos"@es, "Informació de l'Editor en Altres Bases de Dades"@ca ;
+    rdfs:domain :ProveedoresPapel ;
+    rdfs:range xsd:string ;
+    rdfs:comment "References to the publisher in external databases."@en, "Referencias al editor en bases de datos externas."@es, "Referències a l'editor en bases de dades externes."@ca .
+
+# ===================================================================
+# OBJECT PROPERTIES - Relationships
+# ===================================================================
+
+# Author-Book Relationships
+:presenta a owl:ObjectProperty ;
+    rdfs:label "presents"@en, "presenta"@es, "presenta"@ca ;
+    rdfs:domain :Autor ;
+    rdfs:range :LibrosPresentados ;
+    rdfs:comment "Relationship between author and books they presented for review."@en, "Relación entre autor y libros que presentó para revisión."@es, "Relació entre autor i llibres que va presentar per a revisió."@ca ;
+    owl:inverseOf :esPresentadoPor .
+
+:esPresentadoPor a owl:ObjectProperty ;
+    rdfs:label "is presented by"@en, "es presentado por"@es, "és presentat per"@ca ;
+    rdfs:domain :LibrosPresentados ;
+    rdfs:range :Autor ;
+    owl:inverseOf :presenta .
+
+:publica a owl:ObjectProperty ;
+    rdfs:label "publishes"@en, "publica"@es, "publica"@ca ;
+    rdfs:domain :Autor ;
+    rdfs:range :LibrosPublicados ;
+    rdfs:comment "Relationship between author and their published books."@en, "Relación entre autor y sus libros publicados."@es, "Relació entre autor i els seus llibres publicats."@ca ;
+    owl:inverseOf :esPublicadoPor .
+
+:esPublicadoPor a owl:ObjectProperty ;
+    rdfs:label "is published by"@en, "es publicado por"@es, "és publicat per"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range :Autor ;
+    owl:inverseOf :publica .
+
+# Book-External Resource Relationships
+:referenciadoEn a owl:ObjectProperty ;
+    rdfs:label "referenced in"@en, "referenciado en"@es, "referenciat en"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range :OtrasBasesDatos ;
+    rdfs:comment "Relationship to external database references."@en, "Relación con referencias de bases de datos externas."@es, "Relació amb referències de bases de dades externes."@ca .
+
+:tiene a owl:ObjectProperty ;
+    rdfs:label "has"@en, "tiene"@es, "té"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range owl:Thing ;
+    rdfs:comment "General possession relationship."@en, "Relación general de posesión."@es, "Relació general de possessió."@ca .
+
+:tieneTextoCompleto a owl:ObjectProperty ;
+    rdfs:label "has full text"@en, "tiene texto completo"@es, "té text complet"@ca ;
+    rdfs:domain :LibrosPublicados ;
+    rdfs:range :TextoCompleto ;
+    rdfs:subPropertyOf :tiene .
+
+# Language Relationships
+:estaEn a owl:ObjectProperty ;
+    rdfs:label "is in"@en, "está en"@es, "està en"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range :Idioma ;
+    rdfs:comment "Relationship indicating the language of a work."@en, "Relación que indica el idioma de una obra."@es, "Relació que indica l'idioma d'una obra."@ca ;
+    owl:inverseOf :define .
+
+:define a owl:ObjectProperty ;
+    rdfs:label "defines"@en, "define"@es, "defineix"@ca ;
+    rdfs:domain :Idioma ;
+    rdfs:range owl:Thing ;
+    owl:inverseOf :estaEn .
+
+# File-Content Relationships
+:contiene a owl:ObjectProperty ;
+    rdfs:label "contains"@en, "contiene"@es, "conté"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range owl:Thing ;
+    rdfs:comment "Relationship between files and their contents."@en, "Relación entre expedientes y su contenido."@es, "Relació entre expedients i el seu contingut."@ca .
+
+:contieneLibroPresentado a owl:ObjectProperty ;
+    rdfs:label "contains presented book"@en, "contiene libro presentado"@es, "conté llibre presentat"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range :LibrosPresentados ;
+    rdfs:subPropertyOf :contiene .
+
+:contieneLibroPublicado a owl:ObjectProperty ;
+    rdfs:label "contains published book"@en, "contiene libro publicado"@es, "conté llibre publicat"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range :LibrosPublicados ;
+    rdfs:subPropertyOf :contiene .
+
+# Import-Related Relationships
+:relacionadoCon a owl:ObjectProperty ;
+    rdfs:label "related to"@en, "relacionado con"@es, "relacionat amb"@ca ;
+    rdfs:domain owl:Thing ;
+    rdfs:range owl:Thing ;
+    rdfs:comment "General relationship indicating association."@en, "Relación general que indica asociación."@es, "Relació general que indica associació."@ca .
+
+:relacionadoConExpediente a owl:ObjectProperty ;
+    rdfs:label "related to file"@en, "relacionado con expediente"@es, "relacionat amb expedient"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :Expedientes ;
+    rdfs:subPropertyOf :relacionadoCon .
+
+:solicitadoPor a owl:ObjectProperty ;
+    rdfs:label "requested by"@en, "solicitado por"@es, "sol·licitat per"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :Importadores ;
+    rdfs:comment "Relationship between import request and importer."@en, "Relación entre solicitud de importación e importador."@es, "Relació entre sol·licitud d'importació i importador."@ca ;
+    owl:inverseOf :solicita .
+
+:solicita a owl:ObjectProperty ;
+    rdfs:label "requests"@en, "solicita"@es, "sol·licita"@ca ;
+    rdfs:domain :Importadores ;
+    rdfs:range :SolicitudesDeImportacion ;
+    owl:inverseOf :solicitadoPor .
+
+# Censor-Report Relationships
+:tieneInforme a owl:ObjectProperty ;
+    rdfs:label "has report"@en, "tiene informe"@es, "té informe"@ca ;
+    rdfs:domain :Expedientes ;
+    rdfs:range :InformesLectores ;
+    rdfs:subPropertyOf :tiene .
+
+:tieneTachadura a owl:ObjectProperty ;
+    rdfs:label "has strikethrough"@en, "tiene tachadura"@es, "té ratlla"@ca ;
+    rdfs:domain :InformesLectores ;
+    rdfs:range :TachadurasEnmiendas ;
+    rdfs:subPropertyOf :tiene .
+
+:esCompuestoPor a owl:ObjectProperty ;
+    rdfs:label "is composed by"@en, "es compuesto por"@es, "és compost per"@ca ;
+    rdfs:domain :InformesLectores ;
+    rdfs:range :Lectores ;
+    rdfs:comment "Relationship between report and its author censor."@en, "Relación entre informe y su censor autor."@es, "Relació entre informe i el seu censor autor."@ca ;
+    owl:inverseOf :esEscritoPor .
+
+:esEscritoPor a owl:ObjectProperty ;
+    rdfs:label "is written by"@en, "es escrito por"@es, "és escrit per"@ca ;
+    rdfs:domain :InformesLectores ;
+    rdfs:range :Lectores ;
+    owl:inverseOf :esCompuestoPor .
+
+:firma a owl:ObjectProperty ;
+    rdfs:label "signs"@en, "firma"@es, "signa"@ca ;
+    rdfs:domain :Lectores ;
+    rdfs:range :FirmasLectores ;
+    rdfs:comment "Relationship between censor and their signatures."@en, "Relación entre censor y sus firmas."@es, "Relació entre censor i les seves signatures."@ca .
+
+# Collection Relationships
+:perteneceA a owl:ObjectProperty ;
+    rdfs:label "belongs to"@en, "pertenece a"@es, "pertany a"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :Coleccion ;
+    rdfs:comment "Relationship indicating collection membership."@en, "Relación que indica pertenencia a colección."@es, "Relació que indica pertinença a col·lecció."@ca ;
+    owl:inverseOf :agrupa .
+
+:agrupa a owl:ObjectProperty ;
+    rdfs:label "groups"@en, "agrupa"@es, "agrupa"@ca ;
+    rdfs:domain :Coleccion ;
+    rdfs:range :SolicitudesDeImportacion ;
+    owl:inverseOf :perteneceA .
+
+# Publisher Relationships
+:relacionadoConEditor a owl:ObjectProperty ;
+    rdfs:label "related to publisher"@en, "relacionado con editor"@es, "relacionat amb editor"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :Editores ;
+    rdfs:subPropertyOf :relacionadoCon .
+
+:relacionadoConProveedor a owl:ObjectProperty ;
+    rdfs:label "related to supplier"@en, "relacionado con proveedor"@es, "relacionat amb proveïdor"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :ProveedoresPapel ;
+    rdfs:subPropertyOf :relacionadoCon .
+
+# Publication Relationships
+:publicadoEn a owl:ObjectProperty ;
+    rdfs:label "published in"@en, "publicado en"@es, "publicat en"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :Idioma ;
+    rdfs:comment "Language in which something is published."@en, "Idioma en el que se publica algo."@es, "Idioma en què es publica alguna cosa."@ca .
+
+:publicadoPor a owl:ObjectProperty ;
+    rdfs:label "published by"@en, "publicado por"@es, "publicat per"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :Editores ;
+    rdfs:comment "Publisher responsible for publication."@en, "Editor responsable de la publicación."@es, "Editor responsable de la publicació."@ca ;
+    owl:inverseOf :publicaImportacion .
+
+:publicaImportacion a owl:ObjectProperty ;
+    rdfs:label "publishes import"@en, "publica importación"@es, "publica importació"@ca ;
+    rdfs:domain :Editores ;
+    rdfs:range :SolicitudesDeImportacion ;
+    owl:inverseOf :publicadoPor .
+
+:proveidoPor a owl:ObjectProperty ;
+    rdfs:label "supplied by"@en, "proveído por"@es, "proveït per"@ca ;
+    rdfs:domain :SolicitudesDeImportacion ;
+    rdfs:range :ProveedoresPapel ;
+    rdfs:comment "Supplier providing materials."@en, "Proveedor que suministra materiales."@es, "Proveïdor que subministra materials."@ca ;
+    owl:inverseOf :provee .
+
+:provee a owl:ObjectProperty ;
+    rdfs:label "supplies"@en, "provee"@es, "proveeix"@ca ;
+    rdfs:domain :ProveedoresPapel ;
+    rdfs:range :SolicitudesDeImportacion ;
+    owl:inverseOf :proveidoPor .
+
+# ===================================================================
+# PROPERTY RESTRICTIONS AND AXIOMS
+# ===================================================================
+
+# Class Restrictions
+:Autor rdfs:subClassOf [
+    a owl:Restriction ;
+    owl:onProperty :tituloNombreAutor ;
+    owl:someValuesFrom xsd:string
+] .
+
+:LibrosPresentados rdfs:subClassOf [
+    a owl:Restriction ;
+    owl:onProperty :titulo ;
+    owl:someValuesFrom xsd:string
+] .
+
+:Expedientes rdfs:subClassOf [
+    a owl:Restriction ;
+    owl:onProperty :tituloExpediente ;
+    owl:someValuesFrom xsd:string
+] .
+
+:InformesLectores rdfs:subClassOf [
+    a owl:Restriction ;
+    owl:onProperty :esEscritoPor ;
+    owl:someValuesFrom :Lectores
+] .
+
+# ===================================================================
+# INVERSE PROPERTY DECLARATIONS
+# ===================================================================
+
+:presenta owl:inverseOf :esPresentadoPor .
+:publica owl:inverseOf :esPublicadoPor .
+:estaEn owl:inverseOf :define .
+:solicitadoPor owl:inverseOf :solicita .
+:esCompuestoPor owl:inverseOf :esEscritoPor .
+:perteneceA owl:inverseOf :agrupa .
+:publicadoPor owl:inverseOf :publicaImportacion .
+:proveidoPor owl:inverseOf :provee .
+
+# ===================================================================
+# ANNOTATION PROPERTIES
+# ===================================================================
+
+# Dublin Core Elements
+dc:title a owl:AnnotationProperty .
+dc:description a owl:AnnotationProperty .
+dc:creator a owl:AnnotationProperty .
+
+# Dublin Core Terms
+dcterms:created a owl:AnnotationProperty .
+dcterms:modified a owl:AnnotationProperty .
+dcterms:publisher a owl:AnnotationProperty .
+dcterms:subject a owl:AnnotationProperty .
+dcterms:type a owl:AnnotationProperty .
+dcterms:language a owl:AnnotationProperty .
+dcterms:rights a owl:AnnotationProperty .
+dcterms:source a owl:AnnotationProperty .
+dcterms:coverage a owl:AnnotationProperty .
+dcterms:identifier a owl:AnnotationProperty .
+dcterms:title a owl:AnnotationProperty .
+dcterms:contributor a owl:AnnotationProperty .
+dcterms:date a owl:AnnotationProperty .
+dcterms:spatial a owl:AnnotationProperty . 
+
+# ===================================================================
+# Tasks
+# ===================================================================
+
+#Revisar las maneras en las que una ontología se puede integrar también con wikidata properties

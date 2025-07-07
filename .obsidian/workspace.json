@@ -1,86 +1,161 @@
 {
   "main": {
-    "id": "746b6cc0df4b0531",
+    "id": "aecda0967f14b7b3",
     "type": "split",
     "children": [
       {
-        "id": "0c9857da08fef385",
+        "id": "3c9a8a32120e67d6",
         "type": "tabs",
         "children": [
           {
-            "id": "12422896db0c1d31",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ea9621be40bf809f",
+            "id": "480fedc0d2b8df4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TFM meetings/Reunión 2 TFM.md",
+                "file": "TFM/Working docs/Borrador de estructura TFM.md",
                 "mode": "source",
-                "source": false
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Reunión 2 TFM"
+              "title": "Borrador de estructura TFM"
             }
           },
           {
-            "id": "f8ad8f6d9ebbda02",
+            "id": "9ce8d54aeb7c4f26",
             "type": "leaf",
             "state": {
-              "type": "markwhen-view",
+              "type": "markdown",
               "state": {
-                "file": "TFM/CronogramaTFM.mw.mw",
+                "file": "TFM/notas de ai and search engines/Cursor hasta 26 de junio:25.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "markwhen-icon",
-              "title": "CronogramaTFM.mw.mw"
+              "icon": "lucide-file",
+              "title": "Cursor hasta 26 de junio:25"
+            }
+          },
+          {
+            "id": "098c0a4f118943c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Home _ CIDOC CRM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home _ CIDOC CRM"
+            }
+          },
+          {
+            "id": "f0d1e0f487187037",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Clippings/PDF/!!Scoping Review on Research at the Boundary Between Learning and Working- A Bibliometric Mapping Analysis of the Last Decade.pdf",
+                "page": 2,
+                "left": -19,
+                "top": 430,
+                "zoom": 0.7798903365833665
+              },
+              "icon": "lucide-file-text",
+              "title": "!!Scoping Review on Research at the Boundary Between Learning and Working- A Bibliometric Mapping Analysis of the Last Decade"
+            }
+          },
+          {
+            "id": "7c5d837f4eb80325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TFM/Working docs/Knowledge Graphs in GLAM + Participatory Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Knowledge Graphs in GLAM + Participatory Design"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "60fe2e73ef0526c2",
+    "id": "960007711617b128",
     "type": "split",
     "children": [
       {
-        "id": "9b6b130c0657812f",
+        "id": "f2f63c721d612485",
         "type": "tabs",
         "children": [
           {
-            "id": "6647cead64bb6a24",
+            "id": "67563fc522aa123e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "b3ff1dd7f7144981",
+            "id": "1abd6eb07ae4d245",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ensayo",
+                "query": "tag:#Tech/UCC",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -89,7 +164,7 @@
             }
           },
           {
-            "id": "ccfa826139507d8b",
+            "id": "374b2abca49b94bb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -103,58 +178,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "right": {
-    "id": "4427b3866d7460ec",
+    "id": "d43307540e3e32c7",
     "type": "split",
     "children": [
       {
-        "id": "78ffb9795d873a9e",
+        "id": "4a84afa02f3527e4",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a3f8236d6cb228",
+            "id": "dec3bfebe6cd33d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repositorios/Pàgina principal  Sidbrint.md",
-                "collapseAll": false,
+                "file": "TFM/Working docs/Planeación de la TFM/DCMI - Call for application.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pàgina principal  Sidbrint"
+              "title": "Backlinks for DCMI - Call for application"
             }
           },
           {
-            "id": "61a6c5151747b377",
+            "id": "2d01ed3c400c2dc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repositorios/Pàgina principal  Sidbrint.md",
+                "file": "TFM/Planeación de la TFM/Cronograma TFM.mw.mw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pàgina principal  Sidbrint"
+              "title": "Outgoing links from Cronograma TFM.mw"
             }
           },
           {
-            "id": "14f6dad50b49c603",
+            "id": "8119dc6e64a9cab1",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -162,71 +237,125 @@
             }
           },
           {
-            "id": "a53bd9edc2da740b",
+            "id": "5daa985f7e252d8c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repositorios/Pàgina principal  Sidbrint.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "TFM/Working docs/Knowledge Graphs in GLAM + Participatory Design.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pàgina principal  Sidbrint"
+              "title": "Outline of Knowledge Graphs in GLAM + Participatory Design"
             }
           },
           {
-            "id": "6cd088adf8d503ef",
+            "id": "ca3f32cd104d5d2e",
             "type": "leaf",
             "state": {
-              "type": "planner-timeline",
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "b720d91099eff59c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "709392e037b87dec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {},
               "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "markwhen:Create new Markwhen file": false
+      "markwhen:Create new Markwhen file": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "b3ff1dd7f7144981",
+  "active": "7c5d837f4eb80325",
   "lastOpenFiles": [
-    "TFM/Cognitive Science and Phenomenology.md",
-    "Repositorios/HerStory (2024-27) – Women and Wikipedia.md",
-    "Repositorios/Pàgina principal  Sidbrint.md",
-    "TFM meetings/Reunión 2 TFM.md",
-    "TFM/CronogramaTFM.mw.mw",
-    "TFM/Markwhen 3-13-2025 22.21.35.mw",
-    "TFM meetings/Primera reunión TFM.md",
-    "TFM/Markwhen 3-11-2025 11.21.27.mw",
-    "TFM",
-    "TFM meetings/Git",
-    "TFM meetings/Untitled",
-    "TFM meetings/Aprendizajes",
-    "2025-03-07.md",
-    "Repositorios",
-    "Untitled.canvas",
-    "Clippings/\"It's mostly a one-way street, to be honest\" the subjective relevance of public engagement in the science communication of professional university communicators.md",
-    "Clippings",
-    "TFM meetings"
+    "TFM/Working docs/Borrador de estructura TFM.md",
+    "TFM/Working docs/Knowledge Graphs in GLAM + Participatory Design.md",
+    "TFM/Working docs/Knowledge_Graphs_in_GLAM_Context.md",
+    "Clippings/PDF/!!Scoping Review on Research at the Boundary Between Learning and Working- A Bibliometric Mapping Analysis of the Last Decade.pdf",
+    "Clippings/Home _ CIDOC CRM.md",
+    "TFM/notas de ai and search engines/Cursor hasta 26 de junio:25.md",
+    "Clippings/PDF/An approach for detecting, quantifying, and visualizing the evolution of a research field- A practical application to the Fuzzy Sets Theory field.pdf",
+    "borr.md",
+    "Clippings/Data Storytelling on multi-modal knowledge graph via data comics a case study in Yanyuwa language.md",
+    "Clippings/Embedding Experiential Design Knowledge in Interactive Knowledge Graphs.md",
+    "TFM/notas de ai and search engines/2025-04-04.md",
+    "TFM/Working docs/Metodología de la investigación.md",
+    "HerStory/Técnica de inv/UB Knowledge graph - Guía.md",
+    "TFM/Working docs/Metadata/find_overlapping_articles.py",
+    "TFM/Working docs/Planeación de la TFM/Estructura de TFMs.canvas",
+    "HerStory/Publications – Women and Wikipedia.md",
+    "TFM/Working docs/Metadata/extract_participatory_design_articles.py",
+    "TFM/Working docs/IMG/rayones de proceso.png",
+    "TFM/Working docs/IMG/Screenshot 2025-07-03 at 8.11.30 PM.png",
+    "TFM/Working docs/Metadata/extract_glam_kg_articles.py",
+    "TFM/Working docs/Metadata/Normalizados/README.md",
+    "Normalizados/README.md",
+    "Normalizados",
+    "TFM/Working docs/Metadata/Normalizados/metadataWoS3_completo.ris",
+    "TFM/Working docs/Metadata/Normalizados/metadataWoS2_completo.ris",
+    "TFM/Working docs/Metadata/Normalizados/metadataWoS1+_completo.ris",
+    "TFM/Working docs/Metadata/Normalizados/metadataWoS1_completo.ris",
+    "HerStory/Publications to read/Diversitat.md",
+    "TFM/Working docs/Planeación de la TFM/Proceso - borrador - one page proposal.md",
+    "HerStory/Ensayos/Censura description.md",
+    "HerStory/Ensayos/Descripción de SIDBRINT.md",
+    "HerStory/Ensayos/SIDBRINT Description.md",
+    "HerStory/Ensayos/SIDBRINT diagram replica.md",
+    "HerStory/Ensayos/README- version 1 SIDBRNT y V2.md",
+    "TFM/Working docs/Ecuaciones de búsqueda.md",
+    "Clippings/Science mapping software tools_ Review, analysis, and cooperative study among tools.md",
+    "TFM/notas de lecturas/An approach for detecting, quantifying, and visualizing the evolution of a research field - A practical application to the Fuzzy Sets Theory field.md",
+    "TFM/Working docs/Planeación de la TFM/SciMAT process.md",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshgIndex.svg",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentssumCitations.png",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentssumCitations.svg",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentsq2Index.svg",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentsq2Index.png",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshgIndex.png",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshIndex.svg",
+    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshIndex.png"
   ]
 }

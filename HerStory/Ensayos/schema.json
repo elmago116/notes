@@ -1,0 +1,680 @@
+[
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-1",
+    "name": "BRIGADISTES",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-2",
+        "IdBrigadista",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-11",
+        "PaisNaixement",
+        "FK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-32",
+    "name": "PROFESSIONS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-33",
+        "idProfessi\u00f3",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-39",
+    "name": "BRIGADISTES_PROFESSIONS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-40",
+        "idBrigadistesProfessions",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-43",
+        "fk_idProfessio",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-46",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-49",
+    "name": "PA\u00cfSOS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-50",
+        "idPais",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-57",
+    "name": "PROCED\u00c8NCIA, RELIGI\u00d3, \u00c8TNIA",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-58",
+        "idCaracter\u00edstica",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-64",
+        "fkTipusCaracter\u00edstica",
+        "FK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-67",
+    "name": "BRIGADISTES_ETNIA_RELIGIO",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-68",
+        "idBrigadistesEtniaReligio",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-71",
+        "fk_idCaracteristica",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-74",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-77",
+    "name": "TipusCaracteristica",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-78",
+        "idCaracter\u00edstica",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-89",
+    "name": "IDEOLOGIES POL\u00cdTIQUES",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-90",
+        "idideologia",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-96",
+    "name": "BRIGADISTES_IDEOLOGIA",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-97",
+        "idBrigadistesIdeologia",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-100",
+        "fk_idIdeologia",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-103",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-107",
+    "name": "ORGANITZACIONS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-108",
+        "idOrganitzacio",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-114",
+    "name": "BRIGADISTES_ORGANITZACIONS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-115",
+        "idBrigadistesIdeologia",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-118",
+        "fk_idIdeologia",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-121",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-127",
+    "name": "ESCENARIS B\u00c8LICS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-128",
+        "idEscenari",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-134",
+        "fkTipusEscenari",
+        "FK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-149",
+    "name": "BRIGADISTES_ESCENARIS_BEL.LICS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-150",
+        "idBrigadistesEscenarisBelics",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-153",
+        "idEscenariBelic",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-156",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-168",
+    "name": "TIPUS_ESCENARIS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-169",
+        "idEscenari",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-175",
+    "name": "ESDEVENIMENTS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-176",
+        "idEsdeveniment",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-182",
+        "fkTipusEsdeveniment",
+        "FK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-185",
+    "name": "BRIGADISTES_ESDEVENIMENTS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-186",
+        "idBrigadistesEsdeveniments",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-189",
+        "idEsdeveniments",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-192",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-203",
+    "name": "TIPUS_ESDEVENIMENTS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-204",
+        "idEsdeveniments",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-211",
+    "name": "ESCENARIS-ESCENARIS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-212",
+        "idEscenarisEscenaris",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-215",
+        "idEscenari",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-218",
+        "idEscenariRelacionat",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-229",
+    "name": "ESTRUCTURES MILITARS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-230",
+        "idEstructuraMilitar",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-236",
+        "fkTipusEstructura",
+        "FK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-242",
+    "name": "TIPUS_ESTRUCTURES",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-243",
+        "idEstructura",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-250",
+    "name": "BRIGADISTES_ESTRUCTURES",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-251",
+        "idBrigadistesEstructures",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-254",
+        "id Estructura_Militar",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-257",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-270",
+    "name": "LLOCS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-271",
+        "idLloc",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-289",
+        "fk",
+        ""
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-293",
+    "name": "LLOCS - ESCENARIS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-294",
+        "idLlocsEscenaris",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-297",
+        "fkIdLloc",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-300",
+        "fkIdEscenari",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-312",
+    "name": "FONTS DOCUMENTALS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-313",
+        "idFontDocumental",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-343",
+    "name": "FONTS_BRIGADISTES",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-344",
+        "idBrigadistesFont",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-347",
+        "fk_idFont",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-350",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "vtuB2NVLP91sKu8VeDRw-355",
+    "name": "FONTS_FONTS",
+    "columns": [
+      [
+        "vtuB2NVLP91sKu8VeDRw-356",
+        "idFonts",
+        "PK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-359",
+        "fk_idFont",
+        "FK"
+      ],
+      [
+        "vtuB2NVLP91sKu8VeDRw-362",
+        "fk_idEdici\u00f3Font",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "4SGrSOrAQknjRZeTLP4P-3",
+    "name": "IDIOMES",
+    "columns": [
+      [
+        "4SGrSOrAQknjRZeTLP4P-4",
+        "idIdioma",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "4SGrSOrAQknjRZeTLP4P-10",
+    "name": "FONTS_IDIOMES",
+    "columns": [
+      [
+        "4SGrSOrAQknjRZeTLP4P-11",
+        "idFontsIdiomes",
+        "PK"
+      ],
+      [
+        "4SGrSOrAQknjRZeTLP4P-14",
+        "fk_idIdioma",
+        "FK"
+      ],
+      [
+        "4SGrSOrAQknjRZeTLP4P-17",
+        "fk_idFontDocumental",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "1HK-f6Tz1_mOUrmmZKVU-1",
+    "name": "ENFOCAMENTS",
+    "columns": [
+      [
+        "1HK-f6Tz1_mOUrmmZKVU-2",
+        "idEnfocament",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "1HK-f6Tz1_mOUrmmZKVU-8",
+    "name": "FONTS_ENFOCAMENTS",
+    "columns": [
+      [
+        "1HK-f6Tz1_mOUrmmZKVU-9",
+        "idFontsEnfocaments",
+        "PK"
+      ],
+      [
+        "1HK-f6Tz1_mOUrmmZKVU-12",
+        "fk_idEnfocament",
+        "FK"
+      ],
+      [
+        "1HK-f6Tz1_mOUrmmZKVU-15",
+        "fk_idFontDocumental",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "36D-G7aDn68eHZbFQDJ7-1",
+    "name": "LITERATURA_MITJANS_COMUNICACIO",
+    "columns": [
+      [
+        "36D-G7aDn68eHZbFQDJ7-2",
+        "idLiteraturaMitjans",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "36D-G7aDn68eHZbFQDJ7-8",
+    "name": "FONTS_LITERATURA_MITJANS",
+    "columns": [
+      [
+        "36D-G7aDn68eHZbFQDJ7-9",
+        "idFontsLiteraturaMitjans",
+        "PK"
+      ],
+      [
+        "36D-G7aDn68eHZbFQDJ7-12",
+        "fk_idLiteraturaMitjans",
+        "FK"
+      ],
+      [
+        "36D-G7aDn68eHZbFQDJ7-15",
+        "fk_idFontDocumental",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "cbDfpeJhQ1-f0Zf1_yRs-1",
+    "name": "CULTURA",
+    "columns": [
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-2",
+        "idCultura",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "cbDfpeJhQ1-f0Zf1_yRs-8",
+    "name": "FONTS_ CULTURA",
+    "columns": [
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-9",
+        "idFontsCultura",
+        "PK"
+      ],
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-12",
+        "fk_idCultura",
+        "FK"
+      ],
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-15",
+        "fk_idFontDocumental",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "cbDfpeJhQ1-f0Zf1_yRs-19",
+    "name": "TIPUS_DOCUMENTAL",
+    "columns": [
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-20",
+        "idTipusDocumental",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "cbDfpeJhQ1-f0Zf1_yRs-26",
+    "name": "FONTS_TIPUS_DOCUMENTAL",
+    "columns": [
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-27",
+        "idFontsTipusDocumental",
+        "PK"
+      ],
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-30",
+        "fk_idTipusDocumental",
+        "FK"
+      ],
+      [
+        "cbDfpeJhQ1-f0Zf1_yRs-33",
+        "fk_idFontDocumental",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "LS_RzKCGSrW8XBjTLzBF-37",
+    "name": "FONTS_PAIS_EDICIO",
+    "columns": [
+      [
+        "LS_RzKCGSrW8XBjTLzBF-38",
+        "idFonts",
+        "PK"
+      ],
+      [
+        "LS_RzKCGSrW8XBjTLzBF-41",
+        "fk_idPa\u00eds",
+        "FK"
+      ],
+      [
+        "LS_RzKCGSrW8XBjTLzBF-44",
+        "fk_idFontDocumental",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  },
+  {
+    "id": "MxDl0lseni9YVo-IHItu-1",
+    "name": "MOVIMENTS",
+    "columns": [
+      [
+        "MxDl0lseni9YVo-IHItu-2",
+        "idMoviment",
+        "PK"
+      ]
+    ],
+    "is_associative": false
+  },
+  {
+    "id": "MxDl0lseni9YVo-IHItu-8",
+    "name": "BRIGADISTES_MOVIMENTS",
+    "columns": [
+      [
+        "MxDl0lseni9YVo-IHItu-9",
+        "idBrigadistesMoviments",
+        "PK"
+      ],
+      [
+        "MxDl0lseni9YVo-IHItu-12",
+        "fk_idNomMoviment",
+        "FK"
+      ],
+      [
+        "MxDl0lseni9YVo-IHItu-15",
+        "fk_idBrigadista",
+        "FK"
+      ]
+    ],
+    "is_associative": true
+  }
+]
