@@ -12,25 +12,34 @@
 # ===================================================================
 
 <http://HerStory.org/censura> a owl:Ontology ;
-    dc:title "CensuraOnt - Literary Censorship Ontology"@en ,
-             "CensuraOnt - Ontología de Censura Literaria"@es ,
-             "CensuraOnt - Ontologia de Censura Literària"@ca ;
-    dc:description "Ontology representing the literary censorship system during the Spanish Civil War period, including books, authors, censors, and administrative processes."@en ,
-                   "Ontología que representa el sistema de censura literaria durante el período de la Guerra Civil Española, incluyendo libros, autores, censores y procesos administrativos."@es ,
-                   "Ontologia que representa el sistema de censura literària durant el període de la Guerra Civil Espanyola, incloent llibres, autors, censors i processos administratius."@ca ;
-    dc:creator "HerStory Project - University of Barcelona" ;
-    dcterms:created "2025-01-15"^^xsd:date ;
+    dc:title "CensuraOnt - Literary Censorship Ontology (Cultura/Censura Database)"@en ,
+             "CensuraOnt - Ontología de Censura Literaria (Base de Datos Cultura/Censura)"@es ,
+             "CensuraOnt - Ontologia de Censura Literària (Base de Dades Cultura/Censura)"@ca ;
+    dc:description "Ontology representing the literary censorship system during the Francoist period, with focus on Russian and Eastern European literature reception and translation. Based on the Cultura/Censura database from the CeLRu project."@en ,
+                   "Ontología que representa el sistema de censura literaria durante el período franquista, con foco en la recepción y traducción de literatura rusa y de Europa Oriental. Basada en la base de datos Cultura/Censura del proyecto CeLRu."@es ,
+                   "Ontologia que representa el sistema de censura literària durant el període franquista, amb focus en la recepció i traducció de literatura russa i d'Europa Oriental. Basada en la base de dades Cultura/Censura del projecte CeLRu."@ca ;
+    dc:creator "Miquel Centelles Velilla" , "Ivan Garcia Sala" ;
+    dc:contributor "HerStory Project - University of Barcelona" ;
+    dcterms:created "2021-09-01"^^xsd:date ;
     dcterms:modified "2025-01-15"^^xsd:date ;
     dcterms:publisher "University of Barcelona - Faculty of Information and Audiovisual Media" ;
-    dcterms:subject "Literary Censorship", "Spanish Civil War", "Cultural Heritage", "Digital Humanities" ;
+    dcterms:subject "Literary Censorship", "Francoist Spain", "Russian Literature", "Eastern European Literature", "Translation Studies", "Cultural Heritage", "Digital Humanities" ;
     dcterms:type "Ontology" ;
     dcterms:language "en", "es", "ca" ;
     dcterms:rights "Creative Commons Attribution 4.0 International" ;
-    dcterms:source "Historical Archives of Literary Censorship - Generalitat de Catalunya" ;
+    dcterms:source "Archivo General de la Administración Española - Expedientes de censura de libros franquista" , "Biblioteca Nacional Española" ;
     dcterms:coverage "Spain, 1936-1975" ;
     dcterms:identifier "http://HerStory.org/censura" ;
+    dcterms:isPartOf "La censura franquista y la literatura rusa (1936-1966) - CeLRu Project PID2020-116868GB-I00" ;
+    dcterms:rightsHolder "Ivan Garcia Sala (IP de CeLRu)" ;
+    dcterms:audience "Scholars of Francoist censorship and reception/translation of Eastern European literatures" ;
+    dcterms:extent "~4,000 estimated censorship files related to Eastern European literature from ~400,000 total files" ;
+    dcterms:temporal "Database creation: 2021-09-01 / Expected stabilization: 2025-09-01" ;
+    dcterms:provenance "30% of Eastern European files collected, database import recently initiated" ;
+    dcterms:accessRights "Public access via Cultura/Censura website with user email identification" ;
+    dcterms:conformsTo <https://5stardata.info/en/> ;
     owl:versionInfo "1.0" ;
-    rdfs:seeAlso <https://cultura.cercador.cultura.gencat.cat/> .
+    rdfs:seeAlso <https://cultura.cercador.cultura.gencat.cat/> , <http://www.cultura-censura.org/> .
 
 # ===================================================================
 # CLASSES - Main Entities
@@ -867,7 +876,14 @@ dcterms:date a owl:AnnotationProperty .
 dcterms:spatial a owl:AnnotationProperty . 
 
 # ===================================================================
-# Tasks
+# Integration Status
 # ===================================================================
 
-#Revisar las maneras en las que una ontología se puede integrar también con wikidata properties
+# ✅ COMPLETED: Wikidata integration addressed in CensuraWikidataOnt.ttl
+# ✅ COMPLETED: Metadata properties updated with CeLRu project information
+# ✅ COMPLETED: Database documentation integrated from Fitxa_Descripcio_Base_Dades
+
+# Future enhancements:
+# - Add more specific censorship-related properties as Wikidata proposals
+# - Expand temporal coverage beyond 1975 for post-Franco rehabilitation studies
+# - Include comparative censorship studies with other European countries
