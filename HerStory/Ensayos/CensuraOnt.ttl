@@ -41,8 +41,6 @@
     dcterms:accessRights "Public access via Cultura/Censura website with user email identification" ;
     dcterms:conformsTo <https://5stardata.info/en/> ;
     owl:versionInfo "1.1" ;
-    # Wikidata validation compliance
-    rdfs:comment "Semantic accuracy: 94% (validated), SPARQL query success: 89%, Cross-platform integration: 92%"@en ;
     rdfs:seeAlso <https://cultura.cercador.cultura.gencat.cat/> , <http://www.cultura-censura.org/> , <https://www.wikidata.org/wiki/Wikidata:Property_proposal> .
 
 
@@ -882,7 +880,7 @@ dcterms:spatial a owl:AnnotationProperty .
 
 
 # ===================================================================
-# WIKIDATA PROPERTY MAPPINGS - VALIDATED
+# WIKIDATA PROPERTY MAPPINGS
 # ===================================================================
 
 # Author Properties → Wikidata
@@ -945,7 +943,7 @@ dcterms:spatial a owl:AnnotationProperty .
 :relacionadoConProveedor owl:equivalentProperty wdt:P1056 . # product or material produced
 
 # Research Project Metadata → Wikidata
-# Project identification with validated properties
+# Project identification 
 :cultura_censura_project a owl:NamedIndividual ;
     rdfs:label "La censura franquista y la literatura rusa (1936-1966)"@es ;
     # Project metadata mappings
@@ -964,47 +962,3 @@ dcterms:spatial a owl:AnnotationProperty .
     owl:sameAs wdt:P6216 ; # copyright status
     # Qualifiers: P275 (copyright license) for authorization requirements
     rdfs:seeAlso "https://cultura-censura.org/" .
-
-# ===================================================================
-# VALIDATION COMPLIANCE ANNOTATIONS
-# ===================================================================
-
-# Property validation status annotations
-:tituloNombreAutor rdfs:comment "Validation: P1476 verified for title usage, domain-appropriate for person names"@en .
-:autorCitado rdfs:comment "Validation: P50 verified for author relationships, follows Wikidata authorship guidelines"@en .
-:paisOrigen rdfs:comment "Validation: P17 verified for country relationships, geographically constrained"@en .
-:cantidadImportar rdfs:comment "Validation: P1114 verified for quantity data, numerically constrained"@en .
-:identificadorAHA rdfs:comment "Validation: P217 verified for inventory identifiers, archive-appropriate"@en .
-:solicitadoPor rdfs:comment "Validation: P127 verified for ownership relationships, legally appropriate"@en .
-:estaEn rdfs:comment "Validation: P407 verified for language relationships, linguistically constrained"@en .
-:publicadoPor rdfs:comment "Validation: P123 verified for publisher relationships, bibliographically appropriate"@en .
-:tieneInforme rdfs:comment "Validation: P527 verified for part-whole relationships, structurally appropriate"@en .
-:perteneceA rdfs:comment "Validation: P361 verified for collection membership, taxonomically appropriate"@en .
-
-# Validation methodology documentation
-:ValidationMethodology a owl:Class ;
-    rdfs:label "Wikidata Property Validation Methodology"@en ;
-    rdfs:comment "5-step validation process: (1) Property definition verification, (2) Domain appropriateness assessment, (3) Semantic hierarchy validation, (4) Community validation, (5) Integration testing"@en ;
-    rdfs:seeAlso <https://www.wikidata.org/wiki/Wikidata:Property_proposal> .
-
-# ===================================================================
-# VALIDATION METRICS AND COMPLIANCE
-# ===================================================================
-
-# Ontology validation metrics
-:ValidationMetrics a owl:NamedIndividual ;
-    rdfs:label "Ontology Validation Results"@en ;
-    rdfs:comment "Semantic accuracy: 94%, SPARQL query success: 89%, Cross-platform integration: 92%"@en ;
-    # Quantified improvements
-    :semanticAccuracy "94%"^^xsd:string ;
-    :sparqlQuerySuccess "89%"^^xsd:string ;
-    :crossPlatformIntegration "92%"^^xsd:string ;
-    :validationDate "2025-01-15"^^xsd:date ;
-    :validationMethod :ValidationMethodology .
-
-# Property correction tracking
-:PropertyCorrections a owl:NamedIndividual ;
-    rdfs:label "Wikidata Property Corrections Applied"@en ;
-    rdfs:comment "16 semantic misalignments resolved, validation principles implemented"@en ;
-    :correctionsApplied "16"^^xsd:integer ;
-    :validationCompliance "true"^^xsd:boolean .
