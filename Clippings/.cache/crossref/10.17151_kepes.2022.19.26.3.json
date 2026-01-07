@@ -1,0 +1,154 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        28
+      ]
+    ],
+    "date-time": "2022-09-28T05:38:04Z",
+    "timestamp": 1664343484197
+  },
+  "reference-count": 0,
+  "publisher": "Universidad de Caldas",
+  "issue": "26",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "kepes"
+  ],
+  "abstract": "<jats:p>The extraction and formalization of design heuristics used in design is an increasingly important area of research because of their multiple possibilities of application, especially for design practitioners. However, most of the attention has been paid to design heuristics for designing the product's functionality, usability, or architecture, three design tasks where plenty of methods are already successfully used. On the contrary, aesthetic design is an area where intuition is the prevalent method used to seek the generation of aesthetic pleasure for the user. Some methods exist but they are rather of descriptive nature, stating what to do, but without explaining how to do it. To tackle this problem, this paper describes a method to extract and validate a set of 223aesthetic design heuristics obtained from textbooks and scientific literature. These heuristics were validated through the analysis of 50 products winners of design awards; 123 were coincident and 36 new. Out of the 123, 46 heuristics were randomly selected and validated by analyzing the interrater agreement of an experts' survey (n=24). Eighteen aesthetic design heuristics resulted in potentially increasing the users' aesthetic pleasure.</jats:p>",
+  "DOI": "10.17151/kepes.2022.19.26.3",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        27
+      ]
+    ],
+    "date-time": "2022-09-27T16:40:44Z",
+    "timestamp": 1664296844000
+  },
+  "page": "55-98",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Aesthetic heuristics for design: perceptual and absolute standards of beauty determinants"
+  ],
+  "prefix": "10.17151",
+  "volume": "19",
+  "author": [
+    {
+      "given": "Stefany",
+      "family": "Ruiz Córdoba",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Jorge",
+      "family": "Maya",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "6792",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        1
+      ]
+    ]
+  },
+  "container-title": [
+    "Kepes"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://revistasojs.ucaldas.edu.co/index.php/kepes/article/download/7413/6482",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://revistasojs.ucaldas.edu.co/index.php/kepes/article/download/7413/6482",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        27
+      ]
+    ],
+    "date-time": "2022-09-27T16:40:45Z",
+    "timestamp": 1664296845000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://revistasojs.ucaldas.edu.co/index.php/kepes/article/view/7413"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "26",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.17151/kepes.2022.19.26.3",
+  "relation": {},
+  "ISSN": [
+    "2462-8115",
+    "1794-7111"
+  ],
+  "issn-type": [
+    {
+      "value": "2462-8115",
+      "type": "electronic"
+    },
+    {
+      "value": "1794-7111",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        1
+      ]
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        2
+      ]
+    ],
+    "date-time": "2024-06-02T00:17:45Z",
+    "timestamp": 1717287465181
+  },
+  "reference-count": 0,
+  "publisher": "Francis Academic Press Ltd.",
+  "issue": "5",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "AJHSS"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "DOI": "10.25236/ajhss.2024.070522",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        1
+      ]
+    ],
+    "date-time": "2024-06-01T02:18:05Z",
+    "timestamp": 1717208285000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Research on the construction of revolutionary cultural heritage knowledge graph and the application of digital cultural innovation"
+  ],
+  "prefix": "10.25236",
+  "volume": "7",
+  "member": "10869",
+  "published-online": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "container-title": [
+    "Academic Journal of Humanities &amp; Social Sciences"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://francis-press.com/uploads/papers/YyPcNDWqq4J4CQCQ3Q41dsvketoJrJw3gfZHVA1s.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        1
+      ]
+    ],
+    "date-time": "2024-06-01T02:18:37Z",
+    "timestamp": 1717208317000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://francis-press.com/papers/15789"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "5",
+    "published-online": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.25236/ajhss.2024.070522",
+  "relation": {},
+  "ISSN": [
+    "2616-5783"
+  ],
+  "issn-type": [
+    {
+      "value": "2616-5783",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  }
+}

@@ -1,14 +1,23 @@
 ---
 title: "Scopus - Document details - INFLUENCE OF SEMANTIC WEB ON ARCHIVAL SCIENCE"
-source: "https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-85189352023&origin=resultslist&sort=plf-f&src=s&sid=5fa892d65090554201bf43f1963ed85b&sot=a&sdt=a&s=TITLE-ABS-KEY%28+%28+%22participatory+design%22+OR+%22co-creation*%22+OR+%22user+centered+design%22+OR+%22human+centered+design%22+OR+%22human+centered+interaction%22+OR+%22CK+theory%22+OR+%22usability%22+OR+%22UX%22+OR+%22social+innovation%22+%29+AND+%28+%22knowledge+graph*%22+OR+%22semantic+web%22+OR+%22linked+data%22+OR+%22RDF%22+OR+%22ontology+engineering%22+OR+%22semantic+technology%22+OR+%22semantic+data%22+OR+%22semantic+frames%22+OR+%22frame+semantics%22+OR+%22knowledge+organization+system*%22+OR+%22KOS%22+%29+AND+%28+%22cultural+heritage%22+OR+%22GLAM%22+OR+%22GLAM+metadata%22+OR+%22museum*%22+OR+%22archive*%22+OR+%22library%22+OR+%22libraries%22+OR+%22digital+collections%22+OR+%22historical+memory%22+OR+%22historical+corpus%22+OR+%22metadata+crosswalk*%22+OR+%22metadata+schema%22+OR+%22digital+humanities%22+OR+%22polyvocality%22+OR+%22post-colonial+heritage%22+%29%29AND+PUBYEAR+%26gt%3B+2014&sl=754&sessionSearchId=5fa892d65090554201bf43f1963ed85b&relpos=9"
-author:
-  - "[[Sabadin I.]]"
-published:
-created: 2025-06-13
-description: "Elsevier’s Scopus, the largest abstract and citation database of peer-reviewed literature. Search and access research from the science, technology, medicine, social sciences and arts and humanities fields."
+authors:
+  - Sabadin I.
+year: 2007
+type: document
+journal: "Introduction to the Semantic Web and Semantic Web Services"
+doi: 10.1201/9781584889342.ch9
+base: clippings
+source: Manual
 tags:
-  - "Tech/KG/semantic"
+  - Tech/SemanticWeb
+last_enrichment_run: 2025-08-20
+pages: 173-185
+updated: 2025-08-20
+apa_citation: Sabadin I., 2007
 ---
+
+[[Clippings/PDF/Scopus - Document details - INFLUENCE OF SEMANTIC WEB ON ARCHIVAL SCIENCE.pdf]]
+
 [***Atlanti+***](https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-85189352023&origin=resultslist&sort=plf-f&src=s&sid=5fa892d65090554201bf43f1963ed85b&sot=a&sdt=a&s=TITLE-ABS-KEY%28+%28+%22participatory+design%22+OR+%22co-creation*%22+OR+%22user+centered+design%22+OR+%22human+centered+design%22+OR+%22human+centered+interaction%22+OR+%22CK+theory%22+OR+%22usability%22+OR+%22UX%22+OR+%22social+innovation%22+%29+AND+%28+%22knowledge+graph*%22+OR+%22semantic+web%22+OR+%22linked+data%22+OR+%22RDF%22+OR+%22ontology+engineering%22+OR+%22semantic+technology%22+OR+%22semantic+data%22+OR+%22semantic+frames%22+OR+%22frame+semantics%22+OR+%22knowledge+organization+system*%22+OR+%22KOS%22+%29+AND+%28+%22cultural+heritage%22+OR+%22GLAM%22+OR+%22GLAM+metadata%22+OR+%22museum*%22+OR+%22archive*%22+OR+%22library%22+OR+%22libraries%22+OR+%22digital+collections%22+OR+%22historical+memory%22+OR+%22historical+corpus%22+OR+%22metadata+crosswalk*%22+OR+%22metadata+schema%22+OR+%22digital+humanities%22+OR+%22polyvocality%22+OR+%22post-colonial+heritage%22+%29%29AND+PUBYEAR+%26gt%3B+2014&sl=754&sessionSearchId=5fa892d65090554201bf43f1963ed85b&relpos=9#) Volume 33, Issue 2, Pages 39 - 57 2024
 
 - <sup>a</sup> [Send mail to Sabadin I.](https://www-scopus-com.sire.ub.edu/record/);

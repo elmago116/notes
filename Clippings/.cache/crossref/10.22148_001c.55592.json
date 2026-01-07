@@ -1,0 +1,919 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        30
+      ]
+    ],
+    "date-time": "2025-07-30T14:09:14Z",
+    "timestamp": 1753884554296
+  },
+  "reference-count": 85,
+  "publisher": "CA: Journal of Cultural Analytics",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            30
+          ]
+        ],
+        "date-time": "2023-01-30T00:00:00Z",
+        "timestamp": 1675036800000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>Why are the Digital Humanities a genuine part of the Humanities? Attempts are currently being made by arguing that computational methods are at the same time hermeneutic procedures (‘screwmeneutics’, ‘hermenumericals’): computation and hermeneutics were mixed. In criticizing this fusion of ‘literacy’ and ‘numeracy’, it is argued that what really connects the classical Humanities and the Digital Humanities is methodologically based on the ‘cultural technique of flattening’ and not on hermeneutics. The projection of spatial and non-spatial relations onto the artificial flatness of inscribed and illustrated surfaces forms a first-order epistemic and cultural potential in the history of the Humanities: diagrammatic reasoning, the visualizing potential of writings, lists, tables, diagrams, and maps, the sorting function of alphabetically ordered knowledge corpora have always shaped and determined basic scholarly work. It is this ‘diagrammatical’ dimension to which the Digital Humanities are linked to Humanities in general. The metamorphosis of texts, pictures, and music into the surface configurations of machine-analyzable data corpora opens up the possibility of revealing latent and implicit patterns of cultural artifacts, and practices that mostly are not accessible to human perception. The quantifying, computational methods of the Digital Humanities operate like computer-generated microscopes and telescopes into the cultural heritage, ongoing cultural practices, and even the culturally unconscious.</jats:p>",
+  "DOI": "10.22148/001c.55592",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        30
+      ]
+    ],
+    "date-time": "2023-01-30T16:00:37Z",
+    "timestamp": 1675094437000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "Should we really ‘hermeneutise’ the Digital Humanities? A plea for the epistemic productivity of a ‘cultural technique of flattening’ in the Humanities."
+  ],
+  "prefix": "10.22148",
+  "volume": "7",
+  "author": [
+    {
+      "given": "Sybille",
+      "family": "Krämer",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02w2y2t16",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Leuphana University of Lüneburg"
+        }
+      ]
+    }
+  ],
+  "member": "9408",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        30
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1",
+      "isbn-type": "print",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/9780804773256",
+      "article-title": "The Culture of Diagram",
+      "author": "John Bender",
+      "year": "2010",
+      "ISBN": "http://id.crossref.org/isbn/9780804773256"
+    },
+    {
+      "issue": "1",
+      "key": "ref2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1525/rep.2009.108.1.1",
+      "article-title": "Surface Reading. An Introduction",
+      "volume": "108",
+      "author": "Stephen Best",
+      "year": "2009",
+      "journal-title": "Representations"
+    },
+    {
+      "key": "ref3",
+      "first-page": "1",
+      "article-title": "Against Art History",
+      "volume": "3",
+      "author": "Claire Bishop",
+      "year": "2018",
+      "journal-title": "International Journal for Digital Art History"
+    },
+    {
+      "key": "ref4",
+      "first-page": "993",
+      "article-title": "Latent Dirichlet Allocation",
+      "volume": "3",
+      "author": "David M. Blei",
+      "year": "2003",
+      "journal-title": "Journal of Machine Learning Research"
+    },
+    {
+      "issue": "4",
+      "key": "ref5",
+      "doi-asserted-by": "publisher",
+      "first-page": "77",
+      "DOI": "10.1145/2133806.2133826",
+      "article-title": "Probabilistic Topic Models",
+      "volume": "55",
+      "author": "David M. Blei",
+      "year": "2012",
+      "journal-title": "Communications of the ACM",
+      "ISSN": "http://id.crossref.org/issn/0001-0782",
+      "issn-type": "print"
+    },
+    {
+      "article-title": "Die Lesbarkeit der Welt",
+      "year": "1986",
+      "author": "Hans Blumenberg",
+      "key": "ref6"
+    },
+    {
+      "key": "ref7",
+      "series-title": "Die Welt als Text: Theorie, Kritik und Praxis der objektiven Hermeneutik",
+      "article-title": "Das Latente und das Manifeste: Aporien einer Hermeneutik des Verdachts",
+      "author": "Heinz Bude",
+      "year": "1994"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4000/books.oep.679",
+      "article-title": "What is the Text Encoding Initiative?",
+      "author": "Lou Burnard",
+      "year": "2014",
+      "journal-title": "Marseille OpenEdition"
+    },
+    {
+      "issue": "3",
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "first-page": "267",
+      "DOI": "10.1093/llc/17.3.267",
+      "article-title": "'Delta': A Measure of Stylistic Difference and a Guide to Likely Authorship",
+      "volume": "17",
+      "author": "John Burrows",
+      "year": "2002",
+      "journal-title": "Literary and Linguistic Computing",
+      "ISSN": "http://id.crossref.org/issn/0268-1145",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "ref10",
+      "doi-asserted-by": "publisher",
+      "first-page": "25",
+      "DOI": "10.1093/philmat/nkr037",
+      "article-title": "To Diagram, to Demonstrate: To Do, To See, and To Judge in Greek Geometry",
+      "volume": "20",
+      "author": "Philip Catton",
+      "year": "2011",
+      "journal-title": "Philosophia Mathematica",
+      "ISSN": "http://id.crossref.org/issn/0031-8019",
+      "issn-type": "print"
+    },
+    {
+      "key": "ref11",
+      "isbn-type": "print",
+      "article-title": "Figuring Space: Philosophy, Mathematics and Physics",
+      "author": "Gilles Châtelet",
+      "year": "2000",
+      "ISBN": "http://id.crossref.org/isbn/9789048152872"
+    },
+    {
+      "issue": "1",
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "first-page": "121",
+      "DOI": "10.1007/s11229-011-9982-9",
+      "article-title": "Human diagrammatic reasoning and seeing-as",
+      "volume": "186",
+      "author": "Annalisa Coliva",
+      "year": "2011",
+      "journal-title": "Synthese",
+      "ISSN": "http://id.crossref.org/issn/0039-7857",
+      "issn-type": "print"
+    },
+    {
+      "issue": "3",
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "first-page": "601",
+      "DOI": "10.1086/702594",
+      "article-title": "The Computational Case against Computational Literary Studies",
+      "volume": "45",
+      "author": "Nan Z. Da",
+      "year": "2019",
+      "journal-title": "Critical Inquiry",
+      "ISSN": "http://id.crossref.org/issn/0093-1896",
+      "issn-type": "print"
+    },
+    {
+      "key": "ref14",
+      "series-title": "Gesammelte Schriften",
+      "article-title": "Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften",
+      "volume": "7",
+      "author": "Wilhelm Dilthey",
+      "year": "1992"
+    },
+    {
+      "key": "ref15",
+      "series-title": "Topics in the Digital Humanities",
+      "article-title": "Critical Digital Humanities: The Search for a Methodology",
+      "author": "James E. Dobson",
+      "year": "2019"
+    },
+    {
+      "key": "ref16",
+      "series-title": "Literaturwissenschaft und Linguistik. Ergebnisse und Perspektiven",
+      "first-page": "253",
+      "article-title": "Ein Begriffsrahmen für die statistische Stilanalyse",
+      "volume": "1",
+      "author": "Lubomír Doležel",
+      "year": "1971"
+    },
+    {
+      "issue": "2",
+      "key": "ref17",
+      "first-page": "7",
+      "article-title": "Medien und implizites Wissen",
+      "volume": "17",
+      "author": "Christoph Ernst",
+      "year": "2017",
+      "journal-title": "Navigationen"
+    },
+    {
+      "article-title": "Automating Inequality: How High-tech Tools Profile, Police, and Punish the Poor",
+      "year": "2018",
+      "author": "Virginia Eubanks",
+      "key": "ref18"
+    },
+    {
+      "issue": "1",
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "first-page": "2019",
+      "DOI": "10.22148/001c.11830",
+      "article-title": "Is there a text in my data? (Part 1): On counting words",
+      "volume": "9",
+      "author": "Michael Gavin",
+      "year": "2019",
+      "journal-title": "Journal of Cultural Analytics",
+      "ISSN": "http://id.crossref.org/issn/2371-4549",
+      "issn-type": "print"
+    },
+    {
+      "issue": "1",
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1162/neco.1992.4.1.1",
+      "article-title": "Neural networks and the bias/variance dilemma",
+      "volume": "4",
+      "author": "Stuart Geman",
+      "year": "1992",
+      "journal-title": "Neural Computation",
+      "ISSN": "http://id.crossref.org/issn/0899-7667",
+      "issn-type": "print"
+    },
+    {
+      "article-title": "Visual Thinking in Mathematics. An Epistemological Study",
+      "year": "2011",
+      "author": "Marcus Giaquinto",
+      "key": "ref21"
+    },
+    {
+      "key": "ref22",
+      "series-title": "The Power of the Image",
+      "first-page": "23",
+      "article-title": "Diagramming: Connecting Cognitive Systems to Improve Reasoning",
+      "author": "Valeria Giardino",
+      "year": "2014"
+    },
+    {
+      "key": "ref23",
+      "article-title": "What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship",
+      "author": "Andrew Goldstone",
+      "year": "2012",
+      "journal-title": "Journal of Digital Humanities"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "publisher",
+      "first-page": "351",
+      "DOI": "10.1515/9783110538663-016",
+      "article-title": "15. Topic-Modelle und ihr Potenzial für die philologische Forschung",
+      "author": "Gerhard Heyer",
+      "year": "2018",
+      "journal-title": "Digitale Infrastrukturen für die Germanistische Forschung"
+    },
+    {
+      "issue": "3",
+      "key": "ref25",
+      "doi-asserted-by": "publisher",
+      "first-page": "111",
+      "DOI": "10.1093/llc/13.3.111",
+      "article-title": "The Evolution of Stylometry in Humanities Scholarship",
+      "volume": "13",
+      "author": "David I. Holmes",
+      "year": "1998",
+      "journal-title": "Literary and Linguistic Computing",
+      "ISSN": "http://id.crossref.org/issn/0268-1145",
+      "issn-type": "print"
+    },
+    {
+      "key": "ref26",
+      "series-title": "forTEXT",
+      "article-title": "Topic Modeling",
+      "author": "Jan Horstmann",
+      "year": "2018"
+    },
+    {
+      "key": "ref27",
+      "series-title": "forTEXT. Literatur digital erforschen § 5",
+      "article-title": "Stilometrie",
+      "author": "Jan Horstmann",
+      "year": "2018"
+    },
+    {
+      "key": "ref28",
+      "article-title": "Elements of Screenology: Toward an Archaeology of the Screen",
+      "volume": "7",
+      "author": "Erkki Huhtamo",
+      "year": "2004",
+      "journal-title": "Iconics"
+    },
+    {
+      "article-title": "Philosophische Hermeneutik",
+      "year": "1991",
+      "author": "Hans Ineichen",
+      "key": "ref29"
+    },
+    {
+      "key": "ref30",
+      "series-title": "Distant Readings: Topologies of German Culture in the Long Nineteenth Century",
+      "first-page": "29",
+      "article-title": "Burrows’s Delta and Its Use in German Literary History",
+      "author": "Fotis Jannidis",
+      "year": "2014"
+    },
+    {
+      "key": "ref31",
+      "series-title": "Methoden der literatur- und kulturwissenschaftlichen Textanalyse",
+      "doi-asserted-by": "publisher",
+      "first-page": "109",
+      "DOI": "10.1007/978-3-476-00205-1_6",
+      "article-title": "Methoden der computergestützten Textanalyse",
+      "author": "Fotis Jannidis",
+      "year": "2010"
+    },
+    {
+      "key": "ref32",
+      "isbn-type": "print",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-39643-5",
+      "article-title": "Text Analysis with R: For Students of Literature",
+      "author": "Matthew L. Jockers",
+      "year": "2020",
+      "ISBN": "http://id.crossref.org/isbn/9783030396428"
+    },
+    {
+      "article-title": "Roberto Busa, S. J., and the Emergence of Humanities Computing: The Priest and the Punched Cards",
+      "year": "2016",
+      "author": "Steven E. Jones",
+      "key": "ref33"
+    },
+    {
+      "issue": "1",
+      "key": "ref34",
+      "doi-asserted-by": "publisher",
+      "first-page": "100",
+      "DOI": "10.1093/llc/fqv040",
+      "article-title": "The Rowling Case: A Proposed Standard Analytic Protocol for Authorship Questions",
+      "volume": "30",
+      "author": "Patrick Juola",
+      "year": "2015",
+      "journal-title": "Digital Scholarship in The Humanities",
+      "ISSN": "http://id.crossref.org/issn/2055-7671",
+      "issn-type": "print"
+    },
+    {
+      "article-title": "Mechanisms: New Media and the Forensic Imagination",
+      "year": "2008",
+      "author": "Matthew Kirschenbaum",
+      "key": "ref35"
+    },
+    {
+      "article-title": "Digital forensics and born-digital content in cultural heritage collections",
+      "year": "2010",
+      "author": "Matthew Kirschenbaum",
+      "key": "ref36"
+    },
+    {
+      "article-title": "The Remaking of Reading: Data Mining and the Digital Humanities",
+      "year": "2007",
+      "author": "Matthew Kirschenbaum",
+      "key": "ref37"
+    },
+    {
+      "year": "2016",
+      "key": "ref38",
+      "article-title": "Thinking with Diagrams. The Semiotic Basis of Human Cognition"
+    },
+    {
+      "issue": "1",
+      "key": "ref39",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.11588/dco.2018.0",
+      "article-title": "Der ‘Stachel des Digitalen’ – ein Anreiz zur Selbstreflexion in den Geisteswissenschaften? Ein philosophischer Kommentar zu den Digital Humanities in neun Thesen",
+      "volume": "4",
+      "author": "Sybille Krämer",
+      "year": "2018",
+      "journal-title": "Digital Classics Online"
+    },
+    {
+      "year": "2012",
+      "key": "ref40",
+      "article-title": "Schriftbildlichkeit. Wahrnehmbarkeit, Materialität und Operativität von Notationen"
+    },
+    {
+      "article-title": "Figuration, Anschauung, Erkenntnis: Grundlinien einer Diagrammatologie",
+      "year": "2016",
+      "author": "Sybille Krämer",
+      "key": "ref41"
+    },
+    {
+      "issue": "1",
+      "key": "ref42",
+      "article-title": "Flattening As Cultural Technique: Epistemic and Aesthetic Functions of Inscribed Surfaces",
+      "volume": "70",
+      "author": "Sybille Krämer",
+      "year": "2017",
+      "journal-title": "Journal of the American Musicological Society"
+    },
+    {
+      "key": "ref43",
+      "series-title": "Thinking with Diagrams – The Semiotic Basis of Human Cognition",
+      "first-page": "209",
+      "article-title": "Is there a diagrammatical impulse with Plato? ‘Quasi-diagrammatical scenes’ in Plato’s philosophy",
+      "volume": "17",
+      "author": "Sybille Krämer",
+      "year": "2016"
+    },
+    {
+      "key": "ref44",
+      "series-title": "Image, Thought, and the Making of Social Worlds, Freiburger Studien zur Archäologie & Visuellen Kultur 3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.11588/PROPYLAEUM.842.C10813",
+      "article-title": "Reflections on ‘operative iconicity’ and ‘artificial flatness’",
+      "author": "Sybille Krämer",
+      "year": "2021"
+    },
+    {
+      "key": "ref45",
+      "series-title": "Ada Lovelace. Die Pionierin der Computertechnik und ihre Nachfolgerinnen",
+      "doi-asserted-by": "publisher",
+      "first-page": "75",
+      "DOI": "10.30965/9783846759868_007",
+      "article-title": "Wieso gilt Ada Lovelace als die ‚erste Programmiererin‘ und was bedeutet überhaupt ‚programmieren‘?",
+      "author": "Sybille Krämer",
+      "year": "2015"
+    },
+    {
+      "issue": "3",
+      "key": "ref46",
+      "first-page": "518",
+      "article-title": "Writing, Notational Iconicity, Calculus: On Writing as a Cultural Technique",
+      "volume": "118",
+      "author": "Sybille Krämer",
+      "year": "2003",
+      "journal-title": "Modern Languages Notes - German Issue"
+    },
+    {
+      "key": "ref47",
+      "series-title": "Big Data: Das neue Versprechen der Allwissenheit",
+      "first-page": "99",
+      "article-title": "Die digitale Vermessung der Kultur. Geisteswissenschaften als Digital Humanities",
+      "author": "Gerhard Lauer",
+      "year": "2013"
+    },
+    {
+      "issue": "4",
+      "key": "ref48",
+      "doi-asserted-by": "publisher",
+      "first-page": "1914",
+      "DOI": "10.1109/tip.2017.2783626",
+      "article-title": "Robust Virtual Unrolling of Historical Parchment XMT Images",
+      "volume": "27",
+      "author": "Chang Liu",
+      "year": "2018",
+      "journal-title": "IEEE Transactions on Image Processing",
+      "ISSN": "http://id.crossref.org/issn/1057-7149",
+      "issn-type": "print"
+    },
+    {
+      "key": "ref49",
+      "series-title": "Taylor’s Scientific Memoirs",
+      "first-page": "666",
+      "article-title": "Luigi Federico Menabrea, ‘Sketch of the Analytical Engine. Invented by Charles Babbage. With notes by Ada Augusta, Countess of Lovelace",
+      "author": "Ada Augusta Lovelace",
+      "year": "1953"
+    },
+    {
+      "year": "2014",
+      "key": "ref50",
+      "article-title": "Diagramm und Text. Diagrammatische Strukturen und die Dynamisierung von Wissen und Erfahrung"
+    },
+    {
+      "article-title": "Machine Learners. Archaeology of Data Practices",
+      "year": "2017",
+      "author": "Adrian Mackenzie",
+      "key": "ref51"
+    },
+    {
+      "key": "ref52",
+      "series-title": "The Philosophy of Mathematical Practice",
+      "doi-asserted-by": "publisher",
+      "first-page": "80",
+      "DOI": "10.1093/acprof:oso/9780199296453.003.0005",
+      "article-title": "The Euclidean Diagram",
+      "author": "Kenneth Manders",
+      "year": "2008"
+    },
+    {
+      "issue": "2",
+      "key": "ref53",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/135485659900500206",
+      "article-title": "Database as Symbolic Form",
+      "volume": "34",
+      "author": "Lev Manovich",
+      "year": "1999",
+      "journal-title": "Millennium Film Journal",
+      "ISSN": "http://id.crossref.org/issn/1354-8565",
+      "issn-type": "print"
+    },
+    {
+      "issue": "4",
+      "key": "ref54",
+      "doi-asserted-by": "publisher",
+      "first-page": "203",
+      "DOI": "10.1093/llc/8.4.203",
+      "article-title": "Neural computation in stylometry II: An application to the works of Shakespeare and Marlowe",
+      "volume": "8",
+      "author": "Thomas V.N. Merriam",
+      "year": "1993",
+      "journal-title": "Literary and Linguistic Computing",
+      "ISSN": "http://id.crossref.org/issn/0268-1145",
+      "issn-type": "print"
+    },
+    {
+      "article-title": "Poetry, Teaching, and Scholarship: Oral History Transcript; And Related Material, 1977–1980",
+      "year": "1980",
+      "author": "Josephine Miles",
+      "key": "ref55"
+    },
+    {
+      "article-title": "Eras and Modes in English Poetry",
+      "year": "1957",
+      "author": "Josephine Miles",
+      "key": "ref56"
+    },
+    {
+      "article-title": "Major Adjectives in English Poetry: From Wyatt to Auden",
+      "year": "1946",
+      "author": "Josephine Miles",
+      "key": "ref57"
+    },
+    {
+      "article-title": "Pathetic Fallacy in the Nineteenth Century: A Study of a Changing Relation between Object and Emotion",
+      "year": "1942",
+      "author": "Josephine Miles",
+      "key": "ref58"
+    },
+    {
+      "article-title": "Wordsworth and the Vocabulary of Emotion",
+      "year": "1942",
+      "author": "Josephine Miles",
+      "key": "ref59"
+    },
+    {
+      "article-title": "Concordance to the Poetical Works of John Dryden. Assisted Mary Jackman, and Helen S. Agoa. Preface By Josephine Miles",
+      "year": "1957",
+      "author": "Guy Montgomery",
+      "key": "ref60"
+    },
+    {
+      "article-title": "Muster. Theorie der Digitalen Gesellschaft",
+      "year": "2019",
+      "author": "Armin Nassehi",
+      "key": "ref61"
+    },
+    {
+      "issue": "3",
+      "key": "ref62",
+      "first-page": "33",
+      "article-title": "Greek mathematical diagrams: their use and their meaning",
+      "volume": "18",
+      "author": "Reviel Netz",
+      "year": "1998",
+      "journal-title": "For the learning of Mathematics"
+    },
+    {
+      "key": "ref63",
+      "isbn-type": "print",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/j.ctt1pwt9w5",
+      "article-title": "Algorithms of Oppression: How Search Engines Reinforce Racism",
+      "author": "Safiya Umoja Noble",
+      "year": "2018",
+      "ISBN": "http://id.crossref.org/isbn/9781479833641"
+    },
+    {
+      "key": "ref64",
+      "doi-asserted-by": "crossref",
+      "first-page": "335",
+      "DOI": "10.2307/2936018",
+      "article-title": "Platonic Diairesis",
+      "volume": "97",
+      "author": "James A. Philip",
+      "year": "1966",
+      "journal-title": "Transactions and Proceedings of the American Philological Association"
+    },
+    {
+      "key": "ref65",
+      "isbn-type": "print",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7208/chicago/9780226568898.001.0001",
+      "article-title": "Enumerations. Data and Literary Study",
+      "author": "Andrew Piper",
+      "year": "2018",
+      "ISBN": "http://id.crossref.org/isbn/9780226568751"
+    },
+    {
+      "key": "ref66",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.22148/16.006",
+      "article-title": "There Will Be Numbers",
+      "author": "Andrew Piper",
+      "year": "2016",
+      "journal-title": "Journal of Cultural Analytics",
+      "ISSN": "http://id.crossref.org/issn/2371-4549",
+      "issn-type": "print"
+    },
+    {
+      "article-title": "On Historicizing Epistemology: An Essay",
+      "year": "2010",
+      "author": "Hans-Jörg Rheinberger",
+      "key": "ref67"
+    },
+    {
+      "key": "ref68",
+      "first-page": "60",
+      "article-title": "Une interprétation philosophique de Freud",
+      "author": "Paul Ricoeur",
+      "year": "1969",
+      "journal-title": "Le conflit des interpretations"
+    },
+    {
+      "key": "ref69",
+      "series-title": "Handbuch Virtualität",
+      "first-page": "473",
+      "article-title": "Virtual Humanities",
+      "author": "Stefan Rieger",
+      "year": "2020"
+    },
+    {
+      "key": "ref70",
+      "series-title": "Sortieren, Suchen, Spielen: Die Datenbank als mediale Praxis",
+      "first-page": "75",
+      "article-title": "‘Grand Games of Solitaire.’ Textuelle Ordnungen in den Digital Humanities",
+      "author": "Theo Röhle",
+      "year": "2012"
+    },
+    {
+      "issue": "1",
+      "key": "ref71",
+      "doi-asserted-by": "publisher",
+      "first-page": "11901",
+      "DOI": "10.1038/s41598-018-29037-x",
+      "article-title": "Virtual Recovery of Content from X-Ray Micro-Tomography Scans of Damaged Historic Scrolls",
+      "volume": "8",
+      "author": "Paul L. Rosin",
+      "year": "2018",
+      "journal-title": "Scientific Reports",
+      "ISSN": "http://id.crossref.org/issn/2045-2322",
+      "issn-type": "print"
+    },
+    {
+      "issue": "3",
+      "key": "ref72",
+      "doi-asserted-by": "crossref",
+      "first-page": "405",
+      "DOI": "10.1080/10509585.2017.1314673",
+      "article-title": "Counting Wordsworth by the Bay: The Distance of Josephine Miles",
+      "volume": "28",
+      "author": "Christopher Rovee",
+      "year": "2017",
+      "journal-title": "European Romantic Review"
+    },
+    {
+      "issue": "1",
+      "key": "ref73",
+      "article-title": "Search and Replace: Josephine Miles and the Origins of Distant Reading",
+      "volume": "3",
+      "author": "Rachel Sagner Buurma",
+      "year": "2018",
+      "journal-title": "Modernism/modernity"
+    },
+    {
+      "key": "ref74",
+      "first-page": "325",
+      "article-title": "Ein digitales Textformat für die Literaturwissenschaft: Die Richtlinien der Text Encoding Initiative und ihr Einsatz bei Textkonstitution und Textanalyse",
+      "volume": "4",
+      "author": "Christof Schöch",
+      "year": "2016",
+      "journal-title": "Romanische Studien"
+    },
+    {
+      "issue": "4",
+      "key": "ref75",
+      "doi-asserted-by": "publisher",
+      "first-page": "409",
+      "DOI": "10.1093/llc/fqn019",
+      "article-title": "Meaning and mining: The impact of implicit assumptions in data mining for the humanities",
+      "volume": "23",
+      "author": "David Sculley",
+      "year": "2008",
+      "journal-title": "Literary and Linguistic Computing",
+      "ISSN": "http://id.crossref.org/issn/0268-1145",
+      "issn-type": "print"
+    },
+    {
+      "article-title": "The logical status of diagrams",
+      "year": "1994",
+      "author": "Sun-Joo Shin",
+      "key": "ref76"
+    },
+    {
+      "article-title": "Tabula. Figuren der Ordnung um 1600",
+      "year": "2009",
+      "author": "Steffen Siegel",
+      "key": "ref77"
+    },
+    {
+      "article-title": "The Two Cultures and a Second Look: An Expanded Version of the Two Cultures and the Scientific Revolution",
+      "year": "1969",
+      "author": "Charles P. Snow",
+      "key": "ref78"
+    },
+    {
+      "article-title": "Diagrammatology: An investigation on the borderlines of phenomenology, ontology, and semiotics",
+      "year": "2007",
+      "author": "Frederik Stjernfelt",
+      "key": "ref79"
+    },
+    {
+      "article-title": "Real spaces. World Art History and the Rise of Western Modernism",
+      "year": "2003",
+      "author": "David Summers",
+      "key": "ref80"
+    },
+    {
+      "key": "ref81",
+      "series-title": "Quantitative Linguistik: ein internationales Handbuch",
+      "first-page": "387",
+      "article-title": "Statistical models in stylistics and forensic linguistics",
+      "author": "Fiona J. Tweedie",
+      "year": "2005"
+    },
+    {
+      "article-title": "Scholarly Primitives: What methods do humanities researchers have in common, and how might our tools reflect this?",
+      "year": "2000",
+      "author": "John Unsworth",
+      "key": "ref82"
+    },
+    {
+      "issue": "2",
+      "key": "ref83",
+      "doi-asserted-by": "publisher",
+      "first-page": "329",
+      "DOI": "10.1086/704850",
+      "article-title": "Josephine Miles (1911–1985): Doing Digital Humanism with and without Machines",
+      "volume": "4",
+      "author": "Mario Wimmer",
+      "year": "2019",
+      "journal-title": "History of Humanities",
+      "ISSN": "http://id.crossref.org/issn/2379-3163",
+      "issn-type": "print"
+    },
+    {
+      "key": "ref84",
+      "article-title": "Roberto Busa, S. J., and the Invention of the Machine-Generated Concordance",
+      "volume": "70",
+      "author": "Thomas Nelson Winter",
+      "year": "1999",
+      "journal-title": "Faculty Publications. Classics and Religious Studies Department"
+    },
+    {
+      "key": "ref85",
+      "series-title": "A New Companion to Digital Humanities",
+      "first-page": "331",
+      "article-title": "Screwmeneutics and Hermenumericals: The Computationality of Hermeneutics",
+      "author": "Joris J. van Zundert",
+      "year": "2016"
+    }
+  ],
+  "container-title": [
+    "Journal of Cultural Analytics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://culturalanalytics.org/article/55592-should-we-really-hermeneutise-the-digital-humanities-a-plea-for-the-epistemic-productivity-of-a-cultural-technique-of-flattening-in-the-humaniti",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        12
+      ]
+    ],
+    "date-time": "2024-09-12T21:53:57Z",
+    "timestamp": 1726178037000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://culturalanalytics.org/article/55592-should-we-really-hermeneutise-the-digital-humanities-a-plea-for-the-epistemic-productivity-of-a-cultural-technique-of-flattening-in-the-humaniti"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        30
+      ]
+    ]
+  },
+  "references-count": 85,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.22148/001c.55592",
+  "relation": {},
+  "ISSN": [
+    "2371-4549"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2371-4549"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        30
+      ]
+    ]
+  }
+}

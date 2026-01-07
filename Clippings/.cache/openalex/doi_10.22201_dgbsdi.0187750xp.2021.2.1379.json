@@ -1,0 +1,695 @@
+{
+  "id": "https://openalex.org/W4200104623",
+  "doi": "https://doi.org/10.22201/dgbsdi.0187750xp.2021.2.1379",
+  "title": "Diseño metodológico de un proceso de búsqueda y recuperación en fuentes de información",
+  "display_name": "Diseño metodológico de un proceso de búsqueda y recuperación en fuentes de información",
+  "publication_year": 2021,
+  "publication_date": "2021-11-10",
+  "ids": {
+    "openalex": "https://openalex.org/W4200104623",
+    "doi": "https://doi.org/10.22201/dgbsdi.0187750xp.2021.2.1379"
+  },
+  "language": "es",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.22201/dgbsdi.0187750xp.2021.2.1379",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210220679",
+      "display_name": "Biblioteca Universitaria",
+      "issn_l": "0187-750X",
+      "issn": [
+        "0187-750X",
+        "2594-0074"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.22201/dgbsdi.0187750xp.2021.2.1379",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044063537",
+        "display_name": "Shilia Lisset Vargas Echeverría",
+        "orcid": "https://orcid.org/0000-0001-8869-071X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I164915025",
+          "display_name": "Mexican Social Security Institute",
+          "ror": "https://ror.org/03xddgg98",
+          "country_code": "MX",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I164915025"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shilia Lisset Vargas Echeverría",
+      "raw_affiliation_strings": [
+        "Instituto Mexicano del Seguro Social (IMSS)"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Instituto Mexicano del Seguro Social (IMSS)",
+          "institution_ids": [
+            "https://openalex.org/I164915025"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5061653161",
+        "display_name": "Oscar Alberto Flores Escalante",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I164915025",
+          "display_name": "Mexican Social Security Institute",
+          "ror": "https://ror.org/03xddgg98",
+          "country_code": "MX",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I164915025"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Oscar Alberto Flores Escalante",
+      "raw_affiliation_strings": [
+        "Instituto Mexicano del Seguro Social (IMSS)"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Instituto Mexicano del Seguro Social (IMSS)",
+          "institution_ids": [
+            "https://openalex.org/I164915025"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 56
+  },
+  "biblio": {
+    "volume": "24",
+    "issue": "2",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14169",
+    "display_name": "Public Health and Environmental Issues",
+    "score": 0.8921,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2307",
+      "display_name": "Health, Toxicology and Mutagenesis"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14169",
+      "display_name": "Public Health and Environmental Issues",
+      "score": 0.8921,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12413",
+      "display_name": "Health and Medical Education",
+      "score": 0.8798,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14248",
+      "display_name": "Social impacts of COVID-19",
+      "score": 0.8788,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "level": 1,
+      "score": 0.5981827
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.4643811
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.33980387
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.22201/dgbsdi.0187750xp.2021.2.1379",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210220679",
+        "display_name": "Biblioteca Universitaria",
+        "issn_l": "0187-750X",
+        "issn": [
+          "0187-750X",
+          "2594-0074"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.22201/dgbsdi.0187750xp.2021.2.1379",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210220679",
+      "display_name": "Biblioteca Universitaria",
+      "issn_l": "0187-750X",
+      "issn": [
+        "0187-750X",
+        "2594-0074"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.43,
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W93312527",
+    "https://openalex.org/W828925460",
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2603296253",
+    "https://openalex.org/W2557454913",
+    "https://openalex.org/W1589203209",
+    "https://openalex.org/W11365241",
+    "https://openalex.org/W1013667899"
+  ],
+  "abstract_inverted_index": {
+    "El": [
+      0,
+      55,
+      138
+    ],
+    "proceso": [
+      1,
+      8,
+      67
+    ],
+    "de": [
+      2,
+      27,
+      38,
+      43,
+      68,
+      72,
+      74,
+      80,
+      88,
+      101,
+      106,
+      123,
+      135,
+      152
+    ],
+    "búsqueda": [
+      3,
+      69,
+      124
+    ],
+    "y": [
+      4,
+      10,
+      30,
+      41,
+      70,
+      97,
+      125,
+      133
+    ],
+    "recuperación": [
+      5,
+      71
+    ],
+    "es": [
+      6,
+      127
+    ],
+    "un": [
+      7,
+      19,
+      62,
+      128
+    ],
+    "articulado": [
+      9
+    ],
+    "retroalimentado": [
+      11
+    ],
+    "que": [
+      12,
+      21,
+      46,
+      103,
+      120
+    ],
+    "se": [
+      13,
+      95
+    ],
+    "inicia": [
+      14
+    ],
+    "cuando": [
+      15,
+      32
+    ],
+    "una": [
+      16
+    ],
+    "persona": [
+      17
+    ],
+    "tiene": [
+      18,
+      58
+    ],
+    "problema": [
+      20
+    ],
+    "requiere": [
+      22
+    ],
+    "resolver": [
+      23
+    ],
+    "mediante": [
+      24
+    ],
+    "la": [
+      25,
+      39,
+      48,
+      136,
+      142,
+      147
+    ],
+    "obtención": [
+      26
+    ],
+    "cierta": [
+      28
+    ],
+    "información": [
+      29,
+      49,
+      75
+    ],
+    "termina": [
+      31
+    ],
+    "resuelve": [
+      33
+    ],
+    "dicho": [
+      34,
+      107
+    ],
+    "problema,": [
+      35
+    ],
+    "a": [
+      36,
+      76
+    ],
+    "través": [
+      37
+    ],
+    "identificación": [
+      40
+    ],
+    "localización": [
+      42
+    ],
+    "los": [
+      44
+    ],
+    "documentos": [
+      45
+    ],
+    "contienen": [
+      47
+    ],
+    "pertinente,": [
+      50
+    ],
+    "logrando": [
+      51
+    ],
+    "satisfacer": [
+      52
+    ],
+    "su": [
+      53
+    ],
+    "necesidad.": [
+      54
+    ],
+    "presente": [
+      56
+    ],
+    "artículo": [
+      57
+    ],
+    "como": [
+      59
+    ],
+    "objetivo": [
+      60
+    ],
+    "elaborar": [
+      61
+    ],
+    "diseño": [
+      63
+    ],
+    "metodológico": [
+      64
+    ],
+    "sobre": [
+      65
+    ],
+    "el": [
+      66,
+      110,
+      121
+    ],
+    "fuentes": [
+      73
+    ],
+    "usuarios": [
+      77,
+      102
+    ],
+    "del": [
+      78,
+      85,
+      113
+    ],
+    "Centro": [
+      79
+    ],
+    "Documentación": [
+      81
+    ],
+    "en": [
+      82,
+      150
+    ],
+    "Salud": [
+      83
+    ],
+    "(CDS)": [
+      84
+    ],
+    "Hospital": [
+      86
+    ],
+    "General": [
+      87
+    ],
+    "Zona": [
+      89
+    ],
+    "(HGZ)": [
+      90
+    ],
+    "No.": [
+      91
+    ],
+    "57.": [
+      92
+    ],
+    "Para": [
+      93
+    ],
+    "lograrlo": [
+      94
+    ],
+    "analizaron": [
+      96
+    ],
+    "procesaron": [
+      98
+    ],
+    "83": [
+      99
+    ],
+    "solicitudes": [
+      100
+    ],
+    "hicieron": [
+      104
+    ],
+    "uso": [
+      105
+    ],
+    "servicio,": [
+      108
+    ],
+    "durante": [
+      109
+    ],
+    "período": [
+      111
+    ],
+    "agosto-diciembre": [
+      112
+    ],
+    "2019.": [
+      114
+    ],
+    "Los": [
+      115
+    ],
+    "resultados": [
+      116
+    ],
+    "obtenidos": [
+      117
+    ],
+    "permitieron": [
+      118
+    ],
+    "confirmar": [
+      119
+    ],
+    "servicio": [
+      122,
+      149
+    ],
+    "referencia": [
+      126
+    ],
+    "gran": [
+      129
+    ],
+    "apoyo": [
+      130
+    ],
+    "para": [
+      131
+    ],
+    "estudiantes": [
+      132
+    ],
+    "profesionales": [
+      134
+    ],
+    "salud.": [
+      137
+    ],
+    "poder": [
+      139
+    ],
+    "complementarlo": [
+      140
+    ],
+    "con": [
+      141
+    ],
+    "metodología": [
+      143
+    ],
+    "propuesta,": [
+      144
+    ],
+    "permitió": [
+      145
+    ],
+    "mejorar": [
+      146
+    ],
+    "calidad": [
+      148
+    ],
+    "favor": [
+      151
+    ],
+    "sus": [
+      153
+    ],
+    "usuarios.": [
+      154
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4200104623",
+  "counts_by_year": [],
+  "updated_date": "2025-07-22T12:07:10.265000",
+  "created_date": "2021-12-31"
+}

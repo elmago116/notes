@@ -1,0 +1,2650 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2025-07-30T14:09:14Z",
+      "timestamp": 1753884554296
+    },
+    "reference-count": 85,
+    "publisher": "CA: Journal of Cultural Analytics",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              30
+            ]
+          ],
+          "date-time": "2023-01-30T00:00:00Z",
+          "timestamp": 1675036800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>Why are the Digital Humanities a genuine part of the Humanities? Attempts are currently being made by arguing that computational methods are at the same time hermeneutic procedures (‘screwmeneutics’, ‘hermenumericals’): computation and hermeneutics were mixed. In criticizing this fusion of ‘literacy’ and ‘numeracy’, it is argued that what really connects the classical Humanities and the Digital Humanities is methodologically based on the ‘cultural technique of flattening’ and not on hermeneutics. The projection of spatial and non-spatial relations onto the artificial flatness of inscribed and illustrated surfaces forms a first-order epistemic and cultural potential in the history of the Humanities: diagrammatic reasoning, the visualizing potential of writings, lists, tables, diagrams, and maps, the sorting function of alphabetically ordered knowledge corpora have always shaped and determined basic scholarly work. It is this ‘diagrammatical’ dimension to which the Digital Humanities are linked to Humanities in general. The metamorphosis of texts, pictures, and music into the surface configurations of machine-analyzable data corpora opens up the possibility of revealing latent and implicit patterns of cultural artifacts, and practices that mostly are not accessible to human perception. The quantifying, computational methods of the Digital Humanities operate like computer-generated microscopes and telescopes into the cultural heritage, ongoing cultural practices, and even the culturally unconscious.</jats:p>",
+    "DOI": "10.22148/001c.55592",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2023-01-30T16:00:37Z",
+      "timestamp": 1675094437000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Should we really ‘hermeneutise’ the Digital Humanities? A plea for the epistemic productivity of a ‘cultural technique of flattening’ in the Humanities."
+    ],
+    "prefix": "10.22148",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Sybille",
+        "family": "Krämer",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/02w2y2t16",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Leuphana University of Lüneburg"
+          }
+        ]
+      }
+    ],
+    "member": "9408",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9780804773256",
+        "article-title": "The Culture of Diagram",
+        "author": "John Bender",
+        "year": "2010",
+        "ISBN": "http://id.crossref.org/isbn/9780804773256"
+      },
+      {
+        "issue": "1",
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1525/rep.2009.108.1.1",
+        "article-title": "Surface Reading. An Introduction",
+        "volume": "108",
+        "author": "Stephen Best",
+        "year": "2009",
+        "journal-title": "Representations"
+      },
+      {
+        "key": "ref3",
+        "first-page": "1",
+        "article-title": "Against Art History",
+        "volume": "3",
+        "author": "Claire Bishop",
+        "year": "2018",
+        "journal-title": "International Journal for Digital Art History"
+      },
+      {
+        "key": "ref4",
+        "first-page": "993",
+        "article-title": "Latent Dirichlet Allocation",
+        "volume": "3",
+        "author": "David M. Blei",
+        "year": "2003",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "issue": "4",
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "first-page": "77",
+        "DOI": "10.1145/2133806.2133826",
+        "article-title": "Probabilistic Topic Models",
+        "volume": "55",
+        "author": "David M. Blei",
+        "year": "2012",
+        "journal-title": "Communications of the ACM",
+        "ISSN": "http://id.crossref.org/issn/0001-0782",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "Die Lesbarkeit der Welt",
+        "year": "1986",
+        "author": "Hans Blumenberg",
+        "key": "ref6"
+      },
+      {
+        "key": "ref7",
+        "series-title": "Die Welt als Text: Theorie, Kritik und Praxis der objektiven Hermeneutik",
+        "article-title": "Das Latente und das Manifeste: Aporien einer Hermeneutik des Verdachts",
+        "author": "Heinz Bude",
+        "year": "1994"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4000/books.oep.679",
+        "article-title": "What is the Text Encoding Initiative?",
+        "author": "Lou Burnard",
+        "year": "2014",
+        "journal-title": "Marseille OpenEdition"
+      },
+      {
+        "issue": "3",
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "first-page": "267",
+        "DOI": "10.1093/llc/17.3.267",
+        "article-title": "'Delta': A Measure of Stylistic Difference and a Guide to Likely Authorship",
+        "volume": "17",
+        "author": "John Burrows",
+        "year": "2002",
+        "journal-title": "Literary and Linguistic Computing",
+        "ISSN": "http://id.crossref.org/issn/0268-1145",
+        "issn-type": "print"
+      },
+      {
+        "issue": "1",
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1093/philmat/nkr037",
+        "article-title": "To Diagram, to Demonstrate: To Do, To See, and To Judge in Greek Geometry",
+        "volume": "20",
+        "author": "Philip Catton",
+        "year": "2011",
+        "journal-title": "Philosophia Mathematica",
+        "ISSN": "http://id.crossref.org/issn/0031-8019",
+        "issn-type": "print"
+      },
+      {
+        "key": "ref11",
+        "isbn-type": "print",
+        "article-title": "Figuring Space: Philosophy, Mathematics and Physics",
+        "author": "Gilles Châtelet",
+        "year": "2000",
+        "ISBN": "http://id.crossref.org/isbn/9789048152872"
+      },
+      {
+        "issue": "1",
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.1007/s11229-011-9982-9",
+        "article-title": "Human diagrammatic reasoning and seeing-as",
+        "volume": "186",
+        "author": "Annalisa Coliva",
+        "year": "2011",
+        "journal-title": "Synthese",
+        "ISSN": "http://id.crossref.org/issn/0039-7857",
+        "issn-type": "print"
+      },
+      {
+        "issue": "3",
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "first-page": "601",
+        "DOI": "10.1086/702594",
+        "article-title": "The Computational Case against Computational Literary Studies",
+        "volume": "45",
+        "author": "Nan Z. Da",
+        "year": "2019",
+        "journal-title": "Critical Inquiry",
+        "ISSN": "http://id.crossref.org/issn/0093-1896",
+        "issn-type": "print"
+      },
+      {
+        "key": "ref14",
+        "series-title": "Gesammelte Schriften",
+        "article-title": "Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften",
+        "volume": "7",
+        "author": "Wilhelm Dilthey",
+        "year": "1992"
+      },
+      {
+        "key": "ref15",
+        "series-title": "Topics in the Digital Humanities",
+        "article-title": "Critical Digital Humanities: The Search for a Methodology",
+        "author": "James E. Dobson",
+        "year": "2019"
+      },
+      {
+        "key": "ref16",
+        "series-title": "Literaturwissenschaft und Linguistik. Ergebnisse und Perspektiven",
+        "first-page": "253",
+        "article-title": "Ein Begriffsrahmen für die statistische Stilanalyse",
+        "volume": "1",
+        "author": "Lubomír Doležel",
+        "year": "1971"
+      },
+      {
+        "issue": "2",
+        "key": "ref17",
+        "first-page": "7",
+        "article-title": "Medien und implizites Wissen",
+        "volume": "17",
+        "author": "Christoph Ernst",
+        "year": "2017",
+        "journal-title": "Navigationen"
+      },
+      {
+        "article-title": "Automating Inequality: How High-tech Tools Profile, Police, and Punish the Poor",
+        "year": "2018",
+        "author": "Virginia Eubanks",
+        "key": "ref18"
+      },
+      {
+        "issue": "1",
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "first-page": "2019",
+        "DOI": "10.22148/001c.11830",
+        "article-title": "Is there a text in my data? (Part 1): On counting words",
+        "volume": "9",
+        "author": "Michael Gavin",
+        "year": "2019",
+        "journal-title": "Journal of Cultural Analytics",
+        "ISSN": "http://id.crossref.org/issn/2371-4549",
+        "issn-type": "print"
+      },
+      {
+        "issue": "1",
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1162/neco.1992.4.1.1",
+        "article-title": "Neural networks and the bias/variance dilemma",
+        "volume": "4",
+        "author": "Stuart Geman",
+        "year": "1992",
+        "journal-title": "Neural Computation",
+        "ISSN": "http://id.crossref.org/issn/0899-7667",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "Visual Thinking in Mathematics. An Epistemological Study",
+        "year": "2011",
+        "author": "Marcus Giaquinto",
+        "key": "ref21"
+      },
+      {
+        "key": "ref22",
+        "series-title": "The Power of the Image",
+        "first-page": "23",
+        "article-title": "Diagramming: Connecting Cognitive Systems to Improve Reasoning",
+        "author": "Valeria Giardino",
+        "year": "2014"
+      },
+      {
+        "key": "ref23",
+        "article-title": "What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship",
+        "author": "Andrew Goldstone",
+        "year": "2012",
+        "journal-title": "Journal of Digital Humanities"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "first-page": "351",
+        "DOI": "10.1515/9783110538663-016",
+        "article-title": "15. Topic-Modelle und ihr Potenzial für die philologische Forschung",
+        "author": "Gerhard Heyer",
+        "year": "2018",
+        "journal-title": "Digitale Infrastrukturen für die Germanistische Forschung"
+      },
+      {
+        "issue": "3",
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "first-page": "111",
+        "DOI": "10.1093/llc/13.3.111",
+        "article-title": "The Evolution of Stylometry in Humanities Scholarship",
+        "volume": "13",
+        "author": "David I. Holmes",
+        "year": "1998",
+        "journal-title": "Literary and Linguistic Computing",
+        "ISSN": "http://id.crossref.org/issn/0268-1145",
+        "issn-type": "print"
+      },
+      {
+        "key": "ref26",
+        "series-title": "forTEXT",
+        "article-title": "Topic Modeling",
+        "author": "Jan Horstmann",
+        "year": "2018"
+      },
+      {
+        "key": "ref27",
+        "series-title": "forTEXT. Literatur digital erforschen § 5",
+        "article-title": "Stilometrie",
+        "author": "Jan Horstmann",
+        "year": "2018"
+      },
+      {
+        "key": "ref28",
+        "article-title": "Elements of Screenology: Toward an Archaeology of the Screen",
+        "volume": "7",
+        "author": "Erkki Huhtamo",
+        "year": "2004",
+        "journal-title": "Iconics"
+      },
+      {
+        "article-title": "Philosophische Hermeneutik",
+        "year": "1991",
+        "author": "Hans Ineichen",
+        "key": "ref29"
+      },
+      {
+        "key": "ref30",
+        "series-title": "Distant Readings: Topologies of German Culture in the Long Nineteenth Century",
+        "first-page": "29",
+        "article-title": "Burrows’s Delta and Its Use in German Literary History",
+        "author": "Fotis Jannidis",
+        "year": "2014"
+      },
+      {
+        "key": "ref31",
+        "series-title": "Methoden der literatur- und kulturwissenschaftlichen Textanalyse",
+        "doi-asserted-by": "publisher",
+        "first-page": "109",
+        "DOI": "10.1007/978-3-476-00205-1_6",
+        "article-title": "Methoden der computergestützten Textanalyse",
+        "author": "Fotis Jannidis",
+        "year": "2010"
+      },
+      {
+        "key": "ref32",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-39643-5",
+        "article-title": "Text Analysis with R: For Students of Literature",
+        "author": "Matthew L. Jockers",
+        "year": "2020",
+        "ISBN": "http://id.crossref.org/isbn/9783030396428"
+      },
+      {
+        "article-title": "Roberto Busa, S. J., and the Emergence of Humanities Computing: The Priest and the Punched Cards",
+        "year": "2016",
+        "author": "Steven E. Jones",
+        "key": "ref33"
+      },
+      {
+        "issue": "1",
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "first-page": "100",
+        "DOI": "10.1093/llc/fqv040",
+        "article-title": "The Rowling Case: A Proposed Standard Analytic Protocol for Authorship Questions",
+        "volume": "30",
+        "author": "Patrick Juola",
+        "year": "2015",
+        "journal-title": "Digital Scholarship in The Humanities",
+        "ISSN": "http://id.crossref.org/issn/2055-7671",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "Mechanisms: New Media and the Forensic Imagination",
+        "year": "2008",
+        "author": "Matthew Kirschenbaum",
+        "key": "ref35"
+      },
+      {
+        "article-title": "Digital forensics and born-digital content in cultural heritage collections",
+        "year": "2010",
+        "author": "Matthew Kirschenbaum",
+        "key": "ref36"
+      },
+      {
+        "article-title": "The Remaking of Reading: Data Mining and the Digital Humanities",
+        "year": "2007",
+        "author": "Matthew Kirschenbaum",
+        "key": "ref37"
+      },
+      {
+        "year": "2016",
+        "key": "ref38",
+        "article-title": "Thinking with Diagrams. The Semiotic Basis of Human Cognition"
+      },
+      {
+        "issue": "1",
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11588/dco.2018.0",
+        "article-title": "Der ‘Stachel des Digitalen’ – ein Anreiz zur Selbstreflexion in den Geisteswissenschaften? Ein philosophischer Kommentar zu den Digital Humanities in neun Thesen",
+        "volume": "4",
+        "author": "Sybille Krämer",
+        "year": "2018",
+        "journal-title": "Digital Classics Online"
+      },
+      {
+        "year": "2012",
+        "key": "ref40",
+        "article-title": "Schriftbildlichkeit. Wahrnehmbarkeit, Materialität und Operativität von Notationen"
+      },
+      {
+        "article-title": "Figuration, Anschauung, Erkenntnis: Grundlinien einer Diagrammatologie",
+        "year": "2016",
+        "author": "Sybille Krämer",
+        "key": "ref41"
+      },
+      {
+        "issue": "1",
+        "key": "ref42",
+        "article-title": "Flattening As Cultural Technique: Epistemic and Aesthetic Functions of Inscribed Surfaces",
+        "volume": "70",
+        "author": "Sybille Krämer",
+        "year": "2017",
+        "journal-title": "Journal of the American Musicological Society"
+      },
+      {
+        "key": "ref43",
+        "series-title": "Thinking with Diagrams – The Semiotic Basis of Human Cognition",
+        "first-page": "209",
+        "article-title": "Is there a diagrammatical impulse with Plato? ‘Quasi-diagrammatical scenes’ in Plato’s philosophy",
+        "volume": "17",
+        "author": "Sybille Krämer",
+        "year": "2016"
+      },
+      {
+        "key": "ref44",
+        "series-title": "Image, Thought, and the Making of Social Worlds, Freiburger Studien zur Archäologie & Visuellen Kultur 3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11588/PROPYLAEUM.842.C10813",
+        "article-title": "Reflections on ‘operative iconicity’ and ‘artificial flatness’",
+        "author": "Sybille Krämer",
+        "year": "2021"
+      },
+      {
+        "key": "ref45",
+        "series-title": "Ada Lovelace. Die Pionierin der Computertechnik und ihre Nachfolgerinnen",
+        "doi-asserted-by": "publisher",
+        "first-page": "75",
+        "DOI": "10.30965/9783846759868_007",
+        "article-title": "Wieso gilt Ada Lovelace als die ‚erste Programmiererin‘ und was bedeutet überhaupt ‚programmieren‘?",
+        "author": "Sybille Krämer",
+        "year": "2015"
+      },
+      {
+        "issue": "3",
+        "key": "ref46",
+        "first-page": "518",
+        "article-title": "Writing, Notational Iconicity, Calculus: On Writing as a Cultural Technique",
+        "volume": "118",
+        "author": "Sybille Krämer",
+        "year": "2003",
+        "journal-title": "Modern Languages Notes - German Issue"
+      },
+      {
+        "key": "ref47",
+        "series-title": "Big Data: Das neue Versprechen der Allwissenheit",
+        "first-page": "99",
+        "article-title": "Die digitale Vermessung der Kultur. Geisteswissenschaften als Digital Humanities",
+        "author": "Gerhard Lauer",
+        "year": "2013"
+      },
+      {
+        "issue": "4",
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "first-page": "1914",
+        "DOI": "10.1109/tip.2017.2783626",
+        "article-title": "Robust Virtual Unrolling of Historical Parchment XMT Images",
+        "volume": "27",
+        "author": "Chang Liu",
+        "year": "2018",
+        "journal-title": "IEEE Transactions on Image Processing",
+        "ISSN": "http://id.crossref.org/issn/1057-7149",
+        "issn-type": "print"
+      },
+      {
+        "key": "ref49",
+        "series-title": "Taylor’s Scientific Memoirs",
+        "first-page": "666",
+        "article-title": "Luigi Federico Menabrea, ‘Sketch of the Analytical Engine. Invented by Charles Babbage. With notes by Ada Augusta, Countess of Lovelace",
+        "author": "Ada Augusta Lovelace",
+        "year": "1953"
+      },
+      {
+        "year": "2014",
+        "key": "ref50",
+        "article-title": "Diagramm und Text. Diagrammatische Strukturen und die Dynamisierung von Wissen und Erfahrung"
+      },
+      {
+        "article-title": "Machine Learners. Archaeology of Data Practices",
+        "year": "2017",
+        "author": "Adrian Mackenzie",
+        "key": "ref51"
+      },
+      {
+        "key": "ref52",
+        "series-title": "The Philosophy of Mathematical Practice",
+        "doi-asserted-by": "publisher",
+        "first-page": "80",
+        "DOI": "10.1093/acprof:oso/9780199296453.003.0005",
+        "article-title": "The Euclidean Diagram",
+        "author": "Kenneth Manders",
+        "year": "2008"
+      },
+      {
+        "issue": "2",
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/135485659900500206",
+        "article-title": "Database as Symbolic Form",
+        "volume": "34",
+        "author": "Lev Manovich",
+        "year": "1999",
+        "journal-title": "Millennium Film Journal",
+        "ISSN": "http://id.crossref.org/issn/1354-8565",
+        "issn-type": "print"
+      },
+      {
+        "issue": "4",
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "first-page": "203",
+        "DOI": "10.1093/llc/8.4.203",
+        "article-title": "Neural computation in stylometry II: An application to the works of Shakespeare and Marlowe",
+        "volume": "8",
+        "author": "Thomas V.N. Merriam",
+        "year": "1993",
+        "journal-title": "Literary and Linguistic Computing",
+        "ISSN": "http://id.crossref.org/issn/0268-1145",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "Poetry, Teaching, and Scholarship: Oral History Transcript; And Related Material, 1977–1980",
+        "year": "1980",
+        "author": "Josephine Miles",
+        "key": "ref55"
+      },
+      {
+        "article-title": "Eras and Modes in English Poetry",
+        "year": "1957",
+        "author": "Josephine Miles",
+        "key": "ref56"
+      },
+      {
+        "article-title": "Major Adjectives in English Poetry: From Wyatt to Auden",
+        "year": "1946",
+        "author": "Josephine Miles",
+        "key": "ref57"
+      },
+      {
+        "article-title": "Pathetic Fallacy in the Nineteenth Century: A Study of a Changing Relation between Object and Emotion",
+        "year": "1942",
+        "author": "Josephine Miles",
+        "key": "ref58"
+      },
+      {
+        "article-title": "Wordsworth and the Vocabulary of Emotion",
+        "year": "1942",
+        "author": "Josephine Miles",
+        "key": "ref59"
+      },
+      {
+        "article-title": "Concordance to the Poetical Works of John Dryden. Assisted Mary Jackman, and Helen S. Agoa. Preface By Josephine Miles",
+        "year": "1957",
+        "author": "Guy Montgomery",
+        "key": "ref60"
+      },
+      {
+        "article-title": "Muster. Theorie der Digitalen Gesellschaft",
+        "year": "2019",
+        "author": "Armin Nassehi",
+        "key": "ref61"
+      },
+      {
+        "issue": "3",
+        "key": "ref62",
+        "first-page": "33",
+        "article-title": "Greek mathematical diagrams: their use and their meaning",
+        "volume": "18",
+        "author": "Reviel Netz",
+        "year": "1998",
+        "journal-title": "For the learning of Mathematics"
+      },
+      {
+        "key": "ref63",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/j.ctt1pwt9w5",
+        "article-title": "Algorithms of Oppression: How Search Engines Reinforce Racism",
+        "author": "Safiya Umoja Noble",
+        "year": "2018",
+        "ISBN": "http://id.crossref.org/isbn/9781479833641"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.2307/2936018",
+        "article-title": "Platonic Diairesis",
+        "volume": "97",
+        "author": "James A. Philip",
+        "year": "1966",
+        "journal-title": "Transactions and Proceedings of the American Philological Association"
+      },
+      {
+        "key": "ref65",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226568898.001.0001",
+        "article-title": "Enumerations. Data and Literary Study",
+        "author": "Andrew Piper",
+        "year": "2018",
+        "ISBN": "http://id.crossref.org/isbn/9780226568751"
+      },
+      {
+        "key": "ref66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22148/16.006",
+        "article-title": "There Will Be Numbers",
+        "author": "Andrew Piper",
+        "year": "2016",
+        "journal-title": "Journal of Cultural Analytics",
+        "ISSN": "http://id.crossref.org/issn/2371-4549",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "On Historicizing Epistemology: An Essay",
+        "year": "2010",
+        "author": "Hans-Jörg Rheinberger",
+        "key": "ref67"
+      },
+      {
+        "key": "ref68",
+        "first-page": "60",
+        "article-title": "Une interprétation philosophique de Freud",
+        "author": "Paul Ricoeur",
+        "year": "1969",
+        "journal-title": "Le conflit des interpretations"
+      },
+      {
+        "key": "ref69",
+        "series-title": "Handbuch Virtualität",
+        "first-page": "473",
+        "article-title": "Virtual Humanities",
+        "author": "Stefan Rieger",
+        "year": "2020"
+      },
+      {
+        "key": "ref70",
+        "series-title": "Sortieren, Suchen, Spielen: Die Datenbank als mediale Praxis",
+        "first-page": "75",
+        "article-title": "‘Grand Games of Solitaire.’ Textuelle Ordnungen in den Digital Humanities",
+        "author": "Theo Röhle",
+        "year": "2012"
+      },
+      {
+        "issue": "1",
+        "key": "ref71",
+        "doi-asserted-by": "publisher",
+        "first-page": "11901",
+        "DOI": "10.1038/s41598-018-29037-x",
+        "article-title": "Virtual Recovery of Content from X-Ray Micro-Tomography Scans of Damaged Historic Scrolls",
+        "volume": "8",
+        "author": "Paul L. Rosin",
+        "year": "2018",
+        "journal-title": "Scientific Reports",
+        "ISSN": "http://id.crossref.org/issn/2045-2322",
+        "issn-type": "print"
+      },
+      {
+        "issue": "3",
+        "key": "ref72",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1080/10509585.2017.1314673",
+        "article-title": "Counting Wordsworth by the Bay: The Distance of Josephine Miles",
+        "volume": "28",
+        "author": "Christopher Rovee",
+        "year": "2017",
+        "journal-title": "European Romantic Review"
+      },
+      {
+        "issue": "1",
+        "key": "ref73",
+        "article-title": "Search and Replace: Josephine Miles and the Origins of Distant Reading",
+        "volume": "3",
+        "author": "Rachel Sagner Buurma",
+        "year": "2018",
+        "journal-title": "Modernism/modernity"
+      },
+      {
+        "key": "ref74",
+        "first-page": "325",
+        "article-title": "Ein digitales Textformat für die Literaturwissenschaft: Die Richtlinien der Text Encoding Initiative und ihr Einsatz bei Textkonstitution und Textanalyse",
+        "volume": "4",
+        "author": "Christof Schöch",
+        "year": "2016",
+        "journal-title": "Romanische Studien"
+      },
+      {
+        "issue": "4",
+        "key": "ref75",
+        "doi-asserted-by": "publisher",
+        "first-page": "409",
+        "DOI": "10.1093/llc/fqn019",
+        "article-title": "Meaning and mining: The impact of implicit assumptions in data mining for the humanities",
+        "volume": "23",
+        "author": "David Sculley",
+        "year": "2008",
+        "journal-title": "Literary and Linguistic Computing",
+        "ISSN": "http://id.crossref.org/issn/0268-1145",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "The logical status of diagrams",
+        "year": "1994",
+        "author": "Sun-Joo Shin",
+        "key": "ref76"
+      },
+      {
+        "article-title": "Tabula. Figuren der Ordnung um 1600",
+        "year": "2009",
+        "author": "Steffen Siegel",
+        "key": "ref77"
+      },
+      {
+        "article-title": "The Two Cultures and a Second Look: An Expanded Version of the Two Cultures and the Scientific Revolution",
+        "year": "1969",
+        "author": "Charles P. Snow",
+        "key": "ref78"
+      },
+      {
+        "article-title": "Diagrammatology: An investigation on the borderlines of phenomenology, ontology, and semiotics",
+        "year": "2007",
+        "author": "Frederik Stjernfelt",
+        "key": "ref79"
+      },
+      {
+        "article-title": "Real spaces. World Art History and the Rise of Western Modernism",
+        "year": "2003",
+        "author": "David Summers",
+        "key": "ref80"
+      },
+      {
+        "key": "ref81",
+        "series-title": "Quantitative Linguistik: ein internationales Handbuch",
+        "first-page": "387",
+        "article-title": "Statistical models in stylistics and forensic linguistics",
+        "author": "Fiona J. Tweedie",
+        "year": "2005"
+      },
+      {
+        "article-title": "Scholarly Primitives: What methods do humanities researchers have in common, and how might our tools reflect this?",
+        "year": "2000",
+        "author": "John Unsworth",
+        "key": "ref82"
+      },
+      {
+        "issue": "2",
+        "key": "ref83",
+        "doi-asserted-by": "publisher",
+        "first-page": "329",
+        "DOI": "10.1086/704850",
+        "article-title": "Josephine Miles (1911–1985): Doing Digital Humanism with and without Machines",
+        "volume": "4",
+        "author": "Mario Wimmer",
+        "year": "2019",
+        "journal-title": "History of Humanities",
+        "ISSN": "http://id.crossref.org/issn/2379-3163",
+        "issn-type": "print"
+      },
+      {
+        "key": "ref84",
+        "article-title": "Roberto Busa, S. J., and the Invention of the Machine-Generated Concordance",
+        "volume": "70",
+        "author": "Thomas Nelson Winter",
+        "year": "1999",
+        "journal-title": "Faculty Publications. Classics and Religious Studies Department"
+      },
+      {
+        "key": "ref85",
+        "series-title": "A New Companion to Digital Humanities",
+        "first-page": "331",
+        "article-title": "Screwmeneutics and Hermenumericals: The Computationality of Hermeneutics",
+        "author": "Joris J. van Zundert",
+        "year": "2016"
+      }
+    ],
+    "container-title": [
+      "Journal of Cultural Analytics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://culturalanalytics.org/article/55592-should-we-really-hermeneutise-the-digital-humanities-a-plea-for-the-epistemic-productivity-of-a-cultural-technique-of-flattening-in-the-humaniti",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T21:53:57Z",
+      "timestamp": 1726178037000
+    },
+    "score": 124.25051,
+    "resource": {
+      "primary": {
+        "URL": "https://culturalanalytics.org/article/55592-should-we-really-hermeneutise-the-digital-humanities-a-plea-for-the-epistemic-productivity-of-a-cultural-technique-of-flattening-in-the-humaniti"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          30
+        ]
+      ]
+    },
+    "references-count": 85,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.22148/001c.55592",
+    "ISSN": [
+      "2371-4549"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2371-4549"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2025-05-13T15:47:45Z",
+      "timestamp": 1747151265715
+    },
+    "reference-count": 0,
+    "publisher": "CA: Journal of Cultural Analytics",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "CA"
+    ],
+    "DOI": "10.22148/16.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2017-02-08T13:33:52Z",
+      "timestamp": 1486560832000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 50,
+    "title": [
+      "The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics"
+    ],
+    "prefix": "10.22148",
+    "author": [
+      {
+        "given": "Lev",
+        "family": "Manovich",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "9408",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          23
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Cultural Analytics"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2020-02-10T16:57:44Z",
+      "timestamp": 1581353864000
+    },
+    "score": 49.596703,
+    "resource": {
+      "primary": {
+        "URL": "https://culturalanalytics.org/article/11060"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          23
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.22148/16.004",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.31235/osf.io/b2y79",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2371-4549"
+    ],
+    "issn-type": [
+      {
+        "value": "2371-4549",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2025-05-14T07:33:31Z",
+      "timestamp": 1747208011707,
+      "version": "3.40.5"
+    },
+    "reference-count": 12,
+    "publisher": "CA: Journal of Cultural Analytics",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              23
+            ]
+          ],
+          "date-time": "2022-11-23T00:00:00Z",
+          "timestamp": 1669161600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>This special issue deals with existing theory narratives and conceptions in DH scholarship. Introducing the neologism “theorytellings”, this special issue invites DH scholars to narrate and discuss their own theoretical contributions to the field.</jats:p>",
+    "DOI": "10.22148/001c.55593",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          30
+        ]
+      ],
+      "date-time": "2022-12-30T11:44:16Z",
+      "timestamp": 1672400656000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Foreword to the Special Issue “Theorytellings: Epistemic Narratives in the Digital Humanities”"
+    ],
+    "prefix": "10.22148",
+    "volume": "7",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3856-2685",
+        "authenticated-orcid": false,
+        "given": "Rabea",
+        "family": "Kleymann",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Leibniz Center for Literary and Cultural Research"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1354-9089",
+        "authenticated-orcid": false,
+        "given": "Manuel",
+        "family": "Burghardt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Leipzig"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0452-7075",
+        "authenticated-orcid": false,
+        "given": "Jonathan D.",
+        "family": "Geiger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Academy of Sciences and Literature Mainz"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7952-4194",
+        "authenticated-orcid": false,
+        "given": "Mareike",
+        "family": "Schumacher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/05n911h24",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Technical University of Darmstadt"
+          }
+        ]
+      }
+    ],
+    "member": "9408",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          23
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "first-page": "173",
+        "DOI": "10.1111/j.1467-9558.2008.00324.x",
+        "article-title": "The Meaning of ‘Theory’",
+        "volume": "26",
+        "author": "Gabriel Abend",
+        "year": "2008",
+        "journal-title": "Sociological Theory",
+        "ISSN": "https://id.crossref.org/issn/0735-2751",
+        "issn-type": "print"
+      },
+      {
+        "key": "ref2",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/sin.4",
+        "article-title": "Considering Counter-Narratives: Narrating, Resisting, Making Sense",
+        "year": "2004",
+        "ISBN": "https://id.crossref.org/isbn/9789027226440"
+      },
+      {
+        "key": "ref3",
+        "series-title": "Erzählen: Ein interdisziplinäres Handbuch",
+        "first-page": "211",
+        "article-title": "Wissenschaft",
+        "author": "Christina Brandt",
+        "year": "2017"
+      },
+      {
+        "key": "ref4",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/acref/9780190681166.001.0001",
+        "article-title": "Dictionary of Untranslatables: A Philosophical Lexicon",
+        "year": "2017",
+        "ISBN": "https://id.crossref.org/isbn/9780691138701",
+        "edition": "1st"
+      },
+      {
+        "key": "ref5",
+        "article-title": "Objectivity",
+        "author": "Lorraine Daston",
+        "year": "2010",
+        "edition": "1. paperback ed"
+      },
+      {
+        "key": "ref6",
+        "series-title": "Narrative in Culture: The Uses of Storytelling in the Sciences, Philosophy, and Literature",
+        "first-page": "81",
+        "article-title": "Some Narrative Conventions of Scientific Discourse",
+        "author": "Rom Harré",
+        "year": "1990"
+      },
+      {
+        "key": "ref7",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4159/9780674039681",
+        "article-title": "Epistemic Cultures: How the Sciences Make Knowledge",
+        "author": "Karin Knorr Cetina",
+        "year": "1999",
+        "ISBN": "https://id.crossref.org/isbn/9780674039681"
+      },
+      {
+        "issue": "2_suppl",
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "first-page": "194",
+        "DOI": "10.1111/2059-7932.12008",
+        "article-title": "‘Western Hegemony’ in the Social Sciences: Fields and Model Systems",
+        "volume": "64",
+        "author": "Monika Krause",
+        "year": "2016",
+        "journal-title": "The Sociological Review",
+        "ISSN": "https://id.crossref.org/issn/0038-0261",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "The Postmodern Condition: A Report on Knowledge",
+        "year": "1986",
+        "author": "Jean-François Lyotard",
+        "key": "ref9"
+      },
+      {
+        "article-title": "Geistesarbeit: eine Praxeologie der Geisteswissenschaften.",
+        "year": "2022",
+        "author": "Steffen Martus",
+        "key": "ref10"
+      },
+      {
+        "key": "ref11",
+        "series-title": "Routledge Encyclopedia of Narrative Theory",
+        "first-page": "514",
+        "article-title": "Science and Narrative",
+        "author": "Arkady Plotnitsky",
+        "year": "2005"
+      },
+      {
+        "key": "ref12",
+        "series-title": "Routledge Encyclopedia of Narrative Theory",
+        "first-page": "344",
+        "article-title": "Narrative",
+        "author": "Marie-Laure Ryan",
+        "year": "2005"
+      }
+    ],
+    "container-title": [
+      "Journal of Cultural Analytics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://culturalanalytics.org/article/55593-foreword-to-the-special-issue-theorytellings-epistemic-narratives-in-the-digital-humanities",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T22:55:19Z",
+      "timestamp": 1726181719000
+    },
+    "score": 47.544403,
+    "resource": {
+      "primary": {
+        "URL": "https://culturalanalytics.org/article/55593-foreword-to-the-special-issue-theorytellings-epistemic-narratives-in-the-digital-humanities"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          23
+        ]
+      ]
+    },
+    "references-count": 12,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.22148/001c.55593",
+    "ISSN": [
+      "2371-4549"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2371-4549"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          14
+        ]
+      ],
+      "date-time": "2024-06-14T15:53:31Z",
+      "timestamp": 1718380411806
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          23
+        ]
+      ]
+    },
+    "group-title": "SocArXiv",
+    "reference-count": 0,
+    "publisher": "Center for Open Science",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              23
+            ]
+          ],
+          "date-time": "2018-08-23T00:00:00Z",
+          "timestamp": 1534982400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>I developed the concept of cultural analytics in 2005 to refer to \"the analysis of massive cultural datasets and flows using computational and visualization techniques.\" In 2007 we established a research lab (Software Studies Initiative, softwarestudies.com) to start working on practical projects. The following are the examples of theoretical and practical questions that are driving our research:What does it mean to represent \"culture\" by \"data\"? What are the unique possibilities offered by computational analysis of large cultural data in contrast to qualitative methods used in humanities and social science? How can we use quantitative techniques to study the key cultural form of our era — interactive media? How can we combine computational analysis and visualization of large cultural data with qualitative methods, including \"close reading\"? (In other words, how does one combine analysis of larger patterns with the analysis of individual artifacts and their details?)  How can computational analysis do justice to variability and diversity of cultural artifacts and processes, rather than focusing on the \"typical\" and \"most popular\"?Eight years later, the work of our lab has become only a tiny portion of a very large body of research. Thousands of researchers have already published tens of thousands of papers analyzing patterns in massive cultural datasets. First, there are data describing the activity on the most popular social networks (Flickr, Instagram, YouTube, Twitter, etc.), user-created content shared on these networks (tweets, images, video, etc.), and also users' interactions with this content (likes, favorites, reports, comments). Second, researchers have also started to analyze particular professional cultural areas and historical periods, such as website design, fashion photography, twentieth-century popular music, nineteenth-century literature, etc. This work is carried out in two newly developed fields — social computing and digital humanities.</p>",
+    "DOI": "10.31235/osf.io/b2y79",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          23
+        ]
+      ],
+      "date-time": "2018-08-23T20:55:41Z",
+      "timestamp": 1535057741000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics"
+    ],
+    "prefix": "10.31235",
+    "author": [
+      {
+        "given": "Lev",
+        "family": "Manovich",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "15934",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2022-08-30T21:03:12Z",
+      "timestamp": 1661893392000
+    },
+    "score": 46.874725,
+    "resource": {
+      "primary": {
+        "URL": "https://osf.io/b2y79"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          23
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.31235/osf.io/b2y79",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.22148/16.004",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          19
+        ]
+      ],
+      "date-time": "2024-09-19T16:26:06Z",
+      "timestamp": 1726763166789
+    },
+    "reference-count": 52,
+    "publisher": "IEEE",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2022-10-01T00:00:00Z",
+          "timestamp": 1664582400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2022-10-01T00:00:00Z",
+          "timestamp": 1664582400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1109/vis4dh57440.2022.00009",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2022-12-12T19:53:39Z",
+      "timestamp": 1670874819000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Labeling of Cultural Heritage Collections on the Intersection of Visual Analytics and Digital Humanities"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Christofer",
+        "family": "Meinecke",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Leipzig University"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cag.2016.03.009"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TVCG.2009.111"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3527619"
+      },
+      {
+        "key": "ref32",
+        "article-title": "A visual analytics framework for composing a hierarchical classification for medieval illuminations",
+        "author": "meinecke",
+        "year": "2022",
+        "journal-title": "ArXiv Preprint"
+      },
+      {
+        "key": "ref31",
+        "article-title": "When the tech kids are running too fast: Data visualisation through the lens of art history research",
+        "author": "lamqaddam",
+        "year": "2018",
+        "journal-title": "IEEE Transactions on Visualization and Computer Graphics"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11263-020-01316-z"
+      },
+      {
+        "key": "ref37",
+        "article-title": "From modern to medieval: Detecting and visualizing entities in manuscripts of marco polo&#x2019;s devisement du monde",
+        "author": "meinecke",
+        "year": "2022",
+        "journal-title": "In Proceedings of the Digital Humanities 2022"
+      },
+      {
+        "key": "ref36",
+        "article-title": "Automated Alignment of Medieval Text Versions based on Word Embeddings",
+        "author": "meinecke",
+        "year": "2019",
+        "journal-title": "LEVIA'19 Leipzig Symposium on Visualization in Applications 2019"
+      },
+      {
+        "key": "ref35",
+        "article-title": "Explaining semi-supervised text alignment through visualization",
+        "author": "meinecke",
+        "year": "2021",
+        "journal-title": "IEEE Transactions on Visualization and Computer Graphics"
+      },
+      {
+        "key": "ref34",
+        "article-title": "Visual analysis of engineers&#x2019; biographies and engineering branches",
+        "author": "meinecke",
+        "year": "2018",
+        "journal-title": "In LEVIA 2018 Leipzig Symposium on Visualization in Applications"
+      },
+      {
+        "key": "ref28",
+        "first-page": "957",
+        "article-title": "From word embeddings to document distances",
+        "author": "kusner",
+        "year": "2015",
+        "journal-title": "In International Conference on Machine Learning"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5220/0008977100760087"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5220/0008990502400251"
+      },
+      {
+        "key": "ref2",
+        "article-title": "Dancemoves: A visual analytics tool for dance movement analysis",
+        "author": "arpatzoglou",
+        "year": "2021",
+        "journal-title": "EuroVis 2021"
+      },
+      {
+        "key": "ref1",
+        "article-title": "Computer-supported interactive assignment of keywords for literature collections",
+        "author": "agarwal",
+        "year": "2018",
+        "journal-title": "In Proceedings of the Machine Learning from User Interaction for Visualization and Analytics Workshop at IEEE VIS"
+      },
+      {
+        "key": "ref20",
+        "article-title": "Valuable research for visualization and digital humanities: A balancing act",
+        "author": "jänicke",
+        "year": "2016",
+        "journal-title": "the 1st Workshop for Visualization for the Digital Humanities"
+      },
+      {
+        "key": "ref22",
+        "article-title": "Participatory Visualization Design as an Approach to Minimize the Gap between Research and Application",
+        "author": "jänicke",
+        "year": "2020",
+        "journal-title": "The Gap between Visualization Research and Visualization Software (VisGap)"
+      },
+      {
+        "key": "ref21",
+        "article-title": "Valuable Research for Visualization and Digital Humanities: A Balancing Act",
+        "author": "jänicke",
+        "year": "2016",
+        "journal-title": "the 1st Workshop for Visualization for the Digital Humanities"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/llc/fqx033"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/VAST.2017.8585505"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/PacificVis.2019.00038"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/info13020054"
+      },
+      {
+        "key": "ref50",
+        "article-title": "Pre-visualization",
+        "author": "wrisley",
+        "year": "2018",
+        "journal-title": "In 3rd Workshop on Visualization for the Digital Humanities"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379504"
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MC.2011.363"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01973762.2013.761106"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cgf.13092"
+      },
+      {
+        "key": "ref40",
+        "first-page": "91",
+        "article-title": "Faster r-cnn: Towards real-time object detection with region proposal networks",
+        "author": "ren",
+        "year": "2015",
+        "journal-title": "In Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patrec.2020.02.017"
+      },
+      {
+        "key": "ref13",
+        "article-title": "Thesaurus iconographique",
+        "author": "garnier",
+        "year": "1984",
+        "journal-title": "Syst&#x00E8;me descriptif des repr&#x00E8;sentation Par&#x00ED;s CNRS"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s41095-015-0017-1"
+      },
+      {
+        "key": "ref15",
+        "article-title": "Risk the drift! stretching disciplinary boundaries through critical collaborations between the humanities and visualization",
+        "author": "hinrichs",
+        "year": "2017",
+        "journal-title": "2nd Workshop on Visualization for the Digital Humanities"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/llc/fqy051"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5210/fm.v18i7.4711"
+      },
+      {
+        "key": "ref18",
+        "article-title": "Images as data: cultural analytics and aby warburg&#x2019;s mnemosyne",
+        "author": "hristova",
+        "year": "2016",
+        "journal-title": "International Journal for Digital Art History"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00525"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1873951.1874216"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00371-018-1500-3"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cgf.14034"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MCG.2018.2878900"
+      },
+      {
+        "key": "ref8",
+        "article-title": "Direct visualization techniques for the analysis of image data: the slice histogram and the growing entourage plot",
+        "author": "crockett",
+        "year": "2016",
+        "journal-title": "International Journal for Digital Art History"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MCG.2017.377152546"
+      },
+      {
+        "key": "ref49",
+        "first-page": "67",
+        "article-title": "Beyond one-dimensional portraits: A synoptic approach to the visual analysis of biography data",
+        "author": "windhager",
+        "year": "2017",
+        "journal-title": "Bd"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2009.5206848"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TVCG.2017.2745078"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/VAST47406.2019.8986917"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TVCG.2018.2830759"
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1472586X.2016.1173890"
+      },
+      {
+        "key": "ref42",
+        "first-page": "313",
+        "article-title": "Relevance feedback in information retrieval",
+        "author": "rocchio",
+        "year": "1971",
+        "journal-title": "The SMART Retrieval System-Experiments in Automatic Document Processing"
+      },
+      {
+        "key": "ref41",
+        "first-page": "31",
+        "article-title": "Personalized visual-interactive music classification",
+        "author": "ritter",
+        "year": "2018",
+        "journal-title": "EuroVA EuroVis"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3429448"
+      },
+      {
+        "key": "ref43",
+        "article-title": "Bridging the gap between visual analytics and digital humanities: Beyond the data-users-tasks design triangle",
+        "author": "schetinger",
+        "year": "2019",
+        "journal-title": "IEEE 4th Workshop for Visualization and the Digital Humanities"
+      }
+    ],
+    "event": {
+      "name": "2022 IEEE 7th Workshop on Visualization for the Digital Humanities (VIS4DH)",
+      "location": "Oklahoma City, OK, USA",
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            16
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            16
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2022 IEEE 7th Workshop on Visualization for the Digital Humanities (VIS4DH)"
+    ],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/9973805/9974608/09974890.pdf?arnumber=9974890",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2023-01-23T20:03:04Z",
+      "timestamp": 1674504184000
+    },
+    "score": 45.434334,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/9974890/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "references-count": 52,
+    "URL": "https://doi.org/10.1109/vis4dh57440.2022.00009",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T03:20:45Z",
+      "timestamp": 1648956045294
+    },
+    "reference-count": 0,
+    "publisher": "University of Minnesota Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.5749/j.ctv9hj9r9.23",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2019-01-08T21:40:47Z",
+      "timestamp": 1546983647000
+    },
+    "page": "369-390",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Can We Trust the University?"
+    ],
+    "prefix": "10.5749",
+    "author": [
+      {
+        "given": "AMY E.",
+        "family": "EARHART",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "3779",
+    "container-title": [
+      "Bodies of Information"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2020-04-23T20:33:31Z",
+      "timestamp": 1587674011000
+    },
+    "score": 44.62584,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstor.org/stable/10.5749/j.ctv9hj9r9.23"
+      }
+    },
+    "subtitle": [
+      "Digital Humanities Collaborations with Historically Exploited Cultural Communities"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5749/j.ctv9hj9r9.23",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2025-05-14T07:33:30Z",
+      "timestamp": 1747208010049,
+      "version": "3.40.5"
+    },
+    "reference-count": 13,
+    "publisher": "CA: Journal of Cultural Analytics",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              17
+            ]
+          ],
+          "date-time": "2024-06-17T00:00:00Z",
+          "timestamp": 1718582400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>Culture is a nuanced term that is hard to define conclusively. It is largely used to refer to the totality of values, basic assumptions and life orientations, beliefs, policies, procedures, and codes of conduct. These are shared by a group of people and affect their behavior and the way they lead their lives. Cultural Analytics (CA), as a field, examines vast amounts of cultural data (books, images, newspapers, music, literature, etc.) to derive culturally relevant insights. Various methods and techniques (natural language processing, network analysis, visualization, and data mining) are applied to cultural components so that they are useful for research in the humanities. CA can help identify the behavioral components of human cultures and provide an accurate insight into the degree to which people conform to the current or target culture. It utilizes the corpora, metadata, and tools of text and image analysis to provide meaningful insights into the subject of research.</jats:p> <jats:p>This special issue explores how we can improve current performance in terms of understanding Arab cultural and social change and how we can implement behavioral changes or transformations more smoothly. The papers in this special issue use digitized printed texts, including books, journals, and printed ephemera to expand our knowledge of the key players in the printed world during a crucial period of modern Arab history. The combination of these sources will illuminate the intellectual trajectories of those who produced such texts and their transnational formal and informal networks.</jats:p>",
+    "DOI": "10.22148/001c.116818",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2024-06-17T16:42:35Z",
+      "timestamp": 1718642555000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Potential and Limits of Arabic Digital Humanities"
+    ],
+    "prefix": "10.22148",
+    "volume": "9",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5781-5564",
+        "authenticated-orcid": false,
+        "given": "Eid",
+        "family": "Mohamed",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/00yhnba62",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Qatar University"
+          }
+        ]
+      }
+    ],
+    "member": "9408",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "article-title": "Literature and Dogma",
+        "year": "1970",
+        "author": "Matthew Arnold",
+        "key": "ref1"
+      },
+      {
+        "article-title": "The Field of Cultural Production: Essays on Art and Literature",
+        "year": "1993",
+        "author": "Pierre Bourdieu",
+        "key": "ref2"
+      },
+      {
+        "article-title": "Selected Prose of T.S. Eliot",
+        "year": "2002",
+        "author": "T.S. Eliot",
+        "key": "ref3"
+      },
+      {
+        "article-title": "Antonio Gramsci Reader",
+        "year": "2014",
+        "author": "David Forgacs",
+        "key": "ref4"
+      },
+      {
+        "article-title": "The Foucault Effect : Studies in Governmentality : With Two Lectures by and an Interview with Michel Foucault",
+        "year": "1991",
+        "author": "Michel Foucault",
+        "key": "ref5"
+      },
+      {
+        "article-title": "Selections from the Prison Notebooks",
+        "year": "1971",
+        "author": "Antonio Gramsci",
+        "key": "ref6"
+      },
+      {
+        "article-title": "The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society",
+        "year": "1991",
+        "author": "Jürgen Habermas",
+        "key": "ref7"
+      },
+      {
+        "article-title": "Selected prose of T. S. Eliot",
+        "year": "1975",
+        "author": "Frank Kermode",
+        "key": "ref8"
+      },
+      {
+        "key": "ref9",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7312/hale18866",
+        "article-title": "Modern Things on Trial",
+        "author": "Leor Halevi",
+        "year": "2019",
+        "ISBN": "https://id.crossref.org/isbn/9780231547970"
+      },
+      {
+        "key": "ref10",
+        "isbn-type": "print",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9780822392385",
+        "article-title": "Missing : Youth, Citizenship, and Empire after 9/11",
+        "author": "Sunaina Maira",
+        "year": "2009",
+        "ISBN": "https://id.crossref.org/isbn/9780822392385"
+      },
+      {
+        "article-title": "The Machine in the Garden",
+        "year": "1964",
+        "author": "Leo Marx",
+        "key": "ref11"
+      },
+      {
+        "issue": "5",
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "first-page": "737",
+        "DOI": "10.1086/204560",
+        "article-title": "Cultural Citizenship as Subject-Making: Immigrants Negotiate Racial and Cultural Boundaries in the United States [and Comments and Reply]",
+        "volume": "37",
+        "author": "Aihwa Ong",
+        "year": "1996",
+        "journal-title": "Current Anthropology",
+        "ISSN": "https://id.crossref.org/issn/0011-3204",
+        "issn-type": "print"
+      },
+      {
+        "article-title": "Multicultural Politics: Racism, Ethnicity, and Muslims in Britain",
+        "year": "2006",
+        "author": "Tariq Modood",
+        "key": "ref13"
+      }
+    ],
+    "container-title": [
+      "Journal of Cultural Analytics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://culturalanalytics.org/article/116818-the-potential-and-limits-of-arabic-digital-humanities",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T22:50:21Z",
+      "timestamp": 1726181421000
+    },
+    "score": 44.094276,
+    "resource": {
+      "primary": {
+        "URL": "https://culturalanalytics.org/article/116818-the-potential-and-limits-of-arabic-digital-humanities"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.22148/001c.116818",
+    "ISSN": [
+      "2371-4549"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2371-4549"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          12
+        ]
+      ],
+      "date-time": "2025-08-12T22:35:13Z",
+      "timestamp": 1755038113032
+    },
+    "reference-count": 0,
+    "publisher": "University of Minnesota Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          30
+        ]
+      ]
+    },
+    "DOI": "10.5749/j.ctvg251hk.4",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2019-04-30T20:43:27Z",
+      "timestamp": 1556657007000
+    },
+    "page": "3-26",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Gender and Cultural Analytics:"
+    ],
+    "prefix": "10.5749",
+    "author": [
+      {
+        "given": "LAURA",
+        "family": "MANDELL",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "3779",
+    "container-title": [
+      "Debates in the Digital Humanities 2019"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2020-04-23T20:36:07Z",
+      "timestamp": 1587674167000
+    },
+    "score": 44.021553,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstor.org/stable/10.5749/j.ctvg251hk.4"
+      }
+    },
+    "subtitle": [
+      "Finding or Making Stereotypes?"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          30
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5749/j.ctvg251hk.4",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2024-05-08T17:48:58Z",
+      "timestamp": 1715190538201
+    },
+    "edition-number": "1",
+    "reference-count": 1,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "value": "9781315575278",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          22
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781315575278-11",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2018-10-21T23:52:47Z",
+      "timestamp": 1540165967000
+    },
+    "page": "153-166",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Digital humanities research needs from cultural heritage looking forward to 2025?"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Seamus",
+        "family": "Ross",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "reference": [
+      {
+        "key": "ref11",
+        "unstructured": "Allan, A. . 2015, Government Digital Records and Archives Review, www.gov.uk/government/publications/government-digital-records-and-archives-review-by-sir-alex-allan (completed 2014)."
+      }
+    ],
+    "container-title": [
+      "Cultural Heritage Infrastructures in Digital Humanities"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2021-04-05T04:12:08Z",
+      "timestamp": 1617595928000
+    },
+    "score": 43.977673,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781317156529/chapters/10.4324/9781315575278-11"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          22
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781315575278"
+    ],
+    "references-count": 1,
+    "URL": "https://doi.org/10.4324/9781315575278-11",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          21
+        ]
+      ],
+      "date-time": "2025-06-21T06:03:14Z",
+      "timestamp": 1750485794421,
+      "version": "3.40.3"
+    },
+    "reference-count": 0,
+    "publisher": "Amsterdam University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9789048531011"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              31
+            ]
+          ],
+          "date-time": "2017-12-31T00:00:00Z",
+          "timestamp": 1514678400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1515/9789048531011-006",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2018-10-11T10:42:31Z",
+      "timestamp": 1539254551000
+    },
+    "page": "55-68",
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "3. Cultural Analytics, Social Computing and Digital Humanities"
+    ],
+    "prefix": "10.1515",
+    "author": [
+      {
+        "given": "Lev",
+        "family": "Manovich",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "374",
+    "container-title": [
+      "The Datafied Society"
+    ],
+    "link": [
+      {
+        "URL": "https://www.degruyter.com/view/book/9789048531011/10.1515/9789048531011-006.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9789048531011-006/xml",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9789048531011-006/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          14
+        ]
+      ],
+      "date-time": "2025-02-14T13:17:30Z",
+      "timestamp": 1739539050000
+    },
+    "score": 42.773403,
+    "resource": {
+      "primary": {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9789048531011-006/html"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          31
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789048531011"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.1515/9789048531011-006",
+      "10.1515/9789048531011"
+    ],
+    "URL": "https://doi.org/10.1515/9789048531011-006",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          31
+        ]
+      ]
+    }
+  }
+]

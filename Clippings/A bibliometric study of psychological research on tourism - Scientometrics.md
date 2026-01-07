@@ -1,14 +1,30 @@
 ---
-title: A bibliometric study of psychological research on tourism - Scientometrics
-source: https://link.springer.com/article/10.1007/s11192-007-1952-0
-author: 
-published: 2008-09-17
-created: 2025-03-30
-description: The psychology of tourism is a new, multidisciplinary research field. However, no systematic analyses of the scientific production in this field have been
+title: "A bibliometric study of psychological research on tourism - Scientometrics"
+authors:
+  - Éric Archambault
+  - Étienne Vignola-Gagné
+  - Grégoire Côté
+  - Vincent Larivière
+  - Yves Gingrasb
+year: 2008
+type: document
+journal: Scientometrics
+doi: 10.1007/s11192-006-0115-z
+base: clippings
+source: Springer
 tags:
-  - research_method
   - bibliometrics
+issue: 3
+last_enrichment_run: 2025-08-20
+pages: 329-342
+updated: 2025-08-20
+url: https://doi.org/10.1007/s11192-006-0115-z
+volume: 68
+apa_citation: Éric Archambault et al., 2008
 ---
+
+[[Clippings/PDF/A bibliometric study of psychological research on tourism - Scientometrics.pdf]]
+
 ## References
 
 - Aksnes, D. W. (2003), Characteristics of highly cited papers. *Research Evaluation*, 12(3): 159–170.
@@ -33,19 +49,19 @@ tags:
 	[Article](https://doi.org/10.1023%2FA%3A1025048516769)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Science%20from%20the%20periphery%3A%20Collaboration%2C%20networks%20and%20%E2%80%9Cperiphery%20effects%E2%80%9D%20in%20the%20citation%20of%20New%20Zealand%20Crown%20Research%20Institutes%20articles%2C%201995%E2%80%932000&journal=Scientometrics&doi=10.1023%2FA%3A1025048516769&volume=57&issue=3&pages=321-337&publication_year=2003&author=Goldfinch%2CS.&author=Dale%2CT.&author=Derouen%2CK.)
 - Hart, R. L. (2007), Collaboration and article quality in the literature of academic librarianship. *Journal of Academic Librarianship*, 33(2): 190–195.
 	[Article](https://doi.org/10.1016%2Fj.acalib.2006.12.002)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Collaboration%20and%20article%20quality%20in%20the%20literature%20of%20academic%20librarianship&journal=Journal%20of%20Academic%20Librarianship&doi=10.1016%2Fj.acalib.2006.12.002&volume=33&issue=2&pages=190-195&publication_year=2007&author=Hart%2CR.%20L.)
-- Hicks, D. (1999), The difficulty of achieving full coverage of international social science literature and the bibliometric consequences. *Scientometrics*, 44(2): 193–215.  #op/buscar_rm  
+- Hicks, D. (1999), The difficulty of achieving full coverage of international social science literature and the bibliometric consequences. *Scientometrics*, 44(2): 193–215. #op/acc/buscar/buscar_rm
 	[Article](https://link.springer.com/doi/10.1007/BF02457380)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=1938725)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20difficulty%20of%20achieving%20full%20coverage%20of%20international%20social%20science%20literature%20and%20the%20bibliometric%20consequences&journal=Scientometrics&doi=10.1007%2FBF02457380&volume=44&issue=2&pages=193-215&publication_year=1999&author=Hicks%2CD.)
-- Katz, J. S., Hicks, D. (1997), How much is a collaboration worth? A calibrated bibliometric model. *Scientometrics*, 40(3): 541–554. 
+- Katz, J. S., Hicks, D. (1997), How much is a collaboration worth? A calibrated bibliometric model. *Scientometrics*, 40(3): 541–554.
 	[Article](https://link.springer.com/doi/10.1007/BF02459299)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20much%20is%20a%20collaboration%20worth%3F%20A%20calibrated%20bibliometric%20model&journal=Scientometrics&doi=10.1007%2FBF02459299&volume=40&issue=3&pages=541-554&publication_year=1997&author=Katz%2CJ.%20S.&author=Hicks%2CD.)
 - Leimu, R., Koricheva, J. (2005), Does scientific collaboration increase the impact of ecological articles? *Bioscience*, 55(5): 438–443.
 	[Article](https://doi.org/10.1641%2F0006-3568%282005%29055%5B0438%3ADSCITI%5D2.0.CO%3B2)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Does%20scientific%20collaboration%20increase%20the%20impact%20of%20ecological%20articles%3F&journal=Bioscience&doi=10.1641%2F0006-3568%282005%29055%5B0438%3ADSCITI%5D2.0.CO%3B2&volume=55&issue=5&pages=438-443&publication_year=2005&author=Leimu%2CR.&author=Koricheva%2CJ.)
-- Lotka, A. J. (1926), The frequency distribution of scientific productivity. *Journal of the Washington Academy of Sciences*, 16(12): 317–323. 
+- Lotka, A. J. (1926), The frequency distribution of scientific productivity. *Journal of the Washington Academy of Sciences*, 16(12): 317–323.
 	[Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20frequency%20distribution%20of%20scientific%20productivity&journal=Journal%20of%20the%20Washington%20Academy%20of%20Sciences&volume=16&issue=12&pages=317-323&publication_year=1926&author=Lotka%2CA.%20J.)
 - Mckercher, B., Law, R., Lam, T. (2006), Rating tourism and hospitality journals. *Tourism Management*, 27: 1235–1252.
 	[Article](https://doi.org/10.1016%2Fj.tourman.2005.06.008)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Rating%20tourism%20and%20hospitality%20journals&journal=Tourism%20Management&doi=10.1016%2Fj.tourman.2005.06.008&volume=27&pages=1235-1252&publication_year=2006&author=Mckercher%2CB.&author=Law%2CR.&author=Lam%2CT.)
 - Naranan, S. (1971), Power law relations in science bibliography-self-consistent interpretation. *Journal of Documentation*, 27(2): 83–97.
 	[Article](https://doi.org/10.1108%2Feb026510)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Power%20law%20relations%20in%20science%20bibliography-self-consistent%20interpretation&journal=Journal%20of%20Documentation&doi=10.1108%2Feb026510&volume=27&issue=2&pages=83-97&publication_year=1971&author=Naranan%2CS.)
-- Narin, F. (1976), *Evaluative Bibliometrics: The Use of Publication and Citation Analysis in the Evaluation of Scientific Activity*, Washington D.C.: National Science Foundation. #op/buscar_rm  #research_method 
+- Narin, F. (1976), *Evaluative Bibliometrics: The Use of Publication and Citation Analysis in the Evaluation of Scientific Activity*, Washington D.C.: National Science Foundation. #op/acc/buscar/buscar_rm
 	[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluative%20Bibliometrics%3A%20The%20Use%20of%20Publication%20and%20Citation%20Analysis%20in%20the%20Evaluation%20of%20Scientific%20Activity&publication_year=1976&author=Narin%2CF.)
 - Narin, F., Stevens, K. Whitlow, E. S. (1991), Scientific cooperation in Europe and the citation of multinationally authored papers. *Scientometrics*, 21(3): 313–323.
 	[Article](https://link.springer.com/doi/10.1007/BF02093973)  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scientific%20cooperation%20in%20Europe%20and%20the%20citation%20of%20multinationally%20authored%20papers&journal=Scientometrics&doi=10.1007%2FBF02093973&volume=21&issue=3&pages=313-323&publication_year=1991&author=Narin%2CF.&author=Stevens%2CK.&author=Whitlow%2CE.%20S.)

@@ -1,0 +1,1122 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T18:41:22Z",
+      "timestamp": 1648579282260
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          3,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1145/381766",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2007-01-17T18:32:02Z",
+      "timestamp": 1169058722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "2",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2007-02-13T20:56:13Z",
+      "timestamp": 1171400173000
+    },
+    "score": 41.54017,
+    "resource": {
+      "primary": {
+        "URL": "http://portal.acm.org/citation.cfm?doid=381766"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          3,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            3,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/381766",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T23:38:12Z",
+      "timestamp": 1648856292924
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1145/3131080",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2017-08-04T13:51:49Z",
+      "timestamp": 1501854709000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "17",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2017-08-04T13:51:49Z",
+      "timestamp": 1501854709000
+    },
+    "score": 41.432575,
+    "resource": {
+      "primary": {
+        "URL": "http://dl.acm.org/citation.cfm?doid=3131080"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            3
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/3131080",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T23:38:22Z",
+      "timestamp": 1649029102088
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1145/3040575",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2017-01-17T15:12:44Z",
+      "timestamp": 1484665964000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "16",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2017-01-17T15:12:44Z",
+      "timestamp": 1484665964000
+    },
+    "score": 41.4207,
+    "resource": {
+      "primary": {
+        "URL": "http://dl.acm.org/citation.cfm?doid=3040575"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            13
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/3040575",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T02:46:26Z",
+      "timestamp": 1649040386467
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1999,
+          9,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1145/333630",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2007-01-17T18:32:02Z",
+      "timestamp": 1169058722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "7",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2007-02-13T20:56:13Z",
+      "timestamp": 1171400173000
+    },
+    "score": 41.4207,
+    "resource": {
+      "primary": {
+        "URL": "http://portal.acm.org/citation.cfm?doid=333630"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          9,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1999,
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/333630",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1999,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T22:05:13Z",
+      "timestamp": 1648850713609
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1145/3325061",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2019-04-09T13:24:54Z",
+      "timestamp": 1554816294000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "19",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2019-04-09T13:24:54Z",
+      "timestamp": 1554816294000
+    },
+    "score": 41.4207,
+    "resource": {
+      "primary": {
+        "URL": "http://dl.acm.org/citation.cfm?doid=3325061"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            8
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/3325061",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T13:47:39Z",
+      "timestamp": 1648820859106
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1993,
+          9,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1145/381771",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2007-01-17T18:32:02Z",
+      "timestamp": 1169058722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "1",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2007-02-13T20:56:13Z",
+      "timestamp": 1171400173000
+    },
+    "score": 41.21376,
+    "resource": {
+      "primary": {
+        "URL": "http://portal.acm.org/citation.cfm?doid=381771"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1993,
+          9,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1993,
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/381771",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1993,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T13:37:24Z",
+      "timestamp": 1648906644853
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1145/297075",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2007-01-17T13:32:02Z",
+      "timestamp": 1169040722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "5",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2007-02-13T15:56:13Z",
+      "timestamp": 1171382173000
+    },
+    "score": 41.198135,
+    "resource": {
+      "primary": {
+        "URL": "http://portal.acm.org/citation.cfm?doid=297075"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/297075",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T03:47:34Z",
+      "timestamp": 1648698454275
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          9,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1145/570132",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2007-01-17T18:32:02Z",
+      "timestamp": 1169058722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "9",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2007-02-13T20:56:13Z",
+      "timestamp": 1171400173000
+    },
+    "score": 41.186638,
+    "resource": {
+      "primary": {
+        "URL": "http://portal.acm.org/citation.cfm?doid=570132"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          9,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/570132",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T10:02:57Z",
+      "timestamp": 1649152977576
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1996,
+          9,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1145/251560",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2007-01-17T18:32:02Z",
+      "timestamp": 1169058722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "4",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2007-02-13T20:56:13Z",
+      "timestamp": 1171400173000
+    },
+    "score": 41.15453,
+    "resource": {
+      "primary": {
+        "URL": "http://portal.acm.org/citation.cfm?doid=251560"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          9,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1996,
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/251560",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T22:12:58Z",
+      "timestamp": 1648937578465
+    },
+    "reference-count": 0,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIGAPP Appl. Comput. Rev."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          15
+        ]
+      ]
+    },
+    "DOI": "10.1145/3357385",
+    "type": "journal-issue",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          15
+        ]
+      ],
+      "date-time": "2019-08-15T18:59:02Z",
+      "timestamp": 1565895542000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "prefix": "10.1145",
+    "volume": "19",
+    "member": "320",
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          15
+        ]
+      ],
+      "date-time": "2019-08-15T18:59:02Z",
+      "timestamp": 1565895542000
+    },
+    "score": 41.12439,
+    "resource": {
+      "primary": {
+        "URL": "http://dl.acm.org/citation.cfm?doid=3357385"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          15
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            15
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1145/3357385",
+    "ISSN": [
+      "1559-6915"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-6915",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          15
+        ]
+      ]
+    }
+  }
+]

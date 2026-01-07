@@ -1,16 +1,54 @@
 ---
-title: "Usability Evaluation of a Knowledge Graph–Based Dementia Care Intelligent Recommender System: Mixed Methods Study"
-source: https://www.jmir.org/2023/1/e45788
-author:
-  - "[[Journal of Medical Internet Research]]"
-published: 26.09.2023
-created: 2025-03-18
-description: "Background: Knowledge graph–based recommender systems offer the possibility of meeting the personalized needs of people with dementia and their caregivers. However, the usability of such a recommender system remains unknown.Objective: This study aimed to evaluate the usability of a knowledge graph–based dementia care intelligent recommender system (DCIRS).Methods: We used a convergent mixed methods design to conduct the usability evaluation, including the collection of quantitative and qualitative data. Participants were recruited through social media advertisements. After 2 weeks of DCIRS use, feedback was collected with the Computer System Usability Questionnaire and semistructured interviews. Descriptive statistics were used to describe sociodemographic characteristics and questionnaire scores. Qualitative data were analyzed systematically using inductive thematic analysis.Results: A total of 56 caregivers were recruited. Quantitative data suggested that the DCIRS was easy for caregivers to use, and the mean questionnaire score was 2.14. Qualitative data showed that caregivers generally believed that the content of the DCIRS was professional, easy to understand, and instructive, and could meet users’ personalized needs; they were willing to continue to use it. However, the DCIRS also had some shortcomings. Functions that enable interactions between professionals and caregivers and that provide caregiver support and resource recommendations might be added to improve the system’s usability.Conclusions: The recommender system provides a solution to meet the personalized needs of people with dementia and their caregivers and has the potential to substantially improve health outcomes. The next step will be to optimize and update the recommender system based on caregivers’ suggestions and evaluate the effect of the application."
+authors:
+  - Minmin Leng
+  - Yue Sun
+  - Ce Li
+  - Shuyu Han
+  - Zhiwen Wang
+source: Manual
+type: journal-article
+base: clippings
+title: Usability Evaluation of a Knowledge Graph–Based Dementia Care Intelligent Recommender System Mixed Methods Study
+year: 2023
+journal: Journal of Medical Internet Research
+publisher: JMIR Publications Inc.
+volume: 25
+pages: e45788
+doi: 10.2196/45788
+url: https://doi.org/10.2196/45788
+last_enrichment_run: 2025-08-20
+updated: 2025-08-20
 tags:
-  - UX/usability
+  - design/UX/usability
   - Tech/KG
   - themes/health
-  - Tech/KG/Knowledge-graph-based-recommender-systems
+apa_citation: Minmin Leng et al., 2023
+---
+[[Clippings/PDF/Usability Evaluation of a Knowledge Graph–Based Dementia Care Intelligent Recommender System Mixed Methods Study.pdf]]
+
+---
+title: Usability Evaluation of a Knowledge Graph–Based Dementia Care Intelligent Recommender System: Mixed Methods Study
+source: https://www.jmir.org/2023/1/e45788
+published: 26.09.2023
+created: 2025-03-18
+description: Background: Knowledge graph–based recommender systems offer the possibility of meeting the personalized needs of people with dementia and their caregivers. However, the usability of such a recommender system remains unknown.Objective: This study aimed to evaluate the usability of a knowledge graph–based dementia care intelligent recommender system (DCIRS).Methods: We used a convergent mixed methods design to conduct the usability evaluation, including the collection of quantitative and qualitative data. Participants were recruited through social media advertisements. After 2 weeks of DCIRS use, feedback was collected with the Computer System Usability Questionnaire and semistructured interviews. Descriptive statistics were used to describe sociodemographic characteristics and questionnaire scores. Qualitative data were analyzed systematically using inductive thematic analysis.Results: A total of 56 caregivers were recruited. Quantitative data suggested that the DCIRS was easy for caregivers to use, and the mean questionnaire score was 2.14. Qualitative data showed that caregivers generally believed that the content of the DCIRS was professional, easy to understand, and instructive, and could meet users’ personalized needs; they were willing to continue to use it. However, the DCIRS also had some shortcomings. Functions that enable interactions between professionals and caregivers and that provide caregiver support and resource recommendations might be added to improve the system’s usability.Conclusions: The recommender system provides a solution to meet the personalized needs of people with dementia and their caregivers and has the potential to substantially improve health outcomes. The next step will be to optimize and update the recommender system based on caregivers’ suggestions and evaluate the effect of the application.
+year: 2023
+journal: Journal of Medical Internet Research
+doi: 10.2196/45788
+url: https://doi.org/10.2196/45788
+volume: 25
+pages: e45788
+publisher: JMIR Publications Inc.
+authors:
+  - Minmin Leng
+  - Yue Sun
+  - Ce Li
+  - Shuyu Han
+  - Zhiwen Wang
+abstract: Background
+last_enrichment_run: 2025-08-19
+updated: 2025-08-19
+type: journal-article
 ---
 #### Original Paper
 
@@ -50,7 +88,7 @@ Email: [wzwjing@sina.com](https://www.jmir.org/2023/1/)
 
 Background: #Tech/KG/Knowledge-graph-based-recommender-systems offer the possibility of meeting the personalized needs of people with dementia and their caregivers. However, the usability of such a recommender system remains unknown.  
 
-Objective: This study aimed to evaluate the #UX/usability of a knowledge graph–based dementia care intelligent recommender system (DCIRS).  
+Objective: This study aimed to evaluate the #design/UX/usability of a knowledge graph–based dementia care intelligent recommender system (DCIRS).  
 
 Methods: We used a convergent mixed methods design to conduct the usability evaluation, including the collection of quantitative and qualitative data. Participants were recruited through social media advertisements. After 2 weeks of DCIRS use, feedback was collected with the Computer System Usability Questionnaire and semistructured interviews. Descriptive statistics were used to describe sociodemographic characteristics and questionnaire scores. Qualitative data were analyzed systematically using inductive thematic analysis.  
 

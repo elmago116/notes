@@ -1,0 +1,612 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2025-03-28T05:09:21Z",
+    "timestamp": 1743138561925,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Cham",
+  "reference-count": 44,
+  "publisher": "Springer International Publishing",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9783030601133"
+    },
+    {
+      "type": "electronic",
+      "value": "9783030601140"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2020-01-01T00:00:00Z",
+        "timestamp": 1577836800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2020-01-01T00:00:00Z",
+        "timestamp": 1577836800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-030-60114-0_15",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        2
+      ]
+    ],
+    "date-time": "2020-10-02T13:04:26Z",
+    "timestamp": 1601643866000
+  },
+  "page": "211-233",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "The Aware User Experience Model, Its Method of Construction and Derived Heuristics"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1514-8000",
+      "authenticated-orcid": false,
+      "given": "Jorge",
+      "family": "Maya",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Natalia",
+      "family": "Ariza",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        3
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "15_CR1",
+      "unstructured": "A’ Design Awards: JawSaw Silver A’ (2012). https://competition.adesignaward.com/design.php?ID=23773"
+    },
+    {
+      "key": "15_CR2",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ajjawi, R., Higgs J.: Learning clinical reasoning: a journey of professional socialisation. Adv. Health Sci. Educ. https://doi.org/10.1007/s10459-006-9032-4",
+      "DOI": "10.1007/s10459-006-9032-4"
+    },
+    {
+      "key": "15_CR3",
+      "unstructured": "Amazon: WORX WG307 JawSaw 5 Amp Electric Chainsaw (2020). https://www.amazon.com/WORX-WG307-JawSaw-Electric-Chainsaw/dp/B004SF8L9A?ref_=ast_sto_dp"
+    },
+    {
+      "key": "15_CR4",
+      "unstructured": "APA: APA Dictionary of Psychology. American Psychological Association (2015)"
+    },
+    {
+      "key": "15_CR5",
+      "unstructured": "Ariza, N., Maya, J.: Proposal to identify the essential elements to construct a user experience model with the product using the thematic analysis technique In DS 77: Proceedings of the DESIGN 2014, 13th International Design Conference, Dubrovnik, Croatia, pp. 11–22 (2014a). ISSN 1847-9073"
+    },
+    {
+      "key": "15_CR6",
+      "unstructured": "Ariza, N., Maya, J.: Towards an empirical model of the UX: a factor Analysis study In: Proceedings of the 9th Design and Emotion Conference on the Colors of Care. Universidad de los Andes, Colombia, pp. 689–697 (2014b). ISBN 978-958-774-070-7"
+    },
+    {
+      "key": "15_CR7",
+      "unstructured": "Attractiveness: Cambridge Dictionary Online (n.d.). https://dictionary.cambridge.org/es/diccionario/ingles/attractiveness"
+    },
+    {
+      "issue": "2",
+      "key": "15_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "184",
+      "DOI": "10.1177/0092070399272005",
+      "volume": "27",
+      "author": "RP Bagozzi",
+      "year": "1999",
+      "unstructured": "Bagozzi, R.P., Gopinath, M., Nyer, P.U.: The role of emotions in marketing. Acad. Mark. J. 27(2), 184–206 (1999)",
+      "journal-title": "Acad. Mark. J."
+    },
+    {
+      "issue": "6",
+      "key": "15_CR9",
+      "first-page": "1",
+      "volume": "18",
+      "author": "AS Beavers",
+      "year": "2013",
+      "unstructured": "Beavers, A.S., Lounsbury, J.W., Richards, J.K., Huck, S.W., Skolits, G.J., Esquivel, S.L.: Practical considerations for using exploratory factor analysis in educational research. Pract. Assess. Res. Eval. 18(6), 1–13 (2013)",
+      "journal-title": "Pract. Assess. Res. Eval."
+    },
+    {
+      "key": "15_CR10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Berghman, M., Hekkert, P.: Towards a unified model of aesthetic pleasure in design. New Ideas Psychol. 47, 136–144 (2017). http://dx.doi.org/10.1016/j.newideapsych.2017.03.004",
+      "DOI": "10.1016/j.newideapsych.2017.03.004"
+    },
+    {
+      "key": "15_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "77",
+      "DOI": "10.1191/1478088706qp063oa",
+      "volume": "3",
+      "author": "V Braun",
+      "year": "2006",
+      "unstructured": "Braun, V., Clarke, V.: Using thematic analysis in psychology. Qual. Res. Psychol. 3, 77–101 (2006)",
+      "journal-title": "Qual. Res. Psychol."
+    },
+    {
+      "key": "15_CR12",
+      "volume-title": "Qualitative Inquiry and Research Design: Choosing Among Five Traditions",
+      "author": "JW Creswell",
+      "year": "2007",
+      "unstructured": "Creswell, J.W.: Qualitative Inquiry and Research Design: Choosing Among Five Traditions, 2nd edn. Sage, Thousand Oaks (2007)",
+      "edition": "2"
+    },
+    {
+      "key": "15_CR13",
+      "volume-title": "Qualitative Inquiry and Research Design: Choosing Among Five Approaches",
+      "author": "JW Creswell",
+      "year": "2013",
+      "unstructured": "Creswell, J.W.: Qualitative Inquiry and Research Design: Choosing Among Five Approaches, 3rd edn. Sage, Thousand Oaks (2013)",
+      "edition": "3"
+    },
+    {
+      "issue": "2",
+      "key": "15_CR14",
+      "first-page": "41",
+      "volume": "3",
+      "author": "E Demir",
+      "year": "2009",
+      "unstructured": "Demir, E., Desmet, P., Hekkert, P.: Appraisal patterns of emotions in human-product interaction. Int. J. Des. 3(2), 41–45 (2009)",
+      "journal-title": "Int. J. Des."
+    },
+    {
+      "key": "15_CR15",
+      "volume-title": "Facial Action Coding System: A Technique for the Measurement of Facial Movement",
+      "author": "P Ekman",
+      "year": "1978",
+      "unstructured": "Ekman, P., Friesen, W.: Facial Action Coding System: A Technique for the Measurement of Facial Movement. Consulting Psychologists Press, Palo Alto (1978)"
+    },
+    {
+      "key": "15_CR16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7551/mitpress/5657.001.0001",
+      "volume-title": "Protocol Analysis: Verbal Reports as Data",
+      "author": "KA Ericsson",
+      "year": "1993",
+      "unstructured": "Ericsson, K.A., Simon, H.A.: Protocol Analysis: Verbal Reports as Data. Bradford Books/MIT Press, Cambridge (1993)"
+    },
+    {
+      "key": "15_CR17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/0470013192",
+      "volume-title": "Encyclopedia of Statistics in Behavioral Science",
+      "author": "B Everitt",
+      "year": "2005",
+      "unstructured": "Everitt, B., Howell, S., David, C.: Encyclopedia of Statistics in Behavioral Science. Wiley, New York (2005)"
+    },
+    {
+      "key": "15_CR18",
+      "unstructured": "Field, A.: Discovering Statistics Using SPSS. Sage Publications (2009)"
+    },
+    {
+      "key": "15_CR19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Forlizzi, J., Ford, S.: The building blocks of experience: an early framework for interaction designers. In: Proceedings of the 3rd Conference on Designing Interactive Systems: Processes, Practices, Methods, and Techniques, pp. 419–423 (2000)",
+      "DOI": "10.1145/347642.347800"
+    },
+    {
+      "key": "15_CR21",
+      "volume-title": "The Oxford Companion to Emotion and the Affective Sciences",
+      "author": "N Fridja",
+      "year": "2009",
+      "unstructured": "Fridja, N.: Mood. In: Sander, D., Scherer, K. (eds.) The Oxford Companion to Emotion and the Affective Sciences. Oxford University Press, Oxford (2009a)"
+    },
+    {
+      "key": "15_CR22",
+      "volume-title": "The Oxford Companion to Emotion and the Affective Sciences",
+      "author": "N Fridja",
+      "year": "2009",
+      "unstructured": "Fridja, N.: Concerns. In: Sander, D., Scherer, K. (eds.) The Oxford Companion to Emotion and the Affective Sciences. Oxford University Press, Oxford (2009b)"
+    },
+    {
+      "issue": "2–3",
+      "key": "15_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "345",
+      "DOI": "10.1080/09544820903364912",
+      "volume": "21",
+      "author": "J Goodman-Deane",
+      "year": "2010",
+      "unstructured": "Goodman-Deane, J., Langdon, P., Clarkson, J.: Key influences on the user-centred design process. J. Eng. Des. 21(2–3), 345–373 (2010)",
+      "journal-title": "J. Eng. Des."
+    },
+    {
+      "key": "15_CR25",
+      "unstructured": "Gopnik, A.: Theory of mind. In: Wilson, R.A., Keil, F.C. (eds.) The MIT Encyclopedia of the Cognitive Sciences. MIT Press (2001)"
+    },
+    {
+      "key": "15_CR26",
+      "volume-title": "Handbook of Quantitative Methodology for the Social Sciences",
+      "author": "RH Hoyle",
+      "year": "2004",
+      "unstructured": "Hoyle, R.H., Duvall, J.L.: Determining the number of factors in exploratory and confirmatory factor analysis. In: Kaplan, D. (ed.) Handbook of Quantitative Methodology for the Social Sciences. Sage, Thousand Oaks (2004)"
+    },
+    {
+      "key": "15_CR27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Husserl, E.: Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy. Trans. F. Kersten. The Hague: Nijhoff (1982)",
+      "DOI": "10.1007/978-94-009-7445-6"
+    },
+    {
+      "key": "15_CR28",
+      "first-page": "102",
+      "volume-title": "Handbook of Personality: Theory and Research",
+      "author": "OP John",
+      "year": "1999",
+      "unstructured": "John, O.P., Srivastava, S.: The big-five trait taxonomy: history, measurement, and theoretical perspectives. In: Pervin, L.A., John, O.P. (eds.) Handbook of Personality: Theory and Research, vol. 2, pp. 102–138. Guilford Press, New York (1999)"
+    },
+    {
+      "key": "15_CR29",
+      "unstructured": "Jordan, P.W.: Designing Pleasurable Products: An Introduction to the New Human Factors. CRC Press (2002)"
+    },
+    {
+      "key": "15_CR30",
+      "volume-title": "The Sage Encyclopedia of Qualitative Research Methods",
+      "author": "K Knafl",
+      "year": "2008",
+      "unstructured": "Knafl, K.: Cognitive Interview. In: Given, L. (ed.) The Sage Encyclopedia of Qualitative Research Methods. Sage, Los Angeles (2008)"
+    },
+    {
+      "issue": "1",
+      "key": "15_CR31",
+      "first-page": "74",
+      "volume": "17",
+      "author": "K Lee",
+      "year": "2005",
+      "unstructured": "Lee, K., Xu, F., Carlson, S.M., Moses, L.J., Sabbagh, M.A.: The development of executive functioning and theory of mind: a comparison of Chinese and US preschoolers. Psychol. Sci. 17(1), 74–81 (2005)",
+      "journal-title": "Psychol. Sci."
+    },
+    {
+      "key": "15_CR33",
+      "unstructured": "Lindquist, K.A., Feldman-Barrett, L.F.: Emotional complexity. In: Lewis, M., Haviland-Jones, J.M., Feldman-Barret, L.F. (eds.) Handbook of Emotions, 3rd edn. The Guilford Press (2008)"
+    },
+    {
+      "key": "15_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "68",
+      "DOI": "10.1016/j.dcn.2014.01.002",
+      "volume": "9",
+      "author": "CEV Mahy",
+      "year": "2014",
+      "unstructured": "Mahy, C.E.V., Moses, L.J., Pfeifer, J.H.: How and where: Theory- of-mind in the brain. Dev. Cogn. Neurosci. 9, 68–81 (2014)",
+      "journal-title": "Dev. Cogn. Neurosci."
+    },
+    {
+      "key": "15_CR35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781412985116",
+      "volume-title": "Monte Carlo Simulation",
+      "author": "CZ Mooney",
+      "year": "1997",
+      "unstructured": "Mooney, C.Z.: Monte Carlo Simulation. Sage, Thousand Oaks (1997)"
+    },
+    {
+      "key": "15_CR37",
+      "unstructured": "Natsoulas, T.: Stream of consciousness. In: Nadel, L. (ed.) Encylopedia of Cognitive Science. Wiley (2005)"
+    },
+    {
+      "key": "15_CR38",
+      "unstructured": "Newell, A., Simon, H.A.: Human Problem Solving, vol. 104. Prentice-Hall Englewood Cliffs (1972)"
+    },
+    {
+      "key": "15_CR39",
+      "unstructured": "Ortiz Nicolas, J.C.: Understanding and designing pleasant experiences with products. Ph.D. thesis, The Imperial College, London (2014)"
+    },
+    {
+      "key": "15_CR41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Revonsuo, A.: Consciousness: the Science of Subjectivity. Psychology Press (2009)",
+      "DOI": "10.4324/9780203859605"
+    },
+    {
+      "key": "15_CR42",
+      "volume-title": "The Oxford Companion to Emotion and the Affective Sciences",
+      "author": "MD Robinson",
+      "year": "2009",
+      "unstructured": "Robinson, M.D.: Self-Report. In: Sander, D., Scherer, K. (eds.) The Oxford Companion to Emotion and the Affective Sciences. Oxford University Press, Oxford (2009)"
+    },
+    {
+      "key": "15_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "201",
+      "DOI": "10.5840/philtopics20002821",
+      "volume": "28",
+      "author": "DM Rosenthal",
+      "year": "2001",
+      "unstructured": "Rosenthal, D.M.: Introspection and self-interpretation. Philos. Top. 28, 201–233 (2001)",
+      "journal-title": "Philos. Top."
+    },
+    {
+      "key": "15_CR45",
+      "volume-title": "Life and How to Survive It",
+      "author": "R Skynner",
+      "year": "1996",
+      "unstructured": "Skynner, R., Cleese, J.: Life and How to Survive It. W. W. Norton & Company, London (1996)"
+    },
+    {
+      "key": "15_CR47",
+      "unstructured": "The Chainsaw Journal: JawSaw was the best chainsaw alternative (2020). https://www.chainsawjournal.com/worx-jawsaw-review-the-safer-chainsaw/"
+    },
+    {
+      "issue": "6",
+      "key": "15_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "631",
+      "DOI": "10.1080/1463922X.2015.1089019",
+      "volume": "16",
+      "author": "L Tonetto",
+      "year": "2015",
+      "unstructured": "Tonetto, L., Tamminen, P.: Understanding the role of intuition in decision-making when designing for experiences: contributions from cognitive psychology. Theor. Issues Ergon. Sci. 16(6), 631–642 (2015)",
+      "journal-title": "Theor. Issues Ergon. Sci."
+    },
+    {
+      "key": "15_CR49",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Velmans, M.: Understanding Consciousness. Routledge (2009)",
+      "DOI": "10.4324/9780203882726"
+    },
+    {
+      "key": "15_CR50",
+      "volume-title": "Researching Lived Experience: Human Science for an Action Sensitive Pedagogy",
+      "author": "M van Manen",
+      "year": "1990",
+      "unstructured": "van Manen, M.: Researching Lived Experience: Human Science for an Action Sensitive Pedagogy. Althouse Press, London (1990)"
+    },
+    {
+      "key": "15_CR51",
+      "unstructured": "Worx: WORX WG307 JawSaw 5 Amp Electric Chainsaw (2020). https://www.worx.com/jawsaw-chainsaw-wg307.html"
+    }
+  ],
+  "container-title": [
+    "Lecture Notes in Computer Science",
+    "HCI International 2020 - Late Breaking Papers: User Experience Design and Case Studies"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-3-030-60114-0_15",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        2
+      ]
+    ],
+    "date-time": "2024-10-02T00:03:35Z",
+    "timestamp": 1727827415000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-3-030-60114-0_15"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783030601133",
+    "9783030601140"
+  ],
+  "references-count": 44,
+  "URL": "https://doi.org/10.1007/978-3-030-60114-0_15",
+  "relation": {},
+  "ISSN": [
+    "0302-9743",
+    "1611-3349"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0302-9743"
+    },
+    {
+      "type": "electronic",
+      "value": "1611-3349"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "3 October 2020",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    },
+    {
+      "value": "HCII",
+      "order": 1,
+      "name": "conference_acronym",
+      "label": "Conference Acronym",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "International Conference on Human-Computer Interaction",
+      "order": 2,
+      "name": "conference_name",
+      "label": "Conference Name",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Copenhagen",
+      "order": 3,
+      "name": "conference_city",
+      "label": "Conference City",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Denmark",
+      "order": 4,
+      "name": "conference_country",
+      "label": "Conference Country",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "2020",
+      "order": 5,
+      "name": "conference_year",
+      "label": "Conference Year",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "19 July 2020",
+      "order": 7,
+      "name": "conference_start_date",
+      "label": "Conference Start Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "24 July 2020",
+      "order": 8,
+      "name": "conference_end_date",
+      "label": "Conference End Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "22",
+      "order": 9,
+      "name": "conference_number",
+      "label": "Conference Number",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "hcii2020",
+      "order": 10,
+      "name": "conference_id",
+      "label": "Conference ID",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "http://2020.hci.international/",
+      "order": 11,
+      "name": "conference_url",
+      "label": "Conference URL",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "This content has been made available to all.",
+      "name": "free",
+      "label": "Free to read"
+    }
+  ]
+}

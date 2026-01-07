@@ -1,0 +1,367 @@
+{
+  "id": "https://openalex.org/W4248249310",
+  "doi": "https://doi.org/10.1145/381766",
+  "title": null,
+  "display_name": null,
+  "publication_year": 1994,
+  "publication_date": "1994-03-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4248249310",
+    "doi": "https://doi.org/10.1145/381766"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/381766",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210202865",
+      "display_name": "ACM SIGAPP Applied Computing Review",
+      "issn_l": "1559-6915",
+      "issn": [
+        "1559-6915",
+        "1931-0161"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319798",
+      "host_organization_name": "Association for Computing Machinery",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319798"
+      ],
+      "host_organization_lineage_names": [
+        "Association for Computing Machinery"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "paratext",
+  "type_crossref": "journal-issue",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 53
+  },
+  "biblio": {
+    "volume": "2",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": true,
+  "primary_topic": {
+    "id": "https://openalex.org/T14086",
+    "display_name": "Military and Defense Studies",
+    "score": 0.8757,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3320",
+      "display_name": "Political Science and International Relations"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14086",
+      "display_name": "Military and Defense Studies",
+      "score": 0.8757,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12825",
+      "display_name": "Defense, Military, and Policy Studies",
+      "score": 0.7938,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/interim",
+      "display_name": "Interim",
+      "score": 0.88007116
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776957806",
+      "wikidata": "https://www.wikidata.org/wiki/Q4895105",
+      "display_name": "Interim",
+      "level": 2,
+      "score": 0.88007116
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.6196003
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.4933187
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.25438648
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.23403221
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.10821593
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/381766",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210202865",
+        "display_name": "ACM SIGAPP Applied Computing Review",
+        "issn_l": "1559-6915",
+        "issn": [
+          "1559-6915",
+          "1931-0161"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319798",
+        "host_organization_name": "Association for Computing Machinery",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319798"
+        ],
+        "host_organization_lineage_names": [
+          "Association for Computing Machinery"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W64094104",
+    "https://openalex.org/W4242296308",
+    "https://openalex.org/W4239271673",
+    "https://openalex.org/W3140988586",
+    "https://openalex.org/W2901809887",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2738233028",
+    "https://openalex.org/W2276233017",
+    "https://openalex.org/W2059665379",
+    "https://openalex.org/W1969630132"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "paper": [
+      1
+    ],
+    "explains": [
+      2
+    ],
+    "the": [
+      3,
+      12,
+      24,
+      39
+    ],
+    "rationale": [
+      4
+    ],
+    "for": [
+      5
+    ],
+    "Interim": [
+      6
+    ],
+    "Defence": [
+      7
+    ],
+    "Standard": [
+      8
+    ],
+    "00-56": [
+      9
+    ],
+    "and": [
+      10
+    ],
+    "discusses": [
+      11
+    ],
+    "benefits": [
+      13
+    ],
+    "of": [
+      14,
+      41
+    ],
+    "its": [
+      15
+    ],
+    "use.": [
+      16
+    ],
+    "The": [
+      17
+    ],
+    "Standard,": [
+      18
+    ],
+    "which": [
+      19
+    ],
+    "has": [
+      20
+    ],
+    "found": [
+      21
+    ],
+    "favour": [
+      22
+    ],
+    "in": [
+      23,
+      38
+    ],
+    "UK": [
+      25
+    ],
+    "civil": [
+      26
+    ],
+    "sector": [
+      27
+    ],
+    "as": [
+      28,
+      30
+    ],
+    "well": [
+      29
+    ],
+    "being": [
+      31
+    ],
+    "applied": [
+      32
+    ],
+    "to": [
+      33
+    ],
+    "military": [
+      34
+    ],
+    "systems,": [
+      35
+    ],
+    "is": [
+      36
+    ],
+    "considered": [
+      37
+    ],
+    "context": [
+      40
+    ],
+    "...": [
+      42
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4248249310",
+  "counts_by_year": [],
+  "updated_date": "2025-01-26T02:14:16.815443",
+  "created_date": "2022-05-12"
+}

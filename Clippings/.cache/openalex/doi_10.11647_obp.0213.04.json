@@ -1,0 +1,847 @@
+{
+  "id": "https://openalex.org/W4250255799",
+  "doi": "https://doi.org/10.11647/obp.0213.04",
+  "title": "4. Kitting the Digital Humanities for the Anthropocene",
+  "display_name": "4. Kitting the Digital Humanities for the Anthropocene",
+  "publication_year": 2021,
+  "publication_date": "2021-03-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4250255799",
+    "doi": "https://doi.org/10.11647/obp.0213.04"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.11647/obp.0213.04",
+    "pdf_url": "https://www.openbookpublishers.com/10.11647/OBP.0213.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306463697",
+      "display_name": "Open Book Publishers",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "ebook platform"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "book-chapter",
+  "type_crossref": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.openbookpublishers.com/10.11647/OBP.0213.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044231062",
+        "display_name": "Amanda Starling Gould",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Amanda Starling Gould",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5044231062"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 2.001,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.79041,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 56,
+    "max": 65
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "93",
+    "last_page": "110"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11420",
+    "display_name": "Geographies of human-animal interactions",
+    "score": 0.933,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3305",
+      "display_name": "Geography, Planning and Development"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11420",
+      "display_name": "Geographies of human-animal interactions",
+      "score": 0.933,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3305",
+        "display_name": "Geography, Planning and Development"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10803",
+      "display_name": "Innovative Human-Technology Interaction",
+      "score": 0.9326,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/anthropocene",
+      "display_name": "Anthropocene",
+      "score": 0.9044431
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-humanities",
+      "display_name": "Digital Humanities",
+      "score": 0.6943539
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C128370203",
+      "wikidata": "https://www.wikidata.org/wiki/Q26841",
+      "display_name": "Anthropocene",
+      "level": 2,
+      "score": 0.9044431
+    },
+    {
+      "id": "https://openalex.org/C24351657",
+      "wikidata": "https://www.wikidata.org/wiki/Q1026962",
+      "display_name": "Digital humanities",
+      "level": 2,
+      "score": 0.6943539
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.5654356
+    },
+    {
+      "id": "https://openalex.org/C9652623",
+      "wikidata": "https://www.wikidata.org/wiki/Q190109",
+      "display_name": "Field (mathematics)",
+      "level": 2,
+      "score": 0.55762607
+    },
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.4730196
+    },
+    {
+      "id": "https://openalex.org/C15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "level": 1,
+      "score": 0.46428907
+    },
+    {
+      "id": "https://openalex.org/C95124753",
+      "wikidata": "https://www.wikidata.org/wiki/Q875686",
+      "display_name": "Environmental ethics",
+      "level": 1,
+      "score": 0.35476005
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.29989552
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.23544574
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.19846088
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.13486058
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.07599765
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.11647/obp.0213.04",
+      "pdf_url": "https://www.openbookpublishers.com/10.11647/OBP.0213.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306463697",
+        "display_name": "Open Book Publishers",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "ebook platform"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.11647/obp.0213.04",
+    "pdf_url": "https://www.openbookpublishers.com/10.11647/OBP.0213.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306463697",
+      "display_name": "Open Book Publishers",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "ebook platform"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.78,
+      "display_name": "Quality education"
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320319946",
+      "funder_display_name": "University of Alberta",
+      "award_id": null
+    }
+  ],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 216,
+  "referenced_works": [
+    "https://openalex.org/W1104439249",
+    "https://openalex.org/W1141618208",
+    "https://openalex.org/W114384891",
+    "https://openalex.org/W1488737999",
+    "https://openalex.org/W1506553119",
+    "https://openalex.org/W1513129064",
+    "https://openalex.org/W15156682",
+    "https://openalex.org/W1517087321",
+    "https://openalex.org/W1517172322",
+    "https://openalex.org/W1520265730",
+    "https://openalex.org/W1529361470",
+    "https://openalex.org/W1556322205",
+    "https://openalex.org/W1559481277",
+    "https://openalex.org/W1562728768",
+    "https://openalex.org/W1577507374",
+    "https://openalex.org/W1582566591",
+    "https://openalex.org/W1602775671",
+    "https://openalex.org/W1738145612",
+    "https://openalex.org/W1842556998",
+    "https://openalex.org/W1880174539",
+    "https://openalex.org/W1920058731",
+    "https://openalex.org/W1934325611",
+    "https://openalex.org/W1972428538",
+    "https://openalex.org/W1973043734",
+    "https://openalex.org/W1973565152",
+    "https://openalex.org/W1976345684",
+    "https://openalex.org/W1980801909",
+    "https://openalex.org/W1983424777",
+    "https://openalex.org/W1986629985",
+    "https://openalex.org/W1988981622",
+    "https://openalex.org/W1995848365",
+    "https://openalex.org/W2005307596",
+    "https://openalex.org/W2005314946",
+    "https://openalex.org/W2007038222",
+    "https://openalex.org/W2011624434",
+    "https://openalex.org/W2014790997",
+    "https://openalex.org/W2017733925",
+    "https://openalex.org/W2033506826",
+    "https://openalex.org/W2035232611",
+    "https://openalex.org/W2035641532",
+    "https://openalex.org/W2039517530",
+    "https://openalex.org/W2040481421",
+    "https://openalex.org/W2043274527",
+    "https://openalex.org/W2046253210",
+    "https://openalex.org/W2046327163",
+    "https://openalex.org/W2048273197",
+    "https://openalex.org/W2048764959",
+    "https://openalex.org/W2051121127",
+    "https://openalex.org/W2053490841",
+    "https://openalex.org/W2055854942",
+    "https://openalex.org/W2055978850",
+    "https://openalex.org/W2060422401",
+    "https://openalex.org/W2063357172",
+    "https://openalex.org/W2066255432",
+    "https://openalex.org/W2068746655",
+    "https://openalex.org/W2069046311",
+    "https://openalex.org/W2071799697",
+    "https://openalex.org/W2072114035",
+    "https://openalex.org/W2074462244",
+    "https://openalex.org/W2079238586",
+    "https://openalex.org/W2080905066",
+    "https://openalex.org/W2087064710",
+    "https://openalex.org/W2087628652",
+    "https://openalex.org/W2089055117",
+    "https://openalex.org/W2094241421",
+    "https://openalex.org/W2099330597",
+    "https://openalex.org/W2100365338",
+    "https://openalex.org/W2101191756",
+    "https://openalex.org/W2102547396",
+    "https://openalex.org/W2105414963",
+    "https://openalex.org/W2106965099",
+    "https://openalex.org/W2107236911",
+    "https://openalex.org/W2112509895",
+    "https://openalex.org/W2114720886",
+    "https://openalex.org/W2120931247",
+    "https://openalex.org/W2120953919",
+    "https://openalex.org/W2122511775",
+    "https://openalex.org/W2126320505",
+    "https://openalex.org/W2131532072",
+    "https://openalex.org/W2132729131",
+    "https://openalex.org/W2139274755",
+    "https://openalex.org/W2140631583",
+    "https://openalex.org/W2142452004",
+    "https://openalex.org/W2143169331",
+    "https://openalex.org/W2145912399",
+    "https://openalex.org/W2158393623",
+    "https://openalex.org/W2160334111",
+    "https://openalex.org/W2167998349",
+    "https://openalex.org/W2171484617",
+    "https://openalex.org/W2181995626",
+    "https://openalex.org/W2225550828",
+    "https://openalex.org/W2226396244",
+    "https://openalex.org/W2233238070",
+    "https://openalex.org/W2235208287",
+    "https://openalex.org/W2250513429",
+    "https://openalex.org/W2279278412",
+    "https://openalex.org/W2286884139",
+    "https://openalex.org/W2287610801",
+    "https://openalex.org/W2300228474",
+    "https://openalex.org/W2302437148",
+    "https://openalex.org/W2316100122",
+    "https://openalex.org/W2319173765",
+    "https://openalex.org/W2320335447",
+    "https://openalex.org/W2321680367",
+    "https://openalex.org/W2322646769",
+    "https://openalex.org/W2323469476",
+    "https://openalex.org/W2325205806",
+    "https://openalex.org/W2326327168",
+    "https://openalex.org/W2326921724",
+    "https://openalex.org/W2341223996",
+    "https://openalex.org/W2342629064",
+    "https://openalex.org/W2344302567",
+    "https://openalex.org/W2418135444",
+    "https://openalex.org/W2481538024",
+    "https://openalex.org/W2489183325",
+    "https://openalex.org/W2501145764",
+    "https://openalex.org/W2503476286",
+    "https://openalex.org/W2516632928",
+    "https://openalex.org/W2519217428",
+    "https://openalex.org/W2526275261",
+    "https://openalex.org/W2530825605",
+    "https://openalex.org/W2537526695",
+    "https://openalex.org/W2540834101",
+    "https://openalex.org/W2549537750",
+    "https://openalex.org/W2550392136",
+    "https://openalex.org/W2582846779",
+    "https://openalex.org/W2584725464",
+    "https://openalex.org/W2592705825",
+    "https://openalex.org/W2617024739",
+    "https://openalex.org/W2645794102",
+    "https://openalex.org/W2670396183",
+    "https://openalex.org/W2736007343",
+    "https://openalex.org/W2743192077",
+    "https://openalex.org/W2751469090",
+    "https://openalex.org/W2756578454",
+    "https://openalex.org/W2757893800",
+    "https://openalex.org/W2761622777",
+    "https://openalex.org/W2767994293",
+    "https://openalex.org/W2791343022",
+    "https://openalex.org/W2793315650",
+    "https://openalex.org/W2793814093",
+    "https://openalex.org/W2796233668",
+    "https://openalex.org/W2801050760",
+    "https://openalex.org/W2806569362",
+    "https://openalex.org/W2889447383",
+    "https://openalex.org/W2891194213",
+    "https://openalex.org/W2898970033",
+    "https://openalex.org/W2903667457",
+    "https://openalex.org/W2904519906",
+    "https://openalex.org/W2904881181",
+    "https://openalex.org/W2910305247",
+    "https://openalex.org/W2911288368",
+    "https://openalex.org/W2927910461",
+    "https://openalex.org/W2944544918",
+    "https://openalex.org/W2990474324",
+    "https://openalex.org/W2994166944",
+    "https://openalex.org/W2995668814",
+    "https://openalex.org/W3007950818",
+    "https://openalex.org/W3010380299",
+    "https://openalex.org/W3022125918",
+    "https://openalex.org/W3023851790",
+    "https://openalex.org/W3035996346",
+    "https://openalex.org/W3043456961",
+    "https://openalex.org/W3083879864",
+    "https://openalex.org/W3126143484",
+    "https://openalex.org/W3141719009",
+    "https://openalex.org/W3210040652",
+    "https://openalex.org/W4205133526",
+    "https://openalex.org/W4205574478",
+    "https://openalex.org/W4206757885",
+    "https://openalex.org/W4210511639",
+    "https://openalex.org/W4213023609",
+    "https://openalex.org/W4214946596",
+    "https://openalex.org/W4230426872",
+    "https://openalex.org/W4230653741",
+    "https://openalex.org/W4231979658",
+    "https://openalex.org/W4232650233",
+    "https://openalex.org/W4233444035",
+    "https://openalex.org/W4233798822",
+    "https://openalex.org/W4234136926",
+    "https://openalex.org/W4234432948",
+    "https://openalex.org/W4235281224",
+    "https://openalex.org/W4235414329",
+    "https://openalex.org/W4236167522",
+    "https://openalex.org/W4238074437",
+    "https://openalex.org/W4238916316",
+    "https://openalex.org/W4239820797",
+    "https://openalex.org/W4240335770",
+    "https://openalex.org/W4240700863",
+    "https://openalex.org/W4241967359",
+    "https://openalex.org/W4242610744",
+    "https://openalex.org/W4245459658",
+    "https://openalex.org/W4245657762",
+    "https://openalex.org/W4246124577",
+    "https://openalex.org/W4246848029",
+    "https://openalex.org/W4247162510",
+    "https://openalex.org/W4247978908",
+    "https://openalex.org/W4251826652",
+    "https://openalex.org/W4253215571",
+    "https://openalex.org/W4254274555",
+    "https://openalex.org/W4254892045",
+    "https://openalex.org/W4255118779",
+    "https://openalex.org/W4255501139",
+    "https://openalex.org/W4255651862",
+    "https://openalex.org/W4256261821",
+    "https://openalex.org/W4256381951",
+    "https://openalex.org/W4289887261",
+    "https://openalex.org/W4302612996",
+    "https://openalex.org/W4385530276",
+    "https://openalex.org/W4391202349",
+    "https://openalex.org/W562497562",
+    "https://openalex.org/W617590189",
+    "https://openalex.org/W618683768",
+    "https://openalex.org/W654350894",
+    "https://openalex.org/W806933157",
+    "https://openalex.org/W861969744"
+  ],
+  "related_works": [
+    "https://openalex.org/W3209845911",
+    "https://openalex.org/W3158594512",
+    "https://openalex.org/W3039924717",
+    "https://openalex.org/W3024684631",
+    "https://openalex.org/W2946120995",
+    "https://openalex.org/W2904536332",
+    "https://openalex.org/W2784080984",
+    "https://openalex.org/W2476559208",
+    "https://openalex.org/W2332325082",
+    "https://openalex.org/W2324707143"
+  ],
+  "abstract_inverted_index": {
+    "As": [
+      0
+    ],
+    "our": [
+      1,
+      29,
+      57,
+      68,
+      86,
+      96,
+      106
+    ],
+    "landscapes": [
+      2
+    ],
+    "of": [
+      3,
+      28,
+      48,
+      56,
+      67
+    ],
+    "digital": [
+      4,
+      30
+    ],
+    "stuff": [
+      5
+    ],
+    "continue": [
+      6
+    ],
+    "to": [
+      7,
+      24,
+      42,
+      53,
+      94,
+      104
+    ],
+    "expand": [
+      8
+    ],
+    "and": [
+      9,
+      61,
+      101
+    ],
+    "connect,": [
+      10
+    ],
+    "it": [
+      11,
+      37,
+      84
+    ],
+    "is": [
+      12,
+      33,
+      51,
+      74
+    ],
+    "imperative": [
+      13
+    ],
+    "we": [
+      14
+    ],
+    "devise": [
+      15
+    ],
+    "a": [
+      16,
+      44
+    ],
+    "toolkit": [
+      17
+    ],
+    "for": [
+      18,
+      108
+    ],
+    "thinking": [
+      19
+    ],
+    "(and": [
+      20
+    ],
+    "doing)": [
+      21
+    ],
+    "that": [
+      22,
+      50,
+      62
+    ],
+    "tends": [
+      23
+    ],
+    "the": [
+      25,
+      54,
+      64,
+      90
+    ],
+    "environmental": [
+      26,
+      72,
+      99
+    ],
+    "pulses": [
+      27
+    ],
+    "condition.": [
+      31
+    ],
+    "It": [
+      32
+    ],
+    "time": [
+      34
+    ],
+    "now,": [
+      35
+    ],
+    "if": [
+      36
+    ],
+    "isn’t": [
+      38
+    ],
+    "already": [
+      39
+    ],
+    "too": [
+      40
+    ],
+    "late,": [
+      41
+    ],
+    "enact": [
+      43
+    ],
+    "spongier": [
+      45
+    ],
+    "digital-material-humanities": [
+      46
+    ],
+    "form": [
+      47
+    ],
+    "knowledge-production": [
+      49
+    ],
+    "tailored": [
+      52
+    ],
+    "concerns": [
+      55
+    ],
+    "emerging": [
+      58
+    ],
+    "Anthropocenic": [
+      59
+    ],
+    "humanities": [
+      60
+    ],
+    "absorbs": [
+      63
+    ],
+    "full": [
+      65
+    ],
+    "force": [
+      66
+    ],
+    "interconnections.": [
+      69
+    ],
+    "A": [
+      70
+    ],
+    "deliberate": [
+      71
+    ],
+    "intervention": [
+      73
+    ],
+    "not": [
+      75
+    ],
+    "only": [
+      76
+    ],
+    "an": [
+      77,
+      82
+    ],
+    "obvious": [
+      78
+    ],
+    "response": [
+      79
+    ],
+    "but": [
+      80
+    ],
+    "also": [
+      81
+    ],
+    "opening:": [
+      83
+    ],
+    "plants": [
+      85
+    ],
+    "field": [
+      87
+    ],
+    "securely": [
+      88
+    ],
+    "within": [
+      89
+    ],
+    "earth,": [
+      91
+    ],
+    "opens": [
+      92
+    ],
+    "us": [
+      93,
+      103
+    ],
+    "seeing": [
+      95
+    ],
+    "tools": [
+      97
+    ],
+    "as": [
+      98
+    ],
+    "artifacts,": [
+      100
+    ],
+    "urges": [
+      102
+    ],
+    "use": [
+      105
+    ],
+    "talents": [
+      107
+    ],
+    "doing": [
+      109
+    ],
+    "earth": [
+      110
+    ],
+    "work.": [
+      111
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4250255799",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-14T21:36:18.039619",
+  "created_date": "2022-05-12"
+}

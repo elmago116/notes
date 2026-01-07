@@ -1,0 +1,1040 @@
+{
+  "id": "https://openalex.org/W4293582132",
+  "doi": "https://doi.org/10.3233/sw-223034",
+  "title": "Digital humanities on the Semantic Web: Sampo model and portal series",
+  "display_name": "Digital humanities on the Semantic Web: Sampo model and portal series",
+  "publication_year": 2022,
+  "publication_date": "2022-08-30",
+  "ids": {
+    "openalex": "https://openalex.org/W4293582132",
+    "doi": "https://doi.org/10.3233/sw-223034"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3233/sw-223034",
+    "pdf_url": "https://content.iospress.com:443/download/semantic-web/sw223034?id=semantic-web%2Fsw223034",
+    "source": {
+      "id": "https://openalex.org/S4210177235",
+      "display_name": "Semantic Web",
+      "issn_l": "1570-0844",
+      "issn": [
+        "1570-0844",
+        "2210-4968"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310318577",
+      "host_organization_name": "IOS Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310318577"
+      ],
+      "host_organization_lineage_names": [
+        "IOS Press"
+      ],
+      "type": "journal"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://content.iospress.com:443/download/semantic-web/sw223034?id=semantic-web%2Fsw223034",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5086685353",
+        "display_name": "Eero Hyvönen",
+        "orcid": "https://orcid.org/0000-0003-1695-5840"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I9927081",
+          "display_name": "Aalto University",
+          "ror": "https://ror.org/020hwjq30",
+          "country_code": "FI",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I9927081"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I133731052",
+          "display_name": "University of Helsinki",
+          "ror": "https://ror.org/040af2s02",
+          "country_code": "FI",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I133731052"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I94626330",
+          "display_name": "University of Bamberg",
+          "ror": "https://ror.org/01c1w6d29",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I94626330"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1283220839",
+          "display_name": "Stuttgart Media University",
+          "ror": "https://ror.org/022r03w28",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1283220839"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "FI"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eero Hyvönen",
+      "raw_affiliation_strings": [
+        "Department of Computer Science, Aalto University, Finland Helsinki Centre for Digital Humanities (HELDIG),",
+        "Stuttgart Media University, Germany",
+        "University of Bamberg, Germany",
+        "University of Bamberg, Germany; Kai Eckert,",
+        "University of Helsinki, Finland Semantic Computing Research Group"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science, Aalto University, Finland Helsinki Centre for Digital Humanities (HELDIG),",
+          "institution_ids": [
+            "https://openalex.org/I9927081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Helsinki, Finland Semantic Computing Research Group",
+          "institution_ids": [
+            "https://openalex.org/I133731052"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Bamberg, Germany; Kai Eckert,",
+          "institution_ids": [
+            "https://openalex.org/I94626330"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Stuttgart Media University, Germany",
+          "institution_ids": [
+            "https://openalex.org/I1283220839"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Bamberg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I94626330"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5086685353"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I9927081",
+    "https://openalex.org/I133731052",
+    "https://openalex.org/I94626330",
+    "https://openalex.org/I1283220839"
+  ],
+  "apc_list": null,
+  "apc_paid": {
+    "value": 500,
+    "currency": "EUR",
+    "value_usd": 539
+  },
+  "fwci": 3.757,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 32,
+  "citation_normalized_percentile": {
+    "value": 0.999971,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "4",
+    "first_page": "729",
+    "last_page": "744"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10215",
+    "display_name": "Semantic Web and Ontologies",
+    "score": 0.9996,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "score": 0.9996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11710",
+      "display_name": "Biomedical Text Mining and Ontologies",
+      "score": 0.9816,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14330",
+      "display_name": "Library Science and Information Systems",
+      "score": 0.979,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/linked-data",
+      "display_name": "Linked Data",
+      "score": 0.5542165
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.69540185
+    },
+    {
+      "id": "https://openalex.org/C2129575",
+      "wikidata": "https://www.wikidata.org/wiki/Q54837",
+      "display_name": "Semantic Web",
+      "level": 2,
+      "score": 0.6930765
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.6818418
+    },
+    {
+      "id": "https://openalex.org/C69075417",
+      "wikidata": "https://www.wikidata.org/wiki/Q515701",
+      "display_name": "Linked data",
+      "level": 3,
+      "score": 0.5542165
+    },
+    {
+      "id": "https://openalex.org/C148792806",
+      "wikidata": "https://www.wikidata.org/wiki/Q7449046",
+      "display_name": "Semantic analytics",
+      "level": 4,
+      "score": 0.50748914
+    },
+    {
+      "id": "https://openalex.org/C167379230",
+      "wikidata": "https://www.wikidata.org/wiki/Q1026884",
+      "display_name": "Semantic Web Stack",
+      "level": 3,
+      "score": 0.46953925
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.4064455
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3233/sw-223034",
+      "pdf_url": "https://content.iospress.com:443/download/semantic-web/sw223034?id=semantic-web%2Fsw223034",
+      "source": {
+        "id": "https://openalex.org/S4210177235",
+        "display_name": "Semantic Web",
+        "issn_l": "1570-0844",
+        "issn": [
+          "1570-0844",
+          "2210-4968"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310318577",
+        "host_organization_name": "IOS Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310318577"
+        ],
+        "host_organization_lineage_names": [
+          "IOS Press"
+        ],
+        "type": "journal"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3233/sw-223034",
+    "pdf_url": "https://content.iospress.com:443/download/semantic-web/sw223034?id=semantic-web%2Fsw223034",
+    "source": {
+      "id": "https://openalex.org/S4210177235",
+      "display_name": "Semantic Web",
+      "issn_l": "1570-0844",
+      "issn": [
+        "1570-0844",
+        "2210-4968"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310318577",
+      "host_organization_name": "IOS Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310318577"
+      ],
+      "host_organization_lineage_names": [
+        "IOS Press"
+      ],
+      "type": "journal"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Sustainable cities and communities",
+      "score": 0.55,
+      "id": "https://metadata.un.org/sdg/11"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 63,
+  "referenced_works": [
+    "https://openalex.org/W1492263802",
+    "https://openalex.org/W1493753552",
+    "https://openalex.org/W1543250420",
+    "https://openalex.org/W1550195729",
+    "https://openalex.org/W1553218807",
+    "https://openalex.org/W1596416002",
+    "https://openalex.org/W1598523621",
+    "https://openalex.org/W1774690403",
+    "https://openalex.org/W1970925298",
+    "https://openalex.org/W2025572287",
+    "https://openalex.org/W2031406010",
+    "https://openalex.org/W2037802158",
+    "https://openalex.org/W2068108176",
+    "https://openalex.org/W2078273886",
+    "https://openalex.org/W2104179740",
+    "https://openalex.org/W2110818818",
+    "https://openalex.org/W2127217276",
+    "https://openalex.org/W2144371241",
+    "https://openalex.org/W2146454450",
+    "https://openalex.org/W2161749250",
+    "https://openalex.org/W2166138876",
+    "https://openalex.org/W217162355",
+    "https://openalex.org/W2187569332",
+    "https://openalex.org/W2295116982",
+    "https://openalex.org/W2310031063",
+    "https://openalex.org/W2339353290",
+    "https://openalex.org/W23685451",
+    "https://openalex.org/W2429924458",
+    "https://openalex.org/W2466798219",
+    "https://openalex.org/W2481993345",
+    "https://openalex.org/W2572601185",
+    "https://openalex.org/W2618145542",
+    "https://openalex.org/W2757034290",
+    "https://openalex.org/W2776543205",
+    "https://openalex.org/W2898810953",
+    "https://openalex.org/W2945467674",
+    "https://openalex.org/W3089652113",
+    "https://openalex.org/W3100283729",
+    "https://openalex.org/W3102436196",
+    "https://openalex.org/W3123068159",
+    "https://openalex.org/W3125827503",
+    "https://openalex.org/W3126174444",
+    "https://openalex.org/W3140293287",
+    "https://openalex.org/W3164656968",
+    "https://openalex.org/W3165313370",
+    "https://openalex.org/W3193297707",
+    "https://openalex.org/W3193515054",
+    "https://openalex.org/W3198831241",
+    "https://openalex.org/W3202572935",
+    "https://openalex.org/W3207926190",
+    "https://openalex.org/W3211727566",
+    "https://openalex.org/W324287403",
+    "https://openalex.org/W4207002234",
+    "https://openalex.org/W4210962885",
+    "https://openalex.org/W4233356551",
+    "https://openalex.org/W4236318129",
+    "https://openalex.org/W4242764912",
+    "https://openalex.org/W4244103145",
+    "https://openalex.org/W4255837503",
+    "https://openalex.org/W4285149406",
+    "https://openalex.org/W4285820095",
+    "https://openalex.org/W4288842212",
+    "https://openalex.org/W4300635244"
+  ],
+  "related_works": [
+    "https://openalex.org/W2366430559",
+    "https://openalex.org/W2355823470",
+    "https://openalex.org/W2349698472",
+    "https://openalex.org/W2023110884",
+    "https://openalex.org/W2005492920",
+    "https://openalex.org/W1985801232",
+    "https://openalex.org/W1975429881",
+    "https://openalex.org/W1710908466",
+    "https://openalex.org/W1664821344",
+    "https://openalex.org/W1542183781"
+  ],
+  "abstract_inverted_index": {
+    "Cultural": [
+      0
+    ],
+    "heritage": [
+      1
+    ],
+    "(CH)": [
+      2
+    ],
+    "contents": [
+      3
+    ],
+    "are": [
+      4
+    ],
+    "typically": [
+      5
+    ],
+    "strongly": [
+      6
+    ],
+    "interlinked,": [
+      7
+    ],
+    "but": [
+      8
+    ],
+    "published": [
+      9
+    ],
+    "in": [
+      10,
+      89,
+      106,
+      147,
+      157,
+      185
+    ],
+    "heterogeneous,": [
+      11
+    ],
+    "distributed": [
+      12
+    ],
+    "local": [
+      13
+    ],
+    "data": [
+      14,
+      22,
+      41,
+      73,
+      101,
+      192,
+      209
+    ],
+    "silos,": [
+      15
+    ],
+    "making": [
+      16
+    ],
+    "it": [
+      17
+    ],
+    "difficult": [
+      18
+    ],
+    "to": [
+      19,
+      36,
+      163,
+      200,
+      214
+    ],
+    "utilize": [
+      20
+    ],
+    "the": [
+      21,
+      28,
+      96,
+      168,
+      174
+    ],
+    "on": [
+      23,
+      167,
+      187
+    ],
+    "a": [
+      24,
+      58,
+      151,
+      181
+    ],
+    "global": [
+      25
+    ],
+    "level.": [
+      26
+    ],
+    "Furthermore,": [
+      27
+    ],
+    "content": [
+      29
+    ],
+    "is": [
+      30
+    ],
+    "usually": [
+      31
+    ],
+    "available": [
+      32
+    ],
+    "only": [
+      33
+    ],
+    "for": [
+      34,
+      42,
+      62,
+      70,
+      78
+    ],
+    "humans": [
+      35
+    ],
+    "read,": [
+      37
+    ],
+    "and": [
+      38,
+      47,
+      66,
+      75,
+      81,
+      103,
+      139,
+      159,
+      194,
+      212,
+      218
+    ],
+    "not": [
+      39
+    ],
+    "as": [
+      40
+    ],
+    "Digital": [
+      43
+    ],
+    "Humanities": [
+      44
+    ],
+    "(DH)": [
+      45
+    ],
+    "analyses": [
+      46
+    ],
+    "application": [
+      48,
+      51,
+      155
+    ],
+    "development.": [
+      49
+    ],
+    "This": [
+      50,
+      83,
+      178
+    ],
+    "report": [
+      52
+    ],
+    "addresses": [
+      53
+    ],
+    "these": [
+      54
+    ],
+    "problems": [
+      55
+    ],
+    "by": [
+      56
+    ],
+    "presenting": [
+      57
+    ],
+    "collaborative": [
+      59
+    ],
+    "publication": [
+      60
+    ],
+    "model": [
+      61,
+      85
+    ],
+    "CH": [
+      63,
+      158,
+      188
+    ],
+    "Linked": [
+      64
+    ],
+    "Data": [
+      65
+    ],
+    "six": [
+      67
+    ],
+    "design": [
+      68
+    ],
+    "principles": [
+      69
+    ],
+    "creating": [
+      71
+    ],
+    "shared": [
+      72
+    ],
+    "services": [
+      74,
+      102
+    ],
+    "semantic": [
+      76,
+      104,
+      189
+    ],
+    "portals": [
+      77,
+      105,
+      190
+    ],
+    "DH": [
+      79,
+      203
+    ],
+    "research": [
+      80,
+      186,
+      204
+    ],
+    "applications.": [
+      82
+    ],
+    "Sampo": [
+      84,
+      97,
+      176
+    ],
+    "has": [
+      86
+    ],
+    "evolved": [
+      87
+    ],
+    "gradually": [
+      88
+    ],
+    "2002–2021": [
+      90
+    ],
+    "through": [
+      91
+    ],
+    "lessons": [
+      92
+    ],
+    "learned": [
+      93
+    ],
+    "when": [
+      94
+    ],
+    "developing": [
+      95
+    ],
+    "series": [
+      98
+    ],
+    "of": [
+      99,
+      154,
+      165,
+      173,
+      183
+    ],
+    "linked": [
+      100
+    ],
+    "use,": [
+      107
+    ],
+    "including": [
+      108
+    ],
+    "MuseumFinland": [
+      109
+    ],
+    "(2004),": [
+      110
+    ],
+    "CultureSampo": [
+      111
+    ],
+    "(2009),": [
+      112
+    ],
+    "BookSampo": [
+      113
+    ],
+    "(2011),": [
+      114
+    ],
+    "WarSampo": [
+      115
+    ],
+    "(2015),": [
+      116
+    ],
+    "Norssit": [
+      117
+    ],
+    "Alumni": [
+      118
+    ],
+    "(2017),": [
+      119
+    ],
+    "U.S.": [
+      120
+    ],
+    "Congress": [
+      121
+    ],
+    "Prosopographer": [
+      122
+    ],
+    "(2018),": [
+      123
+    ],
+    "NameSampo": [
+      124
+    ],
+    "(2019),": [
+      125,
+      127,
+      130
+    ],
+    "BiographySampo": [
+      126
+    ],
+    "WarVictimSampo": [
+      128
+    ],
+    "1914–1922": [
+      129
+    ],
+    "MMM": [
+      131
+    ],
+    "(2020),": [
+      132
+    ],
+    "AcademySampo": [
+      133
+    ],
+    "(2021),": [
+      134,
+      136,
+      138
+    ],
+    "FindSampo": [
+      135
+    ],
+    "WarMemoirSampo": [
+      137
+    ],
+    "LetterSampo": [
+      140
+    ],
+    "(2022).": [
+      141
+    ],
+    "These": [
+      142
+    ],
+    "Semantic": [
+      143,
+      169
+    ],
+    "Web": [
+      144
+    ],
+    "applications": [
+      145
+    ],
+    "surveyed": [
+      146
+    ],
+    "this": [
+      148
+    ],
+    "paper": [
+      149
+    ],
+    "cover": [
+      150
+    ],
+    "wide": [
+      152
+    ],
+    "range": [
+      153
+    ],
+    "domains": [
+      156
+    ],
+    "have": [
+      160
+    ],
+    "attracted": [
+      161
+    ],
+    "up": [
+      162
+    ],
+    "millions": [
+      164
+    ],
+    "users": [
+      166
+    ],
+    "Web,": [
+      170
+    ],
+    "suggesting": [
+      171
+    ],
+    "feasibility": [
+      172
+    ],
+    "proposed": [
+      175
+    ],
+    "model.": [
+      177
+    ],
+    "work": [
+      179
+    ],
+    "shows": [
+      180
+    ],
+    "shift": [
+      182
+    ],
+    "focus": [
+      184
+    ],
+    "from": [
+      191
+    ],
+    "aggregation": [
+      193
+    ],
+    "exploration": [
+      195
+    ],
+    "systems": [
+      196,
+      201
+    ],
+    "(1.": [
+      197
+    ],
+    "generation": [
+      198,
+      206,
+      222
+    ],
+    "systems)": [
+      199,
+      207
+    ],
+    "supporting": [
+      202
+    ],
+    "(2.": [
+      205
+    ],
+    "with": [
+      208
+    ],
+    "analytic": [
+      210
+    ],
+    "tools,": [
+      211
+    ],
+    "finally": [
+      213
+    ],
+    "automatic": [
+      215
+    ],
+    "knowledge": [
+      216
+    ],
+    "discovery": [
+      217
+    ],
+    "Artificial": [
+      219
+    ],
+    "Intelligence": [
+      220
+    ],
+    "(3.": [
+      221
+    ],
+    "systems).": [
+      223
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4293582132",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-08-02T01:06:45.328837",
+  "created_date": "2022-08-30"
+}

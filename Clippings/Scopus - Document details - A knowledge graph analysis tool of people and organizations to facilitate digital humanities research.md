@@ -1,14 +1,28 @@
 ---
-title: "Scopus - Document details - A knowledge graph analysis tool of people and organizations to facilitate digital humanities research"
-source: "https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-85200542262&origin=resultslist&sort=plf-f&src=s&sid=5fa892d65090554201bf43f1963ed85b&sot=a&sdt=a&s=TITLE-ABS-KEY%28+%28+%22participatory+design%22+OR+%22co-creation*%22+OR+%22user+centered+design%22+OR+%22human+centered+design%22+OR+%22human+centered+interaction%22+OR+%22CK+theory%22+OR+%22usability%22+OR+%22UX%22+OR+%22social+innovation%22+%29+AND+%28+%22knowledge+graph*%22+OR+%22semantic+web%22+OR+%22linked+data%22+OR+%22RDF%22+OR+%22ontology+engineering%22+OR+%22semantic+technology%22+OR+%22semantic+data%22+OR+%22semantic+frames%22+OR+%22frame+semantics%22+OR+%22knowledge+organization+system*%22+OR+%22KOS%22+%29+AND+%28+%22cultural+heritage%22+OR+%22GLAM%22+OR+%22GLAM+metadata%22+OR+%22museum*%22+OR+%22archive*%22+OR+%22library%22+OR+%22libraries%22+OR+%22digital+collections%22+OR+%22historical+memory%22+OR+%22historical+corpus%22+OR+%22metadata+crosswalk*%22+OR+%22metadata+schema%22+OR+%22digital+humanities%22+OR+%22polyvocality%22+OR+%22post-colonial+heritage%22+%29%29AND+PUBYEAR+%26gt%3B+2014&sl=754&sessionSearchId=5fa892d65090554201bf43f1963ed85b&relpos=4"
-author:
-  - "[[Chen C.-M.]]"
-published:
-created: 2025-06-13
-description: "Elsevier’s Scopus, the largest abstract and citation database of peer-reviewed literature. Search and access research from the science, technology, medicine, social sciences and arts and humanities fields."
+title: "Scopus - Document details - A knowledge graph analysis tool of people and organizations to facilitate digital humanities research"
+authors:
+  - Chen C.-M.
+year: 2024
+type: document
+journal: DTA
+doi: 10.1108/dta-01-2024-0009
+base: clippings
+source: Manual
 tags:
-  - "Tech/KG"
+  - Tech/KG
+  - Tech/SemanticWeb
+  - op/doc/tool
+  - Humanities/digitalHumanities
+issue: 1
+last_enrichment_run: 2025-08-20
+pages: 82-110
+updated: 2025-08-20
+volume: 59
+apa_citation: Chen C.-M., 2024
 ---
+
+[[Clippings/PDF/Scopus - Document details - A knowledge graph analysis tool of people and organizations to facilitate digital humanities research.pdf]]
+
 [***Data Technologies and Applications***](https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-85200542262&origin=resultslist&sort=plf-f&src=s&sid=5fa892d65090554201bf43f1963ed85b&sot=a&sdt=a&s=TITLE-ABS-KEY%28+%28+%22participatory+design%22+OR+%22co-creation*%22+OR+%22user+centered+design%22+OR+%22human+centered+design%22+OR+%22human+centered+interaction%22+OR+%22CK+theory%22+OR+%22usability%22+OR+%22UX%22+OR+%22social+innovation%22+%29+AND+%28+%22knowledge+graph*%22+OR+%22semantic+web%22+OR+%22linked+data%22+OR+%22RDF%22+OR+%22ontology+engineering%22+OR+%22semantic+technology%22+OR+%22semantic+data%22+OR+%22semantic+frames%22+OR+%22frame+semantics%22+OR+%22knowledge+organization+system*%22+OR+%22KOS%22+%29+AND+%28+%22cultural+heritage%22+OR+%22GLAM%22+OR+%22GLAM+metadata%22+OR+%22museum*%22+OR+%22archive*%22+OR+%22library%22+OR+%22libraries%22+OR+%22digital+collections%22+OR+%22historical+memory%22+OR+%22historical+corpus%22+OR+%22metadata+crosswalk*%22+OR+%22metadata+schema%22+OR+%22digital+humanities%22+OR+%22polyvocality%22+OR+%22post-colonial+heritage%22+%29%29AND+PUBYEAR+%26gt%3B+2014&sl=754&sessionSearchId=5fa892d65090554201bf43f1963ed85b&relpos=4#) Volume 59, Issue 1, Pages 82 - 110 14 January 2025
 
 - [Send mail to Chen C.-M.](https://www-scopus-com.sire.ub.edu/record/);

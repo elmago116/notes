@@ -1,0 +1,286 @@
+{
+  "id": "https://openalex.org/W4402670238",
+  "doi": "https://doi.org/10.18653/v1/2024.kallm-1.8",
+  "title": "Ontology-guided Knowledge Graph Construction from Maintenance Short Texts",
+  "display_name": "Ontology-guided Knowledge Graph Construction from Maintenance Short Texts",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4402670238",
+    "doi": "https://doi.org/10.18653/v1/2024.kallm-1.8"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.18653/v1/2024.kallm-1.8",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "proceedings-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5107506905",
+        "display_name": "Zeno Cauter",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Zeno Cauter",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5082856403",
+        "display_name": "Nikolay Yakovets",
+        "orcid": "https://orcid.org/0000-0002-1488-1414"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nikolay Yakovets",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.69,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.730439,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 72,
+    "max": 83
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "75",
+    "last_page": "84"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10215",
+    "display_name": "Semantic Web and Ontologies",
+    "score": 0.9924,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "score": 0.9924,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "score": 0.9668,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "score": 0.9268,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/knowledge-graph",
+      "display_name": "Knowledge graph",
+      "score": 0.65959316
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.74229383
+    },
+    {
+      "id": "https://openalex.org/C2987255567",
+      "wikidata": "https://www.wikidata.org/wiki/Q33002955",
+      "display_name": "Knowledge graph",
+      "level": 2,
+      "score": 0.65959316
+    },
+    {
+      "id": "https://openalex.org/C25810664",
+      "wikidata": "https://www.wikidata.org/wiki/Q44325",
+      "display_name": "Ontology",
+      "level": 2,
+      "score": 0.48209098
+    },
+    {
+      "id": "https://openalex.org/C132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "level": 2,
+      "score": 0.46532294
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.44123024
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.38943088
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.3350867
+    },
+    {
+      "id": "https://openalex.org/C80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "level": 1,
+      "score": 0.20790502
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.18653/v1/2024.kallm-1.8",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2804669904",
+    "https://openalex.org/W2782969047",
+    "https://openalex.org/W2378862226",
+    "https://openalex.org/W2355326633",
+    "https://openalex.org/W2347456287",
+    "https://openalex.org/W2149777447",
+    "https://openalex.org/W2121651557",
+    "https://openalex.org/W2054026175",
+    "https://openalex.org/W2003333417",
+    "https://openalex.org/W118236634"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4402670238",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-01T18:05:59.176856",
+  "created_date": "2024-09-21"
+}

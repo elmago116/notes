@@ -1,0 +1,807 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        2
+      ]
+    ],
+    "date-time": "2025-08-02T19:00:31Z",
+    "timestamp": 1754161231102,
+    "version": "3.41.2"
+  },
+  "reference-count": 56,
+  "publisher": "Elsevier",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9780128241219"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T00:00:00Z",
+        "timestamp": 1609459200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T00:00:00Z",
+        "timestamp": 1609459200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T00:00:00Z",
+        "timestamp": 1609459200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T00:00:00Z",
+        "timestamp": 1609459200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T00:00:00Z",
+        "timestamp": 1609459200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T00:00:00Z",
+        "timestamp": 1609459200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T00:00:00Z",
+        "timestamp": 1609459200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2021
+      ]
+    ]
+  },
+  "DOI": "10.1016/bs.adcom.2021.01.006",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        12
+      ]
+    ],
+    "date-time": "2021-03-12T09:24:48Z",
+    "timestamp": 1615541088000
+  },
+  "page": "115-191",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "The screening phase in systematic reviews: Can we speed up the process?"
+  ],
+  "prefix": "10.1016",
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0010",
+      "isbn-type": "print",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1109/ICSE.2004.1317449",
+      "article-title": "Evidence-based software engineering",
+      "author": "Kitchenham",
+      "year": "2004",
+      "ISBN": "https://id.crossref.org/isbn/0769521630",
+      "ISSN": "https://id.crossref.org/issn/0270-5257",
+      "issn-type": "print"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0015",
+      "series-title": "Procedures for Performing Systematic Reviews",
+      "first-page": "28",
+      "volume": "vol. 33",
+      "author": "Kitchenham",
+      "year": "2004"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.infsof.2015.03.007",
+      "article-title": "Guidelines for conducting systematic mapping studies in software engineering: an update",
+      "volume": "64",
+      "author": "Petersen",
+      "year": "2015",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "issue": "4ve",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0025",
+      "first-page": "1051",
+      "article-title": "Guidelines for performing systematic literature reviews in software engineering version 2.3",
+      "volume": "45",
+      "author": "Kitchenham",
+      "year": "2007",
+      "journal-title": "Engineering"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "2594",
+      "DOI": "10.1016/j.jss.2013.04.076",
+      "article-title": "On the reliability of mapping studies in software engineering",
+      "volume": "86",
+      "author": "Wohlin",
+      "year": "2013",
+      "journal-title": "J. Syst. Softw."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "571",
+      "DOI": "10.1016/j.jss.2006.07.009",
+      "article-title": "Lessons from applying the systematic literature review process within the software engineering domain",
+      "volume": "80",
+      "author": "Brereton",
+      "year": "2007",
+      "journal-title": "J. Syst. Softw."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "439",
+      "DOI": "10.1016/j.jss.2018.06.078",
+      "article-title": "A systematic mapping study driven by the margin of error",
+      "volume": "144",
+      "author": "Kosar",
+      "year": "2018",
+      "journal-title": "J. Syst. Softw."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0045",
+      "first-page": "43",
+      "article-title": "Systematic mapping study of template-based code generation",
+      "volume": "52",
+      "author": "Syriani",
+      "year": "2018",
+      "journal-title": "Comput. Lang. Syst. Struct."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1016/j.infsof.2015.11.001",
+      "article-title": "Domain-specific languages: a systematic mapping study",
+      "volume": "71",
+      "author": "Kosar",
+      "year": "2016",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "839",
+      "DOI": "10.1016/j.infsof.2014.03.006",
+      "article-title": "A systematic mapping study of software reliability modeling",
+      "volume": "56",
+      "author": "Febrero",
+      "year": "2014",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0060",
+      "isbn-type": "print",
+      "first-page": "4:1",
+      "article-title": "A visual analysis approach to update systematic reviews",
+      "author": "Felizardo",
+      "year": "2014",
+      "ISBN": "https://id.crossref.org/isbn/9781450324762"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0065",
+      "isbn-type": "print",
+      "first-page": "245",
+      "article-title": "A visual text mining approach for systematic reviews",
+      "author": "Malheiros",
+      "year": "2007",
+      "ISBN": "https://id.crossref.org/isbn/0769528864"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0070",
+      "series-title": "Creativity in Computing and DataFlow SuperComputing",
+      "first-page": "1",
+      "article-title": "Chapter One—a systematic approach to generation of new ideas for PhD research in computing",
+      "volume": "104",
+      "author": "Blagojević",
+      "year": "2017"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "611",
+      "DOI": "10.1002/jclp.20373",
+      "article-title": "Evidence-based practice in clinical psychology: what it is, why it matters; what you need to know",
+      "volume": "63",
+      "author": "Spring",
+      "year": "2007",
+      "journal-title": "J. Clin. Psychol."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "735",
+      "DOI": "10.1016/S0950-5849(97)00025-6",
+      "article-title": "Experimental validation in software engineering",
+      "volume": "39",
+      "author": "Zelkowitz",
+      "year": "1997",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/j.jss.2013.11.1097",
+      "article-title": "Empirical research methods for technology validation: scaling up to practice",
+      "volume": "95",
+      "author": "Wieringa",
+      "year": "2014",
+      "journal-title": "J. Syst. Softw."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0090",
+      "series-title": "Systematic Reviews: CRD's Guidance for Undertaking Reviews in Health Care",
+      "isbn-type": "print",
+      "first-page": "294",
+      "year": "2009",
+      "ISBN": "https://id.crossref.org/isbn/1900640473"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0095",
+      "isbn-type": "print",
+      "first-page": "178",
+      "article-title": "Strength of evidence in systematic reviews in software engineering",
+      "author": "Dybå",
+      "year": "2008",
+      "ISBN": "https://id.crossref.org/isbn/9781595939715"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "721",
+      "DOI": "10.1109/TSE.2002.1027796",
+      "article-title": "Preliminary guidelines for empirical research in software engineering",
+      "volume": "28",
+      "author": "Kitchenham",
+      "year": "2002",
+      "journal-title": "IEEE Trans. Softw. Eng."
+    },
+    {
+      "article-title": "Undertaking systematic reviews of research on effectiveness: CRD's guidance for carrying out or commissioning reviews",
+      "year": "2001",
+      "series-title": "Undertaking Systematic Reviews of Research on Effectiveness: CRD's Guidance for Those Carrying Out or Commissioning Reviews, second ed.",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0105"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0110",
+      "series-title": "Systematic Reviews in the Social Sciences: A Practical Guide",
+      "isbn-type": "print",
+      "author": "Petticrew",
+      "year": "2005",
+      "ISBN": "https://id.crossref.org/isbn/1405121106"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0115",
+      "isbn-type": "print",
+      "first-page": "38:1",
+      "article-title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+      "author": "Wohlin",
+      "year": "2014",
+      "ISBN": "https://id.crossref.org/isbn/9781450324762"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0120",
+      "isbn-type": "print",
+      "first-page": "10",
+      "article-title": "Systematic mapping studies in software engineering",
+      "volume": "17",
+      "author": "Petersen",
+      "year": "2008",
+      "ISBN": "https://id.crossref.org/isbn/0769525555"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0125",
+      "isbn-type": "print",
+      "first-page": "179",
+      "article-title": "A systematic mapping study on domain-specific languages",
+      "author": "do Nascimento",
+      "year": "2012",
+      "ISBN": "https://id.crossref.org/isbn/9781612082301"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "395",
+      "DOI": "10.1016/j.infsof.2012.09.003",
+      "article-title": "Aspect-oriented model-driven code generation: a systematic mapping study",
+      "volume": "55",
+      "author": "Mehmood",
+      "year": "2013",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "1374",
+      "DOI": "10.1016/j.infsof.2013.02.006",
+      "article-title": "A systematic mapping study of web application testing",
+      "volume": "55",
+      "author": "Garousi",
+      "year": "2013",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "2",
+      "DOI": "10.1016/j.infsof.2010.05.011",
+      "article-title": "Software product line testing—a systematic mapping study",
+      "volume": "53",
+      "author": "Engström",
+      "year": "2011",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0145",
+      "first-page": "195",
+      "article-title": "Using mapping studies in software engineering",
+      "volume": "vol. 2",
+      "author": "Budgen",
+      "year": "2008"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "638",
+      "DOI": "10.1016/j.infsof.2010.12.011",
+      "article-title": "Using mapping studies as the basis for further research: a participant-observer case study",
+      "volume": "53",
+      "author": "Kitchenham",
+      "year": "2011",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1080/1364557032000119616",
+      "article-title": "Scoping studies: towards a methodological framework",
+      "volume": "8",
+      "author": "Arksey",
+      "year": "2005",
+      "journal-title": "Int. J. Social Res. Methodol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1016/j.infsof.2008.09.009",
+      "article-title": "Systematic literature reviews in software engineering—a systematic literature review",
+      "volume": "51",
+      "author": "Kitchenham",
+      "year": "2009",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "446",
+      "DOI": "10.1136/jamia.2010.004325",
+      "article-title": "A new algorithm for reducing the workload of experts in performing systematic reviews",
+      "volume": "17",
+      "author": "Matwin",
+      "year": "2010",
+      "journal-title": "J. Am. Med. Informatics Assoc."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "206",
+      "DOI": "10.1197/jamia.M1929",
+      "article-title": "Reducing workload in systematic review preparation using automated citation classification",
+      "volume": "13",
+      "author": "Cohen",
+      "year": "2006",
+      "journal-title": "J. Am. Med. Inform. Assoc."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "33",
+      "DOI": "10.1016/j.jbi.2017.03.007",
+      "article-title": "Using ontology-based semantic similarity to facilitate the article screening process for systematic reviews",
+      "volume": "69",
+      "author": "Ji",
+      "year": "2017",
+      "journal-title": "J. Biomed. Informatics"
+    },
+    {
+      "year": "2004",
+      "series-title": "MDA Distilled—Principles of Model-Driven Architecture",
+      "author": "Mellor",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0180"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "1557",
+      "DOI": "10.2298/CSIS121218068R",
+      "article-title": "Using reverse engineering to construct the platform independent model of a web application for student information systems",
+      "volume": "10",
+      "author": "Rožanc",
+      "year": "2013",
+      "journal-title": "Comput. Sci. Inf. Syst."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "247",
+      "DOI": "10.2298/CSIS1002247K",
+      "article-title": "Comparing general-purpose and domain-specific languages: an empirical study",
+      "volume": "7",
+      "author": "Kosar",
+      "year": "2010",
+      "journal-title": "Comput. Sci. Inform. Syst."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0195",
+      "first-page": "1",
+      "article-title": "Special issue on the programming Languages track at the 28th ACM symposium on applied computing",
+      "volume": "40",
+      "author": "Mernik",
+      "year": "2014",
+      "journal-title": "Comput. Lang. Syst. Struct."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "1646",
+      "DOI": "10.1016/j.infsof.2009.04.004",
+      "article-title": "Definitions and approaches to model quality in model-based software development—a review of literature",
+      "volume": "51",
+      "author": "Mohagheghi",
+      "year": "2009",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0205",
+      "first-page": "36",
+      "article-title": "Designing and implementing a product family of model consistency checkers",
+      "author": "Bastarrica",
+      "year": "2007"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.2298/CSIS110114012B",
+      "article-title": "Challenges and directions in formalizing the semantics of modeling languages",
+      "volume": "8",
+      "author": "Bryant",
+      "year": "2011",
+      "journal-title": "Comput. Sci. Inf. Syst."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0215",
+      "first-page": "151",
+      "article-title": "Design and implementation of domain-specific language easytime",
+      "volume": "37",
+      "author": "Fister",
+      "year": "2011",
+      "journal-title": "Comput. Lang. Syst. Struct."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "379",
+      "DOI": "10.2298/CSIS101229018L",
+      "article-title": "A DSL for PIM specifications: design and attribute grammar based implementation",
+      "volume": "8",
+      "author": "Luković",
+      "year": "2011",
+      "journal-title": "Comput. Sci. Inf. Syst."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "622",
+      "DOI": "10.1016/j.compind.2014.01.013",
+      "article-title": "Debugging measurement systems using a domain-specific modeling language",
+      "volume": "65",
+      "author": "Kosar",
+      "year": "2014",
+      "journal-title": "Comput. Ind."
+    },
+    {
+      "issue": "Suppl. C",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0230",
+      "first-page": "118",
+      "article-title": "Usability driven DSL development with USE-ME",
+      "volume": "51",
+      "author": "Barišić",
+      "year": "2018",
+      "journal-title": "Comput. Lang. Syst. Struct."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0235",
+      "first-page": "190",
+      "article-title": "On the appropriateness of domain-specific languages derived from different metamodels",
+      "author": "Rožanc",
+      "year": "2014"
+    },
+    {
+      "issue": "Suppl. C",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0240",
+      "first-page": "206",
+      "article-title": "Leveraging software product lines engineering in the development of external DSLs: a systematic literature review",
+      "volume": "46",
+      "author": "Méndez-Acuña",
+      "year": "2016",
+      "journal-title": "Comput. Lang. Syst. Struct."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "316",
+      "DOI": "10.1145/1118890.1118892",
+      "article-title": "When and how to develop domain-specific languages",
+      "volume": "37",
+      "author": "Mernik",
+      "year": "2005",
+      "journal-title": "ACM Comput. Surv."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "1253",
+      "DOI": "10.1002/spe.936",
+      "article-title": "An approach for the systematic development of domain-specific languages",
+      "volume": "39",
+      "author": "Strembeck",
+      "year": "2009",
+      "journal-title": "Softw. Pract. Experience"
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0255",
+      "first-page": "291",
+      "article-title": "WebDSL: a case study in domain-specific language engineering",
+      "volume": "vol. 5235",
+      "author": "Visser",
+      "year": "2008"
+    },
+    {
+      "year": "2010",
+      "series-title": "Software Engineering",
+      "author": "Sommerville",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0260"
+    },
+    {
+      "year": "2001",
+      "series-title": "Manifesto for Agile Software Development",
+      "author": "Beck",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0265"
+    },
+    {
+      "issue": "111",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0270",
+      "first-page": "123",
+      "article-title": "A case study on agile estimating and planning using scrum",
+      "volume": "5",
+      "author": "Mahnič",
+      "year": "2011",
+      "journal-title": "Electron. Electr. Eng."
+    },
+    {
+      "key": "10.1016/bs.adcom.2021.01.006_bb0275",
+      "unstructured": "M.J. Villanueva Del Pozo, An Agile Model-Driven Method for Involving End-Users in DSL Development (Ph.D. thesis), Universitat Politècnica de València, Valencia (Spain), 2016, 10.4995/Thesis/10251/60156."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0280",
+      "doi-asserted-by": "crossref",
+      "first-page": "733",
+      "DOI": "10.1109/TSE.2005.97",
+      "article-title": "A survey of controlled experiments in software engineering",
+      "volume": "31",
+      "author": "Sjoberg",
+      "year": "2005",
+      "journal-title": "IEEE Trans. Softw. Eng."
+    },
+    {
+      "issue": "Suppl. C",
+      "key": "10.1016/bs.adcom.2021.01.006_bb0285",
+      "first-page": "1",
+      "article-title": "FP-ABC: Fuzzy-Pareto dominance driven artificial bee colony algorithm for many-objective software module clustering",
+      "volume": "51",
+      "author": "Chhabra",
+      "year": "2018",
+      "journal-title": "Comput. Lang. Syst. Struct."
+    }
+  ],
+  "container-title": [
+    "Advances in Computers"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0065245821000310?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0065245821000310?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        28
+      ]
+    ],
+    "date-time": "2025-07-28T17:47:16Z",
+    "timestamp": 1753724836000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0065245821000310"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021
+      ]
+    ]
+  },
+  "ISBN": [
+    "9780128241219"
+  ],
+  "references-count": 56,
+  "URL": "https://doi.org/10.1016/bs.adcom.2021.01.006",
+  "relation": {},
+  "ISSN": [
+    "0065-2458"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0065-2458"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021
+      ]
+    ]
+  }
+}

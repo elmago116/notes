@@ -1,0 +1,819 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        25
+      ]
+    ],
+    "date-time": "2025-06-25T04:08:11Z",
+    "timestamp": 1750824491809,
+    "version": "3.41.0"
+  },
+  "publisher-location": "New York, NY, USA",
+  "reference-count": 111,
+  "publisher": "ACM",
+  "content-domain": {
+    "domain": [
+      "dl.acm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ]
+  },
+  "DOI": "10.1145/3715275.3732136",
+  "type": "proceedings-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ],
+    "date-time": "2025-06-23T17:01:18Z",
+    "timestamp": 1750698078000
+  },
+  "page": "2009-2024",
+  "update-policy": "https://doi.org/10.1145/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Distributive Epistemic Injustice in AI Ethics: A Co-productionist Account of Global North-South Politics in Knowledge Production"
+  ],
+  "prefix": "10.1145",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0003-2328-3840",
+      "authenticated-orcid": false,
+      "given": "Abdullah Hasan",
+      "family": "Safir",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Collective Intelligence &amp; Design Group, University of Cambridge, Cambridge, United Kingdom"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0053-4657",
+      "authenticated-orcid": false,
+      "given": "Kerry",
+      "family": "McInerney",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Leverhulme Centre for the Future of Intelligence, University of Cambridge, Cambridge, United Kingdom"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5557-574X",
+      "authenticated-orcid": false,
+      "given": "Alan F.",
+      "family": "Blackwell",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Computer Science and Technology, University of Cambridge, Cambridge, United Kingdom"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0727-5683",
+      "authenticated-orcid": false,
+      "given": "Ramit",
+      "family": "Debnath",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Collective Intelligence &amp; Design Group, University of Cambridge, Cambridge, United Kingdom"
+        }
+      ]
+    }
+  ],
+  "member": "320",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_2_2_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alireza Abbasi Liaquat Hossain and Loet Leydesdorff. 2012. Betweenness centrality as a driver of preferential attachment in the evolution of research collaboration networks. Journal of informetrics 6 3 (2012) 403–412.",
+      "DOI": "10.1016/j.joi.2012.01.002"
+    },
+    {
+      "key": "e_1_3_3_2_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3593013.3594083"
+    },
+    {
+      "key": "e_1_3_3_2_4_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rachel Adams. 2021. Can artificial intelligence be decolonized? Interdisciplinary Science Reviews 46 1-2 (2021) 176–197.",
+      "DOI": "10.1080/03080188.2020.1840225"
+    },
+    {
+      "key": "e_1_3_3_2_5_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Syed Ishtiaque Ahmed Sareeta Amrute Jeffrey Bardzell Shaowen Bardzell Nicola Bidwell Tawanna Dillahunt Sane Gaytán Naveena Karusala Neha Kumar Rigoberto Lara Guzmán et al. 2022. Citational justice and the politics of knowledge production. interactions 29 5 (2022) 78–82.",
+      "DOI": "10.1145/3556549"
+    },
+    {
+      "key": "e_1_3_3_2_6_2",
+      "unstructured": "Mhairi Aitken David Leslie Florian Ostmann Jacob Pratt Helen Margetts and Cosmina Dorobantu. 2022. Common regulatory capacity for AI. The Alan Turing Institute (2022)."
+    },
+    {
+      "key": "e_1_3_3_2_7_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Evgeni Aizenberg and Jeroen Van Den Hoven. 2020. Designing for human rights in AI. Big Data & Society 7 2 (2020) 2053951720949566.",
+      "DOI": "10.1177/2053951720949566"
+    },
+    {
+      "key": "e_1_3_3_2_8_2",
+      "first-page": "28",
+      "volume-title": "Ambiguous Technologies: Philosophical Issues, Practical Solutions, Human Nature",
+      "author": "Ali M.",
+      "year": "2014",
+      "unstructured": "M. Ali. 2014. Towards a decolonial computing. In Ambiguous Technologies: Philosophical Issues, Practical Solutions, Human Nature. International Society of Ethics and Information Technology, 28–35."
+    },
+    {
+      "key": "e_1_3_3_2_9_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Payal Arora. 2019. Decolonizing privacy studies. Television & New Media 20 4 (2019) 366–378.",
+      "DOI": "10.1177/1527476418806092"
+    },
+    {
+      "key": "e_1_3_3_2_10_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Silke Beck Sheila Jasanoff Andy Stirling and Christine Polzin. 2021. The governance of sociotechnical transformations to sustainability. Current Opinion in Environmental Sustainability 49 (2021) 143–152.",
+      "DOI": "10.1016/j.cosust.2021.04.010"
+    },
+    {
+      "key": "e_1_3_3_2_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3531146.3533157"
+    },
+    {
+      "key": "e_1_3_3_2_12_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Caroline Birkle David A Pendlebury Joshua Schnell and Jonathan Adams. 2020. Web of Science as a data source for research on scientific and scholarly activity. Quantitative Science Studies 1 1 (2020) 363–376.",
+      "DOI": "10.1162/qss_a_00018"
+    },
+    {
+      "key": "e_1_3_3_2_13_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alan F Blackwell Addisu Damena and Tesfa Tegegne. 2021. Inventing artificial intelligence in Ethiopia. Interdisciplinary Science Reviews 46 3 (2021) 363–385.",
+      "DOI": "10.1080/03080188.2020.1830234"
+    },
+    {
+      "key": "e_1_3_3_2_14_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Scott Bremer and Simon Meisch. 2017. Co-production in climate change research: reviewing different perspectives. Wiley Interdisciplinary Reviews: Climate Change 8 6 (2017) e482.",
+      "DOI": "10.1002/wcc.482"
+    },
+    {
+      "key": "e_1_3_3_2_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780429027239-11"
+    },
+    {
+      "key": "e_1_3_3_2_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3375627.3375813"
+    },
+    {
+      "key": "e_1_3_3_2_17_2",
+      "unstructured": "Dipesh Chakrabarty. 2000. Subaltern studies and postcolonial historiography. Nepantla: views from South 1 1 (2000) 9–32."
+    },
+    {
+      "key": "e_1_3_3_2_18_2",
+      "unstructured": "Alan Chan Chinasa T Okolo Zachary Terner and Angelina Wang. 2021. The limits of global inclusion in AI development. arXiv preprint arXiv:https://arXiv.org/abs/2102.01265 (2021)."
+    },
+    {
+      "key": "e_1_3_3_2_19_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xiuwen Chen Jianming Chen Dengsheng Wu Yongjia Xie and Jing Li. 2016. Mapping the research trends by co-word analysis based on keywords from funded project. Procedia computer science 91 (2016) 547–555.",
+      "DOI": "10.1016/j.procs.2016.07.140"
+    },
+    {
+      "key": "e_1_3_3_2_20_2",
+      "unstructured": "Clarivate. 2022. Web of Science: Sort options for search results. https://clarivate.com/web-of-science-sort-options Accessed: 2025-01-11."
+    },
+    {
+      "key": "e_1_3_3_2_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9781315212043-6"
+    },
+    {
+      "key": "e_1_3_3_2_22_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Manuel J Cobo Antonio Gabriel López-Herrera Enrique Herrera-Viedma and Francisco Herrera. 2011. An approach for detecting quantifying and visualizing the evolution of a research field: A practical application to the Fuzzy Sets Theory field. Journal of informetrics 5 1 (2011) 146–166.",
+      "DOI": "10.1016/j.joi.2010.10.002"
+    },
+    {
+      "key": "e_1_3_3_2_23_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Manuel J Cobo Maria Angeles Martínez María Gutiérrez-Salcedo Hamido Fujita and Enrique Herrera-Viedma. 2015. 25 years at knowledge-based systems: a bibliometric analysis. Knowledge-based systems 80 (2015) 3–13.",
+      "DOI": "10.1016/j.knosys.2014.12.035"
+    },
+    {
+      "key": "e_1_3_3_2_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3462204.3481732"
+    },
+    {
+      "key": "e_1_3_3_2_25_2",
+      "volume-title": "Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment",
+      "author": "Collins Patricia Hill",
+      "year": "2022",
+      "unstructured": "Patricia Hill Collins. 2022. Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment. Routledge."
+    },
+    {
+      "key": "e_1_3_3_2_26_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fran M Collyer. 2018. Global patterns in the publishing of academic knowledge: Global North global South. Current Sociology 66 1 (2018) 56–73.",
+      "DOI": "10.1177/0011392116680020"
+    },
+    {
+      "key": "e_1_3_3_2_27_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Nick Couldry and Ulises A Mejias. 2019. Data colonialism: Rethinking big data’s relation to the contemporary subject. Television & New Media 20 4 (2019) 336–349.",
+      "DOI": "10.1177/1527476418796632"
+    },
+    {
+      "key": "e_1_3_3_2_28_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kate Crawford. 2021. The Atlas of AI: Power Politics and the Planetary Costs of Artificial Intelligence.",
+      "DOI": "10.12987/9780300252392"
+    },
+    {
+      "key": "e_1_3_3_2_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/978-1-137-50366-4"
+    },
+    {
+      "key": "e_1_3_3_2_30_2",
+      "volume-title": "Bibliometrics and citation analysis: from the science citation index to cybermetrics",
+      "author": "De Bellis Nicola",
+      "year": "2009",
+      "unstructured": "Nicola De Bellis. 2009. Bibliometrics and citation analysis: from the science citation index to cybermetrics. scarecrow press."
+    },
+    {
+      "key": "e_1_3_3_2_31_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Frédéric Docquier. 2006. Brain drain and inequality across nations. International Journal on Multicultural Societies (2006).",
+      "DOI": "10.2139/ssrn.947463"
+    },
+    {
+      "key": "e_1_3_3_2_32_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Finale Doshi-Velez Mason Kortz Ryan Budish Chris Bavitz Sam Gershman David O’Brien Kate Scott Stuart Schieber James Waldo David Weinberger et al. 2017. Accountability of AI under the law: The role of explanation. arXiv preprint arXiv:https://arXiv.org/abs/1711.01134 (2017).",
+      "DOI": "10.2139/ssrn.3064761"
+    },
+    {
+      "key": "e_1_3_3_2_33_2",
+      "volume-title": "Black Skin, White Masks",
+      "author": "Fanon Frantz",
+      "year": "1952",
+      "unstructured": "Frantz Fanon. 1952. Black Skin, White Masks. Grove Press."
+    },
+    {
+      "key": "e_1_3_3_2_34_2",
+      "volume-title": "The Wretched of the Earth",
+      "author": "Fanon Frantz",
+      "year": "1963",
+      "unstructured": "Frantz Fanon. 1963. The Wretched of the Earth. Grove Press."
+    },
+    {
+      "key": "e_1_3_3_2_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7591/9781501707384"
+    },
+    {
+      "key": "e_1_3_3_2_36_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Luciano Floridi and Massimo Chiriatti. 2020. GPT-3: Its nature scope limits and consequences. Minds and Machines 30 (2020) 681–694.",
+      "DOI": "10.1007/s11023-020-09548-1"
+    },
+    {
+      "key": "e_1_3_3_2_37_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1467-9264.00030"
+    },
+    {
+      "key": "e_1_3_3_2_38_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/acprof:oso/9780198237907.001.0001"
+    },
+    {
+      "key": "e_1_3_3_2_39_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Miranda Fricker. 2013. Epistemic justice as a condition of political freedom? Synthese 190 (2013) 1317–1332.",
+      "DOI": "10.1007/s11229-012-0227-3"
+    },
+    {
+      "key": "e_1_3_3_2_40_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Floriana Fusco Marta Marsilio and Chiara Guglielmetti. 2020. Co-production in health policy and management: a comprehensive bibliometric review. BMC health services research 20 (2020) 1–16.",
+      "DOI": "10.1186/s12913-020-05241-2"
+    },
+    {
+      "key": "e_1_3_3_2_41_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Timnit Gebru and Émile P Torres. 2024. The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence. First Monday (2024).",
+      "DOI": "10.5210/fm.v29i4.13636"
+    },
+    {
+      "key": "e_1_3_3_2_42_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jonathan Grant Robert Cottrell Françoise Cluzeau and Gail Fawcett. 2000. Evaluating “payback” on biomedical research from papers cited in clinical guidelines: applied bibliometric study. Bmj 320 7242 (2000) 1107–1111.",
+      "DOI": "10.1136/bmj.320.7242.1107"
+    },
+    {
+      "key": "e_1_3_3_2_43_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carolina Guzmán-Valenzuela. 2019. Values and the international collaborative research in higher education: Negotiating epistemic power between the Global South and the Global North. Values of the University in a Time of Uncertainty (2019) 137–153.",
+      "DOI": "10.1007/978-3-030-15970-2_10"
+    },
+    {
+      "key": "e_1_3_3_2_44_2",
+      "unstructured": "Stuart Hall et al. 1997. The spectacle of the other. Representation: Cultural representations and signifying practices 7 (1997)."
+    },
+    {
+      "key": "e_1_3_3_2_45_2",
+      "unstructured": "Karen Hao. 2022. Artificial intelligence is creating a new colonial world order. MIT Technology Review (April 19 2022). https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/ Accessed: 2025-01-11."
+    },
+    {
+      "key": "e_1_3_3_2_46_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1215/9780822381181"
+    },
+    {
+      "key": "e_1_3_3_2_47_2",
+      "unstructured": "Qin He. 1999. Knowledge discovery through co-word analysis. (1999)."
+    },
+    {
+      "key": "e_1_3_3_2_48_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Vaughan Higgins Melanie Bryant Andrea Howell and Jane Battersby. 2017. Ordering adoption: Materiality knowledge and farmer engagement with precision agriculture technologies. Journal of Rural Studies 55 (2017) 193–202.",
+      "DOI": "10.1016/j.jrurstud.2017.08.011"
+    },
+    {
+      "key": "e_1_3_3_2_49_2",
+      "first-page": "131",
+      "volume-title": "States of Knowledge",
+      "author": "Hilgartner Stephen",
+      "year": "2004",
+      "unstructured": "Stephen Hilgartner. 2004. Mapping systems and moral order: Constituting property in genome laboratories. In States of Knowledge. Routledge, 131–141."
+    },
+    {
+      "key": "e_1_3_3_2_50_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Soraj Hongladarom and Jerd Bandasak. 2024. Non-Western AI ethics guidelines: Implications for intercultural ethics of technology. Ai & Society 39 4 (2024) 2019–2032.",
+      "DOI": "10.1007/s00146-023-01665-6"
+    },
+    {
+      "key": "e_1_3_3_2_51_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7551/mitpress/1789.003.0013"
+    },
+    {
+      "key": "e_1_3_3_2_52_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203413845-6"
+    },
+    {
+      "key": "e_1_3_3_2_53_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203413845-7"
+    },
+    {
+      "key": "e_1_3_3_2_54_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sheila Jasanoff. 2015. Future imperfect: Science technology and the imaginations of modernity. Dreamscapes of modernity: Sociotechnical imaginaries and the fabrication of power (2015) 1–33.",
+      "DOI": "10.7208/chicago/9780226276663.003.0001"
+    },
+    {
+      "key": "e_1_3_3_2_55_2",
+      "first-page": "684",
+      "volume-title": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+      "volume": "7",
+      "author": "Kay Jackie",
+      "year": "2024",
+      "unstructured": "Jackie Kay, Atoosa Kasirzadeh, and Shakir Mohamed. 2024. Epistemic injustice in generative ai. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, Vol. 7. 684–697."
+    },
+    {
+      "key": "e_1_3_3_2_56_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Emre Kazim and Adriano Soares Koshiyama. 2021. A high-level overview of AI ethics. Patterns 2 9 (2021).",
+      "DOI": "10.1016/j.patter.2021.100314"
+    },
+    {
+      "key": "e_1_3_3_2_57_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jane Knight. 2022. Analysing Knowledge Diplomacy and Differentiating It from Soft Power and Cultural Science Education and Public Diplomacies. The Hague Journal of Diplomacy 18 4 (2022) 654–686.",
+      "DOI": "10.1163/1871191x-bja10145"
+    },
+    {
+      "key": "e_1_3_3_2_58_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3630106.3658981"
+    },
+    {
+      "key": "e_1_3_3_2_59_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3411763.3450389"
+    },
+    {
+      "key": "e_1_3_3_2_60_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Can Kurban Ismael Peña-López and María Haberer. 2017. What is technopolitics? A conceptual schema for understanding politics in the digital age. IDP. Revista de Internet Derecho y Política24 (2017) 3–20.",
+      "DOI": "10.7238/idp.v0i24.3061"
+    },
+    {
+      "key": "e_1_3_3_2_61_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Vincent Larivière and Yves Gingras. 2010. The impact factor’s Matthew Effect: A natural experiment in bibliometrics. Journal of the American society for information science and technology 61 2 (2010) 424–427.",
+      "DOI": "10.1002/asi.21232"
+    },
+    {
+      "key": "e_1_3_3_2_62_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Stefan Larsson and Fredrik Heintz. 2020. Transparency in artificial intelligence. Internet policy review 9 2 (2020) 1–16.",
+      "DOI": "10.14763/2020.2.1469"
+    },
+    {
+      "key": "e_1_3_3_2_63_2",
+      "unstructured": "Sebastián Lehuedé. 2024. An elemental ethics for artificial intelligence: water as resistance within AI’s value chain. AI & SOCIETY (2024) 1–14."
+    },
+    {
+      "key": "e_1_3_3_2_64_2",
+      "unstructured": "Jason Edward Lewis Angie Abdilla Noelani Arista Kaipulaumakaniolono Baker Scott Benesiinaabandan Michelle Brown Melanie Cheung Meredith Coleman Ashley Cordes Joel Davison et al. 2020. Indigenous protocol and artificial intelligence position paper. (2020)."
+    },
+    {
+      "key": "e_1_3_3_2_65_2",
+      "first-page": "161",
+      "volume-title": "States of Knowledge",
+      "author": "Lynch Michael",
+      "year": "2004",
+      "unstructured": "Michael Lynch. 2004. Circumscribing Expertise: membership categories in courtroom testimony. In States of Knowledge. Routledge, 161–180."
+    },
+    {
+      "key": "e_1_3_3_2_66_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bruce Macfarlane. 2011. Professors as intellectual leaders: Formation identity and role. Studies in Higher Education 36 1 (2011) 57–73.",
+      "DOI": "10.1080/03075070903443734"
+    },
+    {
+      "key": "e_1_3_3_2_67_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mirca Madianou. 2021. Nonhuman humanitarianism: when’AI for good’can be harmful. Information Communication & Society 24 6 (2021) 850–868.",
+      "DOI": "10.1080/1369118X.2021.1909100"
+    },
+    {
+      "key": "e_1_3_3_2_68_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Katherine W McCain. 1990. Mapping authors in intellectual space: A technical overview. Journal of the American Society for Information Science (1986-1998) 41 6 (1990) 433.",
+      "DOI": "10.1002/(SICI)1097-4571(199009)41:6<433::AID-ASI11>3.0.CO;2-Q"
+    },
+    {
+      "key": "e_1_3_3_2_69_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ninareh Mehrabi Fred Morstatter Nripsuta Saxena Kristina Lerman and Aram Galstyan. 2021. A survey on bias and fairness in machine learning. ACM computing surveys (CSUR) 54 6 (2021) 1–35.",
+      "DOI": "10.1145/3457607"
+    },
+    {
+      "key": "e_1_3_3_2_70_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Milagros Miceli Martin Schuessler and Tianling Yang. 2020. Between subjectivity and imposition: Power dynamics in data annotation for computer vision. Proceedings of the ACM on Human-Computer Interaction 4 CSCW2 (2020) 1–25.",
+      "DOI": "10.1145/3415186"
+    },
+    {
+      "key": "e_1_3_3_2_71_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Stefania Milan and Emiliano Treré. 2019. Big data from the South (s): Beyond data universalism. Television & New Media 20 4 (2019) 319–335.",
+      "DOI": "10.1177/1527476419837739"
+    },
+    {
+      "key": "e_1_3_3_2_72_2",
+      "first-page": "46",
+      "volume-title": "States of knowledge",
+      "author": "Miller Clark A",
+      "year": "2004",
+      "unstructured": "Clark A Miller. 2004. Climate science and the making of a global political order. In States of knowledge. Routledge, 46–66."
+    },
+    {
+      "key": "e_1_3_3_2_73_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3613904.3641951"
+    },
+    {
+      "key": "e_1_3_3_2_74_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Brent Mittelstadt. 2019. Principles alone cannot guarantee ethical AI. Nature machine intelligence 1 11 (2019) 501–507.",
+      "DOI": "10.1038/s42256-019-0114-4"
+    },
+    {
+      "key": "e_1_3_3_2_75_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Shakir Mohamed Marie-Therese Png and William Isaac. 2020. Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology 33 (2020) 659–684.",
+      "DOI": "10.1007/s13347-020-00405-8"
+    },
+    {
+      "key": "e_1_3_3_2_76_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "James Muldoon and Boxi A Wu. 2023. Artificial intelligence in the colonial matrix of power. Philosophy & Technology 36 4 (2023) 80.",
+      "DOI": "10.1007/s13347-023-00687-8"
+    },
+    {
+      "key": "e_1_3_3_2_77_2",
+      "unstructured": "Tolúlopé Ògúnrèmí Wilhelmina Onyothi Nekoto and Saron Samuel. 2023. Decolonizing nlp for “low-resource languages”: Applying abebe birhane’s relational ethics. GRACE: Global Review of AI Community Ethics 1 1 (2023)."
+    },
+    {
+      "key": "e_1_3_3_2_78_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3600211.3604705"
+    },
+    {
+      "key": "e_1_3_3_2_79_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Antonio Perianes-Rodriguez Ludo Waltman and Nees Jan Van Eck. 2016. Constructing bibliometric networks: A comparison between full and fractional counting. Journal of informetrics 10 4 (2016) 1178–1195.",
+      "DOI": "10.1016/j.joi.2016.10.006"
+    },
+    {
+      "key": "e_1_3_3_2_80_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3531146.3533200"
+    },
+    {
+      "key": "e_1_3_3_2_81_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Christian Pohl Stephan Rist Anne Zimmermann Patricia Fry Ghana S Gurung Flurina Schneider Chinwe Ifejika Speranza Boniface Kiteme Sébastian Boillat Elvira Serrano et al. 2010. Researchers’ roles in knowledge co-production: experience from sustainability research in Kenya Switzerland Bolivia and Nepal. Science and public policy 37 4 (2010) 267–281.",
+      "DOI": "10.3152/030234210X496628"
+    },
+    {
+      "key": "e_1_3_3_2_82_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bridget Pratt and Jantina De Vries. 2023. Where is knowledge from the global South? An account of epistemic justice for a global bioethics. Journal of medical ethics 49 5 (2023) 325–334.",
+      "DOI": "10.1136/jme-2022-108291"
+    },
+    {
+      "key": "e_1_3_3_2_83_2",
+      "unstructured": "Alan Pritchard. 1969. Statistical bibliography or bibliometrics. Journal of documentation 25 (1969) 348."
+    },
+    {
+      "key": "e_1_3_3_2_84_2",
+      "unstructured": "Miriam Prys-Hansen. 2023. The global south: a problematic term. Internationale Politik Quarterly (2023)."
+    },
+    {
+      "key": "e_1_3_3_2_85_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3593013.3594016"
+    },
+    {
+      "key": "e_1_3_3_2_86_2",
+      "unstructured": "Stephanie Carroll Rainie Tahu Kukutai Maggie Walter Oscar Luis Figueroa-Rodríguez Jennifer Walker and Per Axelsson. 2019. Indigenous data sovereignty. (2019)."
+    },
+    {
+      "key": "e_1_3_3_2_87_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3630106.3659030"
+    },
+    {
+      "key": "e_1_3_3_2_88_2",
+      "unstructured": "Abdullah Hasan Safir. 2025. Dataset three. https://doi.org/10.6084/m9.figshare.29045321. Accessed: 2025-05-13."
+    },
+    {
+      "key": "e_1_3_3_2_89_2",
+      "unstructured": "Abdullah Hasan Safir. 2025. Dataset two. https://doi.org/10.6084/m9.figshare.29045270. Accessed: 2025-05-13."
+    },
+    {
+      "key": "e_1_3_3_2_90_2",
+      "volume-title": "Orientalism",
+      "author": "Said Edward",
+      "year": "1978",
+      "unstructured": "Edward Said. 1978. Orientalism. Pantheon Books."
+    },
+    {
+      "key": "e_1_3_3_2_91_2",
+      "volume-title": "Culture and Imperialism",
+      "author": "Said Edward",
+      "year": "1993",
+      "unstructured": "Edward Said. 1993. Culture and Imperialism. Chatto & Windus."
+    },
+    {
+      "key": "e_1_3_3_2_92_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3411764.3445518"
+    },
+    {
+      "key": "e_1_3_3_2_93_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Martina Sardelli. 2022. Epistemic Injustice in the Age of AI. Aporia 22 (2022) 44–53.",
+      "DOI": "10.31235/osf.io/cer54"
+    },
+    {
+      "key": "e_1_3_3_2_94_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/oso/9780192845290.001.0001"
+    },
+    {
+      "key": "e_1_3_3_2_95_2",
+      "first-page": "271",
+      "volume-title": "Marxism and the Interpretation of Culture",
+      "author": "Spivak Gayatri Chakravorty",
+      "year": "1988",
+      "unstructured": "Gayatri Chakravorty Spivak. 1988. Can the Subaltern Speak? In Marxism and the Interpretation of Culture, Cary Nelson and Lawrence Grossberg (Eds.). Macmillan, Basingstoke, 271–313."
+    },
+    {
+      "key": "e_1_3_3_2_96_2",
+      "unstructured": "Ganesh Surwase Anil Sagar BS Kademani and K Bhanumurthy. 2011. Co-citation analysis: An overview. (2011)."
+    },
+    {
+      "key": "e_1_3_3_2_97_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "John Symons and Ramón Alvarado. 2022. Epistemic injustice and data science technologies. Synthese 200 2 (2022) 87.",
+      "DOI": "10.1007/s11229-022-03631-z"
+    },
+    {
+      "key": "e_1_3_3_2_98_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jasmina Tacheva and Srividya Ramasubramanian. 2023. AI Empire: Unraveling the interlocking systems of oppression in generative AI’s global order. Big Data & Society 10 2 (2023) 20539517231219241.",
+      "DOI": "10.1177/20539517231219241"
+    },
+    {
+      "key": "e_1_3_3_2_99_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Doreen Tembo Gary Hickey Cristian Montenegro David Chandler Erica Nelson Katie Porter Lisa Dikomitis Mary Chambers Moses Chimbari Noni Mumba et al. 2021. Effective engagement and involvement with community stakeholders in the co-production of global health research. bmj 372 (2021).",
+      "DOI": "10.1136/bmj.n178"
+    },
+    {
+      "key": "e_1_3_3_2_100_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Andreas Theodorou and Virginia Dignum. 2020. Towards ethical and socio-legal governance in AI. Nature Machine Intelligence 2 1 (2020) 10–12.",
+      "DOI": "10.1038/s42256-019-0136-y"
+    },
+    {
+      "key": "e_1_3_3_2_101_2",
+      "first-page": "67",
+      "volume-title": "States of Knowledge",
+      "author": "Thompson Charis",
+      "year": "2004",
+      "unstructured": "Charis Thompson. 2004. Co-producing CITES and the African elephant. In States of Knowledge. Routledge, 67–86."
+    },
+    {
+      "key": "e_1_3_3_2_102_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Nees Van Eck and Ludo Waltman. 2010. Software survey: VOSviewer a computer program for bibliometric mapping. scientometrics 84 2 (2010) 523–538.",
+      "DOI": "10.1007/s11192-009-0146-3"
+    },
+    {
+      "key": "e_1_3_3_2_103_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Nees Jan Van Eck and Ludo Waltman. 2007. Bibliometric mapping of the computational intelligence field. International Journal of Uncertainty Fuzziness and Knowledge-Based Systems 15 05 (2007) 625–645.",
+      "DOI": "10.1142/S0218488507004911"
+    },
+    {
+      "key": "e_1_3_3_2_104_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-10377-8_13"
+    },
+    {
+      "key": "e_1_3_3_2_105_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Anthony FJ Van Raan. 2005. For your citations only? Hot topics in bibliometric analysis. Measurement: interdisciplinary research and perspectives 3 1 (2005) 50–62.",
+      "DOI": "10.1207/s15366359mea0301_7"
+    },
+    {
+      "key": "e_1_3_3_2_106_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Michael Veale Kira Matus and Robert Gorwa. 2023. AI and global governance: modalities rationales tensions. Annual Review of Law and Social Science 19 1 (2023) 255–275.",
+      "DOI": "10.1146/annurev-lawsocsci-020223-040749"
+    },
+    {
+      "key": "e_1_3_3_2_107_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rick Vogel and Wolfgang H Güttel. 2013. The dynamic capability view in strategic management: A bibliometric review. International Journal of Management Reviews 15 4 (2013) 426–446.",
+      "DOI": "10.1111/ijmr.12000"
+    },
+    {
+      "key": "e_1_3_3_2_108_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Melanie Walker and Carmen Martinez-Vargas. 2022. Epistemic governance and the colonial epistemic structure: Towards epistemic humility and transformed South-North relations. Critical Studies in Education 63 5 (2022) 556–571.",
+      "DOI": "10.1080/17508487.2020.1778052"
+    },
+    {
+      "key": "e_1_3_3_2_109_2",
+      "unstructured": "Adrienne Williams Milagros Miceli and Timnit Gebru. 2022. The exploited labor behind artificial intelligence. Noema Magazine 22 (2022)."
+    },
+    {
+      "key": "e_1_3_3_2_110_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alan Winfield. 2019. Ethical standards in robotics and AI. Nature Electronics 2 2 (2019) 46–48.",
+      "DOI": "10.1038/s41928-019-0213-6"
+    },
+    {
+      "key": "e_1_3_3_2_111_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wei Xu. 2019. Toward human-centered AI: a perspective from human-computer interaction. interactions 26 4 (2019) 42–46.",
+      "DOI": "10.1145/3328485"
+    },
+    {
+      "key": "e_1_3_3_2_112_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yi Zhang Mengjia Wu George Yijun Tian Guangquan Zhang and Jie Lu. 2021. Ethics and privacy of artificial intelligence: Understandings from bibliometrics. Knowledge-Based Systems 222 (2021) 106994.",
+      "DOI": "10.1016/j.knosys.2021.106994"
+    }
+  ],
+  "event": {
+    "name": "FAccT '25: The 2025 ACM Conference on Fairness, Accountability, and Transparency",
+    "acronym": "FAccT '25",
+    "location": "Athens Greece"
+  },
+  "container-title": [
+    "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://dl.acm.org/doi/pdf/10.1145/3715275.3732136",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        24
+      ]
+    ],
+    "date-time": "2025-06-24T11:21:01Z",
+    "timestamp": 1750764061000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dl.acm.org/doi/10.1145/3715275.3732136"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ]
+  },
+  "references-count": 111,
+  "alternative-id": [
+    "10.1145/3715275.3732136",
+    "10.1145/3715275"
+  ],
+  "URL": "https://doi.org/10.1145/3715275.3732136",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-06-23",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

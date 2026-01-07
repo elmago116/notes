@@ -1,0 +1,801 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T06:50:36Z",
+    "timestamp": 1755672636481,
+    "version": "3.37.3"
+  },
+  "reference-count": 53,
+  "publisher": "Public Library of Science (PLoS)",
+  "issue": "10",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            31
+          ]
+        ],
+        "date-time": "2019-10-31T00:00:00Z",
+        "timestamp": 1572480000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "the SciSIP Program of the National Science Foundation",
+      "award": [
+        "1633286"
+      ]
+    },
+    {
+      "name": "the Ministry of Education of the Republic of Korea and the National Research Foundation of Korea",
+      "award": [
+        "NRF-2018S1A3A2075114"
+      ]
+    },
+    {
+      "DOI": "10.13039/501100002573",
+      "name": "Yonsei University",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2019-22-0066"
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002573",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.plosone.org"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "PLoS ONE"
+  ],
+  "DOI": "10.1371/journal.pone.0223994",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        31
+      ]
+    ],
+    "date-time": "2019-10-31T14:45:10Z",
+    "timestamp": 1572533110000
+  },
+  "page": "e0223994",
+  "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 884,
+  "title": [
+    "Visualizing a field of research: A methodology of systematic scientometric reviews"
+  ],
+  "prefix": "10.1371",
+  "volume": "14",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-8584-1041",
+      "authenticated-orcid": true,
+      "given": "Chaomei",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Min",
+      "family": "Song",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "340",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        31
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "pone.0223994.ref001",
+      "doi-asserted-by": "crossref",
+      "first-page": "510",
+      "DOI": "10.1126/science.149.3683.510",
+      "article-title": "Networks of scientific papers",
+      "volume": "149",
+      "author": "DD Price",
+      "year": "1965",
+      "journal-title": "Science"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref002",
+      "first-page": "488",
+      "article-title": "Literature-based discovery of new candidates for drug repurposing",
+      "volume": "18",
+      "author": "H-T Yang",
+      "year": "2017",
+      "journal-title": "Briefings in Bioinformatics"
+    },
+    {
+      "key": "pone.0223994.ref003",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bruza P, Weeber M. Literature-Based Discovery: Springer; 2008.",
+      "DOI": "10.1007/978-3-540-68690-3"
+    },
+    {
+      "issue": "42",
+      "key": "pone.0223994.ref004",
+      "doi-asserted-by": "crossref",
+      "first-page": "10666",
+      "DOI": "10.1073/pnas.1806643115",
+      "article-title": "Literature-based automated discovery of tumor suppressor p53 phosphorylation and inhibition by NEK2",
+      "volume": "115",
+      "author": "B-K Choi",
+      "year": "2018",
+      "journal-title": "PNAS"
+    },
+    {
+      "issue": "e12",
+      "key": "pone.0223994.ref005",
+      "first-page": "1",
+      "article-title": "Emerging approaches in literature-based discovery: techniques and performance review",
+      "volume": "32",
+      "author": "Y Sebastian",
+      "year": "2017",
+      "journal-title": "The Knowledge Engineering Review"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0223994.ref006",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1353/pbm.1986.0087",
+      "article-title": "Fish oil, Raynaud’s syndrome, and undiscovered public knowledge",
+      "volume": "30",
+      "author": "DR Swanson",
+      "year": "1986",
+      "journal-title": "Perspectives in Biology and Medicine"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref007",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "DOI": "10.1086/601720",
+      "article-title": "Undiscovered public knowledge",
+      "volume": "56",
+      "author": "DR Swanson",
+      "year": "1986",
+      "journal-title": "Library Quarterly"
+    },
+    {
+      "issue": "7",
+      "key": "pone.0223994.ref008",
+      "doi-asserted-by": "crossref",
+      "first-page": "1382",
+      "DOI": "10.1002/asi.21525",
+      "article-title": "Science mapping software tools: Review, analysis, and cooperative study among tools",
+      "volume": "62",
+      "author": "MJ Cobo",
+      "year": "2011",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref009",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1002/asi.20317",
+      "article-title": "CiteSpace II: Detecting and visualizing emerging trends and transient patterns in scientific literature",
+      "volume": "57",
+      "author": "C Chen",
+      "year": "2006",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref010",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1515/jdis-2017-0006",
+      "article-title": "Science Mapping: A Systematic Review of the Literature",
+      "volume": "2",
+      "author": "C Chen",
+      "year": "2017",
+      "journal-title": "Journal of Data and Information Science"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref011",
+      "doi-asserted-by": "crossref",
+      "first-page": "523",
+      "DOI": "10.1007/s11192-009-0146-3",
+      "article-title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+      "volume": "84",
+      "author": "NJ van Eck",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "5",
+      "key": "pone.0223994.ref012",
+      "doi-asserted-by": "crossref",
+      "first-page": "593",
+      "DOI": "10.1517/14712598.2012.674507",
+      "article-title": "Emerging trends in regenerative medicine: A scientometric analysis in CiteSpace",
+      "volume": "12",
+      "author": "C Chen",
+      "year": "2012",
+      "journal-title": "Expert Opinions on Biological Therapy"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0223994.ref013",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0191250",
+      "DOI": "10.1371/journal.pone.0191250",
+      "article-title": "Visualized analysis of developing trends and hot topics in natural disaster research",
+      "volume": "13",
+      "author": "S Shen",
+      "year": "2018",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "8",
+      "key": "pone.0223994.ref014",
+      "doi-asserted-by": "crossref",
+      "first-page": "2282",
+      "DOI": "10.3390/su11082282",
+      "article-title": "Greenhouse Gas Emissions from Landfills: A Review and Bibliometric Analysis",
+      "volume": "11",
+      "author": "C Zhang",
+      "year": "2019",
+      "journal-title": "Sustainability"
+    },
+    {
+      "key": "pone.0223994.ref015",
+      "doi-asserted-by": "crossref",
+      "first-page": "285",
+      "DOI": "10.1016/j.techfore.2017.09.032",
+      "article-title": "Insights into relationships between disruptive technology/innovation and emerging technology: A bibliometric perspective",
+      "volume": "129",
+      "author": "M Li",
+      "year": "2018",
+      "journal-title": "Technological Forecasting and Social Change"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0223994.ref016",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0147152",
+      "DOI": "10.1371/journal.pone.0147152",
+      "article-title": "What Is Citizen Science?–A Scientometric Meta-Analysis",
+      "volume": "11",
+      "author": "C Kullenberg",
+      "year": "2016",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "7",
+      "key": "pone.0223994.ref017",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0160393",
+      "DOI": "10.1371/journal.pone.0160393",
+      "article-title": "Climate Change Research in View of Bibliometrics",
+      "volume": "11",
+      "author": "R Haunschild",
+      "year": "2016",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0223994.ref018",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1002/asi.21444",
+      "article-title": "Using Global Mapping to Create More Accurate Document-Level Maps of Research Fields",
+      "volume": "62",
+      "author": "R Klavans",
+      "year": "2011",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref019",
+      "doi-asserted-by": "crossref",
+      "first-page": "348",
+      "DOI": "10.1002/asi.20967",
+      "article-title": "A Global Map of Science Based on the ISI Subject Categories",
+      "volume": "60",
+      "author": "L Leydesdorff",
+      "year": "2009",
+      "journal-title": "J AM SOC INF SCI TEC"
+    },
+    {
+      "issue": "7",
+      "key": "pone.0223994.ref020",
+      "doi-asserted-by": "crossref",
+      "first-page": "10",
+      "DOI": "10.1371/journal.pone.0039464",
+      "article-title": "Design and Update of a Classification System: The UCSD Map of Science",
+      "volume": "7",
+      "author": "K Borner",
+      "year": "2012",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref021",
+      "doi-asserted-by": "crossref",
+      "first-page": "431",
+      "DOI": "10.1002/asi.21694",
+      "article-title": "Predictive effects of structural variation on citation counts",
+      "volume": "63",
+      "author": "C Chen",
+      "year": "2012",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    },
+    {
+      "key": "pone.0223994.ref022",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen C, Song M. Representing Scientific Knowledge: The Role of Uncertainty: Springer; 2017.",
+      "DOI": "10.1007/978-3-319-62543-0"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref023",
+      "doi-asserted-by": "crossref",
+      "first-page": "173",
+      "DOI": "10.1016/j.joi.2009.03.009",
+      "article-title": "From the science of science to Scientometrics visualizing the history of science with HistCite software",
+      "volume": "3",
+      "author": "E Garfield",
+      "year": "2009",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "6",
+      "key": "pone.0223994.ref024",
+      "doi-asserted-by": "crossref",
+      "first-page": "1513",
+      "DOI": "10.1016/j.ipm.2006.03.016",
+      "article-title": "Dlineating complex scientific fields by an hybrid lexical-citation method: An application to nanosciences",
+      "volume": "42",
+      "author": "M Zitt",
+      "year": "2006",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "issue": "5",
+      "key": "pone.0223994.ref025",
+      "doi-asserted-by": "crossref",
+      "first-page": "715",
+      "DOI": "10.1007/s11051-007-9266-y",
+      "article-title": "Refining search terms for nanotechnology",
+      "volume": "10",
+      "author": "AL Porter",
+      "year": "2008",
+      "journal-title": "Journal of Nanopartical Research"
+    },
+    {
+      "issue": "5",
+      "key": "pone.0223994.ref026",
+      "doi-asserted-by": "crossref",
+      "first-page": "701",
+      "DOI": "10.1007/s11051-007-9224-8",
+      "article-title": "Technical structure of the global nanoscience and nanotechnology literature",
+      "volume": "9",
+      "author": "RN Kostoff",
+      "year": "2007",
+      "journal-title": "Journal of Nanopartical Research"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref027",
+      "doi-asserted-by": "crossref",
+      "first-page": "2005",
+      "DOI": "10.1007/s11192-015-1638-y",
+      "article-title": "A systematic method to create search strategies for emerging technologies based on the Web of Science: illustrated for ‘Big Data’",
+      "volume": "105",
+      "author": "Y Huang",
+      "year": "2015",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "4",
+      "key": "pone.0223994.ref028",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1515/jdis-2017-0019",
+      "article-title": "Rediscovering Don Swanson: the past, present and future of literature-based discovery",
+      "volume": "2",
+      "author": "N Smalheiser",
+      "year": "2017",
+      "journal-title": "Journal of Data and Information Science"
+    },
+    {
+      "issue": "4",
+      "key": "pone.0223994.ref029",
+      "doi-asserted-by": "crossref",
+      "first-page": "228",
+      "DOI": "10.1002/(SICI)1097-4571(198707)38:4<228::AID-ASI2>3.0.CO;2-G",
+      "article-title": "2 MEDICAL LITERATURES THAT ARE LOGICALLY BUT NOT BIBLIOGRAPHICALLY CONNECTED",
+      "volume": "38",
+      "author": "DR Swanson",
+      "year": "1987",
+      "journal-title": "J Am Soc Inf Sci"
+    },
+    {
+      "issue": "4",
+      "key": "pone.0223994.ref030",
+      "doi-asserted-by": "crossref",
+      "first-page": "526",
+      "DOI": "10.1353/pbm.1988.0009",
+      "article-title": "MIGRAINE AND MAGNESIUM—11 NEGLECTED CONNECTIONS",
+      "volume": "31",
+      "author": "DR Swanson",
+      "year": "1988",
+      "journal-title": "Perspectives in Biology and Medicine"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref031",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1016/S0169-2607(98)00033-9",
+      "article-title": "Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientific hypotheses",
+      "volume": "57",
+      "author": "NR Smalheiser",
+      "year": "1998",
+      "journal-title": "Comput Meth Programs Biomed"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref032",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.1016/S0004-3702(97)00008-8",
+      "article-title": "An interactive system for finding complementary literatures: A stimulus to scientific discovery",
+      "volume": "91",
+      "author": "DR Swanson",
+      "year": "1997",
+      "journal-title": "Artificial Intelligence"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref033",
+      "doi-asserted-by": "crossref",
+      "first-page": "809",
+      "DOI": "10.1212/WNL.47.3.809",
+      "article-title": "Linking estrogen to Alzheimer’s disease: An informatics approach",
+      "volume": "47",
+      "author": "NR Smalheiser",
+      "year": "1996",
+      "journal-title": "Neurology"
+    },
+    {
+      "issue": "7",
+      "key": "pone.0223994.ref034",
+      "doi-asserted-by": "crossref",
+      "first-page": "548",
+      "DOI": "10.1002/asi.1104",
+      "article-title": "Using concepts in literature-based discovery: Simulating Swanson’s Raynaud-fish oil and migraine-magnesium discoveries",
+      "volume": "52",
+      "author": "M Weeber",
+      "year": "2001",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref035",
+      "doi-asserted-by": "crossref",
+      "first-page": "116",
+      "DOI": "10.1002/(SICI)1097-4571(199602)47:2<116::AID-ASI3>3.0.CO;2-1",
+      "article-title": "Toward discovery support systems: A replication, re-examination, and extension of Swanson’s work on literature-based discovery of a connection between Raynaud’s and fish oil",
+      "volume": "47",
+      "author": "MD Gordon",
+      "year": "1996",
+      "journal-title": "J Am Soc Inf Sci"
+    },
+    {
+      "issue": "4",
+      "key": "pone.0223994.ref036",
+      "article-title": "A context-based ABC model for literature-based discovery",
+      "volume": "14",
+      "author": "YH Kim",
+      "year": "2019",
+      "journal-title": "PLoS One"
+    },
+    {
+      "issue": "5",
+      "key": "pone.0223994.ref037",
+      "doi-asserted-by": "crossref",
+      "first-page": "217",
+      "DOI": "10.1016/j.tibs.2009.02.002",
+      "article-title": "Four stages of a scientific discipline: four types of scientists",
+      "volume": "34",
+      "author": "AM Shneider",
+      "year": "2009",
+      "journal-title": "Trends in biochemical sciences"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref038",
+      "doi-asserted-by": "crossref",
+      "first-page": "455",
+      "DOI": "10.1002/asi.20991",
+      "article-title": "Toward a Consensus Map of Science",
+      "volume": "60",
+      "author": "R Klavans",
+      "year": "2009",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref039",
+      "doi-asserted-by": "crossref",
+      "first-page": "334",
+      "DOI": "10.1002/asi.22968",
+      "article-title": "Patterns of connections and movements in dual-map overlays: A new method of publication portfolio analysis",
+      "volume": "62",
+      "author": "C Chen",
+      "year": "2014",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    },
+    {
+      "key": "pone.0223994.ref040",
+      "doi-asserted-by": "crossref",
+      "first-page": "5303",
+      "DOI": "10.1073/pnas.0307513100",
+      "article-title": "Searching for intellectual turning points: Progressive knowledge domain visualization",
+      "volume": "101",
+      "author": "C Chen",
+      "year": "2004",
+      "journal-title": "Proc Natl Acad Sci U S A"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0223994.ref041",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1002/aris.1440370106",
+      "article-title": "Visualizing knowledge domains",
+      "volume": "37",
+      "author": "K Börner",
+      "year": "2003",
+      "journal-title": "Annual Review of Information Science and Technology"
+    },
+    {
+      "key": "pone.0223994.ref042",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pirolli P, Schank P, Hearst M, Diehl C, editors. Scatter/Gather browsing communicates the topic structure of a very large text collection. the Conference on Human Factors in Computing Systems (CHI ‘96); 1996 April 1996; Vancouver, BC: ACM Press.",
+      "DOI": "10.1145/238386.238489"
+    },
+    {
+      "issue": "11",
+      "key": "pone.0223994.ref043",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1145/219717.219748",
+      "article-title": "WORDNET—A LEXICAL DATABASE FOR ENGLISH",
+      "volume": "38",
+      "author": "GA Miller",
+      "year": "1995",
+      "journal-title": "Communications of the Acm"
+    },
+    {
+      "issue": "3",
+      "key": "pone.0223994.ref044",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1136/jamia.2009.002733",
+      "article-title": "An overview of MetaMap: historical perspective and recent advances",
+      "volume": "17",
+      "author": "AR Aronson",
+      "year": "2010",
+      "journal-title": "Journal of the American Medical Informatics Association"
+    },
+    {
+      "key": "pone.0223994.ref045",
+      "doi-asserted-by": "crossref",
+      "first-page": "D267",
+      "DOI": "10.1093/nar/gkh061",
+      "article-title": "The Unified Medical Language System (UMLS): integrating biomedical terminology",
+      "volume": "32",
+      "author": "O Bodenreider",
+      "year": "2004",
+      "journal-title": "Nucleic Acids Research"
+    },
+    {
+      "issue": "6",
+      "key": "pone.0223994.ref046",
+      "doi-asserted-by": "crossref",
+      "first-page": "391",
+      "DOI": "10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9",
+      "article-title": "Indexing by Latent Semantic Analysis",
+      "volume": "41",
+      "author": "S Deerwester",
+      "year": "1990",
+      "journal-title": "J Am Soc Inf Sci"
+    },
+    {
+      "key": "pone.0223994.ref047",
+      "unstructured": "Mikolov T, Sutskever I, Chen K, Corrado GS, Dean J. Distributed representations of words and phrases and their compositionality. Proceedings of the 26th International Conference on Neural Information Processing Systems (NIPS’13); December 05–10, 2013; Lake Tahoe, Nevada2013. p. 3111–9."
+    },
+    {
+      "key": "pone.0223994.ref048",
+      "doi-asserted-by": "crossref",
+      "first-page": "669",
+      "DOI": "10.1038/227669a0",
+      "article-title": "Citation indexing for studying science",
+      "volume": "227",
+      "author": "E Garfield",
+      "year": "1970",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "pone.0223994.ref049",
+      "doi-asserted-by": "crossref",
+      "first-page": "635",
+      "DOI": "10.2307/2089193",
+      "article-title": "Priorities in scientific discoveries",
+      "volume": "22",
+      "author": "RK Merton",
+      "year": "1957",
+      "journal-title": "American Sociological Review"
+    },
+    {
+      "issue": "2",
+      "key": "pone.0223994.ref050",
+      "first-page": "6",
+      "article-title": "Cascading citation expansion",
+      "volume": "6",
+      "author": "C Chen",
+      "year": "2018",
+      "journal-title": "Journal of Information Science Theory and Practice"
+    },
+    {
+      "issue": "12",
+      "key": "pone.0223994.ref051",
+      "doi-asserted-by": "crossref",
+      "first-page": "2479",
+      "DOI": "10.1002/asi.23135",
+      "article-title": "Citations with different levels of relevancy: Tracing the main paths of legal opinions",
+      "volume": "65",
+      "author": "JS Liu",
+      "year": "2014",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    },
+    {
+      "issue": "1",
+      "key": "pone.0223994.ref052",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1016/0378-8733(89)90017-8",
+      "article-title": "Connectivity in a citation network: The development of DNA theory",
+      "volume": "11",
+      "author": "NP Hummon",
+      "year": "1989",
+      "journal-title": "Social Networks"
+    },
+    {
+      "issue": "7",
+      "key": "pone.0223994.ref053",
+      "doi-asserted-by": "crossref",
+      "first-page": "1386",
+      "DOI": "10.1002/asi.21309",
+      "article-title": "The Structure and Dynamics of Cocitation Clusters: A Multiple-Perspective Cocitation Analysis",
+      "volume": "61",
+      "author": "C Chen",
+      "year": "2010",
+      "journal-title": "J Am Soc Inf Sci Technol"
+    }
+  ],
+  "container-title": [
+    "PLOS ONE"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://dx.plos.org/10.1371/journal.pone.0223994",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        8
+      ]
+    ],
+    "date-time": "2020-05-08T18:07:07Z",
+    "timestamp": 1588961227000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dx.plos.org/10.1371/journal.pone.0223994"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Wolfgang",
+      "family": "Glanzel",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        31
+      ]
+    ]
+  },
+  "references-count": 53,
+  "journal-issue": {
+    "issue": "10",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          31
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1371/journal.pone.0223994",
+  "relation": {},
+  "ISSN": [
+    "1932-6203"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "1932-6203"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        31
+      ]
+    ]
+  }
+}

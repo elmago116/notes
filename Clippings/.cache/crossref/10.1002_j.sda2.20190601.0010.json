@@ -1,0 +1,201 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        3
+      ]
+    ],
+    "date-time": "2023-09-03T12:11:15Z",
+    "timestamp": 1693743075856
+  },
+  "reference-count": 4,
+  "publisher": "Wiley",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2020-12-01T00:00:00Z",
+        "timestamp": 1606780800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 700,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Student Anthropologist"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p><jats:italic>The European Dancehouse Network is a sustainable model for stability in dance communities around Europe. A dancehouse is a practice space, a performance space, and an educational space. This model serves artists across Europe by facilitating stable jobs and serves the public through performances. It is also a model that can serve as heritage protection. This type of protection occurs through the stable presence of art in neighborhoods, the rehabilitation of historical and important buildings, and the sharing of stories through the dance created within the walls of these dancehouses. For this think piece, I looked at three Nordic dance houses in Copenhagen, Olso, and Stockholm. After establishing a foundation for the heritage management occurring in these three cities through dancehouses, I discuss the ways in which fully adopting this EDN model would be beneficial to the city of Reykjavík and its dancers. In this discussion I outline the changes occurring in Reykjavík, the growth of the Reykjavík dance scene in recent years, and the recent activism of the city's dancers. Throughout this piece I will tie the potential benefits of the EDN model in Reykjavík with anthropological thoughts and ideas on cultural heritage and its management. My goal with this article is to articulate the place for creativity in heritage management of urban historical districts and the benefits a highly tourist-visited city, such as Reykjavík, can experience from a re-investment in its artists.</jats:italic></jats:p>",
+  "DOI": "10.1002/j.sda2.20190601.0010",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        2,
+        21
+      ]
+    ],
+    "date-time": "2021-02-21T01:19:36Z",
+    "timestamp": 1613870376000
+  },
+  "page": "73-79",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "European Dancehouses: Models of Managing Tangible &amp; Intangible Heritage"
+  ],
+  "prefix": "10.1002",
+  "volume": "6",
+  "author": [
+    {
+      "given": "Emily",
+      "family": "Creek",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Denver"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        12
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_1_2_1",
+      "unstructured": "European Dance Network"
+    },
+    {
+      "key": "e_1_2_1_3_1",
+      "volume-title": "Heritage Resources Management Series",
+      "author": "King Thomas F",
+      "year": "2013"
+    },
+    {
+      "key": "e_1_2_1_4_1",
+      "unstructured": "Three EDN dancehouse images and EDN logo are curtesy of EDN website"
+    },
+    {
+      "key": "e_1_2_1_5_1",
+      "unstructured": "All other images are the property of Emily Creek"
+    }
+  ],
+  "container-title": [
+    "Student Anthropologist"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/j.sda2.20190601.0010",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1002/j.sda2.20190601.0010",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        3
+      ]
+    ],
+    "date-time": "2023-09-03T00:21:38Z",
+    "timestamp": 1693700498000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1002/j.sda2.20190601.0010"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        1
+      ]
+    ]
+  },
+  "references-count": 4,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/j.sda2.20190601.0010"
+  ],
+  "URL": "https://doi.org/10.1002/j.sda2.20190601.0010",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "2330-7625",
+    "2330-7625"
+  ],
+  "issn-type": [
+    {
+      "value": "2330-7625",
+      "type": "print"
+    },
+    {
+      "value": "2330-7625",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        1
+      ]
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.hasTag("themes/citizenScience", "Tech", "themes", "design")
+    - '!file.inFolder("BSC")'
+    - '!file.hasTag("op")'
+    - file.hasTag("research_method/ScopingReview")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - file.backlinks
+      - file.links
+    sort:
+      - property: file.backlinks
+        direction: DESC
+      - property: file.links
+        direction: ASC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 348
+      note.tags: 134
+      file.backlinks: 210

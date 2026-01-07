@@ -1,0 +1,192 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        6
+      ]
+    ],
+    "date-time": "2025-03-06T05:14:12Z",
+    "timestamp": 1741238052611,
+    "version": "3.38.0"
+  },
+  "reference-count": 0,
+  "publisher": "The USA Journals",
+  "issue": "03",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "tajet"
+  ],
+  "abstract": "<jats:p>In recent years, Human AI Collaboration has become an exciting new approach to IT systems design that is designed to balance automation and human expertise. Specifically, this paper investigates a broad framework of smart scenario co-creation with IT systems in general, where human and AI work together in dynamically sharing IT tasks, AI provides decision tools for augmentation, and mutual performance is optimized by dynamically adjusting learning parameters. The research employs a mixed method, and the case studies together with the surveys and the quantitative data analysis are used to assess the existing collaboration models. We find that hybrid teams, consisting of both AI agents and human experts, increase productivity by up to 40% when executing iterative design processes. In addition, the study provides important insights regarding the critical success factors such as adaptive system interfaces, trust building mechanisms and the skill augmentation strategies. This information presents a path for overcoming ubiquitous challenge in utilizing collaborative frameworks, such as technological misalignment and user resistance. The proposed framework is intended to enable replication of such integration in the real time IT environment offering flexibility, scalability and long-term efficiency. Second, this research adds to the expanding repository of knowledge in terms of human centered AI development and offers IT leaders practical approaches to take advantage of human AI synergy for innovation and competitiveness.</jats:p>",
+  "DOI": "10.37547/tajet/volume07issue03-05",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ],
+    "date-time": "2025-03-05T10:39:58Z",
+    "timestamp": 1741171198000
+  },
+  "page": "50-68",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Human-AI Collaboration in IT Systems Design: A Comprehensive Framework for Intelligent Co-Creation"
+  ],
+  "prefix": "10.37547",
+  "volume": "07",
+  "author": [
+    {
+      "name": "Department of Information Technology, Washington University of Science and Technology (wust), Vienna, VA 22182, USA",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "MD Mahbub",
+      "family": "Rabbani",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "MD Nadil",
+      "family": "khan",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "name": "Department of Information Technology, Washington University of Science and Technology (wust), Vienna, VA 22182, USA",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Kirtibhai",
+      "family": "Desai",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "name": "Department of Computer Science, Campbellsville University, KY 42718, USA",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Mohammad Majharul",
+      "family": "Islam",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "name": "Department of Business studies, Lincoln University, California, USA",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Saif",
+      "family": "Ahmad",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "name": "Department of Business Analytics, Wilmington University, USA",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Esrat Zahan",
+      "family": "Snigdha",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "name": "Department of Information Technology in Data Analysis, Washington University of Science and Technology (wust), Vienna, VA 22182, USA",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "23730",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  },
+  "container-title": [
+    "The American Journal of Engineering and Technology"
+  ],
+  "original-title": [
+    "Human-AI Collaboration in IT Systems Design: A Comprehensive Framework for Intelligent Co-Creation"
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ],
+    "date-time": "2025-03-05T10:40:01Z",
+    "timestamp": 1741171201000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://theamericanjournals.com/index.php/tajet/article/view/5927/5483"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "03",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          5
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.37547/tajet/volume07issue03-05",
+  "relation": {},
+  "ISSN": [
+    "2689-0984"
+  ],
+  "issn-type": [
+    {
+      "value": "2689-0984",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  }
+}

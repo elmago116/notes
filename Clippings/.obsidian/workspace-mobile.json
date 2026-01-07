@@ -11,10 +11,14 @@
             "id": "8e32f24a4588b082",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Neural-Symbolic Reasoning over Knowledge Graphs_ A Survey from a Query Perspective.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural-Symbolic Reasoning over Knowledge Graphs_ A Survey from a Query Perspective"
             }
           }
         ]
@@ -33,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -147,8 +151,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d28365d8e617aba8",
+  "active": "8e32f24a4588b082",
   "lastOpenFiles": [
+    "Clippings/PDF/Neural-Symbolic Reasoning over Knowledge Graphs_ A Survey from a Query Perspective.pdf.md",
+    "Neural-Symbolic Reasoning over Knowledge Graphs_ A Survey from a Query Perspective.md",
+    "Clippings/PDF",
+    "Clippings",
+    "KnowEdu_ A System to Construct Knowledge Graph for Education – DOAJ.md",
+    "A New Approach for Semi-automatic Building and Extending a Multilingual Terminology Thesaurus.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2025-07-28.md",
+    "ACM SIGAPP Applied Computing Review.md",
+    "PDF/2025-03-19-CLARIAH-ES-UB.pdf",
+    "PDF/AtlastiScoping_Review.pdf",
+    "Keyword-citation-keyword network_ a new perspective of discipline knowledge structure analysis - Scientometrics.md",
+    "[[Knowledge Graphs for Cultural Heritage and Digital Humanities - notes.md",
+    "Citations, Citation Indicators, and Research Quality_ An Overview of Basic Concepts and Theories - Dag W. Aksnes, Liv Langfeldt, Paul Wouters, 2019.md",
+    "Usability Testing_ A Bibliometric Analysis Based on WoS Data – Journal of Scientometric Research.md",
     "Scopus - Document details - Literature analysis.md",
     "PDF/Towards Harnessing Large Language Models as Autonomous Agents for Semantic Triple Extraction from Unstructured Tex.pdf",
     "Welcome to FrameNet! _ fndrupal.md",

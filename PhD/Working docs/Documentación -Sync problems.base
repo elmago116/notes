@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.fullname.contains("Sync")
+    - '!file.inFolder("BSC")'
+    - '!file.hasTag("op")'
+    - file.ext != "py"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - file.backlinks
+      - file.links
+    sort:
+      - property: file.links
+        direction: ASC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 407
+      file.backlinks: 112

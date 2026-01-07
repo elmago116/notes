@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.hasTag("op/activity/meeting")
+    - '!file.hasTag("op/level/TFM-FIMA", "CCC")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date
+      - file.tags
+      - file.folder
+      - authors
+    sort:
+      - property: date
+        direction: ASC
+    columnSize:
+      file.name: 220
+      file.tags: 98
+      file.folder: 111

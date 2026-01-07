@@ -1,0 +1,758 @@
+{
+  "id": "https://openalex.org/W4400411501",
+  "doi": "https://doi.org/10.1016/j.cola.2024.101287",
+  "title": "Screening articles for systematic reviews with ChatGPT",
+  "display_name": "Screening articles for systematic reviews with ChatGPT",
+  "publication_year": 2024,
+  "publication_date": "2024-07-08",
+  "ids": {
+    "openalex": "https://openalex.org/W4400411501",
+    "doi": "https://doi.org/10.1016/j.cola.2024.101287"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.cola.2024.101287",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210239993",
+      "display_name": "Journal of Computer Languages",
+      "issn_l": "2590-1184",
+      "issn": [
+        "2590-1184",
+        "2665-9182"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.cola.2024.101287",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5049129140",
+        "display_name": "Eugene Syriani",
+        "orcid": "https://orcid.org/0000-0001-6527-1651"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I70931966",
+          "display_name": "Université de Montréal",
+          "ror": "https://ror.org/0161xgx34",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I70931966"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eugene Syriani",
+      "raw_affiliation_strings": [
+        "DIRO, Université de Montréal, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "DIRO, Université de Montréal, Canada",
+          "institution_ids": [
+            "https://openalex.org/I70931966"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041475393",
+        "display_name": "István Dávid",
+        "orcid": "https://orcid.org/0000-0002-4870-8433"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I98251732",
+          "display_name": "McMaster University",
+          "ror": "https://ror.org/02fa3aq29",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I98251732"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Istvan David",
+      "raw_affiliation_strings": [
+        "McMaster University, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "McMaster University, Canada",
+          "institution_ids": [
+            "https://openalex.org/I98251732"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5015177237",
+        "display_name": "G. Kiran Kumar",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I70931966",
+          "display_name": "Université de Montréal",
+          "ror": "https://ror.org/0161xgx34",
+          "country_code": "CA",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I70931966"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gauransh Kumar",
+      "raw_affiliation_strings": [
+        "DIRO, Université de Montréal, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "DIRO, Université de Montréal, Canada",
+          "institution_ids": [
+            "https://openalex.org/I70931966"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5049129140"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I70931966"
+  ],
+  "apc_list": {
+    "value": 2170,
+    "currency": "USD",
+    "value_usd": 2170
+  },
+  "apc_paid": {
+    "value": 2170,
+    "currency": "USD",
+    "value_usd": 2170
+  },
+  "fwci": 3.607,
+  "has_fulltext": false,
+  "cited_by_count": 18,
+  "citation_normalized_percentile": {
+    "value": 0.999674,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "80",
+    "issue": null,
+    "first_page": "101287",
+    "last_page": "101287"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11636",
+    "display_name": "Artificial Intelligence in Healthcare and Education",
+    "score": 0.9966,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2718",
+      "display_name": "Health Informatics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11636",
+      "display_name": "Artificial Intelligence in Healthcare and Education",
+      "score": 0.9966,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2718",
+        "display_name": "Health Informatics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12072",
+      "display_name": "Machine Learning and Algorithms",
+      "score": 0.9952,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "score": 0.9921,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.45745695
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.27482685
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.17171547
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.cola.2024.101287",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210239993",
+        "display_name": "Journal of Computer Languages",
+        "issn_l": "2590-1184",
+        "issn": [
+          "2590-1184",
+          "2665-9182"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.cola.2024.101287",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210239993",
+      "display_name": "Journal of Computer Languages",
+      "issn_l": "2590-1184",
+      "issn": [
+        "2590-1184",
+        "2665-9182"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 60,
+  "referenced_works": [
+    "https://openalex.org/W1546047689",
+    "https://openalex.org/W1629765770",
+    "https://openalex.org/W168362576",
+    "https://openalex.org/W1851653583",
+    "https://openalex.org/W1982170224",
+    "https://openalex.org/W2008973833",
+    "https://openalex.org/W2027468426",
+    "https://openalex.org/W2092255211",
+    "https://openalex.org/W2095601341",
+    "https://openalex.org/W2097998348",
+    "https://openalex.org/W2099883114",
+    "https://openalex.org/W2101234009",
+    "https://openalex.org/W2154352790",
+    "https://openalex.org/W2593758073",
+    "https://openalex.org/W2596568673",
+    "https://openalex.org/W2604272474",
+    "https://openalex.org/W2727164093",
+    "https://openalex.org/W2759844403",
+    "https://openalex.org/W2790292916",
+    "https://openalex.org/W2883262966",
+    "https://openalex.org/W2903158431",
+    "https://openalex.org/W2961191798",
+    "https://openalex.org/W2970641574",
+    "https://openalex.org/W2975633809",
+    "https://openalex.org/W3080132163",
+    "https://openalex.org/W3082069439",
+    "https://openalex.org/W3095319910",
+    "https://openalex.org/W3111278950",
+    "https://openalex.org/W3134402730",
+    "https://openalex.org/W3136921178",
+    "https://openalex.org/W3139098936",
+    "https://openalex.org/W3149778443",
+    "https://openalex.org/W3175763363",
+    "https://openalex.org/W3185341429",
+    "https://openalex.org/W3197610896",
+    "https://openalex.org/W334067164",
+    "https://openalex.org/W4210651385",
+    "https://openalex.org/W4221143046",
+    "https://openalex.org/W4225397895",
+    "https://openalex.org/W4232169832",
+    "https://openalex.org/W4241980133",
+    "https://openalex.org/W4246787113",
+    "https://openalex.org/W4255031069",
+    "https://openalex.org/W4256049924",
+    "https://openalex.org/W4308643041",
+    "https://openalex.org/W4319962920",
+    "https://openalex.org/W4321214126",
+    "https://openalex.org/W4321649710",
+    "https://openalex.org/W4322719791",
+    "https://openalex.org/W4324304837",
+    "https://openalex.org/W4367016708",
+    "https://openalex.org/W4384389814",
+    "https://openalex.org/W4384641573",
+    "https://openalex.org/W4386081793",
+    "https://openalex.org/W4387559558",
+    "https://openalex.org/W4387994521",
+    "https://openalex.org/W4388718056",
+    "https://openalex.org/W4391993820",
+    "https://openalex.org/W4396832834",
+    "https://openalex.org/W4404658388"
+  ],
+  "related_works": [
+    "https://openalex.org/W4322495751",
+    "https://openalex.org/W4320717566",
+    "https://openalex.org/W4200615155",
+    "https://openalex.org/W4200400515",
+    "https://openalex.org/W3024289321",
+    "https://openalex.org/W2938724434",
+    "https://openalex.org/W2792383399",
+    "https://openalex.org/W2766255174",
+    "https://openalex.org/W2395691387",
+    "https://openalex.org/W1499464851"
+  ],
+  "abstract_inverted_index": {
+    "Systematic": [
+      0
+    ],
+    "reviews": [
+      1
+    ],
+    "(SRs)": [
+      2
+    ],
+    "provide": [
+      3
+    ],
+    "valuable": [
+      4
+    ],
+    "evidence": [
+      5
+    ],
+    "for": [
+      6,
+      19,
+      71
+    ],
+    "guiding": [
+      7
+    ],
+    "new": [
+      8,
+      45
+    ],
+    "research": [
+      9
+    ],
+    "directions.": [
+      10
+    ],
+    "However,": [
+      11,
+      104
+    ],
+    "the": [
+      12,
+      38,
+      52,
+      58,
+      65,
+      73
+    ],
+    "manual": [
+      13
+    ],
+    "effort": [
+      14
+    ],
+    "involved": [
+      15
+    ],
+    "in": [
+      16,
+      21
+    ],
+    "selecting": [
+      17
+    ],
+    "articles": [
+      18,
+      30
+    ],
+    "inclusion": [
+      20
+    ],
+    "an": [
+      22
+    ],
+    "SR": [
+      23,
+      59,
+      80
+    ],
+    "is": [
+      24
+    ],
+    "error-prone": [
+      25
+    ],
+    "and": [
+      26,
+      100
+    ],
+    "time-consuming.": [
+      27
+    ],
+    "While": [
+      28
+    ],
+    "screening": [
+      29,
+      75
+    ],
+    "has": [
+      31
+    ],
+    "traditionally": [
+      32
+    ],
+    "been": [
+      33
+    ],
+    "considered": [
+      34
+    ],
+    "challenging": [
+      35
+    ],
+    "to": [
+      36,
+      90,
+      109
+    ],
+    "automate,": [
+      37
+    ],
+    "advent": [
+      39
+    ],
+    "of": [
+      40,
+      54,
+      67
+    ],
+    "large": [
+      41
+    ],
+    "language": [
+      42
+    ],
+    "models": [
+      43
+    ],
+    "offers": [
+      44
+    ],
+    "possibilities.": [
+      46
+    ],
+    "In": [
+      47,
+      61
+    ],
+    "this": [
+      48
+    ],
+    "paper,": [
+      49
+    ],
+    "we": [
+      50,
+      63
+    ],
+    "discuss": [
+      51
+    ],
+    "effect": [
+      53
+    ],
+    "using": [
+      55,
+      77
+    ],
+    "ChatGPT": [
+      56,
+      86
+    ],
+    "on": [
+      57
+    ],
+    "process.": [
+      60
+    ],
+    "particular,": [
+      62
+    ],
+    "investigate": [
+      64
+    ],
+    "effectiveness": [
+      66
+    ],
+    "different": [
+      68,
+      110
+    ],
+    "prompt": [
+      69
+    ],
+    "strategies": [
+      70
+    ],
+    "automating": [
+      72
+    ],
+    "article": [
+      74
+    ],
+    "process": [
+      76
+    ],
+    "five": [
+      78
+    ],
+    "real": [
+      79
+    ],
+    "datasets.": [
+      81
+    ],
+    "Our": [
+      82
+    ],
+    "results": [
+      83
+    ],
+    "show": [
+      84
+    ],
+    "that": [
+      85
+    ],
+    "can": [
+      87
+    ],
+    "reach": [
+      88
+    ],
+    "up": [
+      89
+    ],
+    "82%": [
+      91
+    ],
+    "accuracy.": [
+      92
+    ],
+    "The": [
+      93
+    ],
+    "best": [
+      94
+    ],
+    "performing": [
+      95
+    ],
+    "prompts": [
+      96,
+      105
+    ],
+    "specify": [
+      97
+    ],
+    "exclusion": [
+      98
+    ],
+    "criteria": [
+      99
+    ],
+    "avoid": [
+      101
+    ],
+    "negative": [
+      102
+    ],
+    "shots.": [
+      103
+    ],
+    "should": [
+      106
+    ],
+    "be": [
+      107
+    ],
+    "adapted": [
+      108
+    ],
+    "corpus": [
+      111
+    ],
+    "characteristics.": [
+      112
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4400411501",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-08-17T08:24:48.297627",
+  "created_date": "2024-07-09"
+}

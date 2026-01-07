@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.inFolder("Clippings")
+    - '!file.hasTag("CCC", "op", "bibliometrics")'
+    - file.ext != "py"
+    - '!file.fullname.contains("Sync")'
+    - file.ext != "pyc"
+    - file.ext != "base"
+    - file.ext != "json"
+    - file.ext != "png"
+    - file.ext != "ris"
+    - file.ext != "jpg"
+    - file.folder != "Clippings/scripts"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - year
+      - tags
+      - file.links
+      - file.backlinks
+    sort: []
+    columnSize:
+      file.name: 249
+      note.tags: 122
+      file.links: 104
+  - type: cards
+    name: View
+    imageFit: contain
+    imageAspectRatio: 0.65
+    cardSize: 170

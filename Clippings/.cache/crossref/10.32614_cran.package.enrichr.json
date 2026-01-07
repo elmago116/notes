@@ -1,0 +1,130 @@
+{
+  "institution": [
+    {
+      "name": "Comprehensive R Archive Network",
+      "acronym": [
+        "CRAN"
+      ]
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        3
+      ]
+    ],
+    "date-time": "2025-02-03T02:40:02Z",
+    "timestamp": 1738550402500,
+    "version": "3.35.0"
+  },
+  "description": "Provides an R interface to all 'Enrichr' databases. 'Enrichr' is a web-based tool for analysing gene sets and returns any enrichment of common annotated biological features. Quoting from their website 'Enrichment analysis is a computational method for inferring knowledge about an input gene set by comparing it to annotated gene sets representing prior biological knowledge.' See <https://maayanlab.cloud/Enrichr/> for further details.",
+  "reference-count": 0,
+  "publisher": "The R Foundation",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "content-updated": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        2
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2017,
+        4,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.32614/cran.package.enrichr",
+  "type": "dataset",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        12
+      ]
+    ],
+    "date-time": "2024-06-12T11:16:41Z",
+    "timestamp": 1718191001000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "enrichR: Provides an R Interface to 'Enrichr'"
+  ],
+  "prefix": "10.32614",
+  "author": [
+    {
+      "given": "Wajid",
+      "family": "Jawaid",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "17266",
+  "content-created": {
+    "date-parts": [
+      [
+        2017,
+        4,
+        2
+      ]
+    ]
+  },
+  "container-title": [
+    "CRAN: Contributed Packages"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        3
+      ]
+    ],
+    "date-time": "2025-02-03T02:15:29Z",
+    "timestamp": 1738548929000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://CRAN.R-project.org/package=enrichR"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        4,
+        2
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.32614/cran.package.enrichr",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017,
+        4,
+        2
+      ]
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        21
+      ]
+    ],
+    "date-time": "2025-02-21T21:35:19Z",
+    "timestamp": 1740173719712,
+    "version": "3.37.3"
+  },
+  "reference-count": 24,
+  "publisher": "University of Toronto Press Inc. (UTPress)",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2019-12-01T00:00:00Z",
+        "timestamp": 1575158400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100003329",
+      "name": "Ministerio de Economía y Competitividad",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "Project FFI2017-89127-P"
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100003329",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "name": "CEMIX UGR-MADOC",
+      "award": [
+        "PIN 5/18"
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Lexicography"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        12,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p> This paper describes a Frame-Based Terminology approach to the military terminology of the Spanish Armed Forces. The alphabetically organized (PD0-000) glossary of military terms of the Spanish Armed Forces was transformed into MiliMarco [MiliFrame], a bilingual terminological knowledge base in which each concept appears within a hierarchy of conceptual categories and a semantic network. Framebased resources enhance access to domain knowledge in a contextualized way, since embedding concepts in a knowledge structure activates associative information in semantic memory and promotes context availability. The design and population of MiliMarco involved the analysis and transformation of the content in the glossary entries as well as the extraction of new information. For this purpose, specialized knowledge structures were elaborated from the defnitions in the glossary and from the lexicalization of semantic relations in the corpus. New concepts were added to fll the gaps in the glossary and additional data categories were included, such as images, collocations, and contexts. Previous work on military ontologies, usually in the form of controlled, structured vocabularies, is limited to a specifc domain (e.g., military intelligence). MiliMarco has the advantage of providing an expanded view of the military domain in the form of conceptual networks combined with linguistic contexts that go far beyond simple hierarchies. Although still an ongoing project, the resulting knowledge base is currently a concept-oriented resource where users can browse through the conceptual hierarchy and semantic networks based on their cognitive and communicative needs. </jats:p>",
+  "DOI": "10.1007/s40607-019-00060-y",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        11,
+        20
+      ]
+    ],
+    "date-time": "2019-11-20T19:02:46Z",
+    "timestamp": 1574276566000
+  },
+  "page": "105-131",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "Frame-based terminology applied to military science"
+  ],
+  "prefix": "10.3138",
+  "volume": "6",
+  "author": [
+    {
+      "given": "Pamela",
+      "family": "Faber",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Granada, ES"
+        }
+      ]
+    },
+    {
+      "given": "Pilar",
+      "family": "León‑Araúz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Granada, ES"
+        }
+      ]
+    }
+  ],
+  "member": "1696",
+  "reference": [
+    {
+      "key": "B01",
+      "unstructured": "Bowman, Michael, Antonio López Jr., and Gheorghe Tecuci. 2001. Ontology development for military applications. In Proceedings of the Southeastern Regional ACM Conference, Atlanta, GA, March 16–17."
+    },
+    {
+      "key": "B02",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cerrella Bauer, S. 2015. Managing terminology projects: concepts, tools and methods. In Handbook of terminology, ed. H.J. Kockaert and F. Steurs, 324–340. Amsterdam: John Benjamins.",
+      "DOI": "10.1075/hot.1.man1"
+    },
+    {
+      "key": "B03",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cabezas-García, Melania, and Pamela Faber. 2018. Phraseology in specialized resources: an approach to complex nominals. Lexicography 5 (1): 55–83.",
+      "DOI": "10.1007/s40607-018-0046-x"
+    },
+    {
+      "key": "B04",
+      "unstructured": "Stevenson, A. (ed.). 2011. Concise Oxford english dictionary, 12th ed. Oxford: Oxford University Press."
+    },
+    {
+      "key": "B05",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dobrina, Claudia. 2015. Getting to the Core of a Terminological Project. In Handbook of terminology, ed. H.J. Kockaert and F. Steurs, 180–202. Amsterdam: John Benjamins.",
+      "DOI": "10.1075/hot.1.10get1"
+    },
+    {
+      "key": "B06",
+      "unstructured": "Evans, Vyvyan, and Melanie Green. 2007. Cognitive linguistics: an introduction. New York: Routledge."
+    },
+    {
+      "key": "B07",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Faber, Pamela (ed.). 2012. A cognitive linguistics view of terminology and specialized language. Berlin: De Gruyter.",
+      "DOI": "10.1515/9783110277203"
+    },
+    {
+      "key": "B08",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Faber, Pamela. 2015. Frames as a framework for terminology. In Handbook of terminology, ed. H.J. Koc- kaert and F. Steurs, 14–33. Amsterdam: John Benjamins.",
+      "DOI": "10.1075/hot.1.02fra1"
+    },
+    {
+      "key": "B09",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fernández-Domínguez, Jesús. 2016. A morphosemantic investigation of term formation processes in eng­lish and spanish. Lang Contrast 16 (1): 54–83.",
+      "DOI": "10.1075/lic.16.1.03fer"
+    },
+    {
+      "key": "B10",
+      "unstructured": "Jones, Ian. 2011. The NATO terminology programme and NATOTerm. In Proceedings of the 33rd Trans­lating and the Computer Conference, London. http://www.mt-archive.info/Aslib-2011-Jones.pdf."
+    },
+    {
+      "key": "B11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jones, Ian, and Louise Askew. 2014. Meeting the language challenges of NATO operations: policy, prac­tice and professionalization. London: Palgrave McMillan.",
+      "DOI": "10.1057/9781137312563"
+    },
+    {
+      "key": "B12",
+      "unstructured": "León-Araúz, Pilar, and Antonio San Martín. 2018. The EcoLexicon semantic sketch grammar: from knowledge patterns to word sketches. In Proceedings of the LREC 2018 workshop “Globalex 2018 -Lexicography and WordNets”, ed. I. Kerneman, and S. Krek, 94–99. Globalex: Miyazaki."
+    },
+    {
+      "key": "B13",
+      "unstructured": "León-Araúz, Pilar, Antonio San Martín, and Pamela Faber. 2016. Pattern-based word sketches for the extraction of semantic relations. In Proceedings of the 5th International Workshop on Computa­tional Terminology (Computerm 2016), Osaka, Japan, pp. 73–82."
+    },
+    {
+      "key": "B14",
+      "unstructured": "Marshman, Elizabeth. 2002. The cause-effect relation in a biopharmaceutical corpus: English knowledge patterns. In: Proceedings of the 6th International Conference on Terminology and Knowledge Engi­neering, Nancy, France, pp 89–94."
+    },
+    {
+      "key": "B15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Meyer, Ingrid. 2001. Extracting knowledge-rich contexts for terminography: a conceptual and methodo­logical framework. In Recent advances in computational terminology, ed. D. Bourigault, C. Jac- quemin, and M.C. L’Homme, 279–302. Amsterdam: John Benjamins.",
+      "DOI": "10.1075/nlp.2.15mey"
+    },
+    {
+      "key": "B16",
+      "unstructured": "NATO (North Atlantic Treaty Organization). 2011. Linguistic Support for Operations, ALING P-1. http:// nso.nato.int/nso/zPublic/ap/alingp-1.pdf."
+    },
+    {
+      "key": "B17",
+      "unstructured": "Nguyen, Duc N., Joseph B. Kopena, Thau Loo Boon, and William C. Regli. 2010. Ontologies for distrib­uted command and control messaging. In Proceedings of the 2010 conference on formal ontology in information systems: proceedings of the sixth international conference (FOIS 2010), ed. A. Galton and R. Mizoguchi, 373–384. Amsterdam: IOS Press."
+    },
+    {
+      "key": "B18",
+      "unstructured": "Rey, Alan (ed.). 2019. Le Petit Robert de la Langue Française. Paris: Le Robert."
+    },
+    {
+      "key": "B19",
+      "unstructured": "Sager, Juan C., David Dungworth, and Peter F. McDonald. 1980. English Special Languages. Principles and Practice in Science and Technology. Wiesbaden, Germany: Oscar Brandstetter Verlag."
+    },
+    {
+      "key": "B20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Stekauer, Pavol, Salvador Valera, and Lívia Kortvélyessy. 2012. Word-formation in the World’s Lan­guages: a Typological Survey. Cambridge: Cambridge University Press.",
+      "DOI": "10.1515/lity-2013-0022"
+    },
+    {
+      "key": "B21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Steurs, Frieda, Ken De Wachter, and Evy De Malsche. 2015. Terminology Tools. In Handbook of termi­nology, ed. H.J. Kockaert and F. Steurs, 222–249. Amsterdam/Philadelphia: Benjamins.",
+      "DOI": "10.1075/hot.1.12ter3"
+    },
+    {
+      "key": "B22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tolk, Andreas, and Barry Smith. 2011. Command and Control Ontology. International Journal of Intel­ligent Defence Support Systems 4: 209.",
+      "DOI": "10.1504/IJIDSS.2011.043356"
+    },
+    {
+      "key": "B23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Valente, Andre, Douglas Holmes, and Frank C. Alvidrez. 2005. Using a military information ontology to build semantic architecture models for airspace systems. IEEE Aerospace Conference Proceedings. https://doi.org/10.1109/aero.2005.1559635.",
+      "DOI": "10.1109/AERO.2005.1559635"
+    },
+    {
+      "key": "B24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yoo, Donghee, Sungchun No, and Minyoung Ra. 2014. A practical military ontology construction for the intelligent army tactical command information system. International Journal of Computers, Com­munications and Control 9 (1): 93–100.",
+      "DOI": "10.15837/ijccc.2014.1.49"
+    }
+  ],
+  "container-title": [
+    "Lexicography"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s40607-019-00060-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/s40607-019-00060-y/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s40607-019-00060-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    },
+    {
+      "URL": "https://utppublishing.com/doi/full/10.1007/s40607-019-00060-y",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        20
+      ]
+    ],
+    "date-time": "2024-12-20T16:57:08Z",
+    "timestamp": 1734713828000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://utppublishing.com/doi/10.1007/s40607-019-00060-y"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        12,
+        1
+      ]
+    ]
+  },
+  "references-count": 24,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1007/s40607-019-00060-y"
+  ],
+  "URL": "https://doi.org/10.1007/s40607-019-00060-y",
+  "relation": {},
+  "ISSN": [
+    "2197-4292",
+    "2197-4306"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "2197-4292"
+    },
+    {
+      "type": "electronic",
+      "value": "2197-4306"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        12,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "27 August 2019",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "9 November 2019",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "20 November 2019",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Compliance with ethical standards"
+      }
+    },
+    {
+      "value": "On behalf of all authors, the corresponding author states that there is no conflict of interest.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    }
+  ]
+}

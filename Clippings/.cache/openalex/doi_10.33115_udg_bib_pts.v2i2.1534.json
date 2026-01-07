@@ -1,0 +1,948 @@
+{
+  "id": "https://openalex.org/W1592699031",
+  "doi": "https://doi.org/10.33115/udg_bib/pts.v2i2.1534",
+  "title": "El treball de les persones amb diversitat funcional en la societat de la informació.",
+  "display_name": "El treball de les persones amb diversitat funcional en la societat de la informació.",
+  "publication_year": 2012,
+  "publication_date": "2012-06-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1592699031",
+    "doi": "https://doi.org/10.33115/udg_bib/pts.v2i2.1534",
+    "mag": "1592699031"
+  },
+  "language": "ca",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.33115/udg_bib/pts.v2i2.1534",
+    "pdf_url": "https://revistes.udg.edu/pedagogia_i_treball_social/article/download/1534/2553",
+    "source": {
+      "id": "https://openalex.org/S4210213475",
+      "display_name": "Pedagogia i Treball Social",
+      "issn_l": "2013-9063",
+      "issn": [
+        "2013-9063"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310321022",
+      "host_organization_name": "University of Barcelona",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321022"
+      ],
+      "host_organization_lineage_names": [
+        "University of Barcelona"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://revistes.udg.edu/pedagogia_i_treball_social/article/download/1534/2553",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5035803958",
+        "display_name": "Óscar Martínez-Rivera",
+        "orcid": "https://orcid.org/0000-0003-1256-8288"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I5593406",
+          "display_name": "Universitat Ramon Llull",
+          "ror": "https://ror.org/04p9k2z50",
+          "country_code": "ES",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I5593406"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Òscar Martínez-Rivera",
+      "raw_affiliation_strings": [
+        "Universitat Ramon LLull"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universitat Ramon LLull",
+          "institution_ids": [
+            "https://openalex.org/I5593406"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5035803958"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I5593406"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 64
+  },
+  "biblio": {
+    "volume": "2",
+    "issue": "2",
+    "first_page": "67",
+    "last_page": "67"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14003",
+    "display_name": "Labor Law and Work Dynamics",
+    "score": 0.9746,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3320",
+      "display_name": "Political Science and International Relations"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14003",
+      "display_name": "Labor Law and Work Dynamics",
+      "score": 0.9746,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13911",
+      "display_name": "Employment, Labor, and Gender Studies",
+      "score": 0.9343,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "level": 1,
+      "score": 0.78458464
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.59474987
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.37475204
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.33115/udg_bib/pts.v2i2.1534",
+      "pdf_url": "https://revistes.udg.edu/pedagogia_i_treball_social/article/download/1534/2553",
+      "source": {
+        "id": "https://openalex.org/S4210213475",
+        "display_name": "Pedagogia i Treball Social",
+        "issn_l": "2013-9063",
+        "issn": [
+          "2013-9063"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310321022",
+        "host_organization_name": "University of Barcelona",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310321022"
+        ],
+        "host_organization_lineage_names": [
+          "University of Barcelona"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10256/8054",
+      "pdf_url": "https://dugi-doc.udg.edu/bitstream/10256/8054/1/267016.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402641",
+        "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4383465926",
+        "host_organization_name": "LA Referencia",
+        "host_organization_lineage": [
+          "https://openalex.org/I4383465926"
+        ],
+        "host_organization_lineage_names": [
+          "LA Referencia"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://raco.cat/index.php/PiTS/article/view/267016",
+      "pdf_url": "https://raco.cat/index.php/PiTS/article/download/267016/354631",
+      "source": {
+        "id": "https://openalex.org/S4306402641",
+        "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4383465926",
+        "host_organization_name": "LA Referencia",
+        "host_organization_lineage": [
+          "https://openalex.org/I4383465926"
+        ],
+        "host_organization_lineage_names": [
+          "LA Referencia"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.33115/udg_bib/pts.v2i2.1534",
+    "pdf_url": "https://revistes.udg.edu/pedagogia_i_treball_social/article/download/1534/2553",
+    "source": {
+      "id": "https://openalex.org/S4210213475",
+      "display_name": "Pedagogia i Treball Social",
+      "issn_l": "2013-9063",
+      "issn": [
+        "2013-9063"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310321022",
+      "host_organization_name": "University of Barcelona",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321022"
+      ],
+      "host_organization_lineage_names": [
+        "University of Barcelona"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Decent work and economic growth",
+      "score": 0.47,
+      "id": "https://metadata.un.org/sdg/8"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 5,
+  "referenced_works": [
+    "https://openalex.org/W1491097775",
+    "https://openalex.org/W1573292359",
+    "https://openalex.org/W2112665221",
+    "https://openalex.org/W2551398848",
+    "https://openalex.org/W85242034"
+  ],
+  "related_works": [
+    "https://openalex.org/W93312527",
+    "https://openalex.org/W828925460",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2603296253",
+    "https://openalex.org/W2559405764",
+    "https://openalex.org/W2557454913",
+    "https://openalex.org/W1589203209",
+    "https://openalex.org/W157591366",
+    "https://openalex.org/W11365241",
+    "https://openalex.org/W1013667899"
+  ],
+  "abstract_inverted_index": {
+    "&lt;p&gt;S’ha": [
+      0
+    ],
+    "complert": [
+      1
+    ],
+    "el": [
+      2,
+      89,
+      104,
+      228,
+      241
+    ],
+    "30è": [
+      3
+    ],
+    "aniversari": [
+      4
+    ],
+    "de": [
+      5,
+      19,
+      45,
+      61,
+      85,
+      97,
+      106,
+      130,
+      133,
+      141,
+      143,
+      169,
+      177,
+      190,
+      193,
+      197,
+      208,
+      224,
+      238
+    ],
+    "la": [
+      6,
+      41,
+      83,
+      86,
+      94,
+      131,
+      188,
+      222,
+      225,
+      257
+    ],
+    "LISMI": [
+      7
+    ],
+    "i": [
+      8,
+      43,
+      88,
+      100,
+      124,
+      160,
+      227,
+      247
+    ],
+    "encara": [
+      9,
+      34,
+      56
+    ],
+    "no": [
+      10,
+      211
+    ],
+    "s’ha": [
+      11,
+      53
+    ],
+    "aconseguit": [
+      12
+    ],
+    "un": [
+      13,
+      236,
+      251
+    ],
+    "grau": [
+      14
+    ],
+    "d’inserció": [
+      15
+    ],
+    "laboral": [
+      16,
+      96,
+      219
+    ],
+    "prou": [
+      17
+    ],
+    "positiu": [
+      18
+    ],
+    "les": [
+      20,
+      67,
+      98,
+      134,
+      181
+    ],
+    "persones": [
+      21,
+      107,
+      182
+    ],
+    "amb": [
+      22,
+      108,
+      183,
+      213
+    ],
+    "discapacitat.": [
+      23,
+      109
+    ],
+    "Són": [
+      24
+    ],
+    "nombrosos": [
+      25
+    ],
+    "els": [
+      26,
+      200
+    ],
+    "factors": [
+      27,
+      80
+    ],
+    "que": [
+      28,
+      30,
+      69,
+      152,
+      199,
+      203,
+      220,
+      248
+    ],
+    "fan": [
+      29
+    ],
+    "aquest": [
+      31,
+      73
+    ],
+    "col·lectiu": [
+      32,
+      105
+    ],
+    "tingui": [
+      33
+    ],
+    "molt": [
+      35,
+      121
+    ],
+    "per": [
+      36,
+      64,
+      155,
+      161,
+      180,
+      186
+    ],
+    "millorar": [
+      37,
+      66
+    ],
+    "en": [
+      38,
+      49,
+      81,
+      93,
+      103,
+      115,
+      157,
+      240
+    ],
+    "referència": [
+      39
+    ],
+    "a": [
+      40,
+      125,
+      163,
+      187,
+      256
+    ],
+    "qualitat": [
+      42
+    ],
+    "quantitat": [
+      44
+    ],
+    "contractacions.": [
+      46
+    ],
+    "En": [
+      47
+    ],
+    "general,": [
+      48
+    ],
+    "aquestes": [
+      50
+    ],
+    "últimes": [
+      51
+    ],
+    "dècades": [
+      52
+    ],
+    "avançat,": [
+      54
+    ],
+    "però": [
+      55
+    ],
+    "cal": [
+      57
+    ],
+    "fer": [
+      58
+    ],
+    "anàlisis": [
+      59
+    ],
+    "des": [
+      60,
+      207
+    ],
+    "diferents": [
+      62
+    ],
+    "perspectives": [
+      63
+    ],
+    "aconseguir": [
+      65
+    ],
+    "dades": [
+      68
+    ],
+    "tenim": [
+      70
+    ],
+    "fins": [
+      71
+    ],
+    "ara.&lt;/p&gt;&lt;p&gt;En": [
+      72
+    ],
+    "sentit,": [
+      74
+    ],
+    "l’article": [
+      75
+    ],
+    "pretén": [
+      76
+    ],
+    "examinar": [
+      77
+    ],
+    "alguns": [
+      78
+    ],
+    "dels": [
+      79
+    ],
+    "què": [
+      82
+    ],
+    "societat": [
+      84,
+      223
+    ],
+    "informació": [
+      87,
+      226
+    ],
+    "coneixement": [
+      90
+    ],
+    "està": [
+      91
+    ],
+    "influint": [
+      92
+    ],
+    "dimensió": [
+      95
+    ],
+    "persones,": [
+      99
+    ],
+    "més": [
+      101,
+      122,
+      126,
+      254
+    ],
+    "concretament": [
+      102
+    ],
+    "Aquests": [
+      110
+    ],
+    "factors,": [
+      111
+    ],
+    "si": [
+      112
+    ],
+    "es": [
+      113
+    ],
+    "tenen": [
+      114
+    ],
+    "compte,": [
+      116
+    ],
+    "poden": [
+      117,
+      127
+    ],
+    "prevenir": [
+      118
+    ],
+    "una": [
+      119,
+      149,
+      214
+    ],
+    "situació": [
+      120,
+      159
+    ],
+    "negativa,": [
+      123
+    ],
+    "ser": [
+      128,
+      174
+    ],
+    "precursors": [
+      129
+    ],
+    "millora": [
+      132
+    ],
+    "possibilitats": [
+      135
+    ],
+    "laborals": [
+      136
+    ],
+    "d’aquest": [
+      137
+    ],
+    "col·lectiu.&lt;/p&gt;&lt;p&gt;Des": [
+      138
+    ],
+    "d’un": [
+      139
+    ],
+    "punt": [
+      140
+    ],
+    "vista": [
+      142
+    ],
+    "l’economia": [
+      144
+    ],
+    "actual,": [
+      145
+    ],
+    "Torrent": [
+      146
+    ],
+    "(2008)": [
+      147
+    ],
+    "suggereix": [
+      148
+    ],
+    "anàlisi": [
+      150
+    ],
+    "particular": [
+      151,
+      179
+    ],
+    "ens": [
+      153
+    ],
+    "servirà": [
+      154
+    ],
+    "aprofundir": [
+      156
+    ],
+    "aquesta": [
+      158
+    ],
+    "portar-nos": [
+      162
+    ],
+    "poder": [
+      164
+    ],
+    "treballar": [
+      165
+    ],
+    "entorn": [
+      166
+    ],
+    "d’alguns": [
+      167
+    ],
+    "aspectes": [
+      168
+    ],
+    "millora.": [
+      170
+    ],
+    "Aquesta": [
+      171
+    ],
+    "visió": [
+      172
+    ],
+    "pot": [
+      173
+    ],
+    "utilitzada": [
+      175
+    ],
+    "tant": [
+      176
+    ],
+    "manera": [
+      178
+    ],
+    "discapacitat": [
+      184
+    ],
+    "com": [
+      185,
+      233
+    ],
+    "generació": [
+      189
+    ],
+    "nous": [
+      191
+    ],
+    "projectes": [
+      192
+    ],
+    "treball": [
+      194
+    ],
+    "protegit.&lt;/p&gt;&lt;p&gt;L’article": [
+      195
+    ],
+    "posa": [
+      196
+    ],
+    "manifest": [
+      198
+    ],
+    "perfils": [
+      201
+    ],
+    "professionals": [
+      202
+    ],
+    "s’han": [
+      204
+    ],
+    "promocionat": [
+      205
+    ],
+    "majoritàriament": [
+      206
+    ],
+    "l’ocupació": [
+      209
+    ],
+    "protegida": [
+      210
+    ],
+    "encaixen": [
+      212
+    ],
+    "gran": [
+      215
+    ],
+    "part": [
+      216
+    ],
+    "del": [
+      217
+    ],
+    "model": [
+      218
+    ],
+    "imposa": [
+      221
+    ],
+    "coneixement.": [
+      229
+    ],
+    "Però": [
+      230
+    ],
+    "també": [
+      231
+    ],
+    "veiem": [
+      232
+    ],
+    "hi": [
+      234
+    ],
+    "ha": [
+      235
+    ],
+    "canvi": [
+      237
+    ],
+    "paradigma": [
+      239
+    ],
+    "qual": [
+      242
+    ],
+    "estan": [
+      243
+    ],
+    "treballant": [
+      244
+    ],
+    "aquelles": [
+      245
+    ],
+    "empreses": [
+      246
+    ],
+    "permet": [
+      249
+    ],
+    "entreveure": [
+      250
+    ],
+    "futur": [
+      252
+    ],
+    "immediat": [
+      253
+    ],
+    "adaptat": [
+      255
+    ],
+    "nova": [
+      258
+    ],
+    "economia.&lt;/p&gt;": [
+      259
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1592699031",
+  "counts_by_year": [],
+  "updated_date": "2025-06-09T20:26:23.009515",
+  "created_date": "2016-06-24"
+}

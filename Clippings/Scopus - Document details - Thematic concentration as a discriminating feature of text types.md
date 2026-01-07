@@ -1,13 +1,28 @@
 ---
-title: "Scopus - Document details - Thematic concentration as a discriminating feature of text types"
-source: "https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-85021284159&origin=resultslist&sort=plf-f&src=s&sid=9a898b3f8a361661db86d6f9eae41daa&sot=cite&sdt=cl&s=REF%282-s2.0-84903413394%29&sl=23&sessionSearchId=9a898b3f8a361661db86d6f9eae41daa&relpos=72"
-author:
-published:
-created: 2025-04-10
-description: "Elsevier’s Scopus, the largest abstract and citation database of peer-reviewed literature. Search and access research from the science, technology, medicine, social sciences and arts and humanities fields."
+authors:
+  - Radek Čech
+source: Manual
+type: journal-article
+base: clippings
+title: Scopus - Document details - Thematic concentration as a discriminating feature of text types
+doi: 10.1007/s11135-012-9811-3
+url: https://doi.org/10.1007/s11135-012-9811-3
+journal: Quality &amp; Quantity
+publisher: Springer Science and Business Media LLC
+volume: 48
+issue: 2
+pages: 899-910
+year: 2012
+last_enrichment_run: 2025-08-20
+updated: 2025-08-20
 tags:
-  - "research_method"
+  - Humanities/language
+  - research_method/
+  - jm
+apa_citation: Radek Čech, 2012
 ---
+[[Clippings/PDF/Scopus - Document details - Thematic concentration as a discriminating feature of text types.pdf]]
+
 ## Thematic concentration as a discriminating feature of text types
 
 - <sup>a</sup>;

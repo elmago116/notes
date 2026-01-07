@@ -1,14 +1,27 @@
 ---
-title: "The impact of author-selected keywords on citation counts"
-source: "https://www-sciencedirect-com.sire.ub.edu/science/article/pii/S1751157716301146?via%3Dihub"
-author:
-published:
-created: 2025-04-11
-description: "A number of bibliometric studies have shown that many factors impact citation counts besides the scientific quality. This paper used a large bibliomet…"
+authors:
+  - Shahadat Uddin
+  - Arif Khan
+source: Manual
+type: journal-article
+base: clippings
+title: The impact of author-selected keywords on citation counts
+year: 2016
+url: https://doi.org/10.1016/j.joi.2016.10.004
+volume: 10
+issue: 4
+pages: 1166
+journal: Journal of Informetrics
+publisher: Elsevier BV
+last_enrichment_run: 2025-08-20
+updated: 2025-08-20
+doi: 10.1016/j.joi.2016.10.004
 tags:
-  - "research_method"
-  - "bibliometrics/KW"
+  - bibliometrics
+apa_citation: Shahadat Uddin & Arif Khan, 2016
 ---
+[[Clippings/PDF/The impact of author-selected keywords on citation counts.pdf]]
+
 - [View **PDF**](https://www-sciencedirect-com.sire.ub.edu/science/article/pii/S1751157716301146/pdfft?md5=dd1436d8ed8d17ed0a633c84a76dee23&pid=1-s2.0-S1751157716301146-main.pdf)
 
 ## Journal of Informetrics

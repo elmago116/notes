@@ -1,0 +1,649 @@
+{
+  "id": "https://openalex.org/W4220710592",
+  "doi": "https://doi.org/10.1007/s13132-022-00920-3",
+  "title": "Design Thinking: from Bibliometric Analysis to Content Analysis, Current Research Trends, and Future Research Directions",
+  "display_name": "Design Thinking: from Bibliometric Analysis to Content Analysis, Current Research Trends, and Future Research Directions",
+  "publication_year": 2022,
+  "publication_date": "2022-03-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4220710592",
+    "doi": "https://doi.org/10.1007/s13132-022-00920-3"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s13132-022-00920-3",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S60370010",
+      "display_name": "Journal of the Knowledge Economy",
+      "issn_l": "1868-7865",
+      "issn": [
+        "1868-7865",
+        "1868-7873"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965",
+        "https://openalex.org/P4310319900"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature",
+        "Springer Science+Business Media"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5035285354",
+        "display_name": "Arabinda Bhandari",
+        "orcid": "https://orcid.org/0000-0001-6444-9147"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157674215",
+          "display_name": "Presidency University",
+          "ror": "https://ror.org/04xgbph11",
+          "country_code": "IN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I157674215"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Arabinda Bhandari",
+      "raw_affiliation_strings": [
+        "School of Management, Presidency University, Bangalore, 560064, India"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Management, Presidency University, Bangalore, 560064, India",
+          "institution_ids": [
+            "https://openalex.org/I157674215"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5035285354"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I157674215"
+  ],
+  "apc_list": {
+    "value": 2390,
+    "currency": "EUR",
+    "value_usd": 2990
+  },
+  "apc_paid": null,
+  "fwci": 3.266,
+  "has_fulltext": false,
+  "cited_by_count": 30,
+  "citation_normalized_percentile": {
+    "value": 0.999973,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "3",
+    "first_page": "3097",
+    "last_page": "3152"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10672",
+    "display_name": "Design Education and Practice",
+    "score": 0.9983,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10672",
+      "display_name": "Design Education and Practice",
+      "score": 0.9983,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11079",
+      "display_name": "Creativity in Education and Neuroscience",
+      "score": 0.9941,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14356",
+      "display_name": "Organizational Leadership and Management Strategies",
+      "score": 0.9158,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/bibliographic-coupling",
+      "display_name": "Bibliographic coupling",
+      "score": 0.5872253
+    },
+    {
+      "id": "https://openalex.org/keywords/theme",
+      "display_name": "Theme (computing)",
+      "score": 0.4729081
+    },
+    {
+      "id": "https://openalex.org/keywords/research-design",
+      "display_name": "Research Design",
+      "score": 0.46738732
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C162446236",
+      "wikidata": "https://www.wikidata.org/wiki/Q653137",
+      "display_name": "Content analysis",
+      "level": 2,
+      "score": 0.6964983
+    },
+    {
+      "id": "https://openalex.org/C180916674",
+      "wikidata": "https://www.wikidata.org/wiki/Q3711935",
+      "display_name": "Diversification (marketing strategy)",
+      "level": 2,
+      "score": 0.6455872
+    },
+    {
+      "id": "https://openalex.org/C2776822937",
+      "wikidata": "https://www.wikidata.org/wiki/Q856335",
+      "display_name": "Bibliographic coupling",
+      "level": 3,
+      "score": 0.5872253
+    },
+    {
+      "id": "https://openalex.org/C178315738",
+      "wikidata": "https://www.wikidata.org/wiki/Q603441",
+      "display_name": "Bibliometrics",
+      "level": 2,
+      "score": 0.49761704
+    },
+    {
+      "id": "https://openalex.org/C33566652",
+      "wikidata": "https://www.wikidata.org/wiki/Q1065927",
+      "display_name": "Theme (computing)",
+      "level": 2,
+      "score": 0.4729081
+    },
+    {
+      "id": "https://openalex.org/C2779318504",
+      "wikidata": "https://www.wikidata.org/wiki/Q1438035",
+      "display_name": "Research design",
+      "level": 2,
+      "score": 0.46738732
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.46059477
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.400038
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.36268896
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.33352718
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.32718024
+    },
+    {
+      "id": "https://openalex.org/C55587333",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+      "display_name": "Engineering ethics",
+      "level": 1,
+      "score": 0.32593715
+    },
+    {
+      "id": "https://openalex.org/C161191863",
+      "wikidata": "https://www.wikidata.org/wiki/Q199655",
+      "display_name": "Library science",
+      "level": 1,
+      "score": 0.2984035
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.16009939
+    },
+    {
+      "id": "https://openalex.org/C162853370",
+      "wikidata": "https://www.wikidata.org/wiki/Q39809",
+      "display_name": "Marketing",
+      "level": 1,
+      "score": 0.13478222
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.1338026
+    },
+    {
+      "id": "https://openalex.org/C2778805511",
+      "wikidata": "https://www.wikidata.org/wiki/Q1713",
+      "display_name": "Citation",
+      "level": 2,
+      "score": 0.09779292
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.07272658
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s13132-022-00920-3",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S60370010",
+        "display_name": "Journal of the Knowledge Economy",
+        "issn_l": "1868-7865",
+        "issn": [
+          "1868-7865",
+          "1868-7873"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965",
+          "https://openalex.org/P4310319900"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature",
+          "Springer Science+Business Media"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality education",
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.88
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 195,
+  "referenced_works": [
+    "https://openalex.org/W1487012808",
+    "https://openalex.org/W1491820819",
+    "https://openalex.org/W1502456417",
+    "https://openalex.org/W1540190909",
+    "https://openalex.org/W1594046522",
+    "https://openalex.org/W1824748390",
+    "https://openalex.org/W1832722737",
+    "https://openalex.org/W1872643186",
+    "https://openalex.org/W1964532695",
+    "https://openalex.org/W1965207448",
+    "https://openalex.org/W1965625318",
+    "https://openalex.org/W1965746216",
+    "https://openalex.org/W1969359483",
+    "https://openalex.org/W1970859146",
+    "https://openalex.org/W1971079796",
+    "https://openalex.org/W1973904059",
+    "https://openalex.org/W1975100923",
+    "https://openalex.org/W1977360745",
+    "https://openalex.org/W1984750243",
+    "https://openalex.org/W1986827346",
+    "https://openalex.org/W1988843692",
+    "https://openalex.org/W1991972496",
+    "https://openalex.org/W1993571235",
+    "https://openalex.org/W2002659679",
+    "https://openalex.org/W2004185164",
+    "https://openalex.org/W2006852464",
+    "https://openalex.org/W2013513928",
+    "https://openalex.org/W2017951734",
+    "https://openalex.org/W2018389795",
+    "https://openalex.org/W2021309136",
+    "https://openalex.org/W2023989269",
+    "https://openalex.org/W2025468035",
+    "https://openalex.org/W2026059592",
+    "https://openalex.org/W2028485980",
+    "https://openalex.org/W2030479575",
+    "https://openalex.org/W2034782816",
+    "https://openalex.org/W2040391648",
+    "https://openalex.org/W2042658155",
+    "https://openalex.org/W2043396100",
+    "https://openalex.org/W2044387737",
+    "https://openalex.org/W2044531806",
+    "https://openalex.org/W2047986599",
+    "https://openalex.org/W2050828995",
+    "https://openalex.org/W2051181813",
+    "https://openalex.org/W2053111843",
+    "https://openalex.org/W2057695310",
+    "https://openalex.org/W2059266000",
+    "https://openalex.org/W2062366343",
+    "https://openalex.org/W2064008574",
+    "https://openalex.org/W2065268965",
+    "https://openalex.org/W2066971941",
+    "https://openalex.org/W2067506420",
+    "https://openalex.org/W2071081028",
+    "https://openalex.org/W2071656417",
+    "https://openalex.org/W2072022546",
+    "https://openalex.org/W2073752767",
+    "https://openalex.org/W2075786070",
+    "https://openalex.org/W2076426378",
+    "https://openalex.org/W2076539130",
+    "https://openalex.org/W2078563048",
+    "https://openalex.org/W2082264909",
+    "https://openalex.org/W2092805058",
+    "https://openalex.org/W2092877058",
+    "https://openalex.org/W2095727324",
+    "https://openalex.org/W2097431484",
+    "https://openalex.org/W2102320891",
+    "https://openalex.org/W2103960000",
+    "https://openalex.org/W2111943496",
+    "https://openalex.org/W2115929986",
+    "https://openalex.org/W2116470496",
+    "https://openalex.org/W2120109270",
+    "https://openalex.org/W2122186932",
+    "https://openalex.org/W2123854254",
+    "https://openalex.org/W2125175600",
+    "https://openalex.org/W2129499308",
+    "https://openalex.org/W2130416138",
+    "https://openalex.org/W2131240715",
+    "https://openalex.org/W2136533767",
+    "https://openalex.org/W2144682933",
+    "https://openalex.org/W2146974309",
+    "https://openalex.org/W2147520296",
+    "https://openalex.org/W2149080541",
+    "https://openalex.org/W2150220236",
+    "https://openalex.org/W2158709931",
+    "https://openalex.org/W2164793898",
+    "https://openalex.org/W2169523067",
+    "https://openalex.org/W2172698735",
+    "https://openalex.org/W2177662424",
+    "https://openalex.org/W2191876074",
+    "https://openalex.org/W2193148224",
+    "https://openalex.org/W2215978429",
+    "https://openalex.org/W2289901523",
+    "https://openalex.org/W2291288208",
+    "https://openalex.org/W2305754558",
+    "https://openalex.org/W2319861733",
+    "https://openalex.org/W2322666082",
+    "https://openalex.org/W2325949985",
+    "https://openalex.org/W2328229129",
+    "https://openalex.org/W2329280261",
+    "https://openalex.org/W2331818526",
+    "https://openalex.org/W2335619979",
+    "https://openalex.org/W2335991637",
+    "https://openalex.org/W2336879902",
+    "https://openalex.org/W2337596777",
+    "https://openalex.org/W2460925445",
+    "https://openalex.org/W2464979578",
+    "https://openalex.org/W2470304455",
+    "https://openalex.org/W2480327127",
+    "https://openalex.org/W2486939212",
+    "https://openalex.org/W2489641790",
+    "https://openalex.org/W2494482191",
+    "https://openalex.org/W2508466548",
+    "https://openalex.org/W2518737742",
+    "https://openalex.org/W2528473844",
+    "https://openalex.org/W2549510721",
+    "https://openalex.org/W2549642375",
+    "https://openalex.org/W2563544391",
+    "https://openalex.org/W2566700336",
+    "https://openalex.org/W2570964350",
+    "https://openalex.org/W2586135967",
+    "https://openalex.org/W2588117899",
+    "https://openalex.org/W2591529126",
+    "https://openalex.org/W2591975485",
+    "https://openalex.org/W2592538057",
+    "https://openalex.org/W2606275806",
+    "https://openalex.org/W2621273124",
+    "https://openalex.org/W2729766942",
+    "https://openalex.org/W2738868694",
+    "https://openalex.org/W2739157105",
+    "https://openalex.org/W2742576411",
+    "https://openalex.org/W275958211",
+    "https://openalex.org/W2762286072",
+    "https://openalex.org/W2765093790",
+    "https://openalex.org/W2767384483",
+    "https://openalex.org/W2769805912",
+    "https://openalex.org/W2771553946",
+    "https://openalex.org/W2783048652",
+    "https://openalex.org/W2783559967",
+    "https://openalex.org/W2787848282",
+    "https://openalex.org/W2791937100",
+    "https://openalex.org/W2793821810",
+    "https://openalex.org/W2794444965",
+    "https://openalex.org/W2796771602",
+    "https://openalex.org/W2802026155",
+    "https://openalex.org/W2803559104",
+    "https://openalex.org/W283415213",
+    "https://openalex.org/W2883885371",
+    "https://openalex.org/W2885050103",
+    "https://openalex.org/W2885251002",
+    "https://openalex.org/W2892329525",
+    "https://openalex.org/W2900100446",
+    "https://openalex.org/W2902784458",
+    "https://openalex.org/W2903928216",
+    "https://openalex.org/W2909527879",
+    "https://openalex.org/W2911296875",
+    "https://openalex.org/W2918064950",
+    "https://openalex.org/W2919057183",
+    "https://openalex.org/W2922044673",
+    "https://openalex.org/W2943937391",
+    "https://openalex.org/W2943973110",
+    "https://openalex.org/W2946686920",
+    "https://openalex.org/W2950110112",
+    "https://openalex.org/W2957415424",
+    "https://openalex.org/W2969319652",
+    "https://openalex.org/W2969563902",
+    "https://openalex.org/W2978162657",
+    "https://openalex.org/W2981367388",
+    "https://openalex.org/W2982203137",
+    "https://openalex.org/W2999173853",
+    "https://openalex.org/W3004566364",
+    "https://openalex.org/W3005285121",
+    "https://openalex.org/W3006760577",
+    "https://openalex.org/W3011186445",
+    "https://openalex.org/W3017735691",
+    "https://openalex.org/W3026422913",
+    "https://openalex.org/W3033211390",
+    "https://openalex.org/W3035423599",
+    "https://openalex.org/W3043403786",
+    "https://openalex.org/W3083980814",
+    "https://openalex.org/W3090697554",
+    "https://openalex.org/W3103443220",
+    "https://openalex.org/W3113043081",
+    "https://openalex.org/W3121774338",
+    "https://openalex.org/W3124253057",
+    "https://openalex.org/W3132509763",
+    "https://openalex.org/W3208378559",
+    "https://openalex.org/W3210164227",
+    "https://openalex.org/W4200005433",
+    "https://openalex.org/W4213203962",
+    "https://openalex.org/W4220720578",
+    "https://openalex.org/W4245021467",
+    "https://openalex.org/W4246310125",
+    "https://openalex.org/W4307203335",
+    "https://openalex.org/W798106527",
+    "https://openalex.org/W990481641"
+  ],
+  "related_works": [
+    "https://openalex.org/W4386031268",
+    "https://openalex.org/W4385274619",
+    "https://openalex.org/W4380886527",
+    "https://openalex.org/W4380486545",
+    "https://openalex.org/W4205377594",
+    "https://openalex.org/W3205493251",
+    "https://openalex.org/W3200302947",
+    "https://openalex.org/W3088621538",
+    "https://openalex.org/W2962788265",
+    "https://openalex.org/W1708085422"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4220710592",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-15T03:06:18.745625",
+  "created_date": "2022-04-03"
+}

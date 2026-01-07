@@ -1,0 +1,1263 @@
+{
+  "id": "https://openalex.org/W4392746866",
+  "doi": "https://doi.org/10.3390/su16062378",
+  "title": "Analysis of Knowledge Graph: Hotspots and Future Trends in Environmental Education Research",
+  "display_name": "Analysis of Knowledge Graph: Hotspots and Future Trends in Environmental Education Research",
+  "publication_year": 2024,
+  "publication_date": "2024-03-13",
+  "ids": {
+    "openalex": "https://openalex.org/W4392746866",
+    "doi": "https://doi.org/10.3390/su16062378"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/su16062378",
+    "pdf_url": "https://www.mdpi.com/2071-1050/16/6/2378/pdf?version=1710327676",
+    "source": {
+      "id": "https://openalex.org/S10134376",
+      "display_name": "Sustainability",
+      "issn_l": "2071-1050",
+      "issn": [
+        "2071-1050"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2071-1050/16/6/2378/pdf?version=1710327676",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5071504574",
+        "display_name": "Y.X. Tian",
+        "orcid": "https://orcid.org/0009-0002-2876-6211"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63354593",
+          "display_name": "Sichuan Normal University",
+          "ror": "https://ror.org/043dxc061",
+          "country_code": "CN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yongli Tian",
+      "raw_affiliation_strings": [
+        "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Psychology, Sichuan Normal University, Chengdu 610066, China",
+          "institution_ids": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026633659",
+        "display_name": "Yuchang Jin",
+        "orcid": "https://orcid.org/0000-0002-5273-2954"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63354593",
+          "display_name": "Sichuan Normal University",
+          "ror": "https://ror.org/043dxc061",
+          "country_code": "CN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Yuchang Jin",
+      "raw_affiliation_strings": [
+        "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Psychology, Sichuan Normal University, Chengdu 610066, China",
+          "institution_ids": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082657143",
+        "display_name": "Zhao Yadi",
+        "orcid": "https://orcid.org/0009-0003-7784-1588"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63354593",
+          "display_name": "Sichuan Normal University",
+          "ror": "https://ror.org/043dxc061",
+          "country_code": "CN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yadi Zhao",
+      "raw_affiliation_strings": [
+        "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Psychology, Sichuan Normal University, Chengdu 610066, China",
+          "institution_ids": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112127676",
+        "display_name": "Y Y Du",
+        "orcid": "https://orcid.org/0009-0000-5010-4084"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63354593",
+          "display_name": "Sichuan Normal University",
+          "ror": "https://ror.org/043dxc061",
+          "country_code": "CN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yifan Du",
+      "raw_affiliation_strings": [
+        "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Psychology, Sichuan Normal University, Chengdu 610066, China",
+          "institution_ids": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027549785",
+        "display_name": "S. Shen",
+        "orcid": "https://orcid.org/0009-0007-6976-7137"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63354593",
+          "display_name": "Sichuan Normal University",
+          "ror": "https://ror.org/043dxc061",
+          "country_code": "CN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sicen Shen",
+      "raw_affiliation_strings": [
+        "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Psychology, Sichuan Normal University, Chengdu 610066, China",
+          "institution_ids": [
+            "https://openalex.org/I63354593"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5094136889",
+        "display_name": "Junxiu An",
+        "orcid": "https://orcid.org/0000-0002-4533-0164"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I24201400",
+          "display_name": "Chengdu University of Information Technology",
+          "ror": "https://ror.org/01yxwrh59",
+          "country_code": "CN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I24201400"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Junxiu An",
+      "raw_affiliation_strings": [
+        "College of Software Engineering, Chengdu University of Information Technology, Chengdu 610225, China"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Software Engineering, Chengdu University of Information Technology, Chengdu 610225, China",
+          "institution_ids": [
+            "https://openalex.org/I24201400"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5026633659"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I63354593"
+  ],
+  "apc_list": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "apc_paid": {
+    "value": 2200,
+    "currency": "CHF",
+    "value_usd": 2382
+  },
+  "fwci": 3.645,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.817606,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 92
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "6",
+    "first_page": "2378",
+    "last_page": "2378"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10898",
+    "display_name": "Environmental Education and Sustainability",
+    "score": 0.9996,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2308",
+      "display_name": "Management, Monitoring, Policy and Law"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10898",
+      "display_name": "Environmental Education and Sustainability",
+      "score": 0.9996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10119",
+      "display_name": "Sustainability and Climate Change Governance",
+      "score": 0.9489,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11835",
+      "display_name": "Sustainability in Higher Education",
+      "score": 0.9327,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/environmental-adult-education",
+      "display_name": "Environmental adult education",
+      "score": 0.42465758
+    },
+    {
+      "id": "https://openalex.org/keywords/civil-society",
+      "display_name": "Civil Society",
+      "score": 0.41180694
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C43141900",
+      "wikidata": "https://www.wikidata.org/wiki/Q948732",
+      "display_name": "Environmental education",
+      "level": 2,
+      "score": 0.7557225
+    },
+    {
+      "id": "https://openalex.org/C66204764",
+      "wikidata": "https://www.wikidata.org/wiki/Q219416",
+      "display_name": "Sustainability",
+      "level": 2,
+      "score": 0.5950369
+    },
+    {
+      "id": "https://openalex.org/C72838440",
+      "wikidata": "https://www.wikidata.org/wiki/Q5381367",
+      "display_name": "Environmental studies",
+      "level": 2,
+      "score": 0.52850944
+    },
+    {
+      "id": "https://openalex.org/C80205793",
+      "wikidata": "https://www.wikidata.org/wiki/Q5381186",
+      "display_name": "Environmental adult education",
+      "level": 3,
+      "score": 0.42465758
+    },
+    {
+      "id": "https://openalex.org/C513891491",
+      "wikidata": "https://www.wikidata.org/wiki/Q181865",
+      "display_name": "Civil society",
+      "level": 3,
+      "score": 0.41180694
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.4003333
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.39227998
+    },
+    {
+      "id": "https://openalex.org/C55587333",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+      "display_name": "Engineering ethics",
+      "level": 1,
+      "score": 0.35235023
+    },
+    {
+      "id": "https://openalex.org/C107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "level": 1,
+      "score": 0.35201773
+    },
+    {
+      "id": "https://openalex.org/C94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "level": 2,
+      "score": 0.27089217
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.17226061
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.13755238
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.10569173
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/su16062378",
+      "pdf_url": "https://www.mdpi.com/2071-1050/16/6/2378/pdf?version=1710327676",
+      "source": {
+        "id": "https://openalex.org/S10134376",
+        "display_name": "Sustainability",
+        "issn_l": "2071-1050",
+        "issn": [
+          "2071-1050"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/su16062378",
+    "pdf_url": "https://www.mdpi.com/2071-1050/16/6/2378/pdf?version=1710327676",
+    "source": {
+      "id": "https://openalex.org/S10134376",
+      "display_name": "Sustainability",
+      "issn_l": "2071-1050",
+      "issn": [
+        "2071-1050"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education",
+      "score": 0.6
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320335869",
+      "funder_display_name": "National Social Science Fund of China",
+      "award_id": "22BXW048"
+    },
+    {
+      "funder": "https://openalex.org/F4320335869",
+      "funder_display_name": "National Social Science Fund of China",
+      "award_id": "21BSH016"
+    }
+  ],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 36,
+  "referenced_works": [
+    "https://openalex.org/W1021000864",
+    "https://openalex.org/W2033825282",
+    "https://openalex.org/W2038285133",
+    "https://openalex.org/W2051233235",
+    "https://openalex.org/W2086495485",
+    "https://openalex.org/W2093605176",
+    "https://openalex.org/W2104192199",
+    "https://openalex.org/W2114715341",
+    "https://openalex.org/W2176530085",
+    "https://openalex.org/W2509796726",
+    "https://openalex.org/W2742888196",
+    "https://openalex.org/W2755229421",
+    "https://openalex.org/W2761686730",
+    "https://openalex.org/W2889127236",
+    "https://openalex.org/W2889975776",
+    "https://openalex.org/W2945602186",
+    "https://openalex.org/W2971723061",
+    "https://openalex.org/W2980767182",
+    "https://openalex.org/W2984404402",
+    "https://openalex.org/W2998906161",
+    "https://openalex.org/W3007434195",
+    "https://openalex.org/W3048748696",
+    "https://openalex.org/W3092528614",
+    "https://openalex.org/W3136039911",
+    "https://openalex.org/W3161177786",
+    "https://openalex.org/W3185748471",
+    "https://openalex.org/W4221110419",
+    "https://openalex.org/W4229028643",
+    "https://openalex.org/W4290614503",
+    "https://openalex.org/W4308033272",
+    "https://openalex.org/W4360835340",
+    "https://openalex.org/W4380853870",
+    "https://openalex.org/W4383068716",
+    "https://openalex.org/W4385445304",
+    "https://openalex.org/W4387781841",
+    "https://openalex.org/W4391030624"
+  ],
+  "related_works": [
+    "https://openalex.org/W4388565512",
+    "https://openalex.org/W4293738551",
+    "https://openalex.org/W4256393765",
+    "https://openalex.org/W3211375188",
+    "https://openalex.org/W3154108213",
+    "https://openalex.org/W2977423210",
+    "https://openalex.org/W2804335473",
+    "https://openalex.org/W2474128267",
+    "https://openalex.org/W2349329463",
+    "https://openalex.org/W2165502159"
+  ],
+  "abstract_inverted_index": {
+    "Currently,": [
+      0
+    ],
+    "as": [
+      1
+    ],
+    "human": [
+      2
+    ],
+    "society": [
+      3
+    ],
+    "develops,": [
+      4
+    ],
+    "environmental": [
+      5,
+      18,
+      63,
+      68,
+      100,
+      127,
+      154,
+      177,
+      180,
+      186,
+      196,
+      205,
+      211,
+      217,
+      220,
+      227,
+      259
+    ],
+    "issues": [
+      6
+    ],
+    "have": [
+      7
+    ],
+    "become": [
+      8
+    ],
+    "one": [
+      9,
+      81
+    ],
+    "of": [
+      10,
+      58,
+      62,
+      74,
+      82,
+      86,
+      99,
+      118,
+      138,
+      195,
+      201,
+      256
+    ],
+    "the": [
+      11,
+      36,
+      59,
+      72,
+      83,
+      97,
+      106,
+      144,
+      199,
+      232,
+      254
+    ],
+    "significant": [
+      12
+    ],
+    "challenges": [
+      13
+    ],
+    "faced": [
+      14
+    ],
+    "by": [
+      15
+    ],
+    "humanity.": [
+      16
+    ],
+    "Consequently,": [
+      17
+    ],
+    "education": [
+      19,
+      28,
+      64,
+      69,
+      101,
+      128,
+      155,
+      178,
+      228,
+      250
+    ],
+    "has": [
+      20
+    ],
+    "emerged": [
+      21
+    ],
+    "in": [
+      22,
+      41,
+      143,
+      176,
+      185
+    ],
+    "response": [
+      23
+    ],
+    "to": [
+      24,
+      30,
+      94,
+      104,
+      125,
+      134,
+      166
+    ],
+    "this": [
+      25
+    ],
+    "need.": [
+      26
+    ],
+    "Environmental": [
+      27,
+      248
+    ],
+    "aims": [
+      29
+    ],
+    "cultivate": [
+      31
+    ],
+    "citizens": [
+      32
+    ],
+    "with": [
+      33
+    ],
+    "knowledge": [
+      34
+    ],
+    "about": [
+      35
+    ],
+    "environment,": [
+      37
+    ],
+    "which": [
+      38
+    ],
+    "is": [
+      39,
+      80,
+      229,
+      251
+    ],
+    "crucial": [
+      40
+    ],
+    "addressing": [
+      42
+    ],
+    "global": [
+      43
+    ],
+    "challenges,": [
+      44
+    ],
+    "fostering": [
+      45
+    ],
+    "human–nature": [
+      46
+    ],
+    "sustainability": [
+      47,
+      73
+    ],
+    "knowledge,": [
+      48
+    ],
+    "and": [
+      49,
+      53,
+      65,
+      78,
+      113,
+      152,
+      159,
+      162,
+      182,
+      190,
+      193,
+      198,
+      204,
+      219,
+      236,
+      245
+    ],
+    "cultivating": [
+      50
+    ],
+    "resilient": [
+      51
+    ],
+    "individuals": [
+      52
+    ],
+    "communities.": [
+      54
+    ],
+    "A": [
+      55,
+      136
+    ],
+    "comprehensive": [
+      56
+    ],
+    "analysis": [
+      57,
+      171
+    ],
+    "current": [
+      60,
+      107
+    ],
+    "state": [
+      61
+    ],
+    "exploring": [
+      66
+    ],
+    "how": [
+      67
+    ],
+    "can": [
+      70
+    ],
+    "enhance": [
+      71
+    ],
+    "interactions": [
+      75
+    ],
+    "between": [
+      76
+    ],
+    "humans": [
+      77
+    ],
+    "nature": [
+      79
+    ],
+    "focal": [
+      84
+    ],
+    "points": [
+      85
+    ],
+    "contemporary": [
+      87
+    ],
+    "research.": [
+      88
+    ],
+    "This": [
+      89
+    ],
+    "systematic": [
+      90
+    ],
+    "review": [
+      91
+    ],
+    "employs": [
+      92
+    ],
+    "CiteSpace": [
+      93,
+      147
+    ],
+    "visually": [
+      95
+    ],
+    "analyze": [
+      96
+    ],
+    "advancements": [
+      98
+    ],
+    "research,": [
+      102
+    ],
+    "aiming": [
+      103
+    ],
+    "uncover": [
+      105
+    ],
+    "status,": [
+      108
+    ],
+    "predominant": [
+      109
+    ],
+    "themes,": [
+      110
+    ],
+    "evolutionary": [
+      111
+    ],
+    "trajectories,": [
+      112
+    ],
+    "emerging": [
+      114
+    ],
+    "trends.": [
+      115
+    ],
+    "The": [
+      116,
+      170,
+      223
+    ],
+    "Web": [
+      117
+    ],
+    "Science": [
+      119
+    ],
+    "core": [
+      120
+    ],
+    "collection": [
+      121
+    ],
+    "database": [
+      122
+    ],
+    "was": [
+      123,
+      148,
+      164
+    ],
+    "examined": [
+      124
+    ],
+    "retrieve": [
+      126
+    ],
+    "research": [
+      129,
+      208
+    ],
+    "papers": [
+      130,
+      140
+    ],
+    "published": [
+      131
+    ],
+    "from": [
+      132
+    ],
+    "2013": [
+      133
+    ],
+    "2022.": [
+      135
+    ],
+    "total": [
+      137
+    ],
+    "1851": [
+      139
+    ],
+    "were": [
+      141
+    ],
+    "included": [
+      142
+    ],
+    "final": [
+      145
+    ],
+    "analysis.": [
+      146
+    ],
+    "utilized": [
+      149
+    ],
+    "for": [
+      150
+    ],
+    "visualizing": [
+      151
+    ],
+    "analyzing": [
+      153
+    ],
+    "researchers,": [
+      156
+    ],
+    "keyword": [
+      157,
+      160
+    ],
+    "co-occurrences,": [
+      158
+    ],
+    "clustering,": [
+      161
+    ],
+    "Timeview": [
+      163
+    ],
+    "employed": [
+      165
+    ],
+    "generate": [
+      167
+    ],
+    "relevant": [
+      168
+    ],
+    "maps.": [
+      169
+    ],
+    "identified": [
+      172
+    ],
+    "five": [
+      173
+    ],
+    "major": [
+      174
+    ],
+    "hotspots": [
+      175
+    ],
+    "research:": [
+      179
+    ],
+    "awareness": [
+      181
+    ],
+    "literacy,": [
+      183
+    ],
+    "theories": [
+      184
+    ],
+    "education,": [
+      187,
+      197,
+      215,
+      218
+    ],
+    "delivery": [
+      188
+    ],
+    "modes": [
+      189
+    ],
+    "methods,": [
+      191
+    ],
+    "developments": [
+      192
+    ],
+    "implementation": [
+      194
+    ],
+    "intersection": [
+      200
+    ],
+    "climate": [
+      202,
+      213
+    ],
+    "change": [
+      203,
+      214
+    ],
+    "justice.": [
+      206
+    ],
+    "Emerging": [
+      207
+    ],
+    "directions": [
+      209
+    ],
+    "include": [
+      210
+    ],
+    "justice,": [
+      212
+    ],
+    "critical": [
+      216
+    ],
+    "citizenship": [
+      221,
+      249
+    ],
+    "education.": [
+      222
+    ],
+    "results": [
+      224
+    ],
+    "show": [
+      225
+    ],
+    "that": [
+      226
+    ],
+    "gradually": [
+      230
+    ],
+    "transcending": [
+      231
+    ],
+    "natural": [
+      233
+    ],
+    "realm": [
+      234
+    ],
+    "currently": [
+      235
+    ],
+    "integrating": [
+      237
+    ],
+    "into": [
+      238
+    ],
+    "a": [
+      239
+    ],
+    "holistic": [
+      240
+    ],
+    "framework": [
+      241
+    ],
+    "encompassing": [
+      242
+    ],
+    "societal,": [
+      243
+    ],
+    "economic,": [
+      244
+    ],
+    "political": [
+      246
+    ],
+    "dimensions.": [
+      247
+    ],
+    "increasingly": [
+      252
+    ],
+    "attracting": [
+      253
+    ],
+    "attention": [
+      255
+    ],
+    "scholars.": [
+      257
+    ],
+    "Solving": [
+      258
+    ],
+    "problems": [
+      260
+    ],
+    "requires": [
+      261
+    ],
+    "interdisciplinary": [
+      262
+    ],
+    "dialogue.": [
+      263
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392746866",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-08-11T21:54:02.330008",
+  "created_date": "2024-03-14"
+}

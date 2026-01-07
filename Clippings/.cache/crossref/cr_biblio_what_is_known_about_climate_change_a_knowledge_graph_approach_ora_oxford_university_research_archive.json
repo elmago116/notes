@@ -1,0 +1,1137 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2025-02-25T05:33:26Z",
+      "timestamp": 1740461606993,
+      "version": "3.37.3"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ]
+    },
+    "group-title": "Law Archive",
+    "reference-count": 0,
+    "publisher": "Center for Open Science",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              24
+            ]
+          ],
+          "date-time": "2025-02-24T00:00:00Z",
+          "timestamp": 1740355200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>To date, scholars exploring the connection between climate change and tort law have tended to ask what the latter can do aboutthe former. With a few notable exceptions, they have answered, “Not much.” This Article first reviews a series of doctrinal hurdles facing climate change plaintiffs and concludes that the pessimism of legal scholars is justified. The Article then poses an inverse and previously unexplored question: what can climate change do about tort law? As it turns out, the answer is, “Quite a bit.” By forcing courts to confront questions of harm, causation, and responsibility that lie at the frontiers of science and ethics, climatechange lawsuits hold potential to move the bar for what counts as exotic in the domain of tort. Radical though it may seem, such a recalibration should be welcomed: just as the administrative state is being forced to adapt to grapple with the global, complex, uncertain, and potentially catastrophic nature of twenty-first century threats to social welfare, the tort system also must shift in order to serve its role as the administrative state’s traditional and necessary backdrop. Not only the climate is changing.</p>",
+    "DOI": "10.31219/osf.io/4gkjv_v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2025-02-24T20:55:27Z",
+      "timestamp": 1740430527000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "What Climate Change Can Do about Tort Law"
+    ],
+    "prefix": "10.31219",
+    "author": [
+      {
+        "given": "Douglas A.",
+        "family": "Kysar",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "15934",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2025-02-24T20:55:27Z",
+      "timestamp": 1740430527000
+    },
+    "score": 37.908245,
+    "resource": {
+      "primary": {
+        "URL": "https://osf.io/4gkjv_v1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.31219/osf.io/4gkjv_v1",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T21:48:46Z",
+      "timestamp": 1726004926372
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Biofuels are produced from biomass, which is any organic matter that can be burned or otherwise used to produce heat or energy. While not a new technology—biofuels have been around for well over 100 years—they are experiencing something of a renaissance in the United States and other countries across the globe. Today, biofuels have become the single most common alternative energy source in the U.S. transportation sector with billions of gallons of the fuel produced annually.</p>\n               <p>The expansion of the bio-based economy in recent years has been intertwined with mounting concerns about environmental pollution and the accumulation of carbon dioxide (CO2) in the earth’s atmosphere. In the United States, for example, biofuels mandates have been championed as key to solving not only the country’s increasing energy demand problems and reliance on foreign oil, but also growing fears about global climate change.</p>\n               <p>Of course, the use of biomass and biofuels to combat global climate change has been highly controversial. While proponents argue that biofuels burn cleaner than gasoline, research has suggested that any reductions in CO2 emissions are offset by land use considerations and the energy required in the biofuels-production process. How publics perceive of climate change as a problem and the use of biomass and biofuels as potential solutions will go a long way toward determining the policies that government’s implement to address this issue.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.441",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2017-03-31T06:14:01Z",
+      "timestamp": 1490940841000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Communicating about Biofuels and Climate Change"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Michael A.",
+        "family": "Cacciatore",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          29
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Communicating about Biofuels and Climate Change"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T18:57:07Z",
+      "timestamp": 1661972227000
+    },
+    "score": 37.40559,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-441"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          29
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.441",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T21:48:06Z",
+      "timestamp": 1726004886758
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Media research has historically concentrated on the many uncertainties in climate science either as a dominant discourse in media treatments measured by various forms of quantitative and qualitative content analysis or as the presence of skepticism, in its various manifestations, in political discourse and media coverage. More research is needed to assess the drivers of such skepticism in the media, the changing nature of skeptical discourse in some countries, and important country differences as to the prevalence of skepticism in political debate and media coverage. For example, why are challenges to mainstream climate science common in some Anglophone countries such as the United Kingdom, the United States, and Australia but not in other Western nations? As the revolution in news consumption via new players and platforms causes an increasingly fragmented media landscape, there are significant gaps in understanding where, why, and how skepticism appears. In particular, we do not know enough about the ways new media players depict the uncertainties around climate science and how this may differ from previous coverage in traditional and mainstream news media. We also do not know how their emphasis on visual content affects audience understanding of climate change.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.346",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          5
+        ]
+      ],
+      "date-time": "2016-05-05T15:41:20Z",
+      "timestamp": 1462462880000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Journalistic Depictions of Uncertainty about Climate Change"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "James",
+        "family": "Painter",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Journalistic Depictions of Uncertainty about Climate Change"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T19:00:54Z",
+      "timestamp": 1661972454000
+    },
+    "score": 37.176384,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-346"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.346",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T21:48:33Z",
+      "timestamp": 1726004913118
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Policy communication and the resulting influence that information has on policy decision-makers is an especially pertinent topic when it comes to problems of climate change. Notorious for its complexity, uncertainty, and divergence of viewpoints, climate change has earned the title of being <italic>the</italic> major “wicked” or “super-wicked” problem of our times. A proliferation of expertise, interests, and capacities mark the climate change policymaking landscape and this density of players warrants an advanced framework to understand the ways in which the variety of climate-pertinent knowledge is communicated to policymakers. Moving beyond undifferentiated “two-communities” models of knowledge utilization in policymaking which limit the discussion to the bilateral interactions between knowledge experts or “producers” and information “consumers” of the public sector, this article explores the concept of a <italic>policy advisory system</italic>, which embodies the different sets of influence that various policy actors can have during policy decision-making and how communication between and among actors is a significant aspect of climate change policymaking. The concept of policy advisory systems is an important new development in the policy studies literature and one that is analytically very applicable to climate policy contexts. Suitably generalizable across representative policy settings, policy advisory systems are comprised of distinct groups of actors who are engaged in the definition of policy problems, the articulation of policy solutions, or the matching of policy problems to solutions. We explore how individual members of these separate sets of actors—namely <italic>the epistemic community</italic>, which is occupied in discourses about policy problems; the <italic>instrument constituencies</italic> which define policy instruments; and the <italic>advocacy coalitions</italic> which compete to have their choice of policy alternatives adopted—interact and communicate with policymakers across climate change policy activities.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.416",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2016-11-22T20:31:17Z",
+      "timestamp": 1479846677000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Communicating about Climate Change with Policymakers"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Ishani",
+        "family": "Mukherjee",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Michael",
+        "family": "Howlett",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Communicating about Climate Change with Policymakers"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T18:50:11Z",
+      "timestamp": 1661971811000
+    },
+    "score": 37.11403,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-416"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.416",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T21:48:12Z",
+      "timestamp": 1726004892512
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>In comparison to fossil fuels that emit greenhouse gases, nuclear power plants are a cleaner energy source that could help to mitigate the problems of climate change. Despite this, the general public often associates nuclear energy with risks that include nuclear accidents, nuclear waste contamination, nuclear weapons proliferation, and many others. People’s experience with the 1979 Three Mile Island incident in Pennsylvania and the 1986 Chernobyl nuclear disaster in Ukraine have caused a sharp decline in public support for nuclear energy over the past few decades. In addition, media images of the 2011 Fukushima-Daichii nuclear accident are still fresh in the minds of the public. These now iconic media images and portrayals have perpetuated a perception of nuclear energy as a risky technology.</p>\n               <p>Against these backdrops, scientists, communication practitioners and other key stakeholders increasingly face an uphill struggle to communicate about nuclear energy as a possible strategy for addressing climate change. Though the general public may reluctantly accept nuclear energy for climate change mitigation, research suggests that messages emphasizing the benefits of nuclear power for energy security and economic growth appear to have greater impact on public acceptance of the technology. Furthermore, public perception of nuclear energy is shaped by a host of other factors such as trust in nuclear governing institutions, knowledge, political inclinations, geographical proximity, and socio-demographic variables. At the same time, nuclear experts and the general public differ in their perceptions of risk, in nature and strength, relative to nuclear energy. Understanding these key differences between the experts and the public, and how beliefs, values, and perceptions influence public acceptance of nuclear energy is necessary to formulate effective public communication and engagement strategies.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.440",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          5
+        ]
+      ],
+      "date-time": "2016-05-05T15:41:27Z",
+      "timestamp": 1462462887000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Communicating about Nuclear Energy and Climate Change"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Shirley S.",
+        "family": "Ho",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Communicating about Nuclear Energy and Climate Change"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T19:00:18Z",
+      "timestamp": 1661972418000
+    },
+    "score": 36.88349,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-440"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.440",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          23
+        ]
+      ],
+      "date-time": "2025-07-23T12:10:51Z",
+      "timestamp": 1753272651800
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>People can take extraordinary measures to protect that which they view as sacred. They may refuse financial gain, engage in bloody, inter-generational conflicts, mount hunger strikes and even sacrifice their lives. These behaviors have led researchers to propose that religious values shape our identities and give purpose to our lives in a way that secular incentives cannot. However, despite the fact that many cultural and religious frameworks already emphasize sacred aspects of our natural world, applying all of that motivating power of “the sacred” to environmental protectionism seems to be less straightforward.</p>\n               <p>Sacred elements in nature do lead people to become committed to environmental causes, particularly when religious identities emphasize conceptualization of humans as caretakers of this planet. In other cases, however, it is precisely the sacred aspect of nature which precludes environmental action and leads to the denial of climate change. This denial can take many forms, from an outright refusal of the premise of climate change to a divine confirmation of eschatological beliefs.</p>\n               <p>A resolution might require rethinking the framework that religion provides in shaping human-environment interactions. Functionalist perspectives emphasize religion’s ability to help people cope with loss—of life, property and health, which will become more frequent as storms intensify and weather patterns become more unpredictable. It is uncertain whether religious identity can facilitate the acceptance of anthropogenic climate change, but perhaps it can aid with how people adapt to its inevitable effects.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.335",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          5
+        ]
+      ],
+      "date-time": "2016-05-05T15:41:13Z",
+      "timestamp": 1462462873000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": [
+      "Religious Identity, Beliefs, and Views about Climate Change"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Sonya",
+        "family": "Sachdeva",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          29
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Religious Identity, Beliefs, and Views about Climate Change"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T18:59:17Z",
+      "timestamp": 1661972357000
+    },
+    "score": 36.55,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-335"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          29
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.335",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          2
+        ]
+      ],
+      "date-time": "2025-06-02T11:03:08Z",
+      "timestamp": 1748862188610
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Communication with farmers about climate change has proven to be difficult, with relatively low acceptance of anthropogenic climate change or the idea that climate change will negatively affect agriculture. Many farmers have been impervious to climate change communications because of the nature of farming, their worldviews, and the controversies about climate change in the media. Segmentation studies from the agriculture and natural resource management literatures provide evidence of homogeneous farmer groups internationally with respect to climate change attitudes and behaviors in a farming context. Understanding these segments—including their values, beliefs, and behaviors—is important for developing tailored and targeted communications approaches. Based on understanding of commonly observed farmer segments, it is possible to tailor communication strategies to better engage with segments of concern, including which message to use, appropriate sources, as well as alternative communication techniques based on participatory approaches and use of the arts. For certain segments, discussion about human-induced climate change should be avoided given that it is contentious and not critical for how farmers should respond to climate change. Theoretical frameworks from psychology and marketing—such as the theory of planned behavior, the attitude-to-behavior process model, the motivation and opportunity and determinants (MODE) model, motivation to avoid harm, and the elaboration likelihood model—can also be used to inform the design of communication strategies for engaging with farmers. However, a careful analysis of farmer segments, their worldviews, their beliefs, and their position in the consumer decision-making process suggests that the recommendations from these theoretical models should not be implemented uniformly across farmer segments. Rather, the various theoretical models provide a number of strategies that need to be selectively applied based on knowledge of the target segment. While use of theory and understanding of segments will help to improve communications with farmers, it is apparent that changing the beliefs of farmers in some segments about the need to respond to climate change will require more than simply increasing the quantity or quality of communications. Engaging farmers in these segments requires a much richer information set and a much greater effort to show farmers how they should be responding to climate variability and change using practical demonstrations and participatory approaches.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.415",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          25
+        ]
+      ],
+      "date-time": "2018-05-25T15:35:58Z",
+      "timestamp": 1527262558000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Communicating about Climate Change with Farmers"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Mark",
+        "family": "Morrison",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Donald W.",
+        "family": "Hine",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Steven",
+        "family": "D'Alessandro",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          26
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Communicating about Climate Change with Farmers"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T18:51:13Z",
+      "timestamp": 1661971873000
+    },
+    "score": 36.330013,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-415"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          26
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.415",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T21:48:38Z",
+      "timestamp": 1726004918047
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Transitioning to renewable energy systems requires changing the ways people interact with energy as well as technological change. This shift involves social changes that include modifications in norms, policies, and governance. Multiple sociopolitical factors shape the likelihood that solar energy will emerge as a significant component in energy systems around the world. This article describes ways climate change communication may be strategically employed to encourage substantial deployment of solar installations and other renewable energy resources as part of the innovations that contribute to transition and transformation of current energy systems. Understanding how communication may contribute to integration of more solar power into energy systems begins with examining current public awareness of and engagement with solar energy, as well as other low-carbon energy resources. With this foundation, climate change communication can contribute to research, development, and deployment of solar energy installations, by facilitating strategic alignment of solar energy with existing interests and preferences of its stakeholders. These stakeholders include elites who fear that shifting the energy system away from fossil fuels threatens their political influence and financial profits, energy workers who fear it will bring further reductions in already reduced wages, and those who perceive fossil fuels as the only alternative to opportunistic mixtures of animal waste and biofuel. Climate change communicators have the unenviable task of helping all of these groups imagine and participate in transitioning energy systems toward greater reliance on renewable energy sources, such as Sun. This article briefly describes the development and implementation solar energy technologies, and suggests how strategic communication may contribute to further implementation. It concludes with examples of differential deployment trajectories of solar energy in the Navajo Nation and Germany. These cases demonstrate that neither the endowment of natural resources nor the material energy needs of a location fully explain energy decisions. Indeed, social dimensions such as culture, economics, and governance play equally important roles. This provides numerous opportunities for climate change communicators to strategically highlight the ways that solar energy responds to immediate needs and desires, while simultaneously contributing to climate change mitigation.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.437",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          24
+        ]
+      ],
+      "date-time": "2016-12-24T00:24:11Z",
+      "timestamp": 1482539051000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Communicating about Solar Energy and Climate Change"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Tarla Rai",
+        "family": "Peterson",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Cristi C.",
+        "family": "Horton",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          26
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Communicating about Solar Energy and Climate Change"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T18:57:36Z",
+      "timestamp": 1661972256000
+    },
+    "score": 36.066643,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-437"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          26
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.437",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T21:48:26Z",
+      "timestamp": 1726004906945
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>The term <italic>public engagement (PE)</italic> refers to processes that provide a distinct role for citizens or stakeholder groups in policymaking. Such engagement is distinctive because it aims to create opportunities for mutual learning among policymakers, scientists, stakeholders, and members of the public. In so doing, PE involves a particular type of voice in public debate and policymaking that is different from more established discourses, such as those expressed through official policymaking channels, scientific institutions, civil society activists, or the public media. By the early 1970s, PE had emerged in the context of an overall democratization movement in Western societies through such innovations as the “citizen jury” in the United States and “planning cells” in Germany. Today, it is often more pragmatically motivated, such as in the European Commission, where PE is seen as a tool for responsible research and innovation that helps to anticipate and assess potential implications and societal expectations of research and innovation, as well as to design more inclusive and sustainable research policies.</p>\n               <p>The first global PE processes in history were created to incorporate citizen voices into United Nations (UN) conventions on biodiversity and climate change. Building on theories of deliberative democracy and tested PE practices, a new World Wide Views process was developed to provide informed and considered input from ordinary citizens to the 2009 UN climate summit. This and subsequent World Wide Views (WWViews) deliberations have demonstrated that PE may potentially open up policy discourses that are constricted and obfuscated by organized interests. A telling example is provided by the World Wide Views on Climate and Energy deliberation held on June 5, 2015, where nearly 10,000 ordinary citizens gathered in 76 countries to consider and express their views on the issues to be addressed at the UN climate summit in Paris later that year. In a noteworthy departure from prevailing media and policy discourses, two-thirds of the participating citizens saw measures to fight climate change as “mostly an opportunity to improve our quality of life,” while only a quarter saw them as “mostly a threat to our quality of life,” a result that was consistent across high-, middle-, and low-income countries.</p>\n               <p>Recent research on PE has indicated that when effectively implemented, such processes can increase the legitimacy, quality, and capacity of decision-making. Earlier aspirations for broader impacts, such as the democratization of policymaking at all levels, are now less prominent but arguably indispensable for achieving both immediate and longer-range goals. The relatively new concept of a deliberative system captures this complexity by moving beyond the narrow focus on single PE events encountered in much research to date, recognizing that single events rarely affect the course of policymaking. The evolving prospects for PE in biodiversity and climate change policy, therefore, can be seen as requiring ongoing improvements in the capacities of the deliberative system.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.420",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2016-09-28T10:58:55Z",
+      "timestamp": 1475060335000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Communicating about Biodiversity, Public Engagement, and Climate Change"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Mikko",
+        "family": "Rask",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Richard",
+        "family": "Worthington",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          26
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Communicating about Biodiversity, Public Engagement, and Climate Change"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T15:00:35Z",
+      "timestamp": 1661958035000
+    },
+    "score": 36.009373,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-420"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          26
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.420",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T21:48:18Z",
+      "timestamp": 1726004898325
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780190228620"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Within the corporate sector, climate change represents an unfolding market shift, one that is driven by policy but also by pressures from a variety of market constituents such as consumers, suppliers, buyers, insurance companies, banks, and others. The shift takes place in both mitigation of greenhouse gas emissions and adaptation to the physical effects of a changing climate. It is manifest in shifts in market demand, cost of capital, operational efficiency, energy efficiency, access to raw materials within supply chains, and other issues of business concern. In fact, when viewed in this way, business leaders and stakeholders can be agnostic about the science of climate change and still see it as a business issue. In the face of a market shift, successful companies must innovate. And as in any market shift, the implications of addressing climate change are not uniform; the burden will not fall evenly. There are both risks and opportunities; there will be both winners and losers. Certain companies, industries, and sectors will be impacted more than others. This article will discuss the ways in which climate change poses market risk and the strategic responses that companies might adopt to respond to and mitigate that risk. This focus is critically important as the solutions to climate change must come from the market. The market is the most powerful institution on earth, and business is the most powerful entity within it. The market compels business to make the goods and services we rely upon: the clothes we wear, the food we eat, the forms of mobility we use, and the buildings we live and work in. If the market does not lead the way toward solutions for a carbon-neutral world, there will be no solutions.</p>",
+    "DOI": "10.1093/acrefore/9780190228620.013.410",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2016-06-10T17:47:55Z",
+      "timestamp": 1465580875000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Communicating about Climate Change with Corporate Leaders and Stakeholders"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Andrew J.",
+        "family": "Hoffman",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "container-title": [
+      "Oxford Research Encyclopedia of Climate Science"
+    ],
+    "original-title": [
+      "Communicating about Climate Change with Corporate Leaders and Stakeholders"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T18:57:22Z",
+      "timestamp": 1661972242000
+    },
+    "score": 35.77699,
+    "resource": {
+      "primary": {
+        "URL": "http://climatescience.oxfordre.com/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-410"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190228620"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acrefore/9780190228620.013.410",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          22
+        ]
+      ]
+    }
+  }
+]

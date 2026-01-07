@@ -1,0 +1,28 @@
+filters:
+  and:
+    - '!file.hasTag("CCC", "bibliometrics", "op/acc/done", "op/activity/meeting")'
+    - '!file.fullname.contains("Sync")'
+    - file.folder != "Clippings/scripts"
+    - file.hasTag("op/doc/reporte")
+    - not:
+        - file.ext == "pyc"
+        - file.ext == "base"
+        - file.ext == "py"
+        - file.ext == "png"
+        - file.ext == "jpg"
+        - file.ext == "json"
+        - file.ext == "ris"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - year
+      - tags
+      - file.links
+      - file.backlinks
+    sort: []
+    columnSize:
+      file.name: 476
+      note.tags: 105
+      file.links: 104

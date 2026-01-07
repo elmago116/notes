@@ -1,0 +1,881 @@
+{
+  "id": "https://openalex.org/W2767633413",
+  "doi": "https://doi.org/10.3145/epi.2017.nov.03",
+  "title": "Diseño de información digital: revisión y clasificación de indicadores heurísticos para contenidos web",
+  "display_name": "Diseño de información digital: revisión y clasificación de indicadores heurísticos para contenidos web",
+  "publication_year": 2017,
+  "publication_date": "2017-11-12",
+  "ids": {
+    "openalex": "https://openalex.org/W2767633413",
+    "doi": "https://doi.org/10.3145/epi.2017.nov.03",
+    "mag": "2767633413"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3145/epi.2017.nov.03",
+    "pdf_url": "https://recyt.fecyt.es/index.php/EPI/article/download/epi.2017.nov.03/37043",
+    "source": {
+      "id": "https://openalex.org/S180455664",
+      "display_name": "El Profesional de la Informacion",
+      "issn_l": "1386-6710",
+      "issn": [
+        "1386-6710",
+        "1699-2407"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4324392817",
+      "host_organization_name": "Ediciones Profesionales de la Informacion SL",
+      "host_organization_lineage": [
+        "https://openalex.org/P4324392817"
+      ],
+      "host_organization_lineage_names": [
+        "Ediciones Profesionales de la Informacion SL"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://recyt.fecyt.es/index.php/EPI/article/download/epi.2017.nov.03/37043",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5009106672",
+        "display_name": "Lucía Jiménez-Iglesias",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lucía Jiménez-Iglesias",
+      "raw_affiliation_strings": [
+        "El profesional de la información"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "El profesional de la información",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009619164",
+        "display_name": "Mario Pérez‐Montoro",
+        "orcid": "https://orcid.org/0000-0003-2426-8119"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I97018004",
+          "display_name": "Stanford University",
+          "ror": "https://ror.org/00f54p054",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I97018004"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I95457486",
+          "display_name": "University of California, Berkeley",
+          "ror": "https://ror.org/01an7q238",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I95457486"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I71999127",
+          "display_name": "Universitat de Barcelona",
+          "ror": "https://ror.org/021018s57",
+          "country_code": "ES",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I71999127"
+          ]
+        }
+      ],
+      "countries": [
+        "ES",
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mario Pérez-Montoro",
+      "raw_affiliation_strings": [
+        "Documentación y Comunicación Audiovisual de la Universidad de Barcelona.",
+        "School of Information (UC Berkeley, California). Es profesor del Departamento de Biblioteconomía,",
+        "ha sido profesor visitante del CSLI (Stanford University, California) y de la"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "ha sido profesor visitante del CSLI (Stanford University, California) y de la",
+          "institution_ids": [
+            "https://openalex.org/I97018004",
+            "https://openalex.org/I97018004"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Information (UC Berkeley, California). Es profesor del Departamento de Biblioteconomía,",
+          "institution_ids": [
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I95457486"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Documentación y Comunicación Audiovisual de la Universidad de Barcelona.",
+          "institution_ids": [
+            "https://openalex.org/I71999127",
+            "https://openalex.org/I71999127"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040018272",
+        "display_name": "Lydia Sánchez",
+        "orcid": "https://orcid.org/0000-0001-7814-0087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I71999127",
+          "display_name": "Universitat de Barcelona",
+          "ror": "https://ror.org/021018s57",
+          "country_code": "ES",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I71999127"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I9360294",
+          "display_name": "University of Bologna",
+          "ror": "https://ror.org/01111rn36",
+          "country_code": "IT",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I9360294"
+          ]
+        }
+      ],
+      "countries": [
+        "ES",
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lydia Sánchez-Gómez",
+      "raw_affiliation_strings": [
+        "doctor en filosofía y ciencias de la educación por la Universitat de Barce-lona y posgraduado en organización de sistemas de documentación por la Universidad Politécnica de Catalunya. Ha realizado estudios de posgrado en el Instituto di Discipline della Comunicazione (Università di Bologna),",
+        "doctoranda en el Departamento de Biblioteconomía, Documentación y Comunicación Audiovisual de la Universitat de Barcelona (UB), donde se incorporó en 2015"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "doctoranda en el Departamento de Biblioteconomía, Documentación y Comunicación Audiovisual de la Universitat de Barcelona (UB), donde se incorporó en 2015",
+          "institution_ids": [
+            "https://openalex.org/I71999127",
+            "https://openalex.org/I71999127"
+          ]
+        },
+        {
+          "raw_affiliation_string": "doctor en filosofía y ciencias de la educación por la Universitat de Barce-lona y posgraduado en organización de sistemas de documentación por la Universidad Politécnica de Catalunya. Ha realizado estudios de posgrado en el Instituto di Discipline della Comunicazione (Università di Bologna),",
+          "institution_ids": [
+            "https://openalex.org/I9360294",
+            "https://openalex.org/I9360294"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5009619164"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I97018004",
+    "https://openalex.org/I95457486",
+    "https://openalex.org/I71999127"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.867,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.84968,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 84,
+    "max": 85
+  },
+  "biblio": {
+    "volume": "26",
+    "issue": "6",
+    "first_page": "1029",
+    "last_page": "1029"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13496",
+    "display_name": "Advertising and Communication Studies",
+    "score": 0.9285,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3315",
+      "display_name": "Communication"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13496",
+      "display_name": "Advertising and Communication Studies",
+      "score": 0.9285,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13874",
+      "display_name": "Information Architecture and Usability",
+      "score": 0.9285,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/praxis",
+      "display_name": "Praxis",
+      "score": 0.45823246
+    },
+    {
+      "id": "https://openalex.org/keywords/interface",
+      "display_name": "Interface (matter)",
+      "score": 0.41001394
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7548101
+    },
+    {
+      "id": "https://openalex.org/C173801870",
+      "wikidata": "https://www.wikidata.org/wiki/Q201413",
+      "display_name": "Heuristic",
+      "level": 2,
+      "score": 0.51369655
+    },
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.48808467
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.46625862
+    },
+    {
+      "id": "https://openalex.org/C2777122596",
+      "wikidata": "https://www.wikidata.org/wiki/Q1247560",
+      "display_name": "Praxis",
+      "level": 2,
+      "score": 0.45823246
+    },
+    {
+      "id": "https://openalex.org/C3255780",
+      "wikidata": "https://www.wikidata.org/wiki/Q1616517",
+      "display_name": "Heuristic evaluation",
+      "level": 3,
+      "score": 0.4347205
+    },
+    {
+      "id": "https://openalex.org/C113843644",
+      "wikidata": "https://www.wikidata.org/wiki/Q901882",
+      "display_name": "Interface (matter)",
+      "level": 4,
+      "score": 0.41001394
+    },
+    {
+      "id": "https://openalex.org/C170130773",
+      "wikidata": "https://www.wikidata.org/wiki/Q216378",
+      "display_name": "Usability",
+      "level": 2,
+      "score": 0.3053503
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.20036569
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.12597105
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C157915830",
+      "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+      "display_name": "Bubble",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C129307140",
+      "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+      "display_name": "Maximum bubble pressure method",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C173608175",
+      "wikidata": "https://www.wikidata.org/wiki/Q232661",
+      "display_name": "Parallel computing",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3145/epi.2017.nov.03",
+      "pdf_url": "https://recyt.fecyt.es/index.php/EPI/article/download/epi.2017.nov.03/37043",
+      "source": {
+        "id": "https://openalex.org/S180455664",
+        "display_name": "El Profesional de la Informacion",
+        "issn_l": "1386-6710",
+        "issn": [
+          "1386-6710",
+          "1699-2407"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4324392817",
+        "host_organization_name": "Ediciones Profesionales de la Informacion SL",
+        "host_organization_lineage": [
+          "https://openalex.org/P4324392817"
+        ],
+        "host_organization_lineage_names": [
+          "Ediciones Profesionales de la Informacion SL"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/2445/119308",
+      "pdf_url": "https://diposit.ub.edu/dspace/bitstream/2445/119308/1/674298.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401653",
+        "display_name": "Dipòsit Digital de la Universitat de Barcelona (Universitat de Barcelona)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I71999127",
+        "host_organization_name": "Universitat de Barcelona",
+        "host_organization_lineage": [
+          "https://openalex.org/I71999127"
+        ],
+        "host_organization_lineage_names": [
+          "Universitat de Barcelona"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://eprints.rclis.org/34181/1/Dise%C3%B1o%20de%20informaci%C3%B3n%20digital.pdf",
+      "pdf_url": "http://eprints.rclis.org/34181/1/Dise%C3%B1o%20de%20informaci%C3%B3n%20digital.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401228",
+        "display_name": "E-LIS Repository (University of Naples Federico II)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I71267560",
+        "host_organization_name": "University of Naples Federico II",
+        "host_organization_lineage": [
+          "https://openalex.org/I71267560"
+        ],
+        "host_organization_lineage_names": [
+          "University of Naples Federico II"
+        ],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3145/epi.2017.nov.03",
+    "pdf_url": "https://recyt.fecyt.es/index.php/EPI/article/download/epi.2017.nov.03/37043",
+    "source": {
+      "id": "https://openalex.org/S180455664",
+      "display_name": "El Profesional de la Informacion",
+      "issn_l": "1386-6710",
+      "issn": [
+        "1386-6710",
+        "1699-2407"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4324392817",
+      "host_organization_name": "Ediciones Profesionales de la Informacion SL",
+      "host_organization_lineage": [
+        "https://openalex.org/P4324392817"
+      ],
+      "host_organization_lineage_names": [
+        "Ediciones Profesionales de la Informacion SL"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 28,
+  "referenced_works": [
+    "https://openalex.org/W1491233988",
+    "https://openalex.org/W1500388874",
+    "https://openalex.org/W1769514293",
+    "https://openalex.org/W1907860790",
+    "https://openalex.org/W2032704072",
+    "https://openalex.org/W2039666474",
+    "https://openalex.org/W2052156596",
+    "https://openalex.org/W2072450158",
+    "https://openalex.org/W2079283960",
+    "https://openalex.org/W2088156525",
+    "https://openalex.org/W2096820616",
+    "https://openalex.org/W2109577219",
+    "https://openalex.org/W2115962522",
+    "https://openalex.org/W2139961804",
+    "https://openalex.org/W2162598207",
+    "https://openalex.org/W2188631383",
+    "https://openalex.org/W2233670903",
+    "https://openalex.org/W2321828934",
+    "https://openalex.org/W2394058445",
+    "https://openalex.org/W2484158752",
+    "https://openalex.org/W2537554849",
+    "https://openalex.org/W2579897316",
+    "https://openalex.org/W2603281796",
+    "https://openalex.org/W3001796748",
+    "https://openalex.org/W4203702",
+    "https://openalex.org/W4243432123",
+    "https://openalex.org/W4301062546",
+    "https://openalex.org/W645583835"
+  ],
+  "related_works": [
+    "https://openalex.org/W82190428",
+    "https://openalex.org/W4309333965",
+    "https://openalex.org/W3156329635",
+    "https://openalex.org/W2912104648",
+    "https://openalex.org/W2339658092",
+    "https://openalex.org/W2123051583",
+    "https://openalex.org/W2096820616",
+    "https://openalex.org/W2077503414",
+    "https://openalex.org/W1976360347",
+    "https://openalex.org/W1494549177"
+  ],
+  "abstract_inverted_index": {
+    "Since": [
+      0
+    ],
+    "the": [
+      1,
+      4,
+      68,
+      102,
+      108
+    ],
+    "emergence": [
+      2
+    ],
+    "of": [
+      3,
+      37,
+      60
+    ],
+    "Internet": [
+      5
+    ],
+    "there": [
+      6
+    ],
+    "has": [
+      7
+    ],
+    "been": [
+      8,
+      33
+    ],
+    "continuous": [
+      9
+    ],
+    "evolution": [
+      10
+    ],
+    "in": [
+      11,
+      55,
+      80
+    ],
+    "interface": [
+      12
+    ],
+    "design,": [
+      13
+    ],
+    "with": [
+      14
+    ],
+    "designers": [
+      15
+    ],
+    "trying": [
+      16
+    ],
+    "to": [
+      17,
+      22,
+      28,
+      64,
+      82,
+      86,
+      100
+    ],
+    "offer": [
+      18
+    ],
+    "a": [
+      19,
+      77
+    ],
+    "good": [
+      20
+    ],
+    "experience": [
+      21
+    ],
+    "users.": [
+      23
+    ],
+    "Website": [
+      24
+    ],
+    "developers": [
+      25
+    ],
+    "regularly": [
+      26
+    ],
+    "turn": [
+      27
+    ],
+    "heuristic": [
+      29,
+      74
+    ],
+    "indicators": [
+      30,
+      43,
+      75
+    ],
+    "that": [
+      31
+    ],
+    "have": [
+      32
+    ],
+    "collected": [
+      34
+    ],
+    "throughout": [
+      35
+    ],
+    "years": [
+      36
+    ],
+    "research": [
+      38
+    ],
+    "and": [
+      39,
+      46,
+      66,
+      71,
+      88,
+      104,
+      106
+    ],
+    "praxis.": [
+      40
+    ],
+    "Nevertheless,": [
+      41
+    ],
+    "these": [
+      42
+    ],
+    "are": [
+      44,
+      53,
+      93
+    ],
+    "diverse": [
+      45
+    ],
+    "it": [
+      47,
+      98
+    ],
+    "is": [
+      48,
+      63
+    ],
+    "complicated": [
+      49
+    ],
+    "locating": [
+      50
+    ],
+    "which": [
+      51,
+      96
+    ],
+    "ones": [
+      52
+    ],
+    "applicable": [
+      54
+    ],
+    "every": [
+      56
+    ],
+    "case.": [
+      57
+    ],
+    "The": [
+      58,
+      91
+    ],
+    "objective": [
+      59
+    ],
+    "this": [
+      61
+    ],
+    "work": [
+      62
+    ],
+    "identify": [
+      65,
+      101
+    ],
+    "analyze": [
+      67,
+      105
+    ],
+    "most": [
+      69
+    ],
+    "scientifically": [
+      70
+    ],
+    "geographically": [
+      72
+    ],
+    "relevant": [
+      73
+    ],
+    "through": [
+      76
+    ],
+    "mapping": [
+      78
+    ],
+    "review,": [
+      79
+    ],
+    "order": [
+      81
+    ],
+    "classify": [
+      83
+    ],
+    "them": [
+      84
+    ],
+    "according": [
+      85
+    ],
+    "formal": [
+      87
+    ],
+    "content": [
+      89
+    ],
+    "components.": [
+      90
+    ],
+    "results": [
+      92
+    ],
+    "two": [
+      94
+    ],
+    "taxonomies": [
+      95
+    ],
+    "make": [
+      97
+    ],
+    "easier": [
+      99
+    ],
+    "location,": [
+      103
+    ],
+    "apply": [
+      107
+    ],
+    "guidelines.": [
+      109
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2767633413",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-18T03:00:46.521823",
+  "created_date": "2017-11-17"
+}

@@ -1,0 +1,158 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T09:07:59Z",
+    "timestamp": 1755680879454
+  },
+  "reference-count": 0,
+  "publisher": "Kozminski University",
+  "issue": "2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "JMBA.CE"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        15
+      ]
+    ]
+  },
+  "DOI": "10.7206/jmba.ce.2450-7814.226",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        7,
+        8
+      ]
+    ],
+    "date-time": "2018-07-08T11:29:16Z",
+    "timestamp": 1531049356000
+  },
+  "page": "16-33",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "International Contexts of Social Media and e-WoM Communication in the Customer Decision-Making Process"
+  ],
+  "prefix": "10.7206",
+  "volume": "26",
+  "author": [
+    {
+      "name": "Poznań University of Economics and Business",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Małgorzata",
+      "family": "Bartosik-Purgat",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "4225",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        15
+      ]
+    ]
+  },
+  "container-title": [
+    "Journal of Management and Business Administration. Central Europe"
+  ],
+  "original-title": [
+    "International Contexts of Social Media and e-WoM Communication in the Customer Decision-Making Process"
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        14
+      ]
+    ],
+    "date-time": "2020-10-14T16:46:28Z",
+    "timestamp": 1602693988000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.kozminski.edu.pl/pub/4833"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        15
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "2",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          15
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          15
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.7206/jmba.ce.2450-7814.226",
+  "relation": {},
+  "ISSN": [
+    "2450-7814",
+    "2450-8829"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "2450-7814"
+    },
+    {
+      "type": "electronic",
+      "value": "2450-8829"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        6,
+        15
+      ]
+    ]
+  }
+}

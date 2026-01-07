@@ -1,0 +1,306 @@
+{
+  "id": "https://openalex.org/W2183912868",
+  "doi": "https://doi.org/10.1007/978-1-4020-6475-3_26",
+  "title": "Homogeneous Nucleation: What I Understand, What I Somewhat Understand, What I do not Understand",
+  "display_name": "Homogeneous Nucleation: What I Understand, What I Somewhat Understand, What I do not Understand",
+  "publication_year": 2007,
+  "publication_date": "2007-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2183912868",
+    "doi": "https://doi.org/10.1007/978-1-4020-6475-3_26",
+    "mag": "2183912868"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-1-4020-6475-3_26",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306463937",
+      "display_name": "Springer eBooks",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "ebook platform"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "book-chapter",
+  "type_crossref": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5103333087",
+        "display_name": "Joseph Katz",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145311948",
+          "display_name": "Johns Hopkins University",
+          "ror": "https://ror.org/00za53h95",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I145311948"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Joseph L. Katz",
+      "raw_affiliation_strings": [
+        "Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 21218, Baltimore, MD, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 21218, Baltimore, MD, USA",
+          "institution_ids": [
+            "https://openalex.org/I145311948"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5103333087"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I145311948"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 63
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "131",
+    "last_page": "133"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11520",
+    "display_name": "Advanced Thermodynamics and Statistical Mechanics",
+    "score": 0.9647,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3109",
+      "display_name": "Statistical and Nonlinear Physics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/31",
+      "display_name": "Physics and Astronomy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11520",
+      "display_name": "Advanced Thermodynamics and Statistical Mechanics",
+      "score": 0.9647,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12202",
+      "display_name": "nanoparticles nucleation surface interactions",
+      "score": 0.9517,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/kinetic-theory",
+      "display_name": "Kinetic Theory",
+      "score": 0.5336913
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C61048295",
+      "wikidata": "https://www.wikidata.org/wiki/Q909022",
+      "display_name": "Nucleation",
+      "level": 2,
+      "score": 0.9038608
+    },
+    {
+      "id": "https://openalex.org/C66882249",
+      "wikidata": "https://www.wikidata.org/wiki/Q169336",
+      "display_name": "Homogeneous",
+      "level": 2,
+      "score": 0.7026966
+    },
+    {
+      "id": "https://openalex.org/C121864883",
+      "wikidata": "https://www.wikidata.org/wiki/Q677916",
+      "display_name": "Statistical physics",
+      "level": 1,
+      "score": 0.5553796
+    },
+    {
+      "id": "https://openalex.org/C19979193",
+      "wikidata": "https://www.wikidata.org/wiki/Q25100325",
+      "display_name": "Kinetic theory",
+      "level": 2,
+      "score": 0.5336913
+    },
+    {
+      "id": "https://openalex.org/C165995430",
+      "wikidata": "https://www.wikidata.org/wiki/Q891653",
+      "display_name": "Boltzmann equation",
+      "level": 2,
+      "score": 0.49372897
+    },
+    {
+      "id": "https://openalex.org/C135889238",
+      "wikidata": "https://www.wikidata.org/wiki/Q46276",
+      "display_name": "Kinetic energy",
+      "level": 2,
+      "score": 0.44047022
+    },
+    {
+      "id": "https://openalex.org/C97355855",
+      "wikidata": "https://www.wikidata.org/wiki/Q11473",
+      "display_name": "Thermodynamics",
+      "level": 1,
+      "score": 0.38835502
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.32684213
+    },
+    {
+      "id": "https://openalex.org/C74650414",
+      "wikidata": "https://www.wikidata.org/wiki/Q11397",
+      "display_name": "Classical mechanics",
+      "level": 1,
+      "score": 0.2798902
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-1-4020-6475-3_26",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306463937",
+        "display_name": "Springer eBooks",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "ebook platform"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W85253936",
+    "https://openalex.org/W4231298560",
+    "https://openalex.org/W4214692913",
+    "https://openalex.org/W3084171500",
+    "https://openalex.org/W3008020270",
+    "https://openalex.org/W2954461024",
+    "https://openalex.org/W2847744229",
+    "https://openalex.org/W2488056104",
+    "https://openalex.org/W2164651966",
+    "https://openalex.org/W1994722349"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2183912868",
+  "counts_by_year": [],
+  "updated_date": "2025-02-03T09:31:58.585044",
+  "created_date": "2016-06-24"
+}

@@ -1,0 +1,1109 @@
+{
+  "id": "https://openalex.org/W4392631873",
+  "doi": "https://doi.org/10.1136/ijgc-2024-esgo.593",
+  "title": "218 A pilot investigation of intraoperative fluorescent imaging in advanced ovarian cancer: photodynamic diagnosis with 5-aminolevulinic acid (5-ALA)",
+  "display_name": "218 A pilot investigation of intraoperative fluorescent imaging in advanced ovarian cancer: photodynamic diagnosis with 5-aminolevulinic acid (5-ALA)",
+  "publication_year": 2024,
+  "publication_date": "2024-03-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4392631873",
+    "doi": "https://doi.org/10.1136/ijgc-2024-esgo.593"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1136/ijgc-2024-esgo.593",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "proceedings-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5043150656",
+        "display_name": "Akira Yabuno",
+        "orcid": "https://orcid.org/0000-0002-1221-0609"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210132452",
+          "display_name": "Saitama International Medical Center",
+          "ror": "https://ror.org/03ftky336",
+          "country_code": "JP",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210132452"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I8588240",
+          "display_name": "Saitama Medical University",
+          "ror": "https://ror.org/04zb31v77",
+          "country_code": "JP",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I8588240"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Akira Yabuno",
+      "raw_affiliation_strings": [
+        "Saitama Medical University International Medical Center, Saitama, Japan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Saitama Medical University International Medical Center, Saitama, Japan",
+          "institution_ids": [
+            "https://openalex.org/I4210132452",
+            "https://openalex.org/I8588240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071114339",
+        "display_name": "Daisuke Shintani",
+        "orcid": "https://orcid.org/0000-0001-6689-8915"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210132452",
+          "display_name": "Saitama International Medical Center",
+          "ror": "https://ror.org/03ftky336",
+          "country_code": "JP",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210132452"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I8588240",
+          "display_name": "Saitama Medical University",
+          "ror": "https://ror.org/04zb31v77",
+          "country_code": "JP",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I8588240"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daisuke Shintani",
+      "raw_affiliation_strings": [
+        "Saitama Medical University International Medical Center, Saitama, Japan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Saitama Medical University International Medical Center, Saitama, Japan",
+          "institution_ids": [
+            "https://openalex.org/I4210132452",
+            "https://openalex.org/I8588240"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5021592961",
+        "display_name": "Kosei Hasegawa",
+        "orcid": "https://orcid.org/0000-0002-1751-6527"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210132452",
+          "display_name": "Saitama International Medical Center",
+          "ror": "https://ror.org/03ftky336",
+          "country_code": "JP",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210132452"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I8588240",
+          "display_name": "Saitama Medical University",
+          "ror": "https://ror.org/04zb31v77",
+          "country_code": "JP",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I8588240"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kosei Hasegawa",
+      "raw_affiliation_strings": [
+        "Saitama Medical University International Medical Center, Saitama, Japan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Saitama Medical University International Medical Center, Saitama, Japan",
+          "institution_ids": [
+            "https://openalex.org/I4210132452",
+            "https://openalex.org/I8588240"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 71
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "A303.3",
+    "last_page": "A304"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10957",
+    "display_name": "Photodynamic Therapy Research Studies",
+    "score": 0.9399,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2740",
+      "display_name": "Pulmonary and Respiratory Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10957",
+      "display_name": "Photodynamic Therapy Research Studies",
+      "score": 0.9399,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10782",
+      "display_name": "Nanoplatforms for cancer theranostics",
+      "score": 0.9105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/protoporphyrin-ix",
+      "display_name": "Protoporphyrin IX",
+      "score": 0.55964285
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.7663903
+    },
+    {
+      "id": "https://openalex.org/C2779671804",
+      "wikidata": "https://www.wikidata.org/wiki/Q619815",
+      "display_name": "Protoporphyrin IX",
+      "level": 3,
+      "score": 0.55964285
+    },
+    {
+      "id": "https://openalex.org/C2780427987",
+      "wikidata": "https://www.wikidata.org/wiki/Q172341",
+      "display_name": "Ovarian cancer",
+      "level": 3,
+      "score": 0.54656065
+    },
+    {
+      "id": "https://openalex.org/C2779399171",
+      "wikidata": "https://www.wikidata.org/wiki/Q1483951",
+      "display_name": "Malignancy",
+      "level": 2,
+      "score": 0.5373572
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.5315252
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.44507065
+    },
+    {
+      "id": "https://openalex.org/C126838900",
+      "wikidata": "https://www.wikidata.org/wiki/Q77604",
+      "display_name": "Radiology",
+      "level": 1,
+      "score": 0.3968253
+    },
+    {
+      "id": "https://openalex.org/C2781323092",
+      "wikidata": "https://www.wikidata.org/wiki/Q1428072",
+      "display_name": "Photodynamic therapy",
+      "level": 2,
+      "score": 0.3011888
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.24289861
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1136/ijgc-2024-esgo.593",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.56,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4242341064",
+    "https://openalex.org/W4238855851",
+    "https://openalex.org/W3148592355",
+    "https://openalex.org/W3127979394",
+    "https://openalex.org/W3111424859",
+    "https://openalex.org/W2586129518",
+    "https://openalex.org/W2130914421",
+    "https://openalex.org/W2110332934",
+    "https://openalex.org/W1992141538",
+    "https://openalex.org/W1974652418"
+  ],
+  "abstract_inverted_index": {
+    "<h3>Introduction/Background</h3>": [
+      0
+    ],
+    "Protoporphyrin": [
+      1
+    ],
+    "IX,": [
+      2
+    ],
+    "a": [
+      3,
+      83,
+      257
+    ],
+    "metabolic": [
+      4
+    ],
+    "product": [
+      5
+    ],
+    "of": [
+      6,
+      47,
+      157,
+      181,
+      230,
+      238,
+      274
+    ],
+    "5-aminolevulinic": [
+      7
+    ],
+    "acid": [
+      8
+    ],
+    "(5-ALA),": [
+      9
+    ],
+    "becomes": [
+      10
+    ],
+    "photoactive": [
+      11
+    ],
+    "and": [
+      12,
+      36,
+      94,
+      103,
+      132,
+      138,
+      154,
+      163,
+      172,
+      193,
+      195,
+      208,
+      219,
+      286
+    ],
+    "emits": [
+      13
+    ],
+    "red": [
+      14
+    ],
+    "fluorescence": [
+      15
+    ],
+    "when": [
+      16
+    ],
+    "excited": [
+      17
+    ],
+    "by": [
+      18
+    ],
+    "visible": [
+      19
+    ],
+    "blue": [
+      20,
+      84
+    ],
+    "light.": [
+      21
+    ],
+    "Photodynamic": [
+      22
+    ],
+    "diagnosis": [
+      23
+    ],
+    "(PDD)": [
+      24
+    ],
+    "using": [
+      25,
+      54
+    ],
+    "5-ALA": [
+      26,
+      72,
+      231,
+      241
+    ],
+    "has": [
+      27
+    ],
+    "proven": [
+      28
+    ],
+    "effective": [
+      29
+    ],
+    "in": [
+      30,
+      50,
+      245,
+      249
+    ],
+    "fluorescence-guided": [
+      31
+    ],
+    "surgery": [
+      32
+    ],
+    "for": [
+      33,
+      199,
+      261
+    ],
+    "malignant": [
+      34
+    ],
+    "glioma": [
+      35
+    ],
+    "bladder": [
+      37
+    ],
+    "cancer.": [
+      38
+    ],
+    "This": [
+      39,
+      265
+    ],
+    "study": [
+      40
+    ],
+    "aims": [
+      41
+    ],
+    "to": [
+      42,
+      189,
+      227,
+      270
+    ],
+    "investigate": [
+      43
+    ],
+    "the": [
+      44,
+      133,
+      158,
+      169,
+      272
+    ],
+    "diagnostic": [
+      45,
+      259
+    ],
+    "accuracy": [
+      46,
+      237
+    ],
+    "intra-peritoneal": [
+      48
+    ],
+    "dissemination": [
+      49,
+      248
+    ],
+    "advanced": [
+      51,
+      66,
+      250
+    ],
+    "ovarian": [
+      52,
+      67,
+      251,
+      262
+    ],
+    "cancer": [
+      53,
+      68,
+      263
+    ],
+    "PDD": [
+      55,
+      239
+    ],
+    "with": [
+      56,
+      65,
+      118,
+      240
+    ],
+    "5-ALA.": [
+      57
+    ],
+    "<h3>Methodology</h3>": [
+      58
+    ],
+    "In": [
+      59
+    ],
+    "this": [
+      60
+    ],
+    "prospective": [
+      61
+    ],
+    "single-center": [
+      62
+    ],
+    "study,": [
+      63
+    ],
+    "patients": [
+      64,
+      144
+    ],
+    "were": [
+      69,
+      97,
+      108,
+      176,
+      204,
+      215,
+      232
+    ],
+    "administered": [
+      70
+    ],
+    "oral": [
+      71,
+      228
+    ],
+    "(20": [
+      73
+    ],
+    "mg/kg)": [
+      74
+    ],
+    "four": [
+      75
+    ],
+    "hours": [
+      76
+    ],
+    "before": [
+      77
+    ],
+    "staging": [
+      78
+    ],
+    "laparoscopy.": [
+      79
+    ],
+    "Fluorescence": [
+      80
+    ],
+    "excitation": [
+      81
+    ],
+    "utilized": [
+      82
+    ],
+    "light": [
+      85,
+      101,
+      105
+    ],
+    "source": [
+      86
+    ],
+    "(D-LIGHT": [
+      87
+    ],
+    "System;": [
+      88
+    ],
+    "Karl": [
+      89
+    ],
+    "Storz": [
+      90
+    ],
+    "Endoscopy,": [
+      91
+    ],
+    "Germany).": [
+      92
+    ],
+    "Tumor": [
+      93
+    ],
+    "non-tumor": [
+      95
+    ],
+    "locations": [
+      96
+    ],
+    "documented": [
+      98
+    ],
+    "under": [
+      99,
+      114,
+      125,
+      202
+    ],
+    "white": [
+      100
+    ],
+    "(WL)": [
+      102
+    ],
+    "fluorescent": [
+      104
+    ],
+    "(FL).": [
+      106
+    ],
+    "Biopsies": [
+      107
+    ],
+    "obtained": [
+      109
+    ],
+    "from": [
+      110,
+      121,
+      168,
+      282
+    ],
+    "suspected": [
+      111
+    ],
+    "tumor": [
+      112
+    ],
+    "sites": [
+      113
+    ],
+    "WL": [
+      115,
+      203,
+      244
+    ],
+    "and/or": [
+      116
+    ],
+    "FL,": [
+      117,
+      212
+    ],
+    "additional": [
+      119
+    ],
+    "samplings": [
+      120
+    ],
+    "areas": [
+      122
+    ],
+    "appearing": [
+      123
+    ],
+    "normal": [
+      124
+    ],
+    "both": [
+      126
+    ],
+    "lights.": [
+      127
+    ],
+    "Pathological": [
+      128
+    ],
+    "examination": [
+      129
+    ],
+    "assessed": [
+      130
+    ],
+    "malignancy,": [
+      131
+    ],
+    "association": [
+      134
+    ],
+    "between": [
+      135,
+      161
+    ],
+    "imaging": [
+      136
+    ],
+    "data": [
+      137
+    ],
+    "pathology": [
+      139
+    ],
+    "was": [
+      140,
+      185
+    ],
+    "explored.": [
+      141
+    ],
+    "<h3>Results</h3>": [
+      142
+    ],
+    "Seven": [
+      143
+    ],
+    "(comprising": [
+      145
+    ],
+    "5": [
+      146
+    ],
+    "high-grade": [
+      147
+    ],
+    "serous": [
+      148
+    ],
+    "carcinomas,": [
+      149
+    ],
+    "1": [
+      150,
+      155
+    ],
+    "clear": [
+      151
+    ],
+    "cell": [
+      152
+    ],
+    "carcinoma,": [
+      153
+    ],
+    "pseudomyxoma": [
+      156
+    ],
+    "peritoneum)": [
+      159
+    ],
+    "participated": [
+      160
+    ],
+    "January": [
+      162
+    ],
+    "March": [
+      164
+    ],
+    "2019.": [
+      165
+    ],
+    "Seventy-one": [
+      166
+    ],
+    "biopsies": [
+      167,
+      182
+    ],
+    "peritoneum,": [
+      170
+    ],
+    "omentum,": [
+      171
+    ],
+    "fallopian": [
+      173
+    ],
+    "tube": [
+      174
+    ],
+    "serosa": [
+      175
+    ],
+    "acquired.": [
+      177
+    ],
+    "The": [
+      178,
+      235,
+      288
+    ],
+    "median": [
+      179
+    ],
+    "number": [
+      180
+    ],
+    "per": [
+      183
+    ],
+    "patient": [
+      184
+    ],
+    "10": [
+      186
+    ],
+    "(range:": [
+      187
+    ],
+    "6": [
+      188
+    ],
+    "14).": [
+      190
+    ],
+    "Sensitivity,": [
+      191
+    ],
+    "specificity,": [
+      192
+    ],
+    "positive": [
+      194
+    ],
+    "negative": [
+      196
+    ],
+    "predictive": [
+      197
+    ],
+    "values": [
+      198,
+      214
+    ],
+    "detecting": [
+      200
+    ],
+    "tumors": [
+      201
+    ],
+    "88%,": [
+      205
+    ],
+    "59%,": [
+      206
+    ],
+    "83%,": [
+      207
+    ],
+    "68%,": [
+      209
+    ],
+    "respectively.": [
+      210,
+      221
+    ],
+    "Under": [
+      211
+    ],
+    "these": [
+      213
+    ],
+    "96%,": [
+      216,
+      218
+    ],
+    "90%,": [
+      217,
+      220
+    ],
+    "No": [
+      222
+    ],
+    "severe": [
+      223
+    ],
+    "adverse": [
+      224
+    ],
+    "events": [
+      225
+    ],
+    "related": [
+      226
+    ],
+    "administration": [
+      229
+    ],
+    "observed.": [
+      233
+    ],
+    "<h3>Conclusion</h3>": [
+      234
+    ],
+    "superior": [
+      236
+    ],
+    "over": [
+      242
+    ],
+    "standard": [
+      243
+    ],
+    "identifying": [
+      246
+    ],
+    "peritoneal": [
+      247
+    ],
+    "cancers": [
+      252
+    ],
+    "emphasizes": [
+      253
+    ],
+    "its": [
+      254
+    ],
+    "potential": [
+      255
+    ],
+    "as": [
+      256
+    ],
+    "valuable": [
+      258
+    ],
+    "tool": [
+      260
+    ],
+    "staging.": [
+      264
+    ],
+    "heightened": [
+      266
+    ],
+    "precision": [
+      267
+    ],
+    "may": [
+      268
+    ],
+    "contribute": [
+      269
+    ],
+    "optimizing": [
+      271
+    ],
+    "outcomes": [
+      273
+    ],
+    "cytoreductive": [
+      275
+    ],
+    "surgery.": [
+      276
+    ],
+    "<h3>Disclosures</h3>": [
+      277
+    ],
+    "Akira": [
+      278
+    ],
+    "Yabuno": [
+      279
+    ],
+    "recives": [
+      280
+    ],
+    "honoraria": [
+      281
+    ],
+    "AstraZeneca,": [
+      283
+    ],
+    "Eisai,": [
+      284
+    ],
+    "Takeda": [
+      285
+    ],
+    "MSD.": [
+      287
+    ],
+    "other": [
+      289
+    ],
+    "authors": [
+      290
+    ],
+    "made": [
+      291
+    ],
+    "no": [
+      292
+    ],
+    "disclosures.": [
+      293
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392631873",
+  "counts_by_year": [],
+  "updated_date": "2025-08-18T12:36:28.923904",
+  "created_date": "2024-03-11"
+}

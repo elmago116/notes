@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.hasTag("op/projects/similar")
+    - '!file.hasTag("op/Meeting", "op/note", "op/notfound")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - file.backlinks
+    sort: []
+    columnSize:
+      file.name: 337

@@ -1,0 +1,714 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        19
+      ]
+    ],
+    "date-time": "2025-08-19T09:59:11Z",
+    "timestamp": 1755597551080,
+    "version": "3.41.2"
+  },
+  "reference-count": 69,
+  "publisher": "Emerald",
+  "issue": "7",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            5
+          ]
+        ],
+        "date-time": "2024-04-05T00:00:00Z",
+        "timestamp": 1712275200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.emerald.com/insight/site-policies"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "JD"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "abstract": "<jats:sec><jats:title content-type=\"abstract-subheading\">Purpose</jats:title><jats:p>Develop a comprehensive framework for assessing the knowledge organization systems (KOSs), including the taxonomy of Wikipedia and the ontologies of Wikidata, with a specific focus on enhancing management and retrieval with a gender nonbinary perspective.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title><jats:p>This study employs heuristic and inspection methods to assess Wikipedia’s KOS, ensuring compliance with international standards. It evaluates the efficiency of retrieving non-masculine gender-related articles using the Catalan Wikipedian category scheme, identifying limitations. Additionally, a novel assessment of Wikidata ontologies examines their structure and coverage of gender-related properties, comparing them to Wikipedia’s taxonomy for advantages and enhancements.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Findings</jats:title><jats:p>This study evaluates Wikipedia’s taxonomy and Wikidata’s ontologies, establishing evaluation criteria for gender-based categorization and exploring their structural effectiveness. The evaluation process suggests that Wikidata ontologies may offer a viable solution to address Wikipedia’s categorization challenges.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Originality/value</jats:title><jats:p>The assessment of Wikipedia categories (taxonomy) based on KOS standards leads to the conclusion that there is ample room for improvement, not only in matters concerning gender identity but also in the overall KOS to enhance search and retrieval for users. These findings bear relevance for the design of tools to support information retrieval on knowledge-rich websites, as they assist users in exploring topics and concepts.</jats:p></jats:sec>",
+  "DOI": "10.1108/jd-11-2023-0230",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        10
+      ]
+    ],
+    "date-time": "2024-04-10T10:41:41Z",
+    "timestamp": 1712745701000
+  },
+  "page": "124-147",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Assessing knowledge organization systems from a gender perspective: Wikipedia taxonomy and Wikidata ontologies"
+  ],
+  "prefix": "10.1108",
+  "volume": "80",
+  "author": [
+    {
+      "given": "Miquel",
+      "family": "Centelles",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9037-8837",
+      "authenticated-orcid": false,
+      "given": "Núria",
+      "family": "Ferran-Ferrer",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "140",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        5
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "key2024121103340119800_ref001",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Abián, D., Meroño-Peñuela, A. and Simperl, E. (2022), “An analysis of content gaps versus user needs in the Wikidata knowledge graph”, in Sattler, U., Hogan, A., Keet, M., Presutti, V., Almeida, J.P.A., Takeda, H., Monnin, P., Pirrò, G. and d'Amato, C. (Eds), Lecture Notes in Computer Science, Springer Science and Business Media Deutschland GmbH; Scopus, Vol. 13489 LNCS, pp. 354-374, doi: 10.1007/978-3-031-19433-7_21.",
+      "DOI": "10.1007/978-3-031-19433-7_21"
+    },
+    {
+      "issue": "5",
+      "key": "key2024121103340119800_ref002",
+      "doi-asserted-by": "publisher",
+      "first-page": "686",
+      "DOI": "10.1177/0165551520977438",
+      "article-title": "Testing the validity of Wikipedia categories for subject matter labelling of open-domain corpus data",
+      "volume": "48",
+      "year": "2022",
+      "journal-title": "Journal of Information Science"
+    },
+    {
+      "key": "key2024121103340119800_ref003",
+      "unstructured": "Albuquerque, F.A.A.C. (2017), “Arcabouço de arquitetura da informação para ciclo de vida de projeto de vocabulário controlado: uma aplicação em Engenharia de Software [Fernando Antônio de Araújo Chacon de]”, available at: https://repositorio.unb.br/handle/10482/31288"
+    },
+    {
+      "volume-title": "Fase 3: Aseguramiento de la calidad de la taxonomía temática, Indicadores de gestión Informe preliminar",
+      "year": "2010",
+      "key": "key2024121103340119800_ref070"
+    },
+    {
+      "key": "key2024121103340119800_ref004",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.jbi.2018.02.010",
+      "article-title": "Assessing the practice of biomedical ontology evaluation: gaps and opportunities",
+      "volume": "80",
+      "year": "2018",
+      "journal-title": "Journal of Biomedical Informatics"
+    },
+    {
+      "issue": "3",
+      "key": "key2024121103340119800_ref005",
+      "doi-asserted-by": "publisher",
+      "first-page": "448",
+      "DOI": "10.1134/S1064230711010072",
+      "article-title": "To a method of evaluating ontologies",
+      "volume": "50",
+      "year": "2011",
+      "journal-title": "Journal of Computer and Systems Sciences International"
+    },
+    {
+      "key": "key2024121103340119800_ref006",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bourli, S. and Pitoura, E. (2020), “Bias in knowledge graph embeddings”, in Atzmuller, M., Coscia, M. and Missaoui, R. (Eds), Proc. IEEE/ACM Int. Conf. Adv. Soc. Networks Anal. Min., ASONAM, Institute of Electrical and Electronics Engineers, Scopus, pp. 6-10, doi: 10.1109/ASONAM49781.2020.9381459.",
+      "DOI": "10.1109/ASONAM49781.2020.9381459"
+    },
+    {
+      "key": "key2024121103340119800_ref007",
+      "unstructured": "Buchem, I. and Kloppenburg, J. (2013), “Gender – Diversität – Wikipedia: Vielfalt Gemeinsam Gestalten”, Beuth Hochschule für Technik Berlin, Wikimedia Deutschland, available at: https://www.bht-berlin.de/fileadmin/oe/gutz/Sonstige_Veroeffentlichungen/Arbeitspapier_Gender-Diversity-Wikipedia.pdf"
+    },
+    {
+      "volume": "27",
+      "article-title": "Taxonomies and ontologies in Wikipedia and Wikidata: an in-depth examination of knowledge organization systems",
+      "year": "2024",
+      "key": "key2024121103340119800_ref008"
+    },
+    {
+      "key": "key2024121103340119800_ref009",
+      "doi-asserted-by": "publisher",
+      "first-page": "383",
+      "DOI": "10.1145/2145204.2145265",
+      "article-title": "Conflict, criticism, or confidence: an empirical examination of the gender gap in Wikipedia contributions",
+      "year": "2012"
+    },
+    {
+      "issue": "2",
+      "key": "key2024121103340119800_ref010",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.22148/001c.74068",
+      "article-title": "Quantifying the gap: the gender gap in French writers' Wikidata",
+      "volume": "8",
+      "year": "2023",
+      "journal-title": "Journal of Cultural Analytics"
+    },
+    {
+      "key": "key2024121103340119800_ref011",
+      "doi-asserted-by": "crossref",
+      "unstructured": "da Costa, T.V.R., Cavalcante, E. and Batista, T. (2022), “Big data software architectures: an updated review”, in Gervasi, O., Murgante, B., Hendrix, E.M.T., Taniar, D. and Apduhan, B.O. (Eds), Computational Science and its Applications – ICCSA 2022, Springer International Publishing, pp. 477-493, doi: 10.1007/978-3-031-10522-7_33.",
+      "DOI": "10.1007/978-3-031-10522-7_33"
+    },
+    {
+      "key": "key2024121103340119800_ref012",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3290605.3300793",
+      "article-title": "The gendered geography of contributions to OpenStreetMap: complexities in self-focus bias",
+      "year": "2019"
+    },
+    {
+      "issue": "4",
+      "key": "key2024121103340119800_ref013",
+      "doi-asserted-by": "publisher",
+      "first-page": "284",
+      "DOI": "10.1177/0196859913505618",
+      "article-title": "(Re)triggering backlash: responses to news about Wikipedia's gender gap",
+      "volume": "37",
+      "year": "2013",
+      "journal-title": "Journal of Communication Inquiry"
+    },
+    {
+      "issue": "2",
+      "key": "key2024121103340119800_ref014",
+      "doi-asserted-by": "publisher",
+      "first-page": "194",
+      "DOI": "10.1086/683380",
+      "article-title": "Editing for equality: the outcomes of the Art+Feminism Wikipedia edit-a-thons",
+      "volume": "34",
+      "year": "2015",
+      "journal-title": "Art Documentation"
+    },
+    {
+      "key": "key2024121103340119800_ref015",
+      "unstructured": "Everett, N. (2015), “Wikidata query backend update (take two!)”, Wikidata-Tech, available at: https://lists.wikimedia.org/hyperkitty/list/wikidata-tech@lists.wikimedia.org/message/VPQ226NBQ5D2ZCNUOHJL3X223Z4HUNJF/"
+    },
+    {
+      "first-page": "75",
+      "article-title": "Assessing gender bias in Wikipedia: inequalities in article titles",
+      "year": "2021",
+      "key": "key2024121103340119800_ref016"
+    },
+    {
+      "issue": "5",
+      "key": "key2024121103340119800_ref017",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3145/epi.2021",
+      "article-title": "The gender gap on the Spanish Wikipedia: listening to the voices of women editors",
+      "volume": "30",
+      "year": "2021",
+      "journal-title": "Profesional de La Información"
+    },
+    {
+      "first-page": "131",
+      "article-title": "Dones de categoria: Anàlisi del biaix de gènere a les categories de Viquipèdia: Informe de diagnosi tècnica, posicionament acadèmic i proposta de millora del sistema d’organització del coneixement de Viquipèdia",
+      "year": "2023",
+      "key": "key2024121103340119800_ref018"
+    },
+    {
+      "issue": "4",
+      "key": "key2024121103340119800_ref019",
+      "doi-asserted-by": "publisher",
+      "first-page": "511",
+      "DOI": "10.1177/0306312717692172",
+      "article-title": "‘Anyone can edit’, not everyone does: Wikipedia's infrastructure and the gender gap",
+      "volume": "47",
+      "year": "2017",
+      "journal-title": "Social Studies of Science"
+    },
+    {
+      "key": "key2024121103340119800_ref071",
+      "unstructured": "Fraunhofer ISST and INIT (2009), Guidelines and Good Practices for Taxonomies (1.3), Semantic Interoperability Centre Europe, available at: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/guidelines-and-good-practices-for-taxonomies-v1.3a.pdf"
+    },
+    {
+      "volume-title": "Los Libros de la",
+      "year": "2017",
+      "key": "key2024121103340119800_ref020"
+    },
+    {
+      "key": "key2024121103340119800_ref021",
+      "unstructured": "Gardner, S. (2011), “Nine reasons women don't edit Wikipedia (in their own words)”, Sue Gardner’s Blog, available at: https://suegardner.org/2011/02/19/nine-reasons-why-women-dont-edit-wikipedia-in-their-own-words/"
+    },
+    {
+      "year": "2008",
+      "key": "key2024121103340119800_ref072",
+      "article-title": "Manual de indización: Teoría y práctica"
+    },
+    {
+      "issue": "2",
+      "key": "key2024121103340119800_ref022",
+      "doi-asserted-by": "publisher",
+      "first-page": "91",
+      "DOI": "10.1111/j.1471-1842.2009.00848.x",
+      "article-title": "A typology of reviews: an analysis of 14 review types and associated methodologies",
+      "volume": "26",
+      "year": "2009",
+      "journal-title": "Health Information and Libraries Journal"
+    },
+    {
+      "key": "key2024121103340119800_ref023",
+      "doi-asserted-by": "publisher",
+      "first-page": "117",
+      "DOI": "10.1016/j.compcom.2015.06.009",
+      "article-title": "Wikipedia's politics of exclusion: gender, epistemology, and feminist rhetorical (in)action",
+      "volume": "37",
+      "year": "2015",
+      "journal-title": "Computers and Composition"
+    },
+    {
+      "key": "key2024121103340119800_ref024",
+      "doi-asserted-by": "publisher",
+      "first-page": "582",
+      "DOI": "10.1145/3442442.3452344",
+      "article-title": "Simple Wikidata analysis for tracking and improving biographies in Catalan Wikipedia",
+      "year": "2021"
+    },
+    {
+      "key": "key2024121103340119800_ref025",
+      "doi-asserted-by": "publisher",
+      "first-page": "262",
+      "DOI": "10.1016/j.jebo.2019.04.020",
+      "article-title": "Gender inequality in new media: evidence from Wikipedia",
+      "volume": "163",
+      "year": "2019",
+      "journal-title": "Journal of Economic Behavior and Organization"
+    },
+    {
+      "key": "key2024121103340119800_ref026",
+      "doi-asserted-by": "publisher",
+      "first-page": "381",
+      "DOI": "10.1145/3201064.3201108",
+      "article-title": "Using the web of data to study gender differences in online knowledge sources: the case of the European parliament",
+      "year": "2018"
+    },
+    {
+      "key": "key2024121103340119800_ref027",
+      "doi-asserted-by": "publisher",
+      "first-page": "717",
+      "DOI": "10.1145/3041021.3053375",
+      "volume-title": "Proceedings of the 26th International Conference on World Wide Web Companion (WWW '17 Companion)",
+      "year": "2017"
+    },
+    {
+      "key": "key2024121103340119800_ref028",
+      "unstructured": "INE: Instituto Nacional de Estadística (2024), “INE”, available at: https://www.ine.es/"
+    },
+    {
+      "issue": "6",
+      "key": "key2024121103340119800_ref029",
+      "doi-asserted-by": "publisher",
+      "first-page": "1486",
+      "DOI": "10.1108/JD-02-2019-0031",
+      "article-title": "‘The right information’: perceptions of information bias among Black Wikipedians",
+      "volume": "75",
+      "year": "2019",
+      "journal-title": "Journal of Documentation"
+    },
+    {
+      "key": "key2024121103340119800_ref030",
+      "doi-asserted-by": "publisher",
+      "first-page": "311",
+      "DOI": "10.1145/3530019.3535305",
+      "article-title": "Introducing an evaluation method for taxonomies",
+      "year": "2022"
+    },
+    {
+      "key": "key2024121103340119800_ref031",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/2788993.2789849",
+      "article-title": "Wikipedia in the world of global gender inequality indices: what the biography gender gap is measuring",
+      "year": "2015"
+    },
+    {
+      "article-title": "Monitoring the gender gap with Wikidata human gender indicators",
+      "year": "2016",
+      "key": "key2024121103340119800_ref032",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2957792.2957798"
+    },
+    {
+      "key": "key2024121103340119800_ref033",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kless, D. and Milton, S. (2010), “Towards quality measures for evaluating thesauri”, in Sánchez-Alonso, S. and Athanasiadis, I.N. (Eds), Metadata and Semantic Research, Springer, pp. 312-319, doi: 10.1007/978-3-642-16552-8_28.",
+      "DOI": "10.1007/978-3-642-16552-8_28"
+    },
+    {
+      "key": "key2024121103340119800_ref034",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Konieczny, P. (2018), “Volunteer retention, burnout and dropout in online voluntary organizations: stress, conflict and retirement of Wikipedians”, in Coy, P.G. (Ed.), Research in Social Movements, Conflicts and Change, Emerald Publishing, Vol. 42, pp. 199-219, doi: 10.1108/S0163-786X20180000042008.",
+      "DOI": "10.1108/S0163-786X20180000042008"
+    },
+    {
+      "issue": "12",
+      "key": "key2024121103340119800_ref035",
+      "doi-asserted-by": "publisher",
+      "first-page": "4608",
+      "DOI": "10.1177/1461444818779080",
+      "article-title": "Gender gap through time and space: a journey through Wikipedia biographies via the Wikidata human gender indicator",
+      "volume": "20",
+      "year": "2018",
+      "journal-title": "New Media and Society"
+    },
+    {
+      "key": "key2024121103340119800_ref036",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/2038558.2038560",
+      "article-title": "WP:clubhouse?: an exploration of Wikipedia's gender imbalance",
+      "year": "2011"
+    },
+    {
+      "edition": "2a ed.",
+      "volume-title": "El control del vocabulario en la recuperación de información",
+      "year": "2002",
+      "key": "key2024121103340119800_ref073"
+    },
+    {
+      "issue": "1",
+      "key": "key2024121103340119800_ref037",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41597-022-01369-4",
+      "article-title": "A cross-verified database of notable people, 3500BC-2018AD",
+      "volume": "9",
+      "year": "2022",
+      "journal-title": "Scientific Data"
+    },
+    {
+      "first-page": "126",
+      "article-title": "Using wikidata to provide visibility to women in STEM",
+      "year": "2019",
+      "key": "key2024121103340119800_ref038"
+    },
+    {
+      "key": "key2024121103340119800_ref039",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Malyshev, S., Krötzsch, M., González, L., Gonsior, J. and Bielefeldt, A. (2018), “Getting the most out of Wikidata: semantic technology usage in Wikipedia's knowledge graph”, in Vrandečić, D., Bontcheva, K., Suárez-Figueroa, M.C., Presutti, V., Celino, I., Sabou, M., Kaffee, L.-A. and Simperl, E. (Eds), The Semantic Web – ISWC 2018, Springer International Publishing, Vol. 11137, pp. 376-394, doi: 10.1007/978-3-030-00668-6_23.",
+      "DOI": "10.1007/978-3-030-00668-6_23"
+    },
+    {
+      "issue": "1",
+      "key": "key2024121103340119800_ref040",
+      "doi-asserted-by": "publisher",
+      "first-page": "20",
+      "DOI": "10.1086/719999",
+      "article-title": "Clowns in the visual artists: topic modeling Wikipedia and Wikidata",
+      "volume": "41",
+      "year": "2022",
+      "journal-title": "Art Documentation"
+    },
+    {
+      "issue": "1",
+      "key": "key2024121103340119800_ref041",
+      "doi-asserted-by": "publisher",
+      "first-page": "54",
+      "DOI": "10.5771/0943-7444-2018-1-54",
+      "article-title": "Knowledge organization system (KOS): an introductory critical account",
+      "volume": "45",
+      "year": "2018",
+      "journal-title": "Knowledge Organization"
+    },
+    {
+      "issue": "1",
+      "key": "key2024121103340119800_ref042",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s13174-021-00141-y",
+      "article-title": "The Wikipedia diversity observatory: helping communities to bridge content gaps through interactive interfaces",
+      "volume": "12",
+      "year": "2021",
+      "journal-title": "Journal of Internet Services and Applications"
+    },
+    {
+      "key": "key2024121103340119800_ref043",
+      "doi-asserted-by": "publisher",
+      "first-page": "839",
+      "DOI": "10.1145/2441776.2441871",
+      "article-title": "Tea & sympathy: crafting positive new user experiences on wikipedia",
+      "year": "2013"
+    },
+    {
+      "key": "key2024121103340119800_ref044",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pellissier Tanon, T. and Suchanek, F. (2019), “Querying the edit history of Wikidata”, in Hitzler, P., Kirrane, S., Hartig, O., de Boer, V., Schlobach, S., Vidal, M.-E., Maleshkova, M., Hammar, K., Lasierra, N., Stadtmüller, S., Hose, K. and Verborgh, R. (Eds), Lecture Notes in Computer Science, Springer Science and Business Media Deutschland GmbH; Scopus, Vol. 11762 LNCS, pp. 161-166, doi: 10.1007/978-3-030-32327-1_32.",
+      "DOI": "10.1007/978-3-030-32327-1_32"
+    },
+    {
+      "issue": "3",
+      "key": "key2024121103340119800_ref045",
+      "doi-asserted-by": "publisher",
+      "first-page": "179",
+      "DOI": "10.5771/0943-7444-2012-3-179",
+      "article-title": "Towards a taxonomy of KOS: dimensions for classifying knowledge organization systems",
+      "volume": "39",
+      "year": "2012",
+      "journal-title": "Knowledge Organization"
+    },
+    {
+      "volume-title": "Informetric analyses of knowledge organization systems (KOSs) (arXiv:1505.03671)",
+      "year": "2015",
+      "key": "key2024121103340119800_ref074",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.48550/arXiv.1505.03671"
+    },
+    {
+      "year": "2018",
+      "key": "key2024121103340119800_ref046",
+      "article-title": "Science stories: using IIIF and wikidata to create a linked-data application"
+    },
+    {
+      "issue": "2",
+      "key": "key2024121103340119800_ref047",
+      "doi-asserted-by": "publisher",
+      "first-page": "443",
+      "DOI": "10.3233/SW-222845",
+      "article-title": "Linking women editors of periodicals to the Wikidata knowledge graph",
+      "volume": "14",
+      "year": "2022",
+      "journal-title": "Semantic Web"
+    },
+    {
+      "issue": "7",
+      "key": "key2024121103340119800_ref048",
+      "doi-asserted-by": "publisher",
+      "first-page": "1687",
+      "DOI": "10.1177/14614448211023772",
+      "article-title": "Ms. Categorized: gender, notability, and inequality on Wikipedia",
+      "volume": "25",
+      "year": "2023",
+      "journal-title": "New Media and Society"
+    },
+    {
+      "key": "key2024121103340119800_ref049",
+      "doi-asserted-by": "publisher",
+      "first-page": "615",
+      "DOI": "10.1145/3543873.3585579",
+      "article-title": "Wikidata: the making of",
+      "year": "2023"
+    },
+    {
+      "issue": "1",
+      "key": "key2024121103340119800_ref050",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1140/epjds/s13688-016-0066-4",
+      "article-title": "Women through the glass ceiling: gender asymmetries in Wikipedia",
+      "volume": "5",
+      "year": "2016",
+      "journal-title": "EPJ Data Science"
+    },
+    {
+      "key": "key2024121103340119800_ref051",
+      "unstructured": "Wikidata (2024), “Property talk:P21”, available at: https://www.wikidata.org/wiki/Property_talk:P21"
+    },
+    {
+      "key": "key2024121103340119800_ref052",
+      "unstructured": "Wikimedia (2015), “Categoria:Plantilles de manteniment per a categories”, available at: https://ca.wikipedia.org/w/index.php?title=Categoria:Plantilles_de_manteniment_per_a_categories&oldid=16026819"
+    },
+    {
+      "key": "key2024121103340119800_ref053",
+      "unstructured": "Wikimedia (2018), “Ajuda:Categoria”, available at: https://ca.wikipedia.org/w/index.php?title=Ajuda:Categoria&oldid=20513864"
+    },
+    {
+      "key": "key2024121103340119800_ref054",
+      "unstructured": "Wikimedia (2022), “Wikidata:WikiProject ontology/classes”, available at: https://www.wikidata.org/wiki/Wikidata:WikiProject_Ontology/Classes"
+    },
+    {
+      "key": "key2024121103340119800_ref055",
+      "unstructured": "Wikimedia (2023a), “Wikidata:Accés a les dades”, available at: https://www.wikidata.org/wiki/Wikidata:Data_access/ca"
+    },
+    {
+      "key": "key2024121103340119800_ref056",
+      "unstructured": "Wikimedia (2023b), “Wikidata:Bots”, available at: https://www.wikidata.org/wiki/Wikidata:Bots"
+    },
+    {
+      "key": "key2024121103340119800_ref057",
+      "unstructured": "Wikimedia (2023c), “Wikimedia statistics—Catalán Viquipèdia”, available at: https://stats.wikimedia.org/#/ca.wikipedia.org"
+    },
+    {
+      "key": "key2024121103340119800_ref058",
+      "unstructured": "Wikimedia (2023d), “Wikipedia:Categorization”, available at: https://en.wikipedia.org/w/index.php?title=Wikipedia:Categorization&oldid=1181497476"
+    },
+    {
+      "key": "key2024121103340119800_ref059",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wilson, R.S.I., Goonetillake, J.S., Ginige, A. and Indika, W.A. (2022), “Ontology quality evaluation methodology”, in Gervasi, O., Murgante, B., Hendrix, E.M.T., Taniar, D. and Apduhan, B.O. (Eds), Computational Science and its Applications – ICCSA 2022, Springer International Publishing, pp. 509-528, doi: 10.1007/978-3-031-10522-7_35.",
+      "DOI": "10.1007/978-3-031-10522-7_35"
+    },
+    {
+      "key": "key2024121103340119800_ref060",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3412569.3412573",
+      "article-title": "Exploring systematic bias through article deletions on Wikipedia from a behavioral perspective",
+      "year": "2020"
+    },
+    {
+      "issue": "3",
+      "key": "key2024121103340119800_ref061",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s00799-018-0241-2",
+      "article-title": "Knowledge organization systems (KOS) in the semantic web: a multi-dimensional review",
+      "volume": "20",
+      "year": "2018",
+      "journal-title": "International Journal on Digital Libraries"
+    },
+    {
+      "key": "key2024121103340119800_ref062",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3479986.3479992",
+      "article-title": "Quantifying the gap: a case study of Wikidata gender disparities",
+      "year": "2021"
+    },
+    {
+      "issue": "2",
+      "key": "key2024121103340119800_ref063",
+      "doi-asserted-by": "publisher",
+      "first-page": "219",
+      "DOI": "10.1002/asi.24723",
+      "article-title": "Gender and country biases in Wikipedia citations to scholarly publications",
+      "volume": "74",
+      "year": "2022",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    },
+    {
+      "issue": "1",
+      "key": "key2024121103340119800_ref064",
+      "doi-asserted-by": "publisher",
+      "first-page": "20",
+      "DOI": "10.1080/01639374.2023.2188338",
+      "article-title": "Entity management using Wikidata for cultural heritage information",
+      "volume": "61",
+      "year": "2023",
+      "journal-title": "Cataloging and Classification Quarterly"
+    }
+  ],
+  "container-title": [
+    "Journal of Documentation"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.emerald.com/insight/content/doi/10.1108/JD-11-2023-0230/full/xml",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.emerald.com/insight/content/doi/10.1108/JD-11-2023-0230/full/html",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        24
+      ]
+    ],
+    "date-time": "2025-07-24T22:35:30Z",
+    "timestamp": 1753396530000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.emerald.com/jd/article/80/7/124-147/1235693"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        5
+      ]
+    ]
+  },
+  "references-count": 69,
+  "journal-issue": {
+    "issue": "7",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          5
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1108/JD-11-2023-0230"
+  ],
+  "URL": "https://doi.org/10.1108/jd-11-2023-0230",
+  "relation": {},
+  "ISSN": [
+    "0022-0418"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0022-0418"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        5
+      ]
+    ]
+  }
+}

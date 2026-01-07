@@ -1,14 +1,22 @@
 ---
 title: "Scopus - Document details - The Evaluation of Research by Scientometric Indicators"
-source: "https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-84903413394&origin=resultslist&sort=plf-f&src=s&sot=b&sdt=b&s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae"
-author:
-published: 2015
-created: 2025-04-10
-description: "Elsevier’s Scopus, the largest abstract and citation database of peer-reviewed literature. Search and access research from the science, technology, medicine, social sciences and arts and humanities fields."
+authors:
+  - Peter Vinkler
+year: 2015
+type: preprint
+doi: 10.1533/9781780630250
+base: clippings
+source: Manual
 tags:
-  - "op/done"
-  - "research_method"
+  - bibliometrics
+last_enrichment_run: 2025-08-20
+updated: 2025-08-20
+url: https://arxiv.org/abs/8529.58334
+apa_citation: Peter Vinkler, 2015
 ---
+
+[[Clippings/PDF/The Evaluation of Research by Scientometric Indicators.pdf]]
+
 Partial conversion completed with errors. Original HTML:
 
 <header id="gh-cnt" class="highlight-none"><a class="anchor gh-skip-navigation" href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#skip1"><span class="anchor-text">Skip to main content</span>
@@ -82,7 +90,7 @@ Sign in or create account
 <div id="alertArea" aria-live="polite" aria-atomic="true" class="">
 </div>
 <div id="container" role="main">
-<a name="skip1" id="skip1"></a> 
+<a name="skip1" id="skip1"></a>
 <script type="text/javascript">
 var isTableViewComponentsEnabled = 'true' === 'false';
 var isPreprint = 'bk' === 'pp';
@@ -108,13 +116,13 @@ var isNewPaginationEnabledJS = 'true' === 'false';
 <div id="docDetailPage">
 <section id="topResultListLinks1"><nav class="navigationLink marginBottom1" id="refNavLinksId">
 <ul class="list-inline">
-<li class="backToResults noPaddingLeft"> 
+<li class="backToResults noPaddingLeft">
 <a href="https://www-scopus-com.sire.ub.edu/results/results.uri?sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;offset=1&amp;origin=recordpage">
 <span class="ico-navigate-left" aria-hidden="true"></span>
 <span class="anchorText secondaryLink">Back to results</span>
 </a>
 </li>
-<li class="recordPageCount"> 
+<li class="recordPageCount">
 1<span>of</span>1
 </li>
 </ul></nav>
@@ -188,7 +196,7 @@ Select your method of export
 </li>
 <li class="radio-inline valignTop">
 <input type="radio" id="RIS" name="exportRadio">
-<label class="radio-label" for="RIS">		               				
+<label class="radio-label" for="RIS">
 <span class="">RIS Format
 <div class="fontSmall">
 <em>EndNote,</em><br>
@@ -221,7 +229,7 @@ Plain Text <div class="fontSmall"><em>ASCII in HTML</em></div>
 </span>
 </label>
 </li>
-</ul>		           		
+</ul>
 </div>
 </div>
 <div id="normalExport" class="marginLeft1">
@@ -326,7 +334,7 @@ Plain Text <div class="fontSmall"><em>ASCII in HTML</em></div>
 <li class="checkbox">
 <input type="checkbox" name="selectedBibliographicalInformationItems" value="_ISSN_ISBN_CODEN_" onclick="selectDeselectSubCheckBoxs(this)" id="selectedBibliographicalInformationItems-Export2">
 <label for="selectedBibliographicalInformationItems-Export2" class="checkbox-label">Serial identifiers (e.g. ISSN)</label>
-</li>					
+</li>
 <li class="checkbox">
 <input type="checkbox" name="selectedBibliographicalInformationItems" value="_PubMedID_" onclick="selectDeselectSubCheckBoxs(this)" id="selectedBibliographicalInformationItems-Export4">
 <label for="selectedBibliographicalInformationItems-Export4" class="checkbox-label">PubMed ID</label>
@@ -373,7 +381,7 @@ Plain Text <div class="fontSmall"><em>ASCII in HTML</em></div>
 <ul class="list-group">
 <li class="checkbox">
 <input id="selectedFundInformationItems-Export1" type="checkbox" onclick="selectDeselectSubCheckBoxs(this)" value="_Number_" name="selectedFundInformationItems">
-<label for="selectedFundInformationItems-Export1" class="checkbox-label">Number</label>		
+<label for="selectedFundInformationItems-Export1" class="checkbox-label">Number</label>
 </li>
 <li class="checkbox">
 <input id="selectedFundInformationItems-Export2" type="checkbox" onclick="selectDeselectSubCheckBoxs(this)" value="_Acronym_" name="selectedFundInformationItems">
@@ -420,7 +428,7 @@ Scopus reference list can only export citations.
 <a id="viewRefList" class="secondaryLink" href="https://www-scopus-com.sire.ub.edu/search/submit/references.uri?sort=plf-f&amp;src=r&amp;imp=t&amp;sid=c904a63ffebfc5a93356336e4d9abbf2&amp;sot=rec&amp;sdt=citedreferences&amp;sl=23&amp;s=EID%282-s2.0-84903413394%29&amp;origin=recordpage&amp;citeCnt=1&amp;citingId=2-s2.0-84903413394" title="View in search results format for more sorting options and/or to view a full list of documents.">
 <span class="anchorText">View references in search results</span>
 </a>
-for more options.						
+for more options.
 </div>
 <div class="exportSubHeadingFont">
 
@@ -447,13 +455,13 @@ Citation information
 </div>
 </div>
 <div class="modal-footer noBorder">
-<div class="pull-right form-inline"> 
+<div class="pull-right form-inline">
 <button type="button" class="btn btn-link btn-sm secondaryLink" data-dismiss="modal">
 <span class="btnText">Cancel</span>
-</button> 
+</button>
 <button type="button" class="btn btn-primary btn-sm btnDisabled" title="Disabled - Select a file format above to Export" id="exportTrigger" name="ExportPopUp" alt="Disabled - Select a file format above to Export" disabled="disabled">
 <span class="btnText">Export</span>
-</button>		
+</button>
 </div>
 </div>
 </div>
@@ -526,10 +534,10 @@ var ScopusDDMEnableLogging = false;
 <div class="modal-header">
 <button type="button" class="close" data-dismiss="modal" aria-label="Close Dialog">
 <span class="ico-delete icon" aria-hidden="true"></span>
-</button>				
+</button>
 <div class="browserImage marginTopHalf">
 <span class="ddmModalImg scLogoImg"></span>
-<span class="ico-right verticalAlignTop paddingLeft1 paddingRight1 lightGreyText paddingTopHalf" aria-hidden="true"></span> 
+<span class="ico-right verticalAlignTop paddingLeft1 paddingRight1 lightGreyText paddingTopHalf" aria-hidden="true"></span>
 <span class="ddmModalImg chromeImg"></span>
 </div>
 <h4 class="modal-title marginTop1">
@@ -545,17 +553,17 @@ The Scopus Document Download Manager requires an extension
 <button type="button" id="btnGetExtension" data-dismiss="modal" class="btn btn-primary btn-sm pull-right" title="Get extension">
 <span class="btnText">Get extension</span>
 </button>
-</div>				
 </div>
 </div>
-</div>	
+</div>
+</div>
 <div id="ddmWelcomeBackModal" class="modal fade hidden" tabindex="-1" role="dialog">
 <div class="modal-dialog modal-xsm" role="document">
 <div class="modal-content">
 <div class="modal-header">
 <button type="button" class="close" data-dismiss="modal" aria-label="Close Dialog">
 <span class="ico-delete icon" aria-hidden="true"></span>
-</button>					
+</button>
 <h4 class="modal-title">Welcome back</h4>
 </div>
 <div class="modal-body ddmModalContent paddingTopQuarter">
@@ -569,7 +577,7 @@ Refresh browser
 </div>
 </div>
 <div class="modal-footer textLeft">
-If you haven't installed the extension yet: 
+If you haven't installed the extension yet:
 <button type="button" class="btn-link btn-sm color" id="btnGetExtensionOnRefresh" title="Get extension">
 <span class="btnText">Get the extension</span>
 </button>
@@ -583,7 +591,7 @@ If you haven't installed the extension yet:
 <div class="modal-header">
 <button type="button" class="close" data-dismiss="modal" aria-label="Close Dialog">
 <span class="ico-delete icon" aria-hidden="true"></span>
-</button>					
+</button>
 <h4 class="modal-title">Sorry, something went wrong...</h4>
 </div>
 <div class="modal-body ddmModalContent noPaddingBottom paddingTopHalf">
@@ -606,7 +614,7 @@ Refresh browser
 </button>
 <h4 class="modal-title">
 Download is not supported on this browser.
-</h4> 
+</h4>
 </div>
 <div class="modal-body">
 <span id="browserMsgDDMTextZone">
@@ -698,17 +706,17 @@ The Scopus document download function is not supported on this browser. <br><br>
 </span>
 </div>
 </div>
-</div>	
+</div>
 </div>
 </section>
 </div>
 <input id="currentRecordPageEID" value="2-s2.0-84903413394" type="hidden">
-<style>#contentContainer {background: #fff;}</style>
+<style> {background: ;}</style>
 <micro-ui outward-links="[{&quot;displayText&quot;:&quot;UB.Consulta'l&quot;,&quot;altText&quot;:&quot;(opens in a new window)&quot;,&quot;imageURL&quot;:&quot;https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg&quot;,&quot;linkURL&quot;:&quot;https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d%26isbn%3d9781843345725%26volume%3d%26issue%3d%26spage%3d1%26epage%3d313%26pages%3d1-313%26artnum%3d%26date%3d2010%26id%3ddoi%3a10.1533%252f9781780630250%26title%3dThe%2bEvaluation%2bof%2bResearch%2bby%2bScientometric%2bIndicators%26atitle%3dThe%2bEvaluation%2bof%2bResearch%2bby%2bScientometric%2bIndicators%26aufirst%3dP.%26auinit%3dP.%26auinit1%3dP%26aulast%3dVinkler&amp;amp;locationID=1&amp;amp;categoryID=6&amp;amp;eid=2-s2.0-84903413394&amp;amp;issn=&amp;amp;linkType=TemplateLinking&amp;amp;year=2010&amp;amp;zone=outwardlinks&amp;amp;origin=recordpage&amp;amp;dig=90339f70d50db50652710cf9d0b077a0&quot;,&quot;typeId&quot;:5},{&quot;displayText&quot;:&quot;View at Publisher&quot;,&quot;linkURL&quot;:&quot;https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fdoi.org%2f10.1533%2f9781780630250&amp;locationID=1&amp;categoryID=4&amp;eid=2-s2.0-84903413394&amp;issn=&amp;linkType=ViewAtPublisher&amp;year=2010&amp;origin=recordpage&amp;dig=e73060540a38748f671a573abcfc71ff&quot;,&quot;typeId&quot;:9}]" refrences-enabled="false" citations-enabled="false" related-documents-enabled="false" related-articles-enabled="false" pagination-and-backtotp-enabled="false" quick-links-enabled="false" outward-links-enabled="true" abstract-correspondence-enabled="false" raw-document-view-enabled="false" component-id="scopus-document-details-page" class="micro-ui-namespace" eid="2-s2.0-84903413394" pui="255433933" citation-count="165" highlight-info="{&quot;keywords&quot;:[],&quot;abstract&quot;:[],&quot;title&quot;:[]}" print-enabled="false" email-enabled="true" save-pdf-enabled="false" save-to-list-enabled="false" create-bibliography-enabled="false"><script src="https://components-scopus-com.sire.ub.edu/www/scopus-document-details-page/scopus-document-details-page.js" type="text/javascript" defer=""></script><scopus-document-details-page outward-links="[{&quot;displayText&quot;:&quot;UB.Consulta'l&quot;,&quot;altText&quot;:&quot;(opens in a new window)&quot;,&quot;imageURL&quot;:&quot;https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg&quot;,&quot;linkURL&quot;:&quot;https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d%26isbn%3d9781843345725%26volume%3d%26issue%3d%26spage%3d1%26epage%3d313%26pages%3d1-313%26artnum%3d%26date%3d2010%26id%3ddoi%3a10.1533%252f9781780630250%26title%3dThe%2bEvaluation%2bof%2bResearch%2bby%2bScientometric%2bIndicators%26atitle%3dThe%2bEvaluation%2bof%2bResearch%2bby%2bScientometric%2bIndicators%26aufirst%3dP.%26auinit%3dP.%26auinit1%3dP%26aulast%3dVinkler&amp;amp;locationID=1&amp;amp;categoryID=6&amp;amp;eid=2-s2.0-84903413394&amp;amp;issn=&amp;amp;linkType=TemplateLinking&amp;amp;year=2010&amp;amp;zone=outwardlinks&amp;amp;origin=recordpage&amp;amp;dig=90339f70d50db50652710cf9d0b077a0&quot;,&quot;typeId&quot;:5},{&quot;displayText&quot;:&quot;View at Publisher&quot;,&quot;linkURL&quot;:&quot;https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fdoi.org%2f10.1533%2f9781780630250&amp;locationID=1&amp;categoryID=4&amp;eid=2-s2.0-84903413394&amp;issn=&amp;linkType=ViewAtPublisher&amp;year=2010&amp;origin=recordpage&amp;dig=e73060540a38748f671a573abcfc71ff&quot;,&quot;typeId&quot;:9}]" refrences-enabled="false" citations-enabled="false" related-documents-enabled="false" related-articles-enabled="false" pagination-and-backtotp-enabled="false" quick-links-enabled="false" outward-links-enabled="true" abstract-correspondence-enabled="false" raw-document-view-enabled="false" eid="2-s2.0-84903413394" pui="255433933" citation-count="165" highlight-info="{&quot;keywords&quot;:[],&quot;abstract&quot;:[],&quot;title&quot;:[]}" print-enabled="false" email-enabled="true" save-pdf-enabled="false" save-to-list-enabled="false" create-bibliography-enabled="false"><div class="DocumentDetailsPage-module__UN_Ge DocumentDetailsPage-module__vuIy0" id="doc-details-page-container"><div class="hidden"><meta name="dc.identifier" content="10.1533/9781780630250"><input id="currentRecordPageEID" type="hidden" value="2-s2.0-84903413394"><input id="sourceType" type="hidden" value="b"><input id="sourceId" type="hidden" value="21100321889"><input id="citationType" type="hidden" value="bk"><input id="currentRecordPageEID" type="hidden" value="2-s2.0-84903413394"><div class="profileleftinside"><h2 class="h3">The Evaluation of Research by Scientometric Indicators</h2></div><div id="publicationTitle">The Evaluation of Research by Scientometric Indicators</div><div id="publicationYear">2010</div><ul id="authorlist"><li><a href="https://www-scopus-com.sire.ub.edu/authid/detail.uri?authorId=6701686329" title="Vinkler P.">Vinkler P.</a></li></ul></div><article class="Stack-module__tT3r4 Stack-module___CTfk" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><div class="Columns-module__FxWfo" data-testid="publication-information-bar" style="--columns-row-spacing: 0px; --columns-column-spacing: 0px;"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 24; --col-xl: 18; --col-xxl: 18; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 6; --col-offset-xxl: 6;"><div class="Box-module__DQ5q3" style="--box-padding-top: var(--spacer-s); --box-padding-right: 0px; --box-padding-bottom: 0px; --box-padding-left: var(--spacer-s);"><div class="PublicationInformationBar-module__mhocT"><span><a href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#" class="Button-module__f8gtt Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__bCsDy Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw" id="source-preview-flyout"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt"><strong class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc"><em>The Evaluation of Research by Scientometric Indicators</em></strong></span></a></span><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">Pages 1 - 313</span><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">January 2010 </span></div></div></div></div><div class="Columns-module__FxWfo" style="--columns-row-spacing: var(--spacer-m); --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 6; --col-lg: 6; --col-xl: 6; --col-xxl: 6; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><aside id="source-info-aside"><div class="Box-module__DQ5q3" style="--box-padding-top: var(--spacer-l); --box-padding-right: 0px; --box-padding-bottom: 0px; --box-padding-left: 0px;"><div class="SourceInfo-module__X22Kj"><div class="Stack-module__tT3r4 Stack-module___CTfk" data-testid="source-info-entry-stack" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><dl class="Stack-module__tT3r4 Stack-module___CTfk" data-testid="source-info-entry-document-type" style="--stack-vertical-spacing: var(--spacer-xxs); --stack-horizontal-spacing: var(--spacer-xxs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><dt>Document type</dt><dd>Book</dd></dl><dl class="Stack-module__tT3r4 Stack-module___CTfk" data-testid="source-info-entry-source-type" style="--stack-vertical-spacing: var(--spacer-xxs); --stack-horizontal-spacing: var(--spacer-xxs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><dt>Source type</dt><dd>Book</dd></dl><dl class="Stack-module__tT3r4 Stack-module___CTfk" data-testid="source-info-entry-isbn" style="--stack-vertical-spacing: var(--spacer-xxs); --stack-horizontal-spacing: var(--spacer-xxs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><dt>ISBN</dt><dd>978-184334572-5</dd></dl><dl class="Stack-module__tT3r4 Stack-module___CTfk" data-testid="source-info-entry-doi" style="--stack-vertical-spacing: var(--spacer-xxs); --stack-horizontal-spacing: var(--spacer-xxs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><dt>DOI</dt><dd>10.1533/9781780630250</dd></dl><div class="CollapsiblePanel-module__lvpKf"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-m); --stack-horizontal-spacing: var(--spacer-m); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw CollapsiblePanel-module__PhRtB" id="show-additional-source-info-button" data-testid="button-show-additional-source-info" aria-controls="show-additional-source-info" aria-expanded="false"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">View more</span><span class="Icon-module__p52B2 Icon-module__DWv45 CollapsiblePanel-module__DYxQL Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 128" height="24" width="18" role="img" aria-hidden="true"><path d="M1 51l7-7 38 38 38-38 7 7-45 45z"></path></svg></span></button><div id="show-additional-source-info" data-testid="show-additional-source-info" aria-hidden="true" class="CollapsiblePanel-module__XD3S2 CollapsiblePanel-module__glYG2" style="order: -1; display: none;"><dl class="Stack-module__tT3r4 Stack-module___CTfk" data-testid="source-info-entry-publisher" style="--stack-vertical-spacing: var(--spacer-xxs); --stack-horizontal-spacing: var(--spacer-xxs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><dt>Publisher</dt><dd>Elsevier Ltd</dd></dl><dl class="Stack-module__tT3r4 Stack-module___CTfk" data-testid="source-info-entry-original-language" style="--stack-vertical-spacing: var(--spacer-xxs); --stack-horizontal-spacing: var(--spacer-xxs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><dt>Original language</dt><dd>English</dd></dl></div></div></div></div></div></div></aside></div><div class="Col-module__hwM1N DocumentDetailsPage-module__mKrYL" data-testid="document-details-header" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 24; --col-xl: 18; --col-xxl: 18; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><section><div class="Stack-module__tT3r4 Stack-module___CTfk" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><div class="Columns-module__FxWfo DocumentHeader-module__Ozp_V" data-testid="document-title" style="--columns-row-spacing: 0px; --columns-column-spacing: 0px;"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 24; --col-xl: 24; --col-xxl: 24; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><h2 data-testid="publication-titles" class="Typography-module__lVnit Typography-module__o9yMJ Typography-module__JqXS9 Typography-module__ETlt8"><span class="Highlight-module__MMPyY">The Evaluation of Research by Scientometric Indicators</span></h2></div></div><div class="Columns-module__FxWfo" data-testid="author-list" style="--columns-row-spacing: 0px; --columns-column-spacing: 0px;"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 18; --col-xl: 16; --col-xxl: 16; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><ul class="DocumentHeader-module__LpsWx"><li><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__Y0far Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Vinkler, Péter</span></button><span class="Author-module__WFeOX"></span><a href="https://www-scopus-com.sire.ub.edu/record/" class="Button-module__f8gtt Button-module__rphhF Button-module__VBKvn Button-module__PzLy5 Button-module__hK_LA Button-module__NJVRN Button-module__rTQlw"><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__mZJEx"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 128" height="24" width="20" role="img" aria-hidden="true"><path d="M55.8 57.2c-1.78 1.31-5.14 1.31-6.9 0L17.58 34h69.54L55.8 57.19zM0 32.42l42.94 32.62c2.64 1.95 6.02 2.93 9.4 2.93s6.78-.98 9.42-2.93L102 34.34V24H0zM92 88.9L73.94 66.16l-8.04 5.95L83.28 94H18.74l18.38-23.12-8.04-5.96L10 88.94V51.36L0 42.9V104h102V44.82l-10 8.46V88.9"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Typography-module___chYC">Send mail to Vinkler P.</span></a></li></ul><div><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__LfG4O Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw" id="document-header-save-all-to-author-list"><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__W3PoR"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" height="24" width="24" role="img" aria-hidden="true"><path d="M24 50h10v10H24zm18 0h36v10H42zM24 30h10v10H24zm18 0h36v10H42zm48 72v10h10v-10h10V92h-10V82H90v10H80v10zm5 16.2c-11.7 0-21.2-9.5-21.2-21.2S83.3 75.8 95 75.8s21.2 9.5 21.2 21.2-9.5 21.2-21.2 21.2zM95 66c-17.12 0-31 13.88-31 31s13.88 31 31 31 31-13.88 31-31-13.88-31-31-31zm-53 4v10h17.72a39.45 39.45 0 0 1 6.9-10H42zM12 92V18h78v40.16c1.64-.2 3.3-.36 5-.36s3.36.14 5 .36V8H2v94h54.16c-.22-1.64-.36-3.3-.36-5s.14-3.36.36-5H12zm12-22h10v10H24z"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Save all to author list</span></button></div></div></div></div><div class="Columns-module__FxWfo" id="affiliation-section" style="--columns-row-spacing: 0px; --columns-column-spacing: 0px;"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 24; --col-xl: 24; --col-xxl: 24; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div class="DocumentHeader-module__vg6f0"><ul class="DocumentHeader-module__p4B_K"><li class="DocumentHeader-module__Ltfqf"><sup>a </sup><span>Chemical Research Center (CRC), Hungary</span></li></ul></div></div></div><div class="DocumentHeaderMetrics-module__Ubkdq"><div class="Stack-module__tT3r4 Stack-module__Y4rmW DocumentHeaderMetrics-module__g14N9" style="--stack-vertical-spacing: var(--spacer-xl); --stack-horizontal-spacing: var(--spacer-xl); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-xl); --stack-horizontal-spacing: var(--spacer-xl); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><div data-testid="citations-in-scopus"><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--blue);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><a href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#metrics" class="Button-module__f8gtt Button-module__rphhF Button-module__dL39G Button-module__MlsfC Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw info-field-module__ey52P"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt"><span data-testid="clickable-count">165</span><span class="info-field-module__DPYRH">93th percentile</span></span></a></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">Citations in Scopus</span></div></div></div></div></div></div><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--blue);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><a href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#0" class="Button-module__f8gtt Button-module__rphhF Button-module__dL39G Button-module__MlsfC Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt"><span data-testid="clickable-count">3.35</span></span></a></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-xs); --stack-horizontal-spacing: var(--spacer-xs); --stack-justify-content: center; --stack-align-items: center;"><span>FWCI</span><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__NJVRN Button-module__qDdAl Button-module__rTQlw" id="fwci-info-button-header"><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__mZJEx"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 128" height="24" width="19" role="img" aria-hidden="true"><path d="M50 14c-18.99-.28-37.3 11.76-44.82 29.14-7.95 17.45-4.3 39.36 8.96 53.22 12.48 13.75 33.08 19.14 50.71 13.36 18.88-5.76 33.13-23.92 34.06-43.67 1.41-18.84-9.32-37.78-26.1-46.41C65.82 15.93 57.92 13.99 50 14zm0 9.6c17.84-.32 34.64 13.09 38.39 30.52 4.11 16.54-4.05 35.03-19 43.19-15.16 8.88-36 5.78-47.9-7.15-12.36-12.5-14.46-33.5-4.82-48.2C23.71 30.68 36.68 23.46 50 23.6zM51 36c-9.08 0-16 6-16 16h10c0-4 2-8 6-8s6.4 2.48 5.92 6.46C56.18 56.36 45 58.28 45 68.72V72h10v-2c0-7.18 12-9.64 12-20 0-8-6.82-14-16-14zm-6 42v10h10V78H45z"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Typography-module___chYC">FWCI</span></button></div></span></div></div></div></div></div></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-xl); --stack-horizontal-spacing: var(--spacer-xl); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><div><div class="Box-module__DQ5q3 vertical-highlight DocumentHeaderMetrics-module__Uedai" style="--box-padding-top: 0px; --box-padding-right: 0px; --box-padding-bottom: 0px; --box-padding-left: var(--spacer-m);"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">View all metrics</span><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 128" height="24" width="11" role="img" aria-hidden="true"><path d="M1 99l38-38L1 23l7-7 45 45-45 45z"></path></svg></span></button></div></div></div></div></div></section></div><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 24; --col-xl: 24; --col-xxl: 24; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div class="Box-module__DQ5q3" style="--box-padding-top: var(--spacer-l); --box-padding-right: 0px; --box-padding-bottom: 0px; --box-padding-left: 0px;"><div aria-hidden="true" style="visibility: visible; width: 1px; height: unset;"></div><div class="Sticky-module__7HmWf" data-testid="document-toolbar-sticky-toolbar" style=""><section class="Toolbar-module__Ob_Ra"><div class="Columns-module__FxWfo" style="--columns-row-spacing: 0px; --columns-column-spacing: 0px;"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 24; --col-xl: 18; --col-xxl: 18; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 6; --col-offset-xxl: 6;"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-l); --stack-horizontal-spacing: var(--spacer-l); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><span class="Menu-module__Cs18K"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw" aria-expanded="false" aria-haspopup="menu" aria-controls="menu-npruv2veh"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Full text options</span><span class="Icon-module__p52B2 Icon-module__DWv45 Menu-module__xvabe Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 128" height="24" width="18" role="img" aria-hidden="true"><path d="M46 46L8 84l-7-7 45-45 45 45-7 7z"></path></svg></span><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 128" height="24" width="18" role="img" aria-hidden="true"><path d="M1 51l7-7 38 38 38-38 7 7-45 45z"></path></svg></span></button></span><div class="export-dropdown"><span class="Menu-module__Cs18K"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw" aria-expanded="false" aria-haspopup="menu" aria-controls="menu-ykcmkcz348r"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Export</span><span class="Icon-module__p52B2 Icon-module__DWv45 Menu-module__xvabe Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 128" height="24" width="18" role="img" aria-hidden="true"><path d="M46 46L8 84l-7-7 45-45 45 45-7 7z"></path></svg></span><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 128" height="24" width="18" role="img" aria-hidden="true"><path d="M1 51l7-7 38 38 38-38 7 7-45 45z"></path></svg></span></button></span><form method="POST" target="_blank"><input type="hidden" id="docSet" name="docSet"></form></div></div></div></div></section></div></div></div></div><hr class="PageDivider-module__TNl36 PageDivider-module__k2xxC PageDivider-module__B7jkd" style="--page-divider-left-spacing: 0px; --page-divider-right-spacing: 0px; margin: 0px;"><div class="Columns-module__FxWfo" style="--columns-row-spacing: var(--spacer-m); --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N DocumentDetailsPage-module__fcYwX" style="--col-xs: 24; --col-sm: 24; --col-md: 6; --col-lg: 6; --col-xl: 6; --col-xxl: 6; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><aside><div class="VerticalNav-module__dUVPI VerticalNav-module___fXFp"><div aria-hidden="true" style="visibility: visible; width: 1px; height: unset;"></div><div class="Sticky-module__7HmWf" style=""><nav aria-label="Navigation list"><ul class="VerticalNav-module__zB1YA"><li id="nav-menu-abstract"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw VerticalNav-module__y1RTQ VerticalNav-module__lSusL"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Abstract</span></button></li><li id="nav-menu-topics-of-prominence"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw VerticalNav-module__lSusL"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">SciVal Topics</span></button></li><li id="nav-menu-metrics"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw VerticalNav-module__lSusL"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Metrics</span></button></li></ul><div class="VerticalNav-module__l01L7" style="height: 32px; top: 16px;"></div></nav></div></div></aside></div><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 18; --col-xl: 18; --col-xxl: 18; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><section><div class="DocumentDetailsMain-module__hueFY"><h3 id="abstract" class="Typography-module__lVnit Typography-module__kJzgz Typography-module__JqXS9 Typography-module__Nfgvc">Abstract</h3><div class="Abstract-module__pTWiT"><p class="Typography-module__lVnit Typography-module__ETlt8 Typography-module__GK8Sg"><span class="Highlight-module__MMPyY">Aimed at academics, academic managers and administrators, professionals in scientometrics, information scientists and science policy makers at all levels. This book reviews the principles, methods and indicators of scientometric evaluation of information processes in science and assessment of the publication activity of individuals, teams, institutes and countries. It provides scientists, science officers, librarians and students with basic and advanced knowledge on evaluative scientometrics. Especially great stress is laid on the methods applicable in practice and on the clarification of quantitative aspects of impact of scientific publications measured by citation indicators. © 2010 P. Vinkler. All rights reserved.</span></p></div></div><div class="CollapsiblePanel-module__lvpKf CollapsiblePanel-module__QzfRV"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-m); --stack-horizontal-spacing: var(--spacer-m); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__eV2xl Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw CollapsiblePanel-module__PhRtB CollapsiblePanel-module__SlN_I CollapsiblePanel-module__Llfkw" id="topics-of-prominence-button" data-testid="button-topics-of-prominence" aria-controls="topics-of-prominence" aria-expanded="false"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;">SciVal Topics</div></span></button><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__hK_LA Button-module__NJVRN Button-module__qDdAl Button-module__rTQlw" id="topic-of-prominence-info-target"><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__mZJEx"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 128" height="24" width="20" role="img" aria-hidden="true"><path d="M52 12c-13.624 0-26.431 5.306-36.063 14.937C6.304 36.571 1 49.378 1 63c0 28.122 22.878 51 51 51h.008c13.62 0 26.427-5.306 36.059-14.937C97.697 89.429 103 76.622 103 63c0-28.122-22.878-51-51-51zm29.27 80.268c-7.815 7.817-18.208 12.12-29.262 12.12H52c-22.822 0-41.39-18.566-41.39-41.388 0-11.056 4.305-21.45 12.12-29.268C30.55 25.915 40.944 21.61 52 21.61c22.822 0 41.39 18.57 41.39 41.391 0 11.056-4.305 21.449-12.12 29.268zM47 38h10v10H47zm0 16h10v34H47z"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Typography-module___chYC">Learn about these Topics</span></button></div><span class="Icon-module__p52B2 Icon-module__DWv45 CollapsiblePanel-module__DYxQL Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 128" height="24" width="18" role="img" aria-hidden="true"><path d="M1 51l7-7 38 38 38-38 7 7-45 45z"></path></svg></span><div id="topics-of-prominence" data-testid="topics-of-prominence" aria-hidden="true" class="CollapsiblePanel-module__XD3S2 CollapsiblePanel-module__glYG2" style="order: 2; display: none;"><div class="Stack-module__tT3r4 Stack-module___CTfk DocumentDetailsPage-module__yzile" style="--stack-vertical-spacing: var(--spacer-m); --stack-horizontal-spacing: var(--spacer-m); --stack-justify-content: stretch; --stack-align-items: stretch;"><div class="Box-module__DQ5q3" style="--box-padding-top: var(--spacer-s); --box-padding-right: 0px; --box-padding-bottom: var(--spacer-m); --box-padding-left: 0px;"><dl class="TopicsOfProminence-module__CEKhQ"><div class="Columns-module__FxWfo TopicsOfProminence-module__XTqmD" data-testid="topic-cluster" style="--columns-row-spacing: 0px; --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 5; --col-xl: 5; --col-xxl: 5; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><dt>Topic name</dt></div><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 19; --col-xl: 19; --col-xxl: 19; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><dd class="TopicsOfProminence-module__CEKhQ"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Bibliology; Citation Analysis; Number</span></button></dd></div></div><div class="Columns-module__FxWfo" data-testid="prominence-percentile" style="--columns-row-spacing: 0px; --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 5; --col-xl: 5; --col-xxl: 5; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><dt>Prominence percentile</dt></div><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 24; --col-lg: 19; --col-xl: 19; --col-xxl: 19; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><dd class="TopicsOfProminence-module__CEKhQ"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-xs); --stack-horizontal-spacing: var(--spacer-xs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><span>97.935</span><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__MlsfC Button-module__hK_LA Button-module__NJVRN Button-module__qDdAl Button-module__rTQlw" id="prominence-percentile-info-target"><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__mZJEx"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 128" height="24" width="20" role="img" aria-hidden="true"><path d="M52 12c-13.624 0-26.431 5.306-36.063 14.937C6.304 36.571 1 49.378 1 63c0 28.122 22.878 51 51 51h.008c13.62 0 26.427-5.306 36.059-14.937C97.697 89.429 103 76.622 103 63c0-28.122-22.878-51-51-51zm29.27 80.268c-7.815 7.817-18.208 12.12-29.262 12.12H52c-22.822 0-41.39-18.566-41.39-41.388 0-11.056 4.305-21.45 12.12-29.268C30.55 25.915 40.944 21.61 52 21.61c22.822 0 41.39 18.57 41.39 41.391 0 11.056-4.305 21.449-12.12 29.268zM47 38h10v10H47zm0 16h10v34H47z"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Typography-module___chYC">Prominence is an indicator that show the current momentum of a Topic. It is calculated by weighing 3 metrics for publications grouped in a Topic: Citation Count, Scopus Views and Average Citescore.</span></button></div></dd></div></div></dl></div></div></div></div></section></div><div class="CollapsiblePanel-module__lvpKf CollapsiblePanel-module__QzfRV"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-m); --stack-horizontal-spacing: var(--spacer-m); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__eV2xl Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw CollapsiblePanel-module__PhRtB CollapsiblePanel-module__SlN_I CollapsiblePanel-module__Llfkw" id="metrics-button" data-testid="button-metrics" aria-controls="metrics" aria-expanded="false"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">Metrics</span><span class="Icon-module__p52B2 Icon-module__DWv45 CollapsiblePanel-module__DYxQL Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 128" height="24" width="18" role="img" aria-hidden="true"><path d="M1 51l7-7 38 38 38-38 7 7-45 45z"></path></svg></span></button><div id="metrics" data-testid="metrics" aria-hidden="true" class="CollapsiblePanel-module__XD3S2 CollapsiblePanel-module__glYG2" style="order: 2; display: none;"><div class="Stack-module__tT3r4 Stack-module___CTfk MetricsAccordionItem-module__ChtB_" style="--stack-vertical-spacing: var(--spacer-xl); --stack-horizontal-spacing: var(--spacer-xl); --stack-justify-content: stretch; --stack-align-items: stretch;"><section class="ScopusMetrics-module__paqZF"><h4 class="Typography-module__lVnit Typography-module__XfXdZ Typography-module__mZVLC Typography-module__Nfgvc">Scopus metrics</h4><div class="Columns-module__FxWfo ScopusMetrics-module__uGWDC" style="--columns-row-spacing: var(--spacer-m); --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 12; --col-lg: 12; --col-xl: 12; --col-xxl: 12; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--blue);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><span data-testid="unclickable-count" class="Typography-module__lVnit Typography-module__ix7bs Typography-module__Nfgvc">165</span><span class="info-field-module__DPYRH">93th percentile</span></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">Citations in Scopus</span></div></div></div></div></div></div><div class="Col-module__hwM1N" style="--col-xs: 24; --col-sm: 24; --col-md: 12; --col-lg: 12; --col-xl: 12; --col-xxl: 12; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--blue);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><a href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#0" class="Button-module__f8gtt Button-module__rphhF Button-module__dL39G Button-module__MlsfC Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt"><span data-testid="clickable-count">3.35</span></span></a></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc"><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-xs); --stack-horizontal-spacing: var(--spacer-xs); --stack-justify-content: center; --stack-align-items: center;"><span>Field-Weighted citation impact</span><button type="button" class="Button-module__nc6_8 Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__NJVRN Button-module__qDdAl Button-module__rTQlw" id="fwci-info-button-body"><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__mZJEx"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 128" height="24" width="19" role="img" aria-hidden="true"><path d="M50 14c-18.99-.28-37.3 11.76-44.82 29.14-7.95 17.45-4.3 39.36 8.96 53.22 12.48 13.75 33.08 19.14 50.71 13.36 18.88-5.76 33.13-23.92 34.06-43.67 1.41-18.84-9.32-37.78-26.1-46.41C65.82 15.93 57.92 13.99 50 14zm0 9.6c17.84-.32 34.64 13.09 38.39 30.52 4.11 16.54-4.05 35.03-19 43.19-15.16 8.88-36 5.78-47.9-7.15-12.36-12.5-14.46-33.5-4.82-48.2C23.71 30.68 36.68 23.46 50 23.6zM51 36c-9.08 0-16 6-16 16h10c0-4 2-8 6-8s6.4 2.48 5.92 6.46C56.18 56.36 45 58.28 45 68.72V72h10v-2c0-7.18 12-9.64 12-20 0-8-6.82-14-16-14zm-6 42v10h10V78H45z"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Typography-module___chYC">Field-Weighted citation impact</span></button></div></span></div></div></div></div></div></div></div><div class="ScopusMetrics-module__NTKsJ"><a href="https://www-scopus-com.sire.ub.edu/record/pubmetrics.uri?eid=2-s2.0-84903413394&amp;origin=recordpage" class="Button-module__f8gtt Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">More metrics</span><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 128" height="24" width="11" role="img" aria-hidden="true"><path d="M1 99l38-38L1 23l7-7 45 45-45 45z"></path></svg></span></a></div></section><section><div class="Stack-module__tT3r4 Stack-module__Y4rmW PlumxMetrics-module__P1pT3" style="--stack-vertical-spacing: var(--spacer-xs); --stack-horizontal-spacing: var(--spacer-xs); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><h4 class="Typography-module__lVnit Typography-module__XfXdZ Typography-module__mZVLC Typography-module__Nfgvc">PlumX metrics</h4><a href="https://scopus-com.sire.ub.edu/standard/help.uri?topic=12031&amp;anchor=plumx" class="Button-module__f8gtt Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__NJVRN Button-module__qDdAl Button-module__rTQlw" target="_blank" rel="noreferrer noopener"><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__mZJEx"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 128" height="24" width="19" role="img" aria-hidden="true"><path d="M50 14c-18.99-.28-37.3 11.76-44.82 29.14-7.95 17.45-4.3 39.36 8.96 53.22 12.48 13.75 33.08 19.14 50.71 13.36 18.88-5.76 33.13-23.92 34.06-43.67 1.41-18.84-9.32-37.78-26.1-46.41C65.82 15.93 57.92 13.99 50 14zm0 9.6c17.84-.32 34.64 13.09 38.39 30.52 4.11 16.54-4.05 35.03-19 43.19-15.16 8.88-36 5.78-47.9-7.15-12.36-12.5-14.46-33.5-4.82-48.2C23.71 30.68 36.68 23.46 50 23.6zM51 36c-9.08 0-16 6-16 16h10c0-4 2-8 6-8s6.4 2.48 5.92 6.46C56.18 56.36 45 58.28 45 68.72V72h10v-2c0-7.18 12-9.64 12-20 0-8-6.82-14-16-14zm-6 42v10h10V78H45z"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Typography-module___chYC">PlumX metrics (opens in new window)</span></a></div><div><h5 class="Typography-module__lVnit Typography-module__fRnrd Typography-module__JqXS9 Typography-module__Nfgvc PlumxMetrics-module__miD6t">Captures</h5><div class="Columns-module__FxWfo" style="--columns-row-spacing: var(--spacer-m); --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 12; --col-sm: 12; --col-md: 12; --col-lg: 12; --col-xl: 12; --col-xxl: 12; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--plumx-captures);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><span data-testid="unclickable-count" class="Typography-module__lVnit Typography-module__ix7bs Typography-module__Nfgvc">189</span></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">Readers</span></div></div></div></div></div></div></div></div><div><h5 class="Typography-module__lVnit Typography-module__fRnrd Typography-module__JqXS9 Typography-module__Nfgvc PlumxMetrics-module__miD6t">Mentions</h5><div class="Columns-module__FxWfo" style="--columns-row-spacing: var(--spacer-m); --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 12; --col-sm: 12; --col-md: 12; --col-lg: 12; --col-xl: 12; --col-xxl: 12; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--plumx-mentions);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><span data-testid="unclickable-count" class="Typography-module__lVnit Typography-module__ix7bs Typography-module__Nfgvc">1</span></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">References</span></div></div></div></div></div></div></div></div><div><h5 class="Typography-module__lVnit Typography-module__fRnrd Typography-module__JqXS9 Typography-module__Nfgvc PlumxMetrics-module__miD6t">Citations</h5><div class="Columns-module__FxWfo" style="--columns-row-spacing: var(--spacer-m); --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 12; --col-sm: 12; --col-md: 12; --col-lg: 12; --col-xl: 12; --col-xxl: 12; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--plumx-citations);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><span data-testid="unclickable-count" class="Typography-module__lVnit Typography-module__ix7bs Typography-module__Nfgvc">44</span></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">Citation Indexes</span></div></div></div></div></div></div></div></div><div><h5 class="Typography-module__lVnit Typography-module__fRnrd Typography-module__JqXS9 Typography-module__Nfgvc PlumxMetrics-module__miD6t">Social</h5><div class="Columns-module__FxWfo" style="--columns-row-spacing: var(--spacer-m); --columns-column-spacing: var(--spacer-m);"><div class="Col-module__hwM1N" style="--col-xs: 12; --col-sm: 12; --col-md: 12; --col-lg: 12; --col-xl: 12; --col-xxl: 12; --col-offset-xs: 0; --col-offset-sm: 0; --col-offset-md: 0; --col-offset-lg: 0; --col-offset-xl: 0; --col-offset-xxl: 0;"><div data-testid="count-label-and-value" class=""><div class="info-field-module___OAMG" style="--vertical-highlight-color: var(--plumx-social);"><div data-testid="order" class="info-field-module__TExdC"><div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: flex-start; --stack-align-items: flex-start;"><span data-testid="unclickable-count" class="Typography-module__lVnit Typography-module__ix7bs Typography-module__Nfgvc">10</span></div><div class="Stack-module__tT3r4 Stack-module__Y4rmW" style="--stack-vertical-spacing: var(--spacer-s); --stack-horizontal-spacing: var(--spacer-s); --stack-justify-content: stretch; --stack-align-items: stretch;"><span class="Typography-module__lVnit Typography-module__fRnrd Typography-module__Nfgvc">Shares, Likes &amp; Comments</span></div></div></div></div></div></div></div></div><a href="https://plu.mx/a/0f_pwnJ6kWE-qHYpejLQdFxeUkhEWVKBekMDFz0sncU" class="Button-module__f8gtt Button-module__rphhF Button-module__VBKvn Button-module__uQJ9V Button-module__hK_LA Button-module__qDdAl Button-module__rTQlw PlumxMetrics-module__fRFvR" target="_blank" rel="noreferrer noopener"><span class="Typography-module__lVnit Typography-module__Nfgvc Button-module__Imdmt">View PlumX details</span><span class="Icon-module__p52B2 Icon-module__DWv45 Button-module__S5JCu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 128" height="24" width="11" role="img" aria-hidden="true"><path d="M1 99l38-38L1 23l7-7 45 45-45 45z"></path></svg></span><span class="Typography-module__lVnit Typography-module__Nfgvc Typography-module___chYC">View PlumX details (opens in new window)</span></a></section></div></div></div></div></div></article></div><div class="Toastify" id="doc-details-page-container"></div></scopus-document-details-page></micro-ui></div>
 
 <script>
 if (typeof prs != "undefined") {
-prs.rt("pcr"); 
+prs.rt("pcr");
 }
 </script>
 <section id="SC_BA1P" class="sgfNoTitleBar svDoNotLink"></section>
@@ -718,15 +726,15 @@ prs.rt("pcr");
 <div class="col-md-9 col-md-offset-3 paddingLeftQuarter">
 <section id="refDocs"><div id="referenceList">
 <form id="recordPageFormId" name="RecordPageForm" class="smallLink" action="/record/display.uri" method="post" onsubmit="return g_formSubmitOK;">
-<input type="hidden" name="view" value="extended"> 
+<input type="hidden" name="view" value="extended">
 <input type="hidden" name="clickedLink" value="">
 <input type="hidden" name="zone" value="">
 <input type="hidden" name="oneClickExport">
 <input type="hidden" name="origin" value="resultslist">
-<input type="hidden" name="eid" value="2-s2.0-84903413394"> 
+<input type="hidden" name="eid" value="2-s2.0-84903413394">
 <input type="hidden" name="asdfd" value="true">
-<input type="hidden" name="resultsListTypeValue" value="">          
-<div id="referenceListOptions">  
+<input type="hidden" name="resultsListTypeValue" value="">
+<div id="referenceListOptions">
 <div id="viewRef" class="displayNone">
 <a href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#references" title="View references" class="secondaryLink">
 <span class="ico-navigate-down" aria-hidden="true"></span>
@@ -759,8 +767,8 @@ View references (354)
 <input id="stem" name="stem" value="t" type="hidden">
 <input id="src" name="src" value="s" type="hidden">
 <input id="rebrandResultsPage" name="rebrandResultsPage" value="false" type="hidden">
-<input type="hidden" name="view" value="extended"> 
-<input type="hidden" name="relpos" value=""> 
+<input type="hidden" name="view" value="extended">
+<input type="hidden" name="relpos" value="">
 <input type="hidden" name="citeCnt" value="">
 <input type="hidden" name="ctoId" value="">
 <input id="img" name="img" type="hidden" value="">
@@ -770,7 +778,7 @@ View references (354)
 <div id="resultsListToolbar" class="featuresRow paddingT10 btn-toolbar" role="toolbar">
 <div class="btn-group" role="group" id="btnToolbar">
 <ul class="list-unstyled list-inline">
-<li class="last">     
+<li class="last">
 <input type="checkbox" name="selectAllCheckBox" value="true" id="referencePageCheckbox" onclick="toggleRefChkBoxes(this);" title="Select all results">
 <label for="referencePageCheckbox" class="checkbox-label">All</label>
 </li>
@@ -832,7 +840,7 @@ Adam, D.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -860,7 +868,7 @@ Adam, D.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -888,7 +896,7 @@ Aksnes, D.W.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -896,7 +904,7 @@ Aksnes, D.W.<br>
 <label for="reference-4" class="checkbox-label">
 4
 </label>
-				</div>
+ </div>
 </th>
 <td class="refCont">
 <div class="refAuthorTitle">
@@ -916,7 +924,7 @@ Aksnes, D.W.,&nbsp;Sivertsen, G.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -944,7 +952,7 @@ Aksnes, D.W.,&nbsp;Taxt, R.E.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -972,7 +980,7 @@ Allen, B.,&nbsp;Qin, J.,&nbsp;Lancaster, F.W.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1000,7 +1008,7 @@ Alvarez, P.,&nbsp;Escalona, I.,&nbsp;Pulgarín, A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1018,7 +1026,7 @@ Alvarez, P.,&nbsp;Escalona, I.,&nbsp;Pulgarín, A.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1036,7 +1044,7 @@ Alvarez, P.,&nbsp;Escalona, I.,&nbsp;Pulgarín, A.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1064,7 +1072,7 @@ Anderson, R.C.,&nbsp;Narin, F.,&nbsp;McAllister, P.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1082,7 +1090,7 @@ Anderson, R.C.,&nbsp;Narin, F.,&nbsp;McAllister, P.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1108,7 +1116,7 @@ Archambault, É.,&nbsp;Larivière, V.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1136,7 +1144,7 @@ Archibugi, D.,&nbsp;Coco, A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1147,14 +1155,14 @@ Archibugi, D.,&nbsp;Coco, A.<br>
 </div>
 </th>
 <td class="refCont">
-<div class="refAuthorTitle">           			Atkinson, R.<br>The citation as intertext: toward a theory of the selection process<br>(1984)&nbsp;<em>Library Resources and Technical Services</em>,&nbsp;28,&nbsp;pp. 109-119.&nbsp;<a href="https://www-scopus-com.sire.ub.edu/search/submit/citedby.uri?eid=2-s2.0-0002508508&amp;src=s&amp;origin=reflist&amp;refstat=dummy" title="View the 24 publications that cite this one" class="">Cited 24 times</a>.<br></div>
+<div class="refAuthorTitle"> Atkinson, R.<br>The citation as intertext: toward a theory of the selection process<br>(1984)&nbsp;<em>Library Resources and Technical Services</em>,&nbsp;28,&nbsp;pp. 109-119.&nbsp;<a href="https://www-scopus-com.sire.ub.edu/search/submit/citedby.uri?eid=2-s2.0-0002508508&amp;src=s&amp;origin=reflist&amp;refstat=dummy" title="View the 24 publications that cite this one" class="">Cited 24 times</a>.<br></div>
 <div class="featuresRow marginTop1">
 <ul id="outwardLinkSection" class="list-inline">
 <li class="last">&nbsp;</li>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1182,7 +1190,7 @@ Bailón-Moreno, R.,&nbsp;Jurado-Alameda, E.,&nbsp;Ruiz-Baños, R.,&nbsp;Courtial
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1193,7 +1201,7 @@ Bailón-Moreno, R.,&nbsp;Jurado-Alameda, E.,&nbsp;Ruiz-Baños, R.,&nbsp;Courtial
 </div>
 </th>
 <td class="refCont">
-		 
+
 <div class="refAuthorTitle">
 Baldi, S.,&nbsp;Hargens, L.L.<br>
 </div>
@@ -1211,7 +1219,7 @@ Baldi, S.,&nbsp;Hargens, L.L.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1229,7 +1237,7 @@ Baldi, S.,&nbsp;Hargens, L.L.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1257,7 +1265,7 @@ Batista, P.D.,&nbsp;Campiteli, M.G.,&nbsp;Kinouchi, O.,&nbsp;Martinez, A.S.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1285,7 +1293,7 @@ Bennion, B.C.,&nbsp;Karschamroon, S.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1303,7 +1311,7 @@ Bennion, B.C.,&nbsp;Karschamroon, S.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1321,7 +1329,7 @@ Bennion, B.C.,&nbsp;Karschamroon, S.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1335,7 +1343,7 @@ Bennion, B.C.,&nbsp;Karschamroon, S.<br>
 <div class="refAuthorTitle">
 Bockris, John,&nbsp;Hodko, Dalibor<br>
 </div>
-									
+
 <div class="refDocTitle fontMedium">
 <a class="outwardLink" title="Abstract + Refs(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-0025701258&amp;origin=reflist&amp;sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29">Is there evidence for cold fusion?</a>
 <a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d00093068%26isbn%3d%26volume%3d%26issue%3d21%26spage%3d688%26epage%3d692%26pages%3d688-692%26artnum%3d%26date%3d1990%26id%3ddoi%3a%26title%3dChemistry%2band%2bIndustry%2b%2528London%2529%26atitle%3dIs%2bthere%2bevidence%2bfor%2bcold%2bfusion%253f%26aufirst%3dJohn%26auinit%3dJohn%26auinit1%3dJ%26aulast%3dBockris&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-0025701258&amp;issn=00093068&amp;linkType=TemplateLinking&amp;year=1990&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=ac2a75f1582696690693b00f5846cd51" target="_blank"></a>
@@ -1348,7 +1356,7 @@ Bockris, John,&nbsp;Hodko, Dalibor<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1370,14 +1378,14 @@ Bonaccorsi, A.,&nbsp;Daraio, C.<br>
 <div class="featuresRow marginTop1">
 <ul id="outwardLinkSection" class="list-inline">
 <li class="refOutwardLinks">
-													 
+
 <span class="refListOutwardLinks"><a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d09582029%26isbn%3d%26volume%3d12%26issue%3d1%2bSPEC%2bISS.%26spage%3d47%26epage%3d69%26pages%3d47-69%26artnum%3d%26date%3d2003%26id%3ddoi%3a10.3152%252f147154403781776726%26title%3dResearch%2bEvaluation%26atitle%3dA%2brobust%2bnonparametric%2bapproach%2bto%2bthe%2banalysis%2bof%2bscientific%2bproductivity%26aufirst%3dA.%26auinit%3dA.%26auinit1%3dA%26aulast%3dBonaccorsi&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-1542714215&amp;issn=09582029&amp;linkType=TemplateLinking&amp;year=2003&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=1f0e94d26a1c3d4137da5e179414b3e1" target="_blank"><img class="outwardLink" src="https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg" onload="loadImg(this,'https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg')" height="15" width="101" alt="UB.Consulta'l(opens in a new window)" title="UB.Consulta'l(opens in a new window)"></a></span>
 </li><li class="refOutwardLinks last">
 <span class="refListOutwardLinks"><span class="divTextLink"><a class="outwardTextLink" title="View at Publisher(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fdoi.org%2f10.3152%2f147154403781776726&amp;locationID=3&amp;categoryID=4&amp;eid=2-s2.0-1542714215&amp;issn=09582029&amp;linkType=ViewAtPublisher&amp;year=2003&amp;origin=reflist&amp;dig=a0e1d5aabaf402043b7b650d962ae36b" target="_blank">View at Publisher</a></span></span>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1402,11 +1410,11 @@ Bonitz, M.<br>
 <span class="refListOutwardLinks"><a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d01389130%26isbn%3d%26volume%3d64%26issue%3d3%26spage%3d375%26epage%3d379%26pages%3d375-379%26artnum%3d%26date%3d2005%26id%3ddoi%3a10.1007%252fs11192-005-0256-5%26title%3dScientometrics%26atitle%3dTen%2byears%2bMatthew%2beffect%2bfor%2bcountries%26aufirst%3dM.%26auinit%3dM.%26auinit1%3dM%26aulast%3dBonitz&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-23844528307&amp;issn=01389130&amp;linkType=TemplateLinking&amp;year=2005&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=645c2a203aaabd4eb581bc9c891544e3" target="_blank"><img class="outwardLink" src="https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg" onload="loadImg(this,'https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg')" height="15" width="101" alt="UB.Consulta'l(opens in a new window)" title="UB.Consulta'l(opens in a new window)"></a></span>
 </li><li class="refOutwardLinks last">
 <span class="refListOutwardLinks"><span class="divTextLink"><a class="outwardTextLink" title="View at Publisher(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fdoi.org%2f10.1007%2fs11192-005-0256-5&amp;locationID=3&amp;categoryID=4&amp;eid=2-s2.0-23844528307&amp;issn=01389130&amp;linkType=ViewAtPublisher&amp;year=2005&amp;origin=reflist&amp;dig=d8772b2fd561f23828bbc88f4d541815" target="_blank">View at Publisher</a></span></span>
-								
+
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1434,7 +1442,7 @@ Bonitz, M.,&nbsp;Bruckner, E.,&nbsp;Scharnhorst, A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1462,7 +1470,7 @@ Bordons, M.,&nbsp;Barrigón, S.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1481,7 +1489,7 @@ Bourke, P.,&nbsp;Butler, L.<br>
 <a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d01389130%26isbn%3d%26volume%3d37%26issue%3d3%26spage%3d473%26epage%3d494%26pages%3d473-494%26artnum%3d%26date%3d1996%26id%3ddoi%3a10.1007%252fBF02019259%26title%3dScientometrics%26atitle%3dPublication%2btypes%252c%2bcitation%2brates%2band%2bevaluation%26aufirst%3dP.%26auinit%3dP.%26auinit1%3dP%26aulast%3dBourke&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-0012876721&amp;issn=01389130&amp;linkType=TemplateLinking&amp;year=1996&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=0053d351765a3baf07f47308b480a745" target="_blank"></a>
 </div>
 <br>(1996)&nbsp;<em>Scientometrics</em>,&nbsp;37&nbsp;(3),&nbsp;pp. 473-494.&nbsp;<a href="https://www-scopus-com.sire.ub.edu/search/submit/citedby.uri?eid=2-s2.0-0012876721&amp;src=s&amp;origin=reflist&amp;refstat=core" title="View the 59 publications that cite this one" class="">Cited 59 times</a>.<br><a href="http://www.springerlink.com.sire.ub.edu/content/0138-9130" target="_blank"><u>http://www.springerlink.com.sire.ub.edu/content/0138-9130</u></a><br>doi: 10.1007/BF02019259<br>
-					
+
 <div class="featuresRow marginTop1">
 <ul id="outwardLinkSection" class="list-inline">
 <li class="refOutwardLinks">
@@ -1491,7 +1499,7 @@ Bourke, P.,&nbsp;Butler, L.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1514,13 +1522,13 @@ Boxenbaum, H.,&nbsp;Pivinski, F.,&nbsp;Ruberg, S.J.<br>
 <ul id="outwardLinkSection" class="list-inline">
 <li class="refOutwardLinks">
 <span class="refListOutwardLinks"><a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d03602532%26isbn%3d%26volume%3d18%26issue%3d4%26spage%3d553%26epage%3d571%26pages%3d553-571%26artnum%3d%26date%3d1987%26id%3ddoi%3a10.3109%252f03602538708994132%26title%3dDrug%2bMetabolism%2bReviews%26atitle%3dPublication%2brates%2bof%2bpharmaceutical%2bscientists%253a%2bApplication%2bof%2bthe%2bwaring%2bdistribution%26aufirst%3dH.%26auinit%3dH.%26auinit1%3dH%26aulast%3dBoxenbaum&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-0023625564&amp;issn=03602532&amp;linkType=TemplateLinking&amp;year=1987&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=b21c9763feaed60c2b4223030a63b3c5" target="_blank"><img class="outwardLink" src="https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg" onload="loadImg(this,'https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg')" height="15" width="101" alt="UB.Consulta'l(opens in a new window)" title="UB.Consulta'l(opens in a new window)"></a></span>
-											 		
+
 </li><li class="refOutwardLinks last">
 <span class="refListOutwardLinks"><span class="divTextLink"><a class="outwardTextLink" title="View at Publisher(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fdoi.org%2f10.3109%2f03602538708994132&amp;locationID=3&amp;categoryID=4&amp;eid=2-s2.0-0023625564&amp;issn=03602532&amp;linkType=ViewAtPublisher&amp;year=1987&amp;origin=reflist&amp;dig=a0ec53eeafddbd650a3aa4105eec13a6" target="_blank">View at Publisher</a></span></span>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1538,7 +1546,7 @@ Boxenbaum, H.,&nbsp;Pivinski, F.,&nbsp;Ruberg, S.J.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1556,7 +1564,7 @@ Boxenbaum, H.,&nbsp;Pivinski, F.,&nbsp;Ruberg, S.J.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1574,7 +1582,7 @@ Boxenbaum, H.,&nbsp;Pivinski, F.,&nbsp;Ruberg, S.J.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1592,7 +1600,7 @@ Boxenbaum, H.,&nbsp;Pivinski, F.,&nbsp;Ruberg, S.J.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1620,7 +1628,7 @@ Braun, T.,&nbsp;Glänzel, W.,&nbsp;Grupp, H.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1638,7 +1646,7 @@ Braun, T.,&nbsp;Glänzel, W.,&nbsp;Grupp, H.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1652,7 +1660,7 @@ Braun, T.,&nbsp;Glänzel, W.,&nbsp;Grupp, H.<br>
 <div class="refAuthorTitle">
 Braun, T.,&nbsp;Glänzel, W.,&nbsp;Schubert, A.<br>
 </div>
-			 
+
 <div class="refDocTitle fontMedium">
 <a class="outwardLink" title="Abstract + Refs(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-2342447155&amp;origin=reflist&amp;sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29">Analytical viewpoint. Evaluation of citedness in Analytical Chemistry: How much is much?</a>
 <a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d0144557X%26isbn%3d%26volume%3d27%26issue%3d2%26spage%3d38%26epage%3d41%26pages%3d38-41%26artnum%3d%26date%3d1990%26id%3ddoi%3a10.1039%252fAP9902700038%26title%3dAnalytical%2bProceedings%26atitle%3dAnalytical%2bviewpoint.%2bEvaluation%2bof%2bcitedness%2bin%2bAnalytical%2bChemistry%253a%2bHow%2bmuch%2bis%2bmuch%253f%26aufirst%3dT.%26auinit%3dT.%26auinit1%3dT%26aulast%3dBraun&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-2342447155&amp;issn=0144557X&amp;linkType=TemplateLinking&amp;year=1990&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=09f73b7c22d80accee85efa53d3ea05f" target="_blank"></a>
@@ -1667,7 +1675,7 @@ Braun, T.,&nbsp;Glänzel, W.,&nbsp;Schubert, A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1685,7 +1693,7 @@ Braun, T.,&nbsp;Glänzel, W.,&nbsp;Schubert, A.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1713,7 +1721,7 @@ Braun, T.,&nbsp;Glänzel, W.,&nbsp;Schubert, A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1741,7 +1749,7 @@ Brookes, B.C.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1769,7 +1777,7 @@ Brooks, T.A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1797,7 +1805,7 @@ Brooks, T.A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1811,7 +1819,7 @@ Brooks, T.A.<br>
 <div class="refAuthorTitle">
 Brown, P.<br>
 </div>
-	 
+
 <div class="refDocTitle fontMedium">
 <a class="outwardLink" title="Abstract + Refs(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-0018914129&amp;origin=reflist&amp;sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29">The half‐life of the chemical literature</a>
 <a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d10974571%26isbn%3d%26volume%3d31%26issue%3d1%26spage%3d61%26epage%3d63%26pages%3d61-63%26artnum%3d%26date%3d1980%26id%3ddoi%3a10.1002%252fasi.4630310108%26title%3dJournal%2bof%2bthe%2bAmerican%2bSociety%2bfor%2bInformation%2bScience%26atitle%3dThe%2bhalf%25e2%2580%2590life%2bof%2bthe%2bchemical%2bliterature%26aufirst%3dP.%26auinit%3dP.%26auinit1%3dP%26aulast%3dBrown&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-0018914129&amp;issn=10974571&amp;linkType=TemplateLinking&amp;year=1980&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=08358af5ddb33fb52240b53d4557c535" target="_blank"></a>
@@ -1826,7 +1834,7 @@ Brown, P.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1844,7 +1852,7 @@ Brown, P.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1862,7 +1870,7 @@ Brown, P.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1880,7 +1888,7 @@ Brown, P.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1908,7 +1916,7 @@ Campanario, M.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1936,7 +1944,7 @@ Cano, V.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1954,7 +1962,7 @@ Cano, V.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -1982,7 +1990,7 @@ Charnes, A.,&nbsp;Cooper, W.W.,&nbsp;Rhodes, E.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2010,7 +2018,7 @@ Chew, F.S.,&nbsp;Relyea-Chew, A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2028,7 +2036,7 @@ Chew, F.S.,&nbsp;Relyea-Chew, A.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2056,7 +2064,7 @@ Chubin, D.E.,&nbsp;Moitra, S.D.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2084,7 +2092,7 @@ Clark, K.E.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2102,7 +2110,7 @@ Clark, K.E.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2130,7 +2138,7 @@ Coccia, M.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2148,7 +2156,7 @@ Coccia, M.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2177,7 +2185,7 @@ Cole, J.R.,&nbsp;Cole, S.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2195,7 +2203,7 @@ Cole, J.R.,&nbsp;Cole, S.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2213,7 +2221,7 @@ Cole, J.R.,&nbsp;Cole, S.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2234,7 +2242,7 @@ Cole, S.,&nbsp;Cole, J.R.<br>
 <br>(1968)&nbsp;<em>American sociological review</em>,&nbsp;33&nbsp;(3),&nbsp;pp. 397-413.&nbsp;<a href="https://www-scopus-com.sire.ub.edu/search/submit/citedby.uri?eid=2-s2.0-0014292836&amp;src=s&amp;origin=reflist&amp;refstat=core" title="View the 78 publications that cite this one" class="">Cited 78 times</a>.<br>doi: 10.2307/2091914<br>
 <div class="featuresRow marginTop1">
 <ul id="outwardLinkSection" class="list-inline">
-					 	
+
 <li class="refOutwardLinks">
 <span class="refListOutwardLinks"><a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d00031224%26isbn%3d%26volume%3d33%26issue%3d3%26spage%3d397%26epage%3d413%26pages%3d397-413%26artnum%3d%26date%3d1968%26id%3ddoi%3a10.2307%252f2091914%26title%3dAmerican%2bsociological%2breview%26atitle%3dVisibility%2band%2bthe%2bstructural%2bbases%2bof%2bawareness%2bof%2bscientific%2bresearch.%26aufirst%3dS.%26auinit%3dS.%26auinit1%3dS%26aulast%3dCole&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-0014292836&amp;issn=00031224&amp;linkType=TemplateLinking&amp;year=1968&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=011a2aac94e29753e1df78add0160cef" target="_blank"><img class="outwardLink" src="https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg" onload="loadImg(this,'https://crai.ub.edu/sites/default/files/imatges/logos/cercabib_consultal_boto_primo_scopus.jpg')" height="15" width="101" alt="UB.Consulta'l(opens in a new window)" title="UB.Consulta'l(opens in a new window)"></a></span>
 </li><li class="refOutwardLinks last">
@@ -2242,7 +2250,7 @@ Cole, S.,&nbsp;Cole, J.R.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2270,7 +2278,7 @@ Colman, A.M.,&nbsp;Dhillon, D.,&nbsp;Coulthard, B.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2288,7 +2296,7 @@ Colman, A.M.,&nbsp;Dhillon, D.,&nbsp;Coulthard, B.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2306,7 +2314,7 @@ Colman, A.M.,&nbsp;Dhillon, D.,&nbsp;Coulthard, B.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2334,7 +2342,7 @@ Cronin, B.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2352,7 +2360,7 @@ Cronin, B.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2380,7 +2388,7 @@ Cronin, B.,&nbsp;Overfelt, K.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2406,11 +2414,11 @@ Crouch, D.,&nbsp;Irvine, J.,&nbsp;Martin, B.R.<br>
 </li><li class="refOutwardLinks last">
 <span class="refListOutwardLinks"><span class="divTextLink"><a class="outwardTextLink" title="View at Publisher(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fdoi.org%2f10.1007%2fBF02017247&amp;locationID=3&amp;categoryID=4&amp;eid=2-s2.0-0347925223&amp;issn=01389130&amp;linkType=ViewAtPublisher&amp;year=1986&amp;origin=reflist&amp;dig=9c34d861a73b5532e7878a15334ca3ad" target="_blank">View at Publisher</a></span></span>
 <!-- In case no links are available have a li with empty space for
-								aligment issue -->
+ aligment issue -->
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2438,7 +2446,7 @@ Csajbók, E.,&nbsp;Berhidi, A.,&nbsp;Vasas, L.,&nbsp;Schubert, A.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2456,7 +2464,7 @@ Csajbók, E.,&nbsp;Berhidi, A.,&nbsp;Vasas, L.,&nbsp;Schubert, A.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2484,7 +2492,7 @@ De Moya-Anegón, F.,&nbsp;Herrero-Solana, V.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2502,7 +2510,7 @@ De Moya-Anegón, F.,&nbsp;Herrero-Solana, V.<br>
 </ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2530,7 +2538,7 @@ Dewitt, T.W.,&nbsp;Nicholson, R.S.,&nbsp;Wilson, M.K.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2558,7 +2566,7 @@ Dieks, D.,&nbsp;Chang, H.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2586,7 +2594,7 @@ Dizon, L.B.,&nbsp;Sadorra, M.S.M.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2614,7 +2622,7 @@ Donnell, E.P.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2642,7 +2650,7 @@ Doreian, P.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2659,7 +2667,7 @@ Dryden, J.<br>
 <div class="refDocTitle fontMedium">
 <a class="outwardLink" title="Abstract + Refs(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/record/display.uri?eid=2-s2.0-84962991661&amp;origin=reflist&amp;sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29">Quantifying technological advance: S&amp;T indicators at the OECD - Challenges for the 1990s</a>
 <a class="outwardLink" title="UB.Consulta'l(opens in a new window)" href="https://www-scopus-com.sire.ub.edu/redirect/linking.uri?targetURL=https%3a%2f%2fcercabib.ub.edu%2fopenurl%2f34CSUC_UB%2f34CSUC_UB%3aVU1%3f%3fsid%3dElsevier%3aScopus%26_service_type%3dgetFullTxt%26issn%3d03023427%26isbn%3d%26volume%3d19%26issue%3d5%26spage%3d281%26epage%3d290%26pages%3d281-290%26artnum%3d%26date%3d1992%26id%3ddoi%3a10.1093%252fspp%252f19.5.281%26title%3dScience%2band%2bPublic%2bPolicy%26atitle%3dQuantifying%2btechnological%2badvance%253a%2bS%2526T%2bindicators%2bat%2bthe%2bOECD%2b-%2bChallenges%2bfor%2bthe%2b1990s%26aufirst%3dJ.%26auinit%3dJ.%26auinit1%3dJ%26aulast%3dDryden&amp;locationID=3&amp;categoryID=6&amp;eid=2-s2.0-84962991661&amp;issn=03023427&amp;linkType=TemplateLinking&amp;year=1992&amp;zone=outwardlinks&amp;origin=reflist&amp;dig=22ee2258156daa14bfc5a2624ab2f14d" target="_blank"></a>
-					 			
+
 </div>
 <br>(1992)&nbsp;<em>Science and Public Policy</em>,&nbsp;19&nbsp;(5),&nbsp;pp. 281-290.&nbsp;<a href="https://www-scopus-com.sire.ub.edu/search/submit/citedby.uri?eid=2-s2.0-84962991661&amp;src=s&amp;origin=reflist&amp;refstat=core" title="View the 3 publications that cite this one" class="">Cited 3 times</a>.<br>doi: 10.1093/spp/19.5.281<br>
 <div class="featuresRow marginTop1">
@@ -2671,7 +2679,7 @@ Dryden, J.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2699,7 +2707,7 @@ Earle, P.,&nbsp;Vickery, B.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2727,7 +2735,7 @@ Egghe, L.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2755,7 +2763,7 @@ Egghe, L.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 <tr class="referencesUL" id="referenceListRowId">
 <th class="checkboxes">
 <div class="checkbox">
@@ -2783,13 +2791,13 @@ Egghe, L.<br>
 </li></ul>
 </div>
 </td>
-</tr>		
+</tr>
 </tbody>
 </table>
 </form>
 </div></section>
 <p class="corrAuthSect">
-<a name="corrAuthorFooter" href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#corrAuthorTitle"><span class="ico-person">&nbsp;</span></a> Vinkler, P.; Chemical Research Center (CRC), Hungary;  email:<a href="https://www-scopus-com.sire.ub.edu/record/" onclick="authorEmailEvent(this,'correspondence')" title="mailto:" class="secondaryLink"><span class="anchorText">pvinkler@chemres.hu</span></a>
+<a name="corrAuthorFooter" href="https://www-scopus-com.sire.ub.edu/record/?eid=2-s2.0-84903413394&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sot=b&amp;sdt=b&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;sessionSearchId=6ce362d4735ed6185ffbf73a096eb9ae#corrAuthorTitle"><span class="ico-person">&nbsp;</span></a> Vinkler, P.; Chemical Research Center (CRC), Hungary; email:<a href="https://www-scopus-com.sire.ub.edu/record/" onclick="authorEmailEvent(this,'correspondence')" title="mailto:" class="secondaryLink"><span class="anchorText">pvinkler@chemres.hu</span></a>
 <br>
 © Copyright 2017 Elsevier B.V., All rights reserved.</p>
 </div>
@@ -2799,13 +2807,13 @@ Egghe, L.<br>
 <hr id="refNavLinks">
 <div class="pull-left" id="bottomResultListLinks"><nav class="navigationLink marginBottom1" id="refNavLinksId">
 <ul class="list-inline">
-<li class="backToResults noPaddingLeft"> 
+<li class="backToResults noPaddingLeft">
 <a href="https://www-scopus-com.sire.ub.edu/results/results.uri?sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;offset=1&amp;origin=recordpage">
 <span class="ico-navigate-left" aria-hidden="true"></span>
 <span class="anchorText secondaryLink">Back to results</span>
 </a>
 </li>
-<li class="recordPageCount"> 
+<li class="recordPageCount">
 1<span>of</span>1
 </li>
 </ul></nav>
@@ -2816,7 +2824,7 @@ Egghe, L.<br>
 <span class="anchorText">
 Top of page
 </span>
-</a> 
+</a>
 </div>
 </div>
 </div>
@@ -2831,7 +2839,7 @@ var chapterListEnabled = true;
 <div class="panel panel-default boxPanel">
 <div class="panel-heading noBorder">
 <h3 class="panel-title">
-Cited by 165 documents 
+Cited by 165 documents
 </h3>
 </div>
 <div class="displayBlock paddingBottom1">
@@ -2950,7 +2958,7 @@ Related documents
 <div class="panel-body">
 <div id="relatedDoc"><div class="recordPageBoxes">
 <div class="recordPageBoxItem">
-<ul class="list-unstyled">          
+<ul class="list-unstyled">
 <li>
 <a href="https://www-scopus-com.sire.ub.edu/record/display.uri?origin=recordpage&amp;zone=relatedDocuments&amp;eid=2-s2.0-0020297187&amp;noHighlight=false&amp;sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;relpos=0" title="Show document details">
 <span class="anchorText">On the relationship between quantity and quality of a country's research productivity
@@ -2969,7 +2977,7 @@ Journal of Information Science</i>
 </ul>
 </div>
 <div class="recordPageBoxItem">
-<ul class="list-unstyled">          
+<ul class="list-unstyled">
 <li>
 <a href="https://www-scopus-com.sire.ub.edu/record/display.uri?origin=recordpage&amp;zone=relatedDocuments&amp;eid=2-s2.0-0003163538&amp;noHighlight=false&amp;sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;relpos=1" title="Show document details">
 <span class="anchorText">Global and local collaborators: A study of scientific collaboration
@@ -2988,7 +2996,7 @@ Information Processing and Management</i>
 </ul>
 </div>
 <div class="recordPageBoxItem">
-<ul class="list-unstyled">          
+<ul class="list-unstyled">
 <li>
 <a href="https://www-scopus-com.sire.ub.edu/record/display.uri?origin=recordpage&amp;zone=relatedDocuments&amp;eid=2-s2.0-2342512002&amp;noHighlight=false&amp;sort=plf-f&amp;src=s&amp;sid=6ce362d4735ed6185ffbf73a096eb9ae&amp;sot=b&amp;sdt=b&amp;sl=88&amp;s=SRCTITLE%28the+AND+evaluation+AND+of+AND+research+AND+by+AND+scientometric+AND+indicators%29&amp;relpos=2" title="Show document details">
 <span class="anchorText">Collaborative research trend in exploration geophysics
@@ -3049,7 +3057,7 @@ var reaxysSubstanceViewAll = 'View all substances';
 var reaxysSubstanceView = 'View substance';
 var reaxyHelp = 'Learn about Reaxys chemistry database information';
 var reaxysAbout = 'About Reaxys';
-var reaxysAboutDetails = 'Reaxys is designed to support chemistry researchers at every stage with the ability to investigated chemistry related research topics in peer-reviewed literature, patents and substance databases.  Reaxys retrieves substances, substance properties, reaction and synthesis data.';
+var reaxysAboutDetails = 'Reaxys is designed to support chemistry researchers at every stage with the ability to investigated chemistry related research topics in peer-reviewed literature, patents and substance databases. Reaxys retrieves substances, substance properties, reaction and synthesis data.';
 var reaxysAboutClose = 'Close window';
 // Add Reaxys Substance Propery Labels;
 var reaxysChemNameLabel = 'Chemical names';

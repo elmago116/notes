@@ -1,14 +1,49 @@
 ---
 title: The Aware User Experience Model, Its Method of Construction and Derived Heuristics
+type: document
+source: Manual
+base: clippings
+last_enrichment_run: 2025-08-20
+updated: 2025-08-20
+journal: Lecture Notes in Computer Science
+pages: 211-233
+year: 2020
+doi: 10.1007/978-3-030-60114-0_15
+url: https://doi.org/10.1007/978-3-030-60114-0_15
+authors:
+  - Jorge Maya
+  - Natalia Ariza
+tags:
+  - design/designHeuristics
+  - design/UX
+apa_citation: Jorge Maya & Natalia Ariza, 2020
+---
+[[Clippings/PDF/The Aware User Experience Model, Its Method of Construction and Derived Heuristics.pdf]]
+
+---
+title: The Aware User Experience Model, Its Method of Construction and Derived Heuristics
 source: https://link.springer.com/chapter/10.1007/978-3-030-60114-0_15
-author:
-  - "[[SpringerLink]]"
 published: 2020-10-03
 created: 2025-04-08
 description: Psychological experience possesses many different determinants of affective, cognitive, and behavioral order in complex interaction and mostly hidden to our consciousness. User experience models face this complexity by presenting a reduced set of variables and...
 tags:
   - UCD/UX
   - design/designHeuristics
+authors:
+  - Rola Ajjawi
+  - Joy Higgs
+  - "[[SpringerLink]]"
+doi: 10.1007/s10459-006-9032-4
+url: https://doi.org/10.1007/s10459-006-9032-4
+journal: Advances in Health Sciences Education
+publisher: Springer Science and Business Media LLC
+volume: 13
+issue: 2
+pages: 133-150
+last_enrichment_run: 2025-08-19
+year: 2007
+updated: 2025-08-19
+type: journal-article
 ---
 ## Abstract
 

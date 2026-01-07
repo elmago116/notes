@@ -1,0 +1,282 @@
+{
+  "id": "https://openalex.org/W2800448540",
+  "doi": "https://doi.org/10.4337/9781783476947.00005",
+  "title": "Introduction",
+  "display_name": "Introduction",
+  "publication_year": 2016,
+  "publication_date": "2016-02-24",
+  "ids": {
+    "openalex": "https://openalex.org/W2800448540",
+    "doi": "https://doi.org/10.4337/9781783476947.00005",
+    "mag": "2800448540"
+  },
+  "language": null,
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4337/9781783476947.00005",
+    "pdf_url": "https://www.elgaronline.com/downloadpdf/9781783471140.00005.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306463223",
+      "display_name": "Edward Elgar Publishing eBooks",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310320353",
+      "host_organization_name": "Edward Elgar Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320353"
+      ],
+      "host_organization_lineage_names": [
+        "Edward Elgar Publishing"
+      ],
+      "type": "ebook platform"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "book-chapter",
+  "type_crossref": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.elgaronline.com/downloadpdf/9781783471140.00005.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5088496584",
+        "display_name": "William B. Gartner",
+        "orcid": "https://orcid.org/0000-0002-5863-9988"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "William B. Gartner",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5088496584"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.731,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 4,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": {
+    "min": 79,
+    "max": 81
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.41137734
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.4337/9781783476947.00005",
+      "pdf_url": "https://www.elgaronline.com/downloadpdf/9781783471140.00005.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306463223",
+        "display_name": "Edward Elgar Publishing eBooks",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320353",
+        "host_organization_name": "Edward Elgar Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320353"
+        ],
+        "host_organization_lineage_names": [
+          "Edward Elgar Publishing"
+        ],
+        "type": "ebook platform"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4337/9781783476947.00005",
+    "pdf_url": "https://www.elgaronline.com/downloadpdf/9781783471140.00005.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306463223",
+      "display_name": "Edward Elgar Publishing eBooks",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310320353",
+      "host_organization_name": "Edward Elgar Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320353"
+      ],
+      "host_organization_lineage_names": [
+        "Edward Elgar Publishing"
+      ],
+      "type": "ebook platform"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 74,
+  "referenced_works": [
+    "https://openalex.org/W1482640169",
+    "https://openalex.org/W1498488428",
+    "https://openalex.org/W1539350538",
+    "https://openalex.org/W1541074052",
+    "https://openalex.org/W1569734062",
+    "https://openalex.org/W1608013374",
+    "https://openalex.org/W1779258353",
+    "https://openalex.org/W1965576785",
+    "https://openalex.org/W1968287256",
+    "https://openalex.org/W1971167516",
+    "https://openalex.org/W1972083916",
+    "https://openalex.org/W1973107123",
+    "https://openalex.org/W1983213934",
+    "https://openalex.org/W1988628291",
+    "https://openalex.org/W1999034128",
+    "https://openalex.org/W2008105535",
+    "https://openalex.org/W2008327985",
+    "https://openalex.org/W2009248339",
+    "https://openalex.org/W2013977380",
+    "https://openalex.org/W2018091513",
+    "https://openalex.org/W2030747846",
+    "https://openalex.org/W2036856250",
+    "https://openalex.org/W2060042034",
+    "https://openalex.org/W2082158212",
+    "https://openalex.org/W2083734602",
+    "https://openalex.org/W2094277911",
+    "https://openalex.org/W2094830213",
+    "https://openalex.org/W2109406886",
+    "https://openalex.org/W2116006659",
+    "https://openalex.org/W2122613799",
+    "https://openalex.org/W2129840364",
+    "https://openalex.org/W2140306421",
+    "https://openalex.org/W2140463520",
+    "https://openalex.org/W2150539758",
+    "https://openalex.org/W2161662922",
+    "https://openalex.org/W2403249849",
+    "https://openalex.org/W2496445321",
+    "https://openalex.org/W2499605639",
+    "https://openalex.org/W2503817750",
+    "https://openalex.org/W2604213101",
+    "https://openalex.org/W2612167855",
+    "https://openalex.org/W2769971557",
+    "https://openalex.org/W2783040509",
+    "https://openalex.org/W2793014745",
+    "https://openalex.org/W2800374403",
+    "https://openalex.org/W2803369509",
+    "https://openalex.org/W2806496990",
+    "https://openalex.org/W2911987130",
+    "https://openalex.org/W2996206509",
+    "https://openalex.org/W3021327952",
+    "https://openalex.org/W311050001",
+    "https://openalex.org/W3123331292",
+    "https://openalex.org/W3123373794",
+    "https://openalex.org/W3124259135",
+    "https://openalex.org/W4210400883",
+    "https://openalex.org/W4213094276",
+    "https://openalex.org/W4231099631",
+    "https://openalex.org/W4234274565",
+    "https://openalex.org/W4235466133",
+    "https://openalex.org/W4236886434",
+    "https://openalex.org/W4238563609",
+    "https://openalex.org/W4244945005",
+    "https://openalex.org/W4245648067",
+    "https://openalex.org/W4248252027",
+    "https://openalex.org/W4253010973",
+    "https://openalex.org/W4253786473",
+    "https://openalex.org/W4256366562",
+    "https://openalex.org/W4281490458",
+    "https://openalex.org/W4298185589",
+    "https://openalex.org/W4300004529",
+    "https://openalex.org/W4300117588",
+    "https://openalex.org/W4376467516",
+    "https://openalex.org/W4390533568",
+    "https://openalex.org/W623785910"
+  ],
+  "related_works": [
+    "https://openalex.org/W4280521631",
+    "https://openalex.org/W4206359692",
+    "https://openalex.org/W3118961085",
+    "https://openalex.org/W3117958761",
+    "https://openalex.org/W3007404728",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2374021052",
+    "https://openalex.org/W2110536732",
+    "https://openalex.org/W2041265485",
+    "https://openalex.org/W1984740135"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2800448540",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-20T06:14:46.429461",
+  "created_date": "2018-05-17"
+}

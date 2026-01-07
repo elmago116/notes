@@ -1,0 +1,722 @@
+{
+  "id": "https://openalex.org/W4383681633",
+  "doi": "https://doi.org/10.5194/egusphere-2023-1108-rc2",
+  "title": "Comment on egusphere-2023-1108",
+  "display_name": "Comment on egusphere-2023-1108",
+  "publication_year": 2023,
+  "publication_date": "2023-07-09",
+  "ids": {
+    "openalex": "https://openalex.org/W4383681633",
+    "doi": "https://doi.org/10.5194/egusphere-2023-1108-rc2"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5194/egusphere-2023-1108-rc2",
+    "pdf_url": "https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1108/egusphere-2023-1108.pdf",
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "peer-review",
+  "type_crossref": "peer-review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1108/egusphere-2023-1108.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 64
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10075",
+    "display_name": "Atmospheric chemistry and aerosols",
+    "score": 0.9938,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1902",
+      "display_name": "Atmospheric Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/19",
+      "display_name": "Earth and Planetary Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10075",
+      "display_name": "Atmospheric chemistry and aerosols",
+      "score": 0.9938,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11320",
+      "display_name": "Atmospheric Ozone and Climate",
+      "score": 0.9922,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10347",
+      "display_name": "Atmospheric aerosols and clouds",
+      "score": 0.9798,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cloud-condensation-nuclei",
+      "display_name": "Cloud condensation nuclei",
+      "score": 0.64735746
+    },
+    {
+      "id": "https://openalex.org/keywords/particle",
+      "display_name": "Particle (ecology)",
+      "score": 0.46077412
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C145148216",
+      "wikidata": "https://www.wikidata.org/wiki/Q36496",
+      "display_name": "Ion",
+      "level": 2,
+      "score": 0.81072813
+    },
+    {
+      "id": "https://openalex.org/C2779345167",
+      "wikidata": "https://www.wikidata.org/wiki/Q104541",
+      "display_name": "Aerosol",
+      "level": 2,
+      "score": 0.75635546
+    },
+    {
+      "id": "https://openalex.org/C33332676",
+      "wikidata": "https://www.wikidata.org/wiki/Q906347",
+      "display_name": "Cloud condensation nuclei",
+      "level": 3,
+      "score": 0.64735746
+    },
+    {
+      "id": "https://openalex.org/C2778517922",
+      "wikidata": "https://www.wikidata.org/wiki/Q7140482",
+      "display_name": "Particle (ecology)",
+      "level": 2,
+      "score": 0.46077412
+    },
+    {
+      "id": "https://openalex.org/C200093464",
+      "wikidata": "https://www.wikidata.org/wiki/Q166583",
+      "display_name": "Condensation",
+      "level": 2,
+      "score": 0.43277353
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.3781655
+    },
+    {
+      "id": "https://openalex.org/C113196181",
+      "wikidata": "https://www.wikidata.org/wiki/Q485223",
+      "display_name": "Analytical Chemistry (journal)",
+      "level": 2,
+      "score": 0.3748734
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.2685501
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.17739397
+    },
+    {
+      "id": "https://openalex.org/C107872376",
+      "wikidata": "https://www.wikidata.org/wiki/Q321355",
+      "display_name": "Environmental chemistry",
+      "level": 1,
+      "score": 0.11979425
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.06625584
+    },
+    {
+      "id": "https://openalex.org/C111368507",
+      "wikidata": "https://www.wikidata.org/wiki/Q43518",
+      "display_name": "Oceanography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5194/egusphere-2023-1108-rc2",
+      "pdf_url": "https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1108/egusphere-2023-1108.pdf",
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5194/egusphere-2023-1108-rc2",
+    "pdf_url": "https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1108/egusphere-2023-1108.pdf",
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.75,
+      "display_name": "Climate action",
+      "id": "https://metadata.un.org/sdg/13"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 21,
+  "referenced_works": [
+    "https://openalex.org/W1967377058",
+    "https://openalex.org/W1974902043",
+    "https://openalex.org/W1998907375",
+    "https://openalex.org/W2006119456",
+    "https://openalex.org/W2013135558",
+    "https://openalex.org/W2030981752",
+    "https://openalex.org/W2056630941",
+    "https://openalex.org/W2091700437",
+    "https://openalex.org/W2100805591",
+    "https://openalex.org/W2108582364",
+    "https://openalex.org/W2460319032",
+    "https://openalex.org/W2599666162",
+    "https://openalex.org/W2607925829",
+    "https://openalex.org/W2620078448",
+    "https://openalex.org/W2768701819",
+    "https://openalex.org/W3014272211",
+    "https://openalex.org/W3098165783",
+    "https://openalex.org/W3138763721",
+    "https://openalex.org/W3192880971",
+    "https://openalex.org/W4249613238",
+    "https://openalex.org/W4283731719"
+  ],
+  "related_works": [
+    "https://openalex.org/W68887317",
+    "https://openalex.org/W4206475726",
+    "https://openalex.org/W3037632606",
+    "https://openalex.org/W3004345229",
+    "https://openalex.org/W2983290778",
+    "https://openalex.org/W2910548484",
+    "https://openalex.org/W2908568432",
+    "https://openalex.org/W2081970120",
+    "https://openalex.org/W2067919819",
+    "https://openalex.org/W2053997985"
+  ],
+  "abstract_inverted_index": {
+    "<strong": [
+      0
+    ],
+    "class=\"journal-contentHeaderColor\">Abstract.</strong>": [
+      1
+    ],
+    "Atmospheric": [
+      2
+    ],
+    "aerosol": [
+      3,
+      28
+    ],
+    "particles": [
+      4,
+      40,
+      45
+    ],
+    "have": [
+      5,
+      55
+    ],
+    "considerable": [
+      6
+    ],
+    "impact": [
+      7
+    ],
+    "on": [
+      8,
+      145
+    ],
+    "climate,": [
+      9
+    ],
+    "both": [
+      10,
+      43
+    ],
+    "directly": [
+      11
+    ],
+    "by": [
+      12,
+      17,
+      94
+    ],
+    "scattering": [
+      13
+    ],
+    "radiation": [
+      14
+    ],
+    "and": [
+      15,
+      46,
+      50,
+      87,
+      97,
+      117,
+      130
+    ],
+    "indirectly": [
+      16
+    ],
+    "acting": [
+      18
+    ],
+    "as": [
+      19,
+      169
+    ],
+    "cloud": [
+      20
+    ],
+    "condensation": [
+      21
+    ],
+    "nuclei.": [
+      22
+    ],
+    "A": [
+      23
+    ],
+    "major": [
+      24
+    ],
+    "fraction": [
+      25
+    ],
+    "of": [
+      26,
+      42,
+      72,
+      79,
+      143,
+      175
+    ],
+    "global": [
+      27
+    ],
+    "number": [
+      29,
+      53,
+      90
+    ],
+    "is": [
+      30,
+      152
+    ],
+    "formed": [
+      31
+    ],
+    "in": [
+      32,
+      108
+    ],
+    "atmospheric": [
+      33,
+      39,
+      48,
+      51,
+      64
+    ],
+    "new": [
+      34
+    ],
+    "particle": [
+      35
+    ],
+    "formation": [
+      36
+    ],
+    "(NPF).": [
+      37
+    ],
+    "These": [
+      38
+    ],
+    "consist": [
+      41
+    ],
+    "neutral": [
+      44
+    ],
+    "charged": [
+      47
+    ],
+    "ions,": [
+      49
+    ],
+    "ion": [
+      52,
+      65,
+      89,
+      150
+    ],
+    "concentrations": [
+      54,
+      66,
+      151
+    ],
+    "been": [
+      56
+    ],
+    "observed": [
+      57,
+      147
+    ],
+    "to": [
+      58,
+      81
+    ],
+    "indicate": [
+      59
+    ],
+    "NPF.": [
+      60,
+      84,
+      138,
+      177
+    ],
+    "In": [
+      61,
+      139
+    ],
+    "this": [
+      62
+    ],
+    "work,": [
+      63
+    ],
+    "were": [
+      67,
+      111,
+      120
+    ],
+    "studied": [
+      68
+    ],
+    "with": [
+      69,
+      165
+    ],
+    "the": [
+      70,
+      74,
+      103,
+      125,
+      141,
+      146,
+      162,
+      170
+    ],
+    "aim": [
+      71
+    ],
+    "finding": [
+      73
+    ],
+    "best": [
+      75,
+      171
+    ],
+    "suited": [
+      76,
+      135
+    ],
+    "size": [
+      77,
+      91
+    ],
+    "range": [
+      78
+    ],
+    "ions": [
+      80,
+      127,
+      164
+    ],
+    "characterize": [
+      82
+    ],
+    "local": [
+      83,
+      176
+    ],
+    "Both": [
+      85
+    ],
+    "negative": [
+      86,
+      126,
+      163
+    ],
+    "positive": [
+      88
+    ],
+    "distributions": [
+      92
+    ],
+    "measured": [
+      93
+    ],
+    "Neutral": [
+      95
+    ],
+    "cluster": [
+      96
+    ],
+    "Air": [
+      98
+    ],
+    "Ion": [
+      99,
+      113
+    ],
+    "Spectrometer": [
+      100
+    ],
+    "(NAIS)": [
+      101
+    ],
+    "at": [
+      102
+    ],
+    "SMEAR": [
+      104
+    ],
+    "II": [
+      105
+    ],
+    "measurement": [
+      106
+    ],
+    "station": [
+      107
+    ],
+    "Hyyti&auml;l&auml;,": [
+      109
+    ],
+    "Finland": [
+      110
+    ],
+    "used.": [
+      112
+    ],
+    "sizes": [
+      114
+    ],
+    "between": [
+      115,
+      128
+    ],
+    "1.6": [
+      116
+    ],
+    "3": [
+      118
+    ],
+    "nm": [
+      119,
+      132,
+      149,
+      168
+    ],
+    "considered.": [
+      121
+    ],
+    "We": [
+      122
+    ],
+    "found": [
+      123
+    ],
+    "that": [
+      124
+    ],
+    "2.0": [
+      129
+    ],
+    "2.3": [
+      131
+    ],
+    "are": [
+      133
+    ],
+    "well": [
+      134
+    ],
+    "for": [
+      136,
+      156,
+      173
+    ],
+    "representing": [
+      137
+    ],
+    "addition,": [
+      140
+    ],
+    "influence": [
+      142
+    ],
+    "transport": [
+      144
+    ],
+    "2.0&ndash;2.3": [
+      148,
+      167
+    ],
+    "considerably": [
+      153
+    ],
+    "smaller": [
+      154
+    ],
+    "than": [
+      155
+    ],
+    "larger": [
+      157
+    ],
+    "ions.": [
+      158
+    ],
+    "Therefore,": [
+      159
+    ],
+    "we": [
+      160
+    ],
+    "recommend": [
+      161
+    ],
+    "diameters": [
+      166
+    ],
+    "choice": [
+      172
+    ],
+    "characterization": [
+      174
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4383681633",
+  "counts_by_year": [],
+  "updated_date": "2025-06-16T19:01:44.395066",
+  "created_date": "2023-07-10"
+}

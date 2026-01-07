@@ -1,0 +1,1429 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        16
+      ]
+    ],
+    "date-time": "2025-07-16T13:17:51Z",
+    "timestamp": 1752671871691,
+    "version": "3.37.3"
+  },
+  "reference-count": 216,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Information and Technology Research Center (ITRC) Support Program",
+      "award": [
+        "IITP-2024-RS-2022-00156354"
+      ]
+    },
+    {
+      "name": "Metaverse Support Program to Nurture the Best Talents"
+    },
+    {
+      "name": "Ministry of Science and Information and Communication Technology (ICT) of Korea and the Institute of Information and Communications Technology Planning and Evaluation",
+      "award": [
+        "IITP-2024-RS-2023-00254529"
+      ]
+    },
+    {
+      "DOI": "10.13039/501100003661",
+      "name": "Ministry of Trade, Industry and Energy and Korea Institute for Advancement of Technology",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "P0016038"
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100003661",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "IEEE Access"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "DOI": "10.1109/access.2024.3374769",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        7
+      ]
+    ],
+    "date-time": "2024-03-07T19:21:49Z",
+    "timestamp": 1709839309000
+  },
+  "page": "42992-43026",
+  "source": "Crossref",
+  "is-referenced-by-count": 11,
+  "title": [
+    "Cultural Heritage Information Retrieval: Past, Present, and Future Trends"
+  ],
+  "prefix": "10.1109",
+  "volume": "12",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-8324-4339",
+      "authenticated-orcid": false,
+      "given": "Babak",
+      "family": "Ranjgar",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Energy, Politecnico di Milano, Milan, Italy"
+        }
+      ]
+    },
+    {
+      "given": "Abolghasem",
+      "family": "Sadeghi-Niaraki",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Computer Science and Engineering, Sejong University, Seoul, Republic of Korea"
+        }
+      ]
+    },
+    {
+      "given": "Maryam",
+      "family": "Shakeri",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Graduate School of Culture Technology, Korea Advanced Institute of Science Technology (KAIST), Daejeon, Republic of Korea"
+        }
+      ]
+    },
+    {
+      "given": "Fatema",
+      "family": "Rahimi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Computer Science and Engineering, Sejong University, Seoul, Republic of Korea"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6710-1434",
+      "authenticated-orcid": false,
+      "given": "Soo-Mi",
+      "family": "Choi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Computer Science and Engineering, Sejong University, Seoul, Republic of Korea"
+        }
+      ]
+    }
+  ],
+  "member": "263",
+  "reference": [
+    {
+      "key": "ref1",
+      "first-page": "111",
+      "article-title": "Representing knowledge in archaeology: From cataloguing cards to semantic web",
+      "volume": "20",
+      "author": "Signore",
+      "year": "2009",
+      "journal-title": "Archeologia E Calcolatori"
+    },
+    {
+      "volume-title": "Google’s vint cerf warns of ‘digital dark age",
+      "year": "2015",
+      "author": "Ghosh",
+      "key": "ref2"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14445/22312803/IJCTT-V38P109"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4842-4106-6_4"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-77385-4_30"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-25956-5_30"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-65370-9_6"
+    },
+    {
+      "issue": "5",
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "first-page": "34",
+      "DOI": "10.1038/scientificamerican0501-34",
+      "article-title": "The semantic web",
+      "volume": "284",
+      "author": "Berners-Lee",
+      "year": "2001",
+      "journal-title": "Sci. Amer."
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/mis.2006.62"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10588-018-09285-y"
+    },
+    {
+      "issue": "2",
+      "key": "ref11",
+      "first-page": "155",
+      "article-title": "Editorial of special issue on cultural heritage and semantic web technology",
+      "volume": "14",
+      "author": "Alam",
+      "year": "2022",
+      "journal-title": "Semantic Web—Interoperability, Usability, Applicability"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-031-79438-4"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.31559/GJEB2022.12.3.9"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/WHATT-03-2022-0035"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.11591/ijeecs.v12.i3.pp1373-1379"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/land11020304"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5937/ekopolj2202483s"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.25255/jss.2022.11.3.93.101"
+    },
+    {
+      "key": "ref19",
+      "article-title": "Design of China’s intangible cultural heritage inheritance and protection system based on intelligent media technology",
+      "volume-title": "Proc. SPIE",
+      "volume": "12703",
+      "author": "Qi"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0961000619872529"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4236/ce.2016.72037"
+    },
+    {
+      "key": "ref22",
+      "first-page": "11",
+      "article-title": "Semantic web in cultural heritage after 2020",
+      "volume-title": "Proc. 11th Int. Semantic Web Conf.",
+      "author": "Vavliakis"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/heritage2020093"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.culher.2020.05.008"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/sw-223105"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/gkmc-04-2023-0125"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5771/0943-7444-2021-2-152"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10462-019-09773-w"
+    },
+    {
+      "volume-title": "Cataloging and Classification: An Introduction",
+      "year": "2023",
+      "author": "Salaba",
+      "key": "ref29"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/jkm-03-2022-0172"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cie.2022.108940"
+    },
+    {
+      "key": "ref32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/oir-06-2015-0180"
+    },
+    {
+      "volume-title": "Guidelines for the Construction, Format, and Management of Monolingual Controlled Vocabularies",
+      "year": "2005",
+      "key": "ref33"
+    },
+    {
+      "key": "ref34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2023.121558"
+    },
+    {
+      "key": "ref35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1162/dint_a_00186"
+    },
+    {
+      "key": "ref36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/vjikms-09-2020-0159"
+    },
+    {
+      "key": "ref37",
+      "article-title": "Archival metadata",
+      "volume-title": "DCC Digital Curation Manual",
+      "author": "van Ballegooie",
+      "year": "2006"
+    },
+    {
+      "key": "ref38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/584792.584868"
+    },
+    {
+      "key": "ref39",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/00242530810865475"
+    },
+    {
+      "key": "ref40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1667062.1667064"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-76298-0_30"
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-031-35734-3_31"
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.websem.2008.08.001"
+    },
+    {
+      "key": "ref44",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/00012531111164978"
+    },
+    {
+      "key": "ref45",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/llc/fqac081"
+    },
+    {
+      "key": "ref46",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/s0169-023x(97)00056-6"
+    },
+    {
+      "key": "ref47",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/s0269888900007797"
+    },
+    {
+      "key": "ref48",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/knac.1993.1008"
+    },
+    {
+      "issue": "1",
+      "key": "ref49",
+      "first-page": "17",
+      "article-title": "What is a knowledge representation?",
+      "volume": "14",
+      "author": "Davis",
+      "year": "1993",
+      "journal-title": "AI Mag."
+    },
+    {
+      "volume-title": "Definition of the CIDOC conceptual reference model. version 6.2.3",
+      "year": "2018",
+      "author": "Le Boeuf",
+      "key": "ref50"
+    },
+    {
+      "key": "ref51",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/3-540-39967-4_8"
+    },
+    {
+      "key": "ref52",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-92673-3_4"
+    },
+    {
+      "issue": "3",
+      "key": "ref53",
+      "first-page": "75",
+      "article-title": "The CIDOC conceptual reference module: An ontological approach to semantic interoperability of metadata",
+      "volume": "24",
+      "author": "Doerr",
+      "year": "2003",
+      "journal-title": "AI Mag"
+    },
+    {
+      "key": "ref54",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-92673-3_21"
+    },
+    {
+      "key": "ref55",
+      "first-page": "1",
+      "article-title": "An implementation of the CIDOC conceptual reference model (4.2. 4) in OWL-DL",
+      "volume-title": "Proc. Annual Conf. CIDOC Digit. Curation Cultural Heritage",
+      "author": "Goerz"
+    },
+    {
+      "key": "ref56",
+      "first-page": "160",
+      "article-title": "The ABC ontology and model",
+      "volume-title": "Proc. Int. Conf. Dublin Core Metadata Appl.",
+      "author": "Lagoze"
+    },
+    {
+      "issue": "1",
+      "key": "ref57",
+      "article-title": "Towards a core ontology for information integration",
+      "volume": "4",
+      "author": "Doerr",
+      "year": "2003",
+      "journal-title": "J. Digit. Inf."
+    },
+    {
+      "volume-title": "Definition of FRBRoo: A Conceptual Model for Bibliographic Information in Object-Oriented Formalism",
+      "year": "2017",
+      "author": "Bekiari",
+      "key": "ref58"
+    },
+    {
+      "article-title": "FRBR and serials: The PRESSoo model",
+      "volume-title": "Proc. IFLA WLIC",
+      "author": "Le Boeuf",
+      "key": "ref59"
+    },
+    {
+      "key": "ref60",
+      "first-page": "1",
+      "article-title": "CRMdig: A generic digital provenance model for scientific observation",
+      "volume-title": "Proc. 3rd USENIX Workshop Theory Practice Provenance",
+      "author": "Doerr"
+    },
+    {
+      "key": "ref61",
+      "article-title": "Provenance information in the web of data",
+      "volume": "538",
+      "author": "Hartig",
+      "year": "2009",
+      "journal-title": "LDOW"
+    },
+    {
+      "volume-title": "CRMsci: The scientific observation model",
+      "year": "2014",
+      "author": "Doerr",
+      "key": "ref62"
+    },
+    {
+      "volume-title": "CRMinf: The argumentation model. An extension of CIDOC-CRM to support argumentation",
+      "year": "2015",
+      "author": "Stead",
+      "key": "ref63"
+    },
+    {
+      "volume-title": "Definition of the CRMarchaeo. Version 1.4.8",
+      "year": "2019",
+      "author": "Felicetti",
+      "key": "ref64"
+    },
+    {
+      "key": "ref65",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00799-015-0160-4"
+    },
+    {
+      "key": "ref66",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00799-016-0193-3"
+    },
+    {
+      "volume-title": "CRMgeo: Linking the CIDOC CRM to GeoSPARQL through a spatiotemporal refinement",
+      "year": "2013",
+      "author": "Doerr",
+      "key": "ref67"
+    },
+    {
+      "key": "ref68",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00799-016-0192-4"
+    },
+    {
+      "key": "ref69",
+      "first-page": "89",
+      "article-title": "Methodological tips for mappings to CIDOC CRM",
+      "volume-title": "Proc. 44th Conf. Comput. Appl. Quant. Methods Archaeology",
+      "author": "Theodoridou"
+    },
+    {
+      "key": "ref70",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4995/var.2018.8884"
+    },
+    {
+      "key": "ref71",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3064527"
+    },
+    {
+      "key": "ref72",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-00668-6_20"
+    },
+    {
+      "key": "ref73",
+      "first-page": "1017",
+      "article-title": "WissKI: A virtual research environment for cultural heritage",
+      "volume": "242",
+      "author": "Scholz",
+      "year": "2012",
+      "journal-title": "Frontiers Artif. Intell. Appl."
+    },
+    {
+      "key": "ref74",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-34234-9_87"
+    },
+    {
+      "volume-title": "Ontological modelling of the work of the centre for archaeology",
+      "year": "2004",
+      "author": "Cripps",
+      "key": "ref75"
+    },
+    {
+      "key": "ref76",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-87599-4_30"
+    },
+    {
+      "key": "ref77",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/digitalheritage.2015.7419508"
+    },
+    {
+      "key": "ref78",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-68234-9_10"
+    },
+    {
+      "key": "ref79",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/sw-2012-0049"
+    },
+    {
+      "key": "ref80",
+      "first-page": "15",
+      "article-title": "The Europeana data model (EDM)",
+      "volume-title": "Proc. World Library Inf. Congr., 76th IFLA General Conf. Assembly",
+      "volume": "2010",
+      "author": "Doerr"
+    },
+    {
+      "key": "ref81",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/isprsannals-ii-5-w1-55-2013"
+    },
+    {
+      "key": "ref82",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/heritage1020026"
+    },
+    {
+      "key": "ref83",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2757001.2757003"
+    },
+    {
+      "key": "ref84",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/sw-200387"
+    },
+    {
+      "key": "ref85",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-67162-8_34"
+    },
+    {
+      "key": "ref86",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3465741"
+    },
+    {
+      "key": "ref87",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2384716.2384777"
+    },
+    {
+      "key": "ref88",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-45507-5_14"
+    },
+    {
+      "key": "ref89",
+      "article-title": "On converting community detection algorithms for fuzzy graphs in Neo4j",
+      "author": "Drakopoulos",
+      "year": "2016",
+      "journal-title": "arXiv:1608.02235"
+    },
+    {
+      "key": "ref90",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.procir.2016.08.023"
+    },
+    {
+      "key": "ref91",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/isprs-archives-xliii-b4-2021-47-2021"
+    },
+    {
+      "volume-title": "Towards knowledge management system for DevOps: Design research of the architectural concept",
+      "year": "2021",
+      "author": "Rodionov",
+      "key": "ref92"
+    },
+    {
+      "key": "ref93",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-13489-0_36"
+    },
+    {
+      "key": "ref94",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1553/giscience2018_02_s13"
+    },
+    {
+      "key": "ref95",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-80418-3_38"
+    },
+    {
+      "key": "ref96",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/isprs-archives-xlviii-m-2-2023-943-2023"
+    },
+    {
+      "key": "ref97",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/ao-180201"
+    },
+    {
+      "key": "ref98",
+      "first-page": "128",
+      "article-title": "Integrating Dublin core metadata for cultural heritage collections using ontologies",
+      "volume-title": "Proc. Int. Conf. Dublin Core Metadata Appl.",
+      "author": "Kakali"
+    },
+    {
+      "key": "ref99",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14429/djlit.31.2.863"
+    },
+    {
+      "key": "ref100",
+      "first-page": "1",
+      "article-title": "OntoBellini: Towards an RDA based ontology for Vincenzo Bellinis cultural heritage",
+      "volume-title": "Proc. JOWO",
+      "author": "Cristofaro"
+    },
+    {
+      "key": "ref101",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.35321/term28-04"
+    },
+    {
+      "key": "ref102",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0961000617709060"
+    },
+    {
+      "key": "ref103",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01639374.2020.1862380"
+    },
+    {
+      "key": "ref104",
+      "first-page": "10",
+      "article-title": "Libraries and archives: Sharing standards to facilitate access to cultural heritage",
+      "volume-title": "Proc. World Library Inf. Congr., 74th IFLA General Conf. Council",
+      "author": "Leresche"
+    },
+    {
+      "key": "ref105",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01639374.2014.921659"
+    },
+    {
+      "key": "ref106",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2390867.2390869"
+    },
+    {
+      "key": "ref107",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3403/30234187"
+    },
+    {
+      "key": "ref108",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/00012530610713597"
+    },
+    {
+      "key": "ref109",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/skima.2017.8294117"
+    },
+    {
+      "key": "ref110",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-93417-4_15"
+    },
+    {
+      "key": "ref111",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00799-018-0259-5"
+    },
+    {
+      "key": "ref112",
+      "first-page": "1",
+      "article-title": "Semantic e-goverment portals—A case study",
+      "volume-title": "Proc. Workshop Semantic Web Case Stud. Best Practices eBusiness",
+      "author": "Sidoroff"
+    },
+    {
+      "key": "ref113",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-92673-3_34"
+    },
+    {
+      "key": "ref114",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.websem.2005.05.008"
+    },
+    {
+      "key": "ref115",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-02121-3_69"
+    },
+    {
+      "key": "ref116",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/sw-223034"
+    },
+    {
+      "key": "ref117",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-04810-9_3"
+    },
+    {
+      "key": "ref118",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0340035209360764"
+    },
+    {
+      "volume-title": "LIDO—Lightweight information describing objects version 1.0",
+      "year": "2010",
+      "author": "Coburn",
+      "key": "ref119"
+    },
+    {
+      "volume-title": "Linked Data-Design Issues",
+      "year": "2006",
+      "author": "Berners-Lee",
+      "key": "ref120"
+    },
+    {
+      "key": "ref121",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-60960-593-3.ch008"
+    },
+    {
+      "key": "ref122",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1367497.1367760"
+    },
+    {
+      "key": "ref123",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-30284-8_56"
+    },
+    {
+      "key": "ref124",
+      "first-page": "94",
+      "article-title": "The Europeana linked open data pilot",
+      "volume-title": "Proc. Int. Conf. Dublin Core Metadata Appl.",
+      "author": "Haslhofer"
+    },
+    {
+      "key": "ref125",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/sw-120092"
+    },
+    {
+      "key": "ref126",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/9789048516865.030"
+    },
+    {
+      "key": "ref127",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-38288-8_40"
+    },
+    {
+      "key": "ref128",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-64619-6_7"
+    },
+    {
+      "key": "ref129",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/waina.2016.151"
+    },
+    {
+      "volume-title": "Artificial intelligence in education: Challenges and opportunities for sustainable development",
+      "year": "2019",
+      "author": "Pedro",
+      "key": "ref130"
+    },
+    {
+      "volume-title": "Artificial intelligence for sustainable development: Synthesis report, mobile learning week 2019",
+      "year": "2019",
+      "author": "Chakroun",
+      "key": "ref131"
+    },
+    {
+      "key": "ref132",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/13527258.2019.1578989"
+    },
+    {
+      "key": "ref133",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-7998-1234-0.ch015"
+    },
+    {
+      "key": "ref134",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jvlc.2018.06.005"
+    },
+    {
+      "key": "ref135",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.culher.2019.07.019"
+    },
+    {
+      "key": "ref136",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3316414"
+    },
+    {
+      "key": "ref137",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/skima47702.2019.8982520"
+    },
+    {
+      "key": "ref138",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/jimaging7080121"
+    },
+    {
+      "key": "ref139",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5771/9783956507762-470"
+    },
+    {
+      "key": "ref140",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/11926078_20"
+    },
+    {
+      "key": "ref141",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s13222-016-0238-1"
+    },
+    {
+      "key": "ref142",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/vsmm.2012.6365960"
+    },
+    {
+      "key": "ref143",
+      "first-page": "1",
+      "article-title": "Racer: A core inference engine for the semantic web",
+      "volume-title": "Proc. EON",
+      "author": "Haarslev"
+    },
+    {
+      "key": "ref144",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/11814771_26"
+    },
+    {
+      "key": "ref145",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.websem.2007.03.004"
+    },
+    {
+      "key": "ref146",
+      "first-page": "91",
+      "article-title": "Hermit: A highly-efficient OWL reasoner",
+      "volume-title": "Proc. Owled",
+      "author": "Shearer"
+    },
+    {
+      "key": "ref147",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5220/0001283502760281"
+    },
+    {
+      "key": "ref148",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/vlhcc.2017.8103474"
+    },
+    {
+      "volume-title": "OWL rules, ok?",
+      "year": "2005",
+      "author": "Horrocks",
+      "key": "ref149"
+    },
+    {
+      "issue": "79",
+      "key": "ref150",
+      "first-page": "1",
+      "article-title": "SWRL: A semantic web rule language combining OWL and RuleML",
+      "volume": "21",
+      "author": "Horrocks",
+      "year": "2004",
+      "journal-title": "W3C Member submission"
+    },
+    {
+      "key": "ref151",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00799-008-0034-0"
+    },
+    {
+      "key": "ref152",
+      "first-page": "15",
+      "article-title": "CultureSampo—Finnish culture on the semantic web 2.0. Thematic perspectives for the end-user",
+      "volume-title": "Proc. Museums Web",
+      "author": "Hyvonen"
+    },
+    {
+      "key": "ref153",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/digitalheritage.2013.6743787"
+    },
+    {
+      "key": "ref154",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/geosciences7040093"
+    },
+    {
+      "key": "ref155",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.culher.2018.02.009"
+    },
+    {
+      "key": "ref156",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/tvcg.2018.2830759"
+    },
+    {
+      "key": "ref157",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/mcg.2002.1028726"
+    },
+    {
+      "key": "ref158",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3145534"
+    },
+    {
+      "key": "ref159",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/1369118x.2010.542826"
+    },
+    {
+      "key": "ref160",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-16438-5_18"
+    },
+    {
+      "key": "ref161",
+      "first-page": "185",
+      "article-title": "LOD4AR: Exploring linked open data with a mobile augmented reality web application",
+      "volume-title": "Proc. ISWC",
+      "author": "Vert"
+    },
+    {
+      "key": "ref162",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11042-017-4868-6"
+    },
+    {
+      "key": "ref163",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-92046-7_15"
+    },
+    {
+      "issue": "3",
+      "key": "ref164",
+      "doi-asserted-by": "crossref",
+      "first-page": "94",
+      "DOI": "10.1038/scientificamerican0991-94",
+      "article-title": "The computer for the 21 st century",
+      "volume": "265",
+      "author": "Weiser",
+      "year": "1991",
+      "journal-title": "Sci. Amer."
+    },
+    {
+      "key": "ref165",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/wmcsa.1994.16"
+    },
+    {
+      "key": "ref166",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s007790170019"
+    },
+    {
+      "key": "ref167",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3012284"
+    },
+    {
+      "key": "ref168",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.websem.2013.03.001"
+    },
+    {
+      "key": "ref169",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s40494-021-00635-9"
+    },
+    {
+      "key": "ref170",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/su12041666"
+    },
+    {
+      "key": "ref171",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00934690.2018.1511960"
+    },
+    {
+      "key": "ref172",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5334/pp.58"
+    },
+    {
+      "key": "ref173",
+      "first-page": "67",
+      "article-title": "Reflecting on European history with the help of technology: The crosscult project",
+      "volume-title": "Proc. GCH",
+      "author": "Lykourentzou"
+    },
+    {
+      "key": "ref174",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/aap.2018.1"
+    },
+    {
+      "volume-title": "Cultural Heritage Infrastructures in Digital Humanities",
+      "year": "2018",
+      "author": "Webster",
+      "key": "ref175"
+    },
+    {
+      "key": "ref176",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/smap53521.2021.9610815"
+    },
+    {
+      "key": "ref177",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1561/116.00000038"
+    },
+    {
+      "key": "ref178",
+      "first-page": "1",
+      "article-title": "Towards bridging the semantic gap in multimedia annotation and retrieval",
+      "volume-title": "Proc. 1st Int. Workshop Semantic Web Annotations Multimedia",
+      "author": "Vembu"
+    },
+    {
+      "key": "ref179",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11042-009-0387-4"
+    },
+    {
+      "key": "ref180",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00146-021-01371-1"
+    },
+    {
+      "key": "ref181",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3115/v1/W14-0607"
+    },
+    {
+      "key": "ref182",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/llc/fqt067"
+    },
+    {
+      "key": "ref183",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0165551518812658"
+    },
+    {
+      "key": "ref184",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3626254"
+    },
+    {
+      "key": "ref185",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.culher.2018.04.023"
+    },
+    {
+      "issue": "2",
+      "key": "ref186",
+      "first-page": "60",
+      "article-title": "The future of museums in the digital age: New models for access to and use of digital collections",
+      "volume": "15",
+      "author": "Bertacchini",
+      "year": "2013",
+      "journal-title": "Int. J. Arts Manag."
+    },
+    {
+      "volume-title": "Cultural heritage counts for Europe full report",
+      "year": "2015",
+      "author": "Jagodzińska",
+      "key": "ref187"
+    },
+    {
+      "issue": "1",
+      "key": "ref188",
+      "first-page": "91",
+      "article-title": "Digital innovation for cultural heritage: Lessons from the European year of cultural heritage",
+      "volume": "9",
+      "author": "Lykourentzou",
+      "year": "2019",
+      "journal-title": "Scires-Sci. Res. Inf. Technol."
+    },
+    {
+      "key": "ref189",
+      "first-page": "1",
+      "article-title": "‘80% of all information is geospatially referenced? Towards a Research Framework: Using the semantic web for (in) validating this famous geo assertion",
+      "volume-title": "Proc. 14th AGILE Conf. Geographic Inf. Sci.",
+      "author": "Hahmann"
+    },
+    {
+      "key": "ref190",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/13875868.2022.2111683"
+    },
+    {
+      "issue": "1",
+      "key": "ref191",
+      "first-page": "9",
+      "article-title": "An overview and definition of GIS",
+      "volume": "1",
+      "author": "Maguire",
+      "year": "1991",
+      "journal-title": "Geographical Inf. Syst., Princ. Appl."
+    },
+    {
+      "key": "ref192",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/585147.585148"
+    },
+    {
+      "key": "ref193",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/11496168_1"
+    },
+    {
+      "key": "ref194",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/vsmm.2012.6365947"
+    },
+    {
+      "key": "ref195",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/02630800910985108"
+    },
+    {
+      "key": "ref196",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/3-540-27468-5_63"
+    },
+    {
+      "key": "ref197",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-34234-9_24"
+    },
+    {
+      "key": "ref198",
+      "first-page": "325",
+      "article-title": "An analytical framework for classifying software tools and systems dealing with cultural heritage spatio-temporal information",
+      "volume-title": "Proc. Int. Conf. Spatial Inf. Theory",
+      "author": "Jancsc"
+    },
+    {
+      "key": "ref199",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/fi15060213"
+    },
+    {
+      "key": "ref200",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-61520-867-8.ch004"
+    },
+    {
+      "key": "ref201",
+      "first-page": "1",
+      "article-title": "Spatio-temporal reasoning in CIDOC CRM: An hybrid ontology with GeoSPARQL and OWL-time",
+      "volume-title": "Proc. CEUR Workshop",
+      "author": "Nys"
+    },
+    {
+      "key": "ref202",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780429506765-13"
+    },
+    {
+      "key": "ref203",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.2151-6952.2001.tb00027.x"
+    },
+    {
+      "key": "ref204",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-04028-4_70"
+    },
+    {
+      "key": "ref205",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s41019-016-0007-z"
+    },
+    {
+      "key": "ref206",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/access.2023.3268528"
+    },
+    {
+      "key": "ref207",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/access.2023.3311135"
+    },
+    {
+      "key": "ref208",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-45324-3_12"
+    },
+    {
+      "key": "ref209",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-12337-0_28"
+    },
+    {
+      "key": "ref210",
+      "first-page": "11",
+      "article-title": "The EMOTIVE project-emotive virtual cultural experiences through personalized storytelling",
+      "volume-title": "Proc. Cira@ Euromed",
+      "author": "Katifori"
+    },
+    {
+      "key": "ref211",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/access.2023.3272641"
+    },
+    {
+      "key": "ref212",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-53640-8_17"
+    },
+    {
+      "key": "ref213",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/icsc.2016.50"
+    },
+    {
+      "key": "ref214",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.22364/bjmc.2018.6.4.07"
+    },
+    {
+      "key": "ref215",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-7998-1974-5.ch009"
+    },
+    {
+      "key": "ref216",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/13683500.2017.1373753"
+    }
+  ],
+  "container-title": [
+    "IEEE Access"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx7/6287639/10380310/10463018.pdf?arnumber=10463018",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2024-03-28T20:36:37Z",
+    "timestamp": 1711658197000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/10463018/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "references-count": 216,
+  "URL": "https://doi.org/10.1109/access.2024.3374769",
+  "relation": {},
+  "ISSN": [
+    "2169-3536"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2169-3536"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  }
+}

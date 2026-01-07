@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.folder.startsWith("PDF")
+    - file.folder != "PDF/Peninsula"
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.backlinks
+      - file.ctime
+      - author
+    sort:
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 341
+      file.backlinks: 398
+      file.ctime: 65

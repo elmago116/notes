@@ -1,0 +1,784 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T06:51:13Z",
+    "timestamp": 1755672673728
+  },
+  "reference-count": 54,
+  "publisher": "Elsevier BV",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2016-11-01T00:00:00Z",
+        "timestamp": 1477958400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Informetrics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.joi.2016.10.004",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        10,
+        22
+      ]
+    ],
+    "date-time": "2016-10-22T01:16:03Z",
+    "timestamp": 1477098963000
+  },
+  "page": "1166-1177",
+  "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 103,
+  "title": [
+    "The impact of author-selected keywords on citation counts"
+  ],
+  "prefix": "10.1016",
+  "volume": "10",
+  "author": [
+    {
+      "given": "Shahadat",
+      "family": "Uddin",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Arif",
+      "family": "Khan",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0005",
+      "series-title": "Excellence in research in Auatralia (ERA)",
+      "author": "ARC",
+      "year": "2015"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "683",
+      "DOI": "10.1016/j.joi.2013.04.004",
+      "article-title": "Research impact and scholars’ geographical diversity",
+      "volume": "7",
+      "author": "Abbasi",
+      "year": "2013",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.joi.2016.10.004_bib0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "594",
+      "DOI": "10.1016/j.joi.2011.05.007",
+      "article-title": "Identifying the effects of co-authorship networks on the performance of scholars: A correlation and regression analysis of performance measures and social network analysis measures",
+      "volume": "5",
+      "author": "Abbasi",
+      "year": "2011",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "687",
+      "DOI": "10.1007/s11192-011-0463-1",
+      "article-title": "Evolutionary dynamics of scientific collaboration networks: Multi-levels and cross-time analysis",
+      "volume": "89",
+      "author": "Abbasi",
+      "year": "2011",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "140",
+      "DOI": "10.1080/00779954.2013.772879",
+      "article-title": "Evaluating research–peer review team assessment and journal based bibliographic measures: New Zealand PBRF research output scores in 2006",
+      "volume": "47",
+      "author": "Anderson",
+      "year": "2013",
+      "journal-title": "New Zealand Economic Papers"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.joi.2016.10.004_bib0030",
+      "first-page": "e99502",
+      "article-title": "Co-authorship and bibliographic coupling network effects on citations",
+      "volume": "9",
+      "author": "Biscaro",
+      "year": "2014",
+      "journal-title": "Public Library of Science"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1016/j.joi.2011.08.004",
+      "article-title": "What factors determine citation counts of publications in chemistry besides their quality?",
+      "volume": "6",
+      "author": "Bornmann",
+      "year": "2012",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0040",
+      "series-title": "Proceedings of the 10th international conference of the international society for scientometrics and informetrics",
+      "article-title": "Predicting the importance of current papers",
+      "author": "Boyack",
+      "year": "2005"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.joi.2016.10.004_bib0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "608",
+      "DOI": "10.1016/j.joi.2011.05.008",
+      "article-title": "Non-alphanumeric characters in titles of scientific publications: An analysis of their occurrence and correlation with citation impact",
+      "volume": "5",
+      "author": "Buter",
+      "year": "2011",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0050",
+      "series-title": "Looking for information: A survey of research on information seeking, needs and behavior",
+      "author": "Case",
+      "year": "2012"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "745",
+      "DOI": "10.1007/s11192-016-2003-5",
+      "article-title": "Time-aware link prediction to explore network effects on temporal knowledge evolution",
+      "volume": "108",
+      "author": "Choudhury",
+      "year": "2016",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.joi.2016.10.004_bib0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "370",
+      "DOI": "10.1056/NEJMsa066082",
+      "article-title": "The spread of obesity in a large social network over 32 years",
+      "volume": "357",
+      "author": "Christakis",
+      "year": "2007",
+      "journal-title": "New England Journal of Medicine"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "239",
+      "DOI": "10.1016/j.joi.2007.04.001",
+      "article-title": "Do open access articles have greater citation impact? A critical review of the literature",
+      "volume": "1",
+      "author": "Craig",
+      "year": "2007",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "100",
+      "DOI": "10.1093/ije/dyi276",
+      "article-title": "Food environments and obesity—Neighbourhood or nation?",
+      "volume": "35",
+      "author": "Cummins",
+      "year": "2006",
+      "journal-title": "International Journal of Epidemiology"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0075",
+      "series-title": "How to write and publish a scientific paper",
+      "author": "Day",
+      "year": "2012"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.joi.2016.10.004_bib0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "1055",
+      "DOI": "10.1002/asi.22806",
+      "article-title": "Determinants of research citation impact in nanoscience and nanotechnology",
+      "volume": "64",
+      "author": "Didegah",
+      "year": "2013",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "207",
+      "DOI": "10.1007/s11192-011-0452-4",
+      "article-title": "The research productivity of academic psychologists: Assessment, trends, and best practice recommendations",
+      "volume": "89",
+      "author": "Duffy",
+      "year": "2011",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "131",
+      "DOI": "10.1007/s11192-006-0144-7",
+      "article-title": "Theory and practise of the g-index",
+      "volume": "69",
+      "author": "Egghe",
+      "year": "2006",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "338",
+      "DOI": "10.1096/fj.07-9492LSF",
+      "article-title": "Comparison of PubMed, Scopus, web of science, and Google scholar: Strengths and weaknesses",
+      "volume": "22",
+      "author": "Falagas",
+      "year": "2008",
+      "journal-title": "The FASEB Journal"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0100",
+      "series-title": "Discovering statistics using SPSS",
+      "author": "Field",
+      "year": "2009"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.1037/h0057532",
+      "article-title": "A new readability yardstick",
+      "volume": "32",
+      "author": "Flesch",
+      "year": "1948",
+      "journal-title": "Journal of Applied Psychology"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.joi.2016.10.004_bib0110",
+      "first-page": "979",
+      "article-title": "Journal impact factor: A brief review",
+      "volume": "161",
+      "author": "Garfield",
+      "year": "1999",
+      "journal-title": "Canadian Medical Association Journal"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "90",
+      "DOI": "10.1001/jama.295.1.90",
+      "article-title": "The history and meaning of the journal impact factor",
+      "volume": "295",
+      "author": "Garfield",
+      "year": "2006",
+      "journal-title": "Journal of American Medical Association"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "251",
+      "DOI": "10.1007/s11192-011-0343-8",
+      "article-title": "Investigating different types of research collaboration and citation impact: A case study of Harvard University's publications",
+      "volume": "87",
+      "author": "Gazni",
+      "year": "2011",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "323",
+      "DOI": "10.1002/asi.21688",
+      "article-title": "Mapping world scientific collaboration: Authors, institutions, and countries",
+      "volume": "63",
+      "author": "Gazni",
+      "year": "2012",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1177/0165551511401658",
+      "article-title": "Are the abstracts of high impact articles more readable? Investigating the evidence from top research institutions in the world",
+      "volume": "37",
+      "author": "Gazni",
+      "year": "2011",
+      "journal-title": "Journal of Information Science"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1177/030631277700700112",
+      "article-title": "Referencing as persuasion",
+      "author": "Gilbert",
+      "year": "1977",
+      "journal-title": "Social Studies of Science"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.joi.2016.10.004_bib0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "683",
+      "DOI": "10.1080/13662716.2013.856620",
+      "article-title": "Formal and informal knowledge and technology transfer from academia to industry: Complementarity effects and innovation performance",
+      "volume": "20",
+      "author": "Grimpe",
+      "year": "2013",
+      "journal-title": "Industry and Innovation"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "321",
+      "DOI": "10.1177/0306312702032002005",
+      "article-title": "Style and substance in psychology are influential articles more readable than less influential ones?",
+      "volume": "32",
+      "author": "Hartley",
+      "year": "2002",
+      "journal-title": "Social Studies of Science"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1007/s11192-007-1892-8",
+      "article-title": "What makes an article influential? Predicting impact in social and personality psychology",
+      "volume": "76",
+      "author": "Haslam",
+      "year": "2008",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "46",
+      "key": "10.1016/j.joi.2016.10.004_bib0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "16569",
+      "DOI": "10.1073/pnas.0507655102",
+      "article-title": "An index to quantify an individual's scientific research output",
+      "volume": "102",
+      "author": "Hirsch",
+      "year": "2005",
+      "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.joi.2016.10.004_bib0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "377",
+      "DOI": "10.1111/obr.12372",
+      "article-title": "Longitudinal trends in global obesity research and collaboration: A review using bibliometric metadata",
+      "volume": "17",
+      "author": "Khan",
+      "year": "2016",
+      "journal-title": "Obesity Reviews"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "513",
+      "DOI": "10.1007/s11192-007-1573-7",
+      "article-title": "The difference between highly and poorly cited medical articles in the journal Lancet",
+      "volume": "72",
+      "author": "Kostoff",
+      "year": "2007",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "6837",
+      "key": "10.1016/j.joi.2016.10.004_bib0170",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/35079151",
+      "article-title": "Free online availability substantially increases a paper's impact",
+      "volume": "411",
+      "author": "Lawrence",
+      "year": "2001",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "26",
+      "DOI": "10.5172/impp.12.1.26",
+      "article-title": "Investigating the structure of regional innovation system research through keyword co-occurrence and social network analysis",
+      "volume": "12",
+      "author": "Lee",
+      "year": "2010",
+      "journal-title": "Innovation"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.joi.2016.10.004_bib0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "150266",
+      "DOI": "10.1098/rsos.150266",
+      "article-title": "The advantage of short paper titles",
+      "volume": "2",
+      "author": "Letchford",
+      "year": "2015",
+      "journal-title": "Royal Society Open Science"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.joi.2015.11.001",
+      "article-title": "The advantage of simple paper abstracts",
+      "volume": "10",
+      "author": "Letchford",
+      "year": "2016",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "01",
+      "key": "10.1016/j.joi.2016.10.004_bib0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1142/S0218213004001466",
+      "article-title": "Keyword extraction from a single document using word co-occurrence statistical information",
+      "volume": "13",
+      "author": "Matsuo",
+      "year": "2004",
+      "journal-title": "International Journal on Artificial Intelligence Tools"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1080/07294360500453053",
+      "article-title": "Publish or perish: A systematic review of interventions to increase academic publication rates",
+      "volume": "25",
+      "author": "McGrail",
+      "year": "2006",
+      "journal-title": "Higher Education Research & Development"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0200",
+      "doi-asserted-by": "crossref",
+      "unstructured": "MeSH (2014). United States National Library of Medicine. 10.1155/2014/920985.",
+      "DOI": "10.1155/2014/920985"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0205",
+      "series-title": "The sociology of science: Theoretical and empirical investigations",
+      "author": "Merton",
+      "year": "1973"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "767",
+      "DOI": "10.1007/s11192-013-1058-9",
+      "article-title": "Comparison of a citation-based indicator and peer review for absolute and specific measures of research-group excellence",
+      "volume": "97",
+      "author": "Mryglod",
+      "year": "2013",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0215",
+      "first-page": "255",
+      "article-title": "How to write a scientific paper?",
+      "volume": "2",
+      "author": "Nadim",
+      "year": "2005",
+      "journal-title": "ASJOG"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1002/(SICI)1097-4571(199401)45:1<39::AID-ASI5>3.0.CO;2-Q",
+      "article-title": "On determinants of citation scores: A case study in chemical engineering",
+      "volume": "45",
+      "author": "Peters",
+      "year": "1994",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.joi.2016.10.004_bib0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "177",
+      "DOI": "10.1007/s11192-009-2126-z",
+      "article-title": "Do types of collaboration change citation? Collaboration and citation patterns of South African science publications",
+      "volume": "81",
+      "author": "Sooryamoorthy",
+      "year": "2009",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1509/jmkg.71.3.171",
+      "article-title": "The quest for citations: Drivers of article impact",
+      "volume": "71",
+      "author": "Stremersch",
+      "year": "2007",
+      "journal-title": "Journal of Marketing"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.joi.2016.10.004_bib0235",
+      "doi-asserted-by": "crossref",
+      "first-page": "876",
+      "DOI": "10.1002/asi.23236",
+      "article-title": "ResearchGate: Disseminating, communicating, and measuring scholarship?",
+      "volume": "66",
+      "author": "Thelwall",
+      "year": "2015",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "687",
+      "DOI": "10.1007/s11192-011-0511-x",
+      "article-title": "Trend and efficiency analysis of co-authorship network",
+      "volume": "90",
+      "author": "Uddin",
+      "year": "2012",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0245",
+      "first-page": "e57546",
+      "article-title": "Network effects on scientific collaborations",
+      "volume": "8",
+      "author": "Uddin",
+      "year": "2013",
+      "journal-title": "Public Library of Science"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.joi.2016.10.004_bib0250",
+      "first-page": "e0123537",
+      "article-title": "A framework to explore the knowledge structure of multidisciplinary research fields",
+      "volume": "10",
+      "author": "Uddin",
+      "year": "2015",
+      "journal-title": "Public Library of Science"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.joi.2016.10.004_bib0255",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1016/j.joi.2012.11.009",
+      "article-title": "Factors affecting citation rates in environmental science",
+      "volume": "7",
+      "author": "Vanclay",
+      "year": "2013",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.joi.2016.10.004_bib0260",
+      "first-page": "e93376",
+      "article-title": "International scientific collaboration in HIV and HPV: A network analysis",
+      "volume": "9",
+      "author": "Vanni",
+      "year": "2014",
+      "journal-title": "Public Library of Science"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0265",
+      "series-title": "Social network analysis: Methods and applications",
+      "author": "Wasserman",
+      "year": "2003"
+    },
+    {
+      "key": "10.1016/j.joi.2016.10.004_bib0270",
+      "series-title": "Keyword extraction using support vector machine. Advances in web-age information management",
+      "first-page": "85",
+      "author": "Zhang",
+      "year": "2006"
+    }
+  ],
+  "container-title": [
+    "Journal of Informetrics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1751157716301146?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1751157716301146?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2018,
+        9,
+        7
+      ]
+    ],
+    "date-time": "2018-09-07T09:28:40Z",
+    "timestamp": 1536312520000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1751157716301146"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        11
+      ]
+    ]
+  },
+  "references-count": 54,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S1751157716301146"
+  ],
+  "URL": "https://doi.org/10.1016/j.joi.2016.10.004",
+  "relation": {},
+  "ISSN": [
+    "1751-1577"
+  ],
+  "issn-type": [
+    {
+      "value": "1751-1577",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "The impact of author-selected keywords on citation counts",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Informetrics",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.joi.2016.10.004",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2016 Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

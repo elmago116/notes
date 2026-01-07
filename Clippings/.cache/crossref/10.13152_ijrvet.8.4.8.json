@@ -1,0 +1,178 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        18
+      ]
+    ],
+    "date-time": "2025-06-18T14:23:11Z",
+    "timestamp": 1750256591023
+  },
+  "reference-count": 0,
+  "publisher": "Uni Bremen Campus GmbH",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            12,
+            30
+          ]
+        ],
+        "date-time": "2021-12-30T00:00:00Z",
+        "timestamp": 1640822400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "IJRVET"
+  ],
+  "abstract": "<jats:p>Context: The research field at the boundary between learning and working is multidimensional, fuzzy, dynamic, and characterized by high growth. A study that comprehensively maps and aggregates this research field is missing. Approach: Using tools of bibliometric analysis (bibliographic coupling, co-citation analysis and co-occurrence analysis), we map the research at the boundary between learning and working in a scoping review study. Our study considers peer-reviewed articles published between 2011 and 2020 and recorded in Scopus. In total, 5,474 articles are included in our analysis. Findings: Focusing on the intellectual structure of the research field, we identified the most publishing and most cited countries, journals, and authors, as well as latent collaborative networks among countries, journals, and authors. Furthermore, we used references and keywords to identify the conceptual structure of the research field and distinguished four types of conceptual clusters: motor clusters, highly developed and isolated clusters, emerging or declining clusters, and basic and transversal clusters.Conclusions: Research at the boundary between learning and working is highly parcelled out internationally. This scientific parcelling represents a disadvantage for exchanging ideas and accumulating knowledge. In addition to forming a parcelled field, a dividing line runs between centre, periphery and excluded countries and scientists. Especially scientists from developing countries and nations, economies in transition and those from post-conflict situations are excluded from the international discourse. This situation is more than just a disadvantage for the exchange of ideas and the accumulation of knowledge. Instead, there is a systematic bias in the research landscape here. </jats:p>",
+  "DOI": "10.13152/ijrvet.8.4.8",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        1,
+        4
+      ]
+    ],
+    "date-time": "2022-01-04T08:11:24Z",
+    "timestamp": 1641283884000
+  },
+  "page": "170-206",
+  "source": "Crossref",
+  "is-referenced-by-count": 4,
+  "title": [
+    "Scoping Review on Research at the Boundary Between Learning and Working: A Bibliometric Mapping Analysis of the Last Decade"
+  ],
+  "prefix": "10.13152",
+  "volume": "8",
+  "author": [
+    {
+      "given": "Michael",
+      "family": "Gessler",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Christof",
+      "family": "Nägele",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Barbara E.",
+      "family": "Stalder",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "24934",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        30
+      ]
+    ]
+  },
+  "container-title": [
+    "International Journal for Research in Vocational Education and Training"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://journals.sub.uni-hamburg.de/hup2/ijrvet/article/download/873/318",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sub.uni-hamburg.de/hup2/ijrvet/article/download/873/318",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        1,
+        4
+      ]
+    ],
+    "date-time": "2022-01-04T08:11:24Z",
+    "timestamp": 1641283884000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sub.uni-hamburg.de/hup2/ijrvet/article/view/873"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        30
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          30
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.13152/ijrvet.8.4.8",
+  "relation": {},
+  "ISSN": [
+    "2197-8646",
+    "2197-8638"
+  ],
+  "issn-type": [
+    {
+      "value": "2197-8646",
+      "type": "electronic"
+    },
+    {
+      "value": "2197-8638",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        30
+      ]
+    ]
+  }
+}

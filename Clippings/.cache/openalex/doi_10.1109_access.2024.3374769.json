@@ -1,0 +1,1583 @@
+{
+  "id": "https://openalex.org/W4392567277",
+  "doi": "https://doi.org/10.1109/access.2024.3374769",
+  "title": "Cultural Heritage Information Retrieval: Past, Present, and Future Trends",
+  "display_name": "Cultural Heritage Information Retrieval: Past, Present, and Future Trends",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4392567277",
+    "doi": "https://doi.org/10.1109/access.2024.3374769"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1109/access.2024.3374769",
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10463018.pdf",
+    "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "issn_l": "2169-3536",
+      "issn": [
+        "2169-3536"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319808",
+      "host_organization_name": "Institute of Electrical and Electronics Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10463018.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5069573582",
+        "display_name": "Babak Ranjgar",
+        "orcid": "https://orcid.org/0000-0002-8324-4339"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I93860229",
+          "display_name": "Politecnico di Milano",
+          "ror": "https://ror.org/01nffqt88",
+          "country_code": "IT",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I93860229"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Babak Ranjgar",
+      "raw_affiliation_strings": [
+        "Electrical Engineering, Department of Energy, Politecnico di Milano, Milan, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Electrical Engineering, Department of Energy, Politecnico di Milano, Milan, Italy",
+          "institution_ids": [
+            "https://openalex.org/I93860229"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052523726",
+        "display_name": "Abolghasem Sadeghi‐Niaraki",
+        "orcid": "https://orcid.org/0000-0002-0048-8216"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28777354",
+          "display_name": "Sejong University",
+          "ror": "https://ror.org/00aft1q37",
+          "country_code": "KR",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I28777354"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abolghasem Sadeghi-Niaraki",
+      "raw_affiliation_strings": [
+        "Department of Computer Science & Engineering & Convergence Engineering for Intelligent Drone, Sejong University, Seoul, Republic of Korea"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science & Engineering & Convergence Engineering for Intelligent Drone, Sejong University, Seoul, Republic of Korea",
+          "institution_ids": [
+            "https://openalex.org/I28777354"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052161531",
+        "display_name": "Maryam Shakeri",
+        "orcid": "https://orcid.org/0000-0002-5663-8383"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157485424",
+          "display_name": "Korea Advanced Institute of Science and Technology",
+          "ror": "https://ror.org/05apxxy63",
+          "country_code": "KR",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maryam Shakeri",
+      "raw_affiliation_strings": [
+        "Graduate School of Culture Technology, Korea Advanced Institute of Science Technology (KAIST), Daejeon, Republic of Korea"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Graduate School of Culture Technology, Korea Advanced Institute of Science Technology (KAIST), Daejeon, Republic of Korea",
+          "institution_ids": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005167138",
+        "display_name": "Fatema Rahimi",
+        "orcid": "https://orcid.org/0000-0002-4617-3746"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28777354",
+          "display_name": "Sejong University",
+          "ror": "https://ror.org/00aft1q37",
+          "country_code": "KR",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I28777354"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fatema Rahimi",
+      "raw_affiliation_strings": [
+        "Department of Computer Science & Engineering & Convergence Engineering for Intelligent Drone, Sejong University, Seoul, Republic of Korea"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science & Engineering & Convergence Engineering for Intelligent Drone, Sejong University, Seoul, Republic of Korea",
+          "institution_ids": [
+            "https://openalex.org/I28777354"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5079413889",
+        "display_name": "Soo-Mi Choi",
+        "orcid": "https://orcid.org/0000-0002-6710-1434"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28777354",
+          "display_name": "Sejong University",
+          "ror": "https://ror.org/00aft1q37",
+          "country_code": "KR",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I28777354"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Soo-Mi Choi",
+      "raw_affiliation_strings": [
+        "Department of Computer Science & Engineering & Convergence Engineering for Intelligent Drone, Sejong University, Seoul, Republic of Korea"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science & Engineering & Convergence Engineering for Intelligent Drone, Sejong University, Seoul, Republic of Korea",
+          "institution_ids": [
+            "https://openalex.org/I28777354"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 1850,
+    "currency": "USD",
+    "value_usd": 1850
+  },
+  "apc_paid": {
+    "value": 1850,
+    "currency": "USD",
+    "value_usd": 1850
+  },
+  "fwci": 6.722,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.999981,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": null,
+    "first_page": "42992",
+    "last_page": "43026"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10215",
+    "display_name": "Semantic Web and Ontologies",
+    "score": 0.9935,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "score": 0.9935,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10757",
+      "display_name": "Geographic Information Systems Studies",
+      "score": 0.984,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3305",
+        "display_name": "Geography, Planning and Development"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12016",
+      "display_name": "Web Data Mining and Analysis",
+      "score": 0.9832,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6367337
+    },
+    {
+      "id": "https://openalex.org/C60671577",
+      "wikidata": "https://www.wikidata.org/wiki/Q210272",
+      "display_name": "Cultural heritage",
+      "level": 2,
+      "score": 0.5680321
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.47923687
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.45023358
+    },
+    {
+      "id": "https://openalex.org/C95457728",
+      "wikidata": "https://www.wikidata.org/wiki/Q309",
+      "display_name": "History",
+      "level": 0,
+      "score": 0.17341134
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.119745076
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1109/access.2024.3374769",
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10463018.pdf",
+      "source": {
+        "id": "https://openalex.org/S2485537415",
+        "display_name": "IEEE Access",
+        "issn_l": "2169-3536",
+        "issn": [
+          "2169-3536"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1109/access.2024.3374769",
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10463018.pdf",
+    "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "issn_l": "2169-3536",
+      "issn": [
+        "2169-3536"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319808",
+      "host_organization_name": "Institute of Electrical and Electronics Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.74,
+      "display_name": "Sustainable cities and communities",
+      "id": "https://metadata.un.org/sdg/11"
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320322064",
+      "funder_display_name": "Korea Institute for Advancement of Technology",
+      "award_id": "P0016038"
+    }
+  ],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 178,
+  "referenced_works": [
+    "https://openalex.org/W1090679574",
+    "https://openalex.org/W110652881",
+    "https://openalex.org/W111954571",
+    "https://openalex.org/W142128242",
+    "https://openalex.org/W1482122590",
+    "https://openalex.org/W1482585805",
+    "https://openalex.org/W1486694460",
+    "https://openalex.org/W1494598016",
+    "https://openalex.org/W1508603924",
+    "https://openalex.org/W1523808546",
+    "https://openalex.org/W1545679312",
+    "https://openalex.org/W1550195729",
+    "https://openalex.org/W1553218807",
+    "https://openalex.org/W1553976193",
+    "https://openalex.org/W1555494697",
+    "https://openalex.org/W1562643504",
+    "https://openalex.org/W1579876403",
+    "https://openalex.org/W1596416002",
+    "https://openalex.org/W1656169455",
+    "https://openalex.org/W1802453754",
+    "https://openalex.org/W1807057519",
+    "https://openalex.org/W1826914343",
+    "https://openalex.org/W1849400742",
+    "https://openalex.org/W1875628808",
+    "https://openalex.org/W1918195793",
+    "https://openalex.org/W1967661515",
+    "https://openalex.org/W1971094449",
+    "https://openalex.org/W1979977067",
+    "https://openalex.org/W1989615080",
+    "https://openalex.org/W1993896804",
+    "https://openalex.org/W1995496265",
+    "https://openalex.org/W2008309458",
+    "https://openalex.org/W2010788599",
+    "https://openalex.org/W2014823035",
+    "https://openalex.org/W2031406010",
+    "https://openalex.org/W2032464653",
+    "https://openalex.org/W2042037135",
+    "https://openalex.org/W2043527479",
+    "https://openalex.org/W2045379806",
+    "https://openalex.org/W2046560804",
+    "https://openalex.org/W2052569240",
+    "https://openalex.org/W2053446860",
+    "https://openalex.org/W2054373765",
+    "https://openalex.org/W2061778024",
+    "https://openalex.org/W2062592852",
+    "https://openalex.org/W2069587534",
+    "https://openalex.org/W2083688575",
+    "https://openalex.org/W2089617227",
+    "https://openalex.org/W2094918534",
+    "https://openalex.org/W2101906686",
+    "https://openalex.org/W2115373755",
+    "https://openalex.org/W2124957697",
+    "https://openalex.org/W2128026023",
+    "https://openalex.org/W2136846545",
+    "https://openalex.org/W2137079713",
+    "https://openalex.org/W2149922838",
+    "https://openalex.org/W2153595771",
+    "https://openalex.org/W2154829072",
+    "https://openalex.org/W2160170050",
+    "https://openalex.org/W2160377298",
+    "https://openalex.org/W2161749250",
+    "https://openalex.org/W2163040665",
+    "https://openalex.org/W2164196242",
+    "https://openalex.org/W2169168849",
+    "https://openalex.org/W2214710421",
+    "https://openalex.org/W2261812172",
+    "https://openalex.org/W2290368904",
+    "https://openalex.org/W2304950637",
+    "https://openalex.org/W2315349885",
+    "https://openalex.org/W2343840659",
+    "https://openalex.org/W2397698873",
+    "https://openalex.org/W2398722869",
+    "https://openalex.org/W2406886024",
+    "https://openalex.org/W2474993242",
+    "https://openalex.org/W2476317667",
+    "https://openalex.org/W2509531725",
+    "https://openalex.org/W2516543451",
+    "https://openalex.org/W2517308386",
+    "https://openalex.org/W2528858074",
+    "https://openalex.org/W2537675719",
+    "https://openalex.org/W2549051118",
+    "https://openalex.org/W2566715782",
+    "https://openalex.org/W2587794750",
+    "https://openalex.org/W2601970810",
+    "https://openalex.org/W2606035295",
+    "https://openalex.org/W2607066659",
+    "https://openalex.org/W2622648140",
+    "https://openalex.org/W26916897",
+    "https://openalex.org/W2734536097",
+    "https://openalex.org/W2751773401",
+    "https://openalex.org/W2754948977",
+    "https://openalex.org/W2758837557",
+    "https://openalex.org/W2763876046",
+    "https://openalex.org/W2767250046",
+    "https://openalex.org/W2786752243",
+    "https://openalex.org/W2790695540",
+    "https://openalex.org/W2791411421",
+    "https://openalex.org/W2792581658",
+    "https://openalex.org/W2794394598",
+    "https://openalex.org/W2801516600",
+    "https://openalex.org/W2803386706",
+    "https://openalex.org/W2806411482",
+    "https://openalex.org/W2807500192",
+    "https://openalex.org/W2884403326",
+    "https://openalex.org/W2886837429",
+    "https://openalex.org/W2887597838",
+    "https://openalex.org/W2889460134",
+    "https://openalex.org/W2889929139",
+    "https://openalex.org/W2898475366",
+    "https://openalex.org/W2899713954",
+    "https://openalex.org/W2900675885",
+    "https://openalex.org/W2901325401",
+    "https://openalex.org/W2901401292",
+    "https://openalex.org/W2902576057",
+    "https://openalex.org/W2904551866",
+    "https://openalex.org/W2907835500",
+    "https://openalex.org/W2912892155",
+    "https://openalex.org/W2923513828",
+    "https://openalex.org/W2942193471",
+    "https://openalex.org/W2942426836",
+    "https://openalex.org/W2946713020",
+    "https://openalex.org/W2952287951",
+    "https://openalex.org/W2966063416",
+    "https://openalex.org/W2970627384",
+    "https://openalex.org/W2972899971",
+    "https://openalex.org/W2979930524",
+    "https://openalex.org/W3001111864",
+    "https://openalex.org/W3004902131",
+    "https://openalex.org/W3006130842",
+    "https://openalex.org/W3007554144",
+    "https://openalex.org/W3043150878",
+    "https://openalex.org/W3045082257",
+    "https://openalex.org/W3107199142",
+    "https://openalex.org/W3124175313",
+    "https://openalex.org/W3128820408",
+    "https://openalex.org/W3156128005",
+    "https://openalex.org/W3164204411",
+    "https://openalex.org/W3166813700",
+    "https://openalex.org/W3173585910",
+    "https://openalex.org/W3174098064",
+    "https://openalex.org/W3175889829",
+    "https://openalex.org/W3183282142",
+    "https://openalex.org/W3185096144",
+    "https://openalex.org/W3186876162",
+    "https://openalex.org/W3203384627",
+    "https://openalex.org/W3217230643",
+    "https://openalex.org/W4205548964",
+    "https://openalex.org/W4206281529",
+    "https://openalex.org/W4212789957",
+    "https://openalex.org/W4214941816",
+    "https://openalex.org/W4225016449",
+    "https://openalex.org/W4232719369",
+    "https://openalex.org/W4239696231",
+    "https://openalex.org/W4245861846",
+    "https://openalex.org/W4283697843",
+    "https://openalex.org/W4285506842",
+    "https://openalex.org/W4289531854",
+    "https://openalex.org/W4292363599",
+    "https://openalex.org/W4292840149",
+    "https://openalex.org/W4293582132",
+    "https://openalex.org/W4302436610",
+    "https://openalex.org/W4303453173",
+    "https://openalex.org/W4313422583",
+    "https://openalex.org/W4319448075",
+    "https://openalex.org/W4361854962",
+    "https://openalex.org/W4366447435",
+    "https://openalex.org/W4368232292",
+    "https://openalex.org/W4380632772",
+    "https://openalex.org/W4381085562",
+    "https://openalex.org/W4381853131",
+    "https://openalex.org/W4386028259",
+    "https://openalex.org/W4386362962",
+    "https://openalex.org/W4386753552",
+    "https://openalex.org/W4388234834",
+    "https://openalex.org/W4402841132",
+    "https://openalex.org/W70755430",
+    "https://openalex.org/W853975937",
+    "https://openalex.org/W86006739"
+  ],
+  "related_works": [
+    "https://openalex.org/W4396701345",
+    "https://openalex.org/W4396696052",
+    "https://openalex.org/W4391913857",
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2001405890"
+  ],
+  "abstract_inverted_index": {
+    "Knowledge": [
+      0,
+      349
+    ],
+    "organization": [
+      1,
+      244,
+      269,
+      397
+    ],
+    "and": [
+      2,
+      35,
+      41,
+      72,
+      110,
+      122,
+      130,
+      143,
+      170,
+      177,
+      212,
+      234,
+      252,
+      271,
+      293,
+      336,
+      348,
+      354,
+      369,
+      373,
+      389,
+      395
+    ],
+    "development": [
+      3
+    ],
+    "of": [
+      4,
+      10,
+      33,
+      47,
+      57,
+      70,
+      74,
+      89,
+      94,
+      120,
+      124,
+      134,
+      175,
+      258,
+      266,
+      274,
+      286,
+      311,
+      376,
+      387
+    ],
+    "better": [
+      5,
+      209
+    ],
+    "information": [
+      6,
+      48,
+      104,
+      127,
+      232,
+      235,
+      326
+    ],
+    "retrieval": [
+      7,
+      46,
+      105
+    ],
+    "techniques": [
+      8
+    ],
+    "were": [
+      9,
+      62
+    ],
+    "great": [
+      11
+    ],
+    "importance": [
+      12
+    ],
+    "from": [
+      13,
+      179,
+      249,
+      307
+    ],
+    "a": [
+      14,
+      92,
+      154,
+      173,
+      213,
+      224,
+      385
+    ],
+    "very": [
+      15
+    ],
+    "early": [
+      16,
+      240,
+      416
+    ],
+    "time": [
+      17,
+      388,
+      401
+    ],
+    "period": [
+      18
+    ],
+    "in": [
+      19,
+      49,
+      68,
+      157,
+      162,
+      242,
+      278,
+      316,
+      324,
+      339,
+      384,
+      414
+    ],
+    "human": [
+      20
+    ],
+    "history.": [
+      21
+    ],
+    "The": [
+      22,
+      112,
+      160,
+      283,
+      361,
+      379
+    ],
+    "need": [
+      23
+    ],
+    "has": [
+      24,
+      382
+    ],
+    "grown": [
+      25
+    ],
+    "high": [
+      26
+    ],
+    "for": [
+      27,
+      208
+    ],
+    "such": [
+      28
+    ],
+    "systems": [
+      29,
+      40,
+      61,
+      251,
+      270
+    ],
+    "with": [
+      30,
+      117,
+      168
+    ],
+    "the": [
+      31,
+      36,
+      55,
+      83,
+      87,
+      118,
+      125,
+      135,
+      158,
+      163,
+      191,
+      194,
+      217,
+      247,
+      256,
+      264,
+      272,
+      279,
+      300,
+      305,
+      308,
+      317,
+      321,
+      340,
+      421
+    ],
+    "advent": [
+      32
+    ],
+    "digitization": [
+      34
+    ],
+    "web": [
+      37,
+      42,
+      88,
+      93
+    ],
+    "era.": [
+      38
+    ],
+    "Computer": [
+      39
+    ],
+    "have": [
+      43
+    ],
+    "offered": [
+      44
+    ],
+    "easier": [
+      45
+    ],
+    "almost": [
+      50
+    ],
+    "no": [
+      51
+    ],
+    "time.": [
+      52
+    ],
+    "However,": [
+      53
+    ],
+    "as": [
+      54
+    ],
+    "amount": [
+      56
+    ],
+    "data": [
+      58,
+      100,
+      161,
+      346,
+      393
+    ],
+    "increased,": [
+      59
+    ],
+    "these": [
+      60
+    ],
+    "not": [
+      63
+    ],
+    "able": [
+      64
+    ],
+    "to": [
+      65,
+      81,
+      91,
+      128,
+      138,
+      190,
+      255,
+      299,
+      320,
+      391,
+      402,
+      407
+    ],
+    "work": [
+      66
+    ],
+    "well": [
+      67
+    ],
+    "terms": [
+      69
+    ],
+    "accuracy": [
+      71
+    ],
+    "precision": [
+      73
+    ],
+    "retrieval.": [
+      75,
+      236,
+      327
+    ],
+    "Semantic": [
+      76,
+      96,
+      140,
+      198,
+      313
+    ],
+    "Web": [
+      77,
+      97,
+      141,
+      199,
+      314
+    ],
+    "concept": [
+      78
+    ],
+    "was": [
+      79
+    ],
+    "introduced": [
+      80
+    ],
+    "overcome": [
+      82
+    ],
+    "issue": [
+      84
+    ],
+    "by": [
+      85,
+      152,
+      202
+    ],
+    "converting": [
+      86
+    ],
+    "documents": [
+      90
+    ],
+    "data.": [
+      95
+    ],
+    "technologies": [
+      98,
+      200,
+      295,
+      315
+    ],
+    "makes": [
+      99
+    ],
+    "machine-understandable": [
+      101
+    ],
+    "so": [
+      102
+    ],
+    "that": [
+      103,
+      228,
+      364,
+      411
+    ],
+    "can": [
+      106,
+      146
+    ],
+    "be": [
+      107
+    ],
+    "more": [
+      108
+    ],
+    "precise": [
+      109
+    ],
+    "accurate.": [
+      111
+    ],
+    "Cultural": [
+      113
+    ],
+    "Heritage": [
+      114
+    ],
+    "(CH)": [
+      115
+    ],
+    "community,": [
+      116
+    ],
+    "goal": [
+      119
+    ],
+    "preserving": [
+      121
+    ],
+    "dissemination": [
+      123
+    ],
+    "historical": [
+      126
+    ],
+    "people": [
+      129
+    ],
+    "society,": [
+      131
+    ],
+    "is": [
+      132
+    ],
+    "one": [
+      133
+    ],
+    "first": [
+      136
+    ],
+    "domains": [
+      137
+    ],
+    "adopt": [
+      139
+    ],
+    "recommendations": [
+      142
+    ],
+    "technologies,": [
+      144
+    ],
+    "which": [
+      145
+    ],
+    "provide": [
+      147
+    ],
+    "interoperability": [
+      148
+    ],
+    "between": [
+      149
+    ],
+    "various": [
+      150,
+      180
+    ],
+    "organizations": [
+      151,
+      176
+    ],
+    "creating": [
+      153
+    ],
+    "shared": [
+      155
+    ],
+    "understanding": [
+      156,
+      215
+    ],
+    "community.": [
+      159,
+      188,
+      218
+    ],
+    "CH": [
+      164,
+      195,
+      318,
+      325,
+      341,
+      377,
+      380,
+      422
+    ],
+    "domain": [
+      165,
+      319,
+      342
+    ],
+    "differs": [
+      166
+    ],
+    "widely": [
+      167
+    ],
+    "types": [
+      169
+    ],
+    "formats.": [
+      171
+    ],
+    "Also,": [
+      172
+    ],
+    "lot": [
+      174,
+      386
+    ],
+    "experts": [
+      178
+    ],
+    "fields": [
+      181
+    ],
+    "interact": [
+      182
+    ],
+    "through": [
+      183
+    ],
+    "different": [
+      184
+    ],
+    "processes": [
+      185
+    ],
+    "within": [
+      186
+    ],
+    "this": [
+      187,
+      220,
+      329,
+      404
+    ],
+    "Due": [
+      189
+    ],
+    "mentioned": [
+      192
+    ],
+    "needs,": [
+      193
+    ],
+    "community": [
+      196,
+      381
+    ],
+    "employed": [
+      197
+    ],
+    "step": [
+      201,
+      203
+    ],
+    "along": [
+      204
+    ],
+    "its": [
+      205
+    ],
+    "evolution": [
+      206,
+      248
+    ],
+    "process": [
+      207,
+      306
+    ],
+    "knowledge": [
+      210,
+      243,
+      268,
+      396
+    ],
+    "management": [
+      211
+    ],
+    "uniform": [
+      214
+    ],
+    "among": [
+      216
+    ],
+    "In": [
+      219,
+      328
+    ],
+    "study,": [
+      221
+    ],
+    "we": [
+      222,
+      331
+    ],
+    "present": [
+      223
+    ],
+    "comprehensive": [
+      225,
+      374
+    ],
+    "conceptual": [
+      226
+    ],
+    "framework": [
+      227
+    ],
+    "spans": [
+      229
+    ],
+    "cultural": [
+      230,
+      280
+    ],
+    "heritage,": [
+      231
+    ],
+    "modeling,": [
+      233
+    ],
+    "Our": [
+      237
+    ],
+    "model": [
+      238
+    ],
+    "addresses": [
+      239
+    ],
+    "solutions": [
+      241
+    ],
+    "systems,": [
+      245
+    ],
+    "highlighting": [
+      246
+    ],
+    "classification": [
+      250
+    ],
+    "controlled": [
+      253
+    ],
+    "vocabularies": [
+      254
+    ],
+    "significance": [
+      257
+    ],
+    "metadata": [
+      259,
+      291
+    ],
+    "schemas.": [
+      260
+    ],
+    "We": [
+      261
+    ],
+    "delve": [
+      262
+    ],
+    "into": [
+      263
+    ],
+    "limitations": [
+      265
+    ],
+    "traditional": [
+      267
+    ],
+    "necessity": [
+      273
+    ],
+    "formal": [
+      275
+    ],
+    "ontologies,": [
+      276
+    ],
+    "particularly": [
+      277
+    ],
+    "heritage": [
+      281
+    ],
+    "domain.": [
+      282
+    ],
+    "comparative": [
+      284
+    ],
+    "analysis": [
+      285
+    ],
+    "CRM": [
+      287
+    ],
+    "vs.": [
+      288
+    ],
+    "EDM,": [
+      289
+    ],
+    "ontology-based": [
+      290
+    ],
+    "interoperability,": [
+      292
+    ],
+    "ontology": [
+      294
+    ],
+    "elucidate": [
+      296
+    ],
+    "our": [
+      297
+    ],
+    "contributions": [
+      298
+    ],
+    "field.": [
+      301
+    ],
+    "This": [
+      302,
+      418
+    ],
+    "paper": [
+      303
+    ],
+    "outlines": [
+      304
+    ],
+    "initial": [
+      309
+    ],
+    "steps": [
+      310
+    ],
+    "adopting": [
+      312
+    ],
+    "latest": [
+      322
+    ],
+    "developments": [
+      323
+    ],
+    "paper,": [
+      330
+    ],
+    "also": [
+      332
+    ],
+    "reviewed": [
+      333
+    ],
+    "intelligent": [
+      334
+    ],
+    "applications": [
+      335,
+      410
+    ],
+    "services": [
+      337
+    ],
+    "developed": [
+      338
+    ],
+    "after": [
+      343
+    ],
+    "establishing": [
+      344
+    ],
+    "semantic": [
+      345
+    ],
+    "models": [
+      347,
+      394
+    ],
+    "Organization": [
+      350
+    ],
+    "Systems.": [
+      351
+    ],
+    "Finally,": [
+      352
+    ],
+    "challenges": [
+      353
+    ],
+    "possible": [
+      355
+    ],
+    "future": [
+      356
+    ],
+    "research": [
+      357
+    ],
+    "directions": [
+      358
+    ],
+    "are": [
+      359,
+      371,
+      412
+    ],
+    "discussed.": [
+      360
+    ],
+    "findings": [
+      362
+    ],
+    "revealed": [
+      363
+    ],
+    "GLAMs": [
+      365
+    ],
+    "(Galleries,": [
+      366
+    ],
+    "Libraries,": [
+      367
+    ],
+    "Archives,": [
+      368
+    ],
+    "Museums)": [
+      370
+    ],
+    "excellent": [
+      372
+    ],
+    "sources": [
+      375
+    ],
+    "information.": [
+      378
+    ],
+    "put": [
+      383
+    ],
+    "effort": [
+      390
+    ],
+    "develop": [
+      392
+    ],
+    "tools;": [
+      398
+    ],
+    "now": [
+      399
+    ],
+    "it's": [
+      400
+    ],
+    "use": [
+      403
+    ],
+    "valuable": [
+      405
+    ],
+    "resource": [
+      406
+    ],
+    "construct": [
+      408
+    ],
+    "smart": [
+      409
+    ],
+    "still": [
+      413
+    ],
+    "their": [
+      415
+    ],
+    "phases.": [
+      417
+    ],
+    "could": [
+      419
+    ],
+    "benefit": [
+      420
+    ],
+    "industry": [
+      423
+    ],
+    "even": [
+      424
+    ],
+    "more.": [
+      425
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392567277",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-08-18T08:53:51.577661",
+  "created_date": "2024-03-08"
+}

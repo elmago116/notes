@@ -1,0 +1,1395 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2024-05-13T18:05:57Z",
+      "timestamp": 1715623557475
+    },
+    "reference-count": 0,
+    "publisher": "Princeton University Press",
+    "isbn-type": [
+      {
+        "value": "9780691148342",
+        "type": "print"
+      },
+      {
+        "value": "9780691185910",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "abstract": "<p>This chapter describes experiments to detect the axion, which originated in the 1980s when theorists realized that the axion could be dark matter. It points out that the name “axion” comes from an Italian laundry detergent and was used by one of the particle's inventors, because the axion “cleans up” the strong interaction. It also considers the difference of axions from Weakly Interacting Massive Particles as they are thought to interact mostly with photons, rather than nuclei and their mass is a few millionths that of a proton. The chapter explains the theoretical ideas behind the axion, how axions interact, and how their mass, lifetime, and interaction strengths are related. It considers the most sensitive experiment searching for the lightest axion, and talks about a way of searching for the most massive axions by looking for their emission from the Sun.</p>",
+    "DOI": "10.23943/princeton/9780691148342.003.0008",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2023-07-04T11:09:03Z",
+      "timestamp": 1688468943000
+    },
+    "page": "135-145",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Searching for Axions"
+    ],
+    "prefix": "10.23943",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Fisher",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "10341",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          18
+        ]
+      ]
+    },
+    "container-title": [
+      "What Is Dark Matter?"
+    ],
+    "original-title": [
+      "Searching for Axions"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2023-07-04T11:09:04Z",
+      "timestamp": 1688468944000
+    },
+    "score": 21.285378,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/princeton-scholarship-online/book/46049/chapter/404515798"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780691148342",
+      "9780691185910"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.23943/princeton/9780691148342.003.0008",
+    "relation": {
+      "is-identical-to": [
+        {
+          "id-type": "doi",
+          "id": "10.2307/j.ctv27qzsd4.10",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2024-05-13T18:05:59Z",
+      "timestamp": 1715623559644
+    },
+    "reference-count": 0,
+    "publisher": "Princeton University Press",
+    "isbn-type": [
+      {
+        "value": "9780691148342",
+        "type": "print"
+      },
+      {
+        "value": "9780691185910",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "abstract": "<p>This chapter explores some of the experiments looking for dark matter in the galaxy. It reviews astronomical observations that have provided conclusive evidence of dark matter's existence, noting how experimenters now face the challenge of measuring its properties. It also mentions axions, which are the main dark matter candidates that result from the strong interaction and heavy particles from extensions to the Standard Model. The chapter discusses what astronomers know about dark matter near the Earth. It describes the way dark matter might weakly interact with normal matter and be detected in an experiment, including several different kinds of dark matter experiments that are currently operating.</p>",
+    "DOI": "10.23943/princeton/9780691148342.003.0006",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2023-07-04T11:39:04Z",
+      "timestamp": 1688470744000
+    },
+    "page": "98-121",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Searching for WIMPs on Earth"
+    ],
+    "prefix": "10.23943",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Fisher",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "10341",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          18
+        ]
+      ]
+    },
+    "container-title": [
+      "What Is Dark Matter?"
+    ],
+    "original-title": [
+      "Searching for WIMPs on Earth"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2023-07-04T11:39:09Z",
+      "timestamp": 1688470749000
+    },
+    "score": 20.362926,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/princeton-scholarship-online/book/46049/chapter/404515525"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780691148342",
+      "9780691185910"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.23943/princeton/9780691148342.003.0006",
+    "relation": {
+      "is-identical-to": [
+        {
+          "id-type": "doi",
+          "id": "10.2307/j.ctv27qzsd4.8",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2024-05-13T18:05:58Z",
+      "timestamp": 1715623558805
+    },
+    "reference-count": 0,
+    "publisher": "Princeton University Press",
+    "isbn-type": [
+      {
+        "value": "9780691148342",
+        "type": "print"
+      },
+      {
+        "value": "9780691185910",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "abstract": "<p>This chapter explains how the annihilation of dark matter in the galaxy could produce cosmic rays, which are energetic normal matter particles traveling through space. It highlights processes like supernova explosions and pulsars that are known to produce cosmic rays, and astrophysicists that have been observing cosmic rays for more than 100 years. It also talks about experiments searching for evidence for dark matter in cosmic rays that must separate the cosmic rays, which result from dark matter annihilation from those produced by supernova explosions, pulsars, and other sources. The chapter describes how Weakly Interacting Massive Particles could annihilate in the Milky Way to become Standard Model particles that then traverse the Milky Way. The chapter then deals with the detection of cosmic rays in space and the unexpected observation resulting from the search for dark matter at the center of the galaxy.</p>",
+    "DOI": "10.23943/princeton/9780691148342.003.0007",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2023-07-04T11:22:43Z",
+      "timestamp": 1688469763000
+    },
+    "page": "122-134",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Searching for Dark Matter in Space"
+    ],
+    "prefix": "10.23943",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Fisher",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "10341",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          18
+        ]
+      ]
+    },
+    "container-title": [
+      "What Is Dark Matter?"
+    ],
+    "original-title": [
+      "Searching for Dark Matter in Space"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2023-07-04T11:22:47Z",
+      "timestamp": 1688469767000
+    },
+    "score": 19.986816,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/princeton-scholarship-online/book/46049/chapter/404515688"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780691148342",
+      "9780691185910"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.23943/princeton/9780691148342.003.0007",
+    "relation": {
+      "is-identical-to": [
+        {
+          "id-type": "doi",
+          "id": "10.2307/j.ctv27qzsd4.9",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2025-07-26T09:16:04Z",
+      "timestamp": 1753521364243
+    },
+    "reference-count": 0,
+    "publisher": "Edward Elgar Publishing",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781786434784"
+      },
+      {
+        "type": "print",
+        "value": "9781786434777"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.4337/9781786434784.00028",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2022-02-02T08:40:50Z",
+      "timestamp": 1643791250000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Industrial and territorial ecology: what types of proximity at work?"
+    ],
+    "prefix": "10.4337",
+    "author": [
+      {
+        "given": "Christophe",
+        "family": "Beaurain",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Sabrina",
+        "family": "Dermine-Brullot",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "2918",
+    "container-title": [
+      "Handbook of Proximity Relations"
+    ],
+    "link": [
+      {
+        "URL": "https://www.elgaronline.com/view/edcoll/9781786434777/9781786434777.00028.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.elgaronline.com/view/edcoll/9781786434777/9781786434777.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2024-08-28T18:20:16Z",
+      "timestamp": 1724869216000
+    },
+    "score": 19.502893,
+    "resource": {
+      "primary": {
+        "URL": "https://www.elgaronline.com/view/edcoll/9781786434777/9781786434777.00028.xml"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          18
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781786434784",
+      "9781786434777"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4337/9781786434784.00028",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          11
+        ]
+      ],
+      "date-time": "2024-09-11T03:18:09Z",
+      "timestamp": 1726024689150
+    },
+    "edition-number": "0",
+    "reference-count": 1,
+    "publisher": "Auerbach Publications",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9780429090578"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          29
+        ]
+      ]
+    },
+    "DOI": "10.1201/b16390-13",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2013-12-18T08:43:56Z",
+      "timestamp": 1387356236000
+    },
+    "page": "205-228",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Encrypted Ranked Proximity and Phrase Searching in the Cloud"
+    ],
+    "prefix": "10.1201",
+    "member": "301",
+    "reference": [
+      {
+        "key": "ref8",
+        "unstructured": "1. S. Artzi, A. Kieżum, C. Newport, and D. Schultz, Encrypted keyword search in a distributed storage system, Massachusetts Institute of Technology, Tech. Rep. 1738, Feb. 2006."
+      }
+    ],
+    "container-title": [
+      "The State of the Art in Intrusion Prevention and Detection"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2021-04-10T16:37:39Z",
+      "timestamp": 1618072659000
+    },
+    "score": 19.25105,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781482203523/chapters/10.1201/b16390-13"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          29
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780429090578"
+    ],
+    "references-count": 1,
+    "URL": "https://doi.org/10.1201/b16390-13",
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T15:00:05Z",
+      "timestamp": 1648825205354
+    },
+    "reference-count": 0,
+    "publisher": "The Charleston Co.",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "charleston adv"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.5260/chara.12.4.42",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2011-04-18T10:55:17Z",
+      "timestamp": 1303124117000
+    },
+    "page": "42-45",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "LibAnswers"
+    ],
+    "prefix": "10.5260",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Gwen",
+        "family": "Evans",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "3214",
+    "container-title": [
+      "The Charleston Advisor"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2011-05-16T13:05:54Z",
+      "timestamp": 1305551154000
+    },
+    "score": 19.121817,
+    "resource": {
+      "primary": {
+        "URL": "http://openurl.ingenta.com/content/xref?genre=article&issn=1525-4011&volume=12&issue=4&spage=42"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            4,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1525-4011(20110401)12:4L.42;1-"
+    ],
+    "URL": "https://doi.org/10.5260/chara.12.4.42",
+    "ISSN": [
+      "1525-4011",
+      "1525-4003"
+    ],
+    "issn-type": [
+      {
+        "value": "1525-4011",
+        "type": "print"
+      },
+      {
+        "value": "1525-4003",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2025-06-15T22:21:38Z",
+      "timestamp": 1750026098470
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 18,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783540298960"
+      },
+      {
+        "type": "electronic",
+        "value": "9783540316534"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "DOI": "10.1007/11579427_41",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2005-11-18T03:43:01Z",
+      "timestamp": 1132285381000
+    },
+    "page": "405-414",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "title": [
+      "Proximity Searching in High Dimensional Spaces with a Proximity Preserving Order"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Edgar",
+        "family": "Chávez",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Karina",
+        "family": "Figueroa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gonzalo",
+        "family": "Navarro",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "41_CR1",
+        "unstructured": "Arya, S., Mount, D., Netanyahu, N., Silverman, R., Wu, A.: An optimal algorithm for approximate nearest neighbor searching in fixed dimension. In: Proc. 5th ACM-SIAM Symposium on Discrete Algorithms (SODA 1994), pp. 573–583 (1994)"
+      },
+      {
+        "key": "41_CR2",
+        "unstructured": "Brin, S.: Near neighbor search in large metric spaces. In: Proc. 21st Conference on Very Large Databases (VLDB 1995), pp. 574–584 (1995)"
+      },
+      {
+        "issue": "1",
+        "key": "41_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "115",
+        "DOI": "10.1016/S1570-8667(03)00067-4",
+        "volume": "2",
+        "author": "B. Bustos",
+        "year": "2003",
+        "unstructured": "Bustos, B., Navarro, G.: Probabilistic proximity search algorithms based on compact partitions. Journal of Discrete Algorithms (JDA) 2(1), 115–134 (2003)",
+        "journal-title": "Journal of Discrete Algorithms (JDA)"
+      },
+      {
+        "key": "41_CR4",
+        "series-title": "Lecture Notes in Computer Science",
+        "doi-asserted-by": "crossref",
+        "first-page": "222",
+        "DOI": "10.1007/978-3-540-24694-7_23",
+        "volume-title": "Proc. of the Mexican International Conference in Artificial Intelligence (MICAI)",
+        "author": "E. Chávez",
+        "year": "2004",
+        "unstructured": "Chávez, E., Figueroa, K.: Faster proximity searching in metric data. In: Proc. of the Mexican International Conference in Artificial Intelligence (MICAI). LNCS, pp. 222–231. Springer, Heidelberg (2004)"
+      },
+      {
+        "issue": "2",
+        "key": "41_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.1023/A:1011343115154",
+        "volume": "14",
+        "author": "E. Chávez",
+        "year": "2001",
+        "unstructured": "Chávez, E., Marroquin, J.L., Navarro, G.: Fixed queries array: A fast and economical data structure for proximity searching. Multimedia Tools and Applications (MTAP) 14(2), 113–135 (2001)",
+        "journal-title": "Multimedia Tools and Applications (MTAP)"
+      },
+      {
+        "issue": "1",
+        "key": "41_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1016/S0020-0190(02)00344-7",
+        "volume": "85",
+        "author": "E. Chávez",
+        "year": "2003",
+        "unstructured": "Chávez, E., Navarro, G.: Probabilistic proximity search: Fighting the curse of dimensionality in metric spaces. Inf. Process. Lett. 85(1), 39–46 (2003)",
+        "journal-title": "Inf. Process. Lett."
+      },
+      {
+        "issue": "9",
+        "key": "41_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1363",
+        "DOI": "10.1016/j.patrec.2004.11.014",
+        "volume": "26",
+        "author": "E. Chávez",
+        "year": "2005",
+        "unstructured": "Chávez, E., Navarro, G.: A compact space decomposition for effective metric indexing. Pattern Recognition Letters 26(9), 1363–1376 (2005)",
+        "journal-title": "Pattern Recognition Letters"
+      },
+      {
+        "issue": "3",
+        "key": "41_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.1145/502807.502808",
+        "volume": "33",
+        "author": "E. Chávez",
+        "year": "2001",
+        "unstructured": "Chávez, E., Navarro, G., Baeza-Yates, R., Marroquin, J.L.: Proximity searching in metric spaces. ACM Computing Surveys 33(3), 273–321 (2001)",
+        "journal-title": "ACM Computing Surveys"
+      },
+      {
+        "key": "41_CR9",
+        "first-page": "244",
+        "volume-title": "Proc. 16th Intl. Conf. on Data Engineering (ICDE 2000)",
+        "author": "P. Ciaccia",
+        "year": "2000",
+        "unstructured": "Ciaccia, P., Patella, M.: Pac nearest neighbor queries: Approximate and controlled search in high-dimensional and metric spaces. In: Proc. 16th Intl. Conf. on Data Engineering (ICDE 2000), pp. 244–255. IEEE Computer Society Press, Los Alamitos (2000)"
+      },
+      {
+        "key": "41_CR10",
+        "unstructured": "Ciaccia, P., Patella, M., Zezula, P.: M-tree: an efficient access method for similarity search in metric spaces. In: Proc. of the 23rd Conference on Very Large Databases (VLDB 1997), pp. 426–435 (1997)"
+      },
+      {
+        "issue": "1",
+        "key": "41_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "63",
+        "DOI": "10.1007/PL00009449",
+        "volume": "22",
+        "author": "K. Clarkson",
+        "year": "1999",
+        "unstructured": "Clarkson, K.: Nearest neighbor queries in metric spaces. Discrete Computational Geometry 22(1), 63–93 (1999)",
+        "journal-title": "Discrete Computational Geometry"
+      },
+      {
+        "issue": "1",
+        "key": "41_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "134",
+        "DOI": "10.1137/S0895480102412856",
+        "volume": "17",
+        "author": "R. Fagin",
+        "year": "2003",
+        "unstructured": "Fagin, R., Kumar, R., Sivakumar, D.: Comparing top k lists. SIAM J. Discrete Math. 17(1), 134–160 (2003)",
+        "journal-title": "SIAM J. Discrete Math."
+      },
+      {
+        "issue": "4",
+        "key": "41_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "517",
+        "DOI": "10.1145/958942.958948",
+        "volume": "28",
+        "author": "G. Hjaltason",
+        "year": "2003",
+        "unstructured": "Hjaltason, G., Samet, H.: Index-driven similarity search in metric spaces. ACM Trans. Database Syst. 28(4), 517–580 (2003)",
+        "journal-title": "ACM Trans. Database Syst."
+      },
+      {
+        "issue": "1",
+        "key": "41_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1007/s007780200060",
+        "volume": "11",
+        "author": "G. Navarro",
+        "year": "2002",
+        "unstructured": "Navarro, G.: Searching in metric spaces by spatial approximation. The Very Large Databases Journal (VLDBJ) 11(1), 28–46 (2002)",
+        "journal-title": "The Very Large Databases Journal (VLDBJ)"
+      },
+      {
+        "key": "41_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1016/0167-8655(86)90013-9",
+        "volume": "4",
+        "author": "E. Vidal",
+        "year": "1986",
+        "unstructured": "Vidal, E.: An algorithm for finding nearest neighbors in (approximately) constant average time. Pattern Recognition Letters 4, 145–157 (1986)",
+        "journal-title": "Pattern Recognition Letters"
+      },
+      {
+        "key": "41_CR16",
+        "unstructured": "White, D., Jain, R.: Algorithms and strategies for similarity retrieval. Technical Report VCL-96-101, Visual Computing Laboratory, University of California, La Jolla, California (July 1996)"
+      },
+      {
+        "key": "41_CR17",
+        "unstructured": "Yianilos, P.: Excluded middle vantage point forests for nearest neighbor search. In: ALENEX (1999)"
+      },
+      {
+        "key": "41_CR18",
+        "unstructured": "Yianilos, P.N.: Locally lifting the curse of dimensionality for nearest neighbor search. Technical report, NEC Research Institute, Princeton, NJ (June 1999)"
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "MICAI 2005: Advances in Artificial Intelligence"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/11579427_41",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          13
+        ]
+      ],
+      "date-time": "2019-03-13T07:15:25Z",
+      "timestamp": 1552461325000
+    },
+    "score": 19.068842,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/11579427_41"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783540298960",
+      "9783540316534"
+    ],
+    "references-count": 18,
+    "URL": "https://doi.org/10.1007/11579427_41",
+    "ISSN": [
+      "0302-9743",
+      "1611-3349"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-9743"
+      },
+      {
+        "type": "electronic",
+        "value": "1611-3349"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2023-06-19T12:40:28Z",
+      "timestamp": 1687178428900
+    },
+    "reference-count": 0,
+    "publisher": "Princeton University Press",
+    "isbn-type": [
+      {
+        "value": "9780691185910",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1515/9780691185910-008",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          7
+        ]
+      ],
+      "date-time": "2022-07-07T10:56:25Z",
+      "timestamp": 1657191385000
+    },
+    "page": "135-145",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "7 SEARCHING FOR AXIONS"
+    ],
+    "prefix": "10.1515",
+    "member": "374",
+    "container-title": [
+      "What Is Dark Matter?"
+    ],
+    "link": [
+      {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9780691185910-008/xml",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9780691185910-008/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2023-06-19T12:13:50Z",
+      "timestamp": 1687176830000
+    },
+    "score": 18.92447,
+    "resource": {
+      "primary": {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9780691185910-008/html"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          31
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780691185910"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.1515/9780691185910-008",
+      "10.1515/9780691185910"
+    ],
+    "URL": "https://doi.org/10.1515/9780691185910-008",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          31
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T02:25:38Z",
+      "timestamp": 1648607138472
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Ohio University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2307/j.ctt1rfspqt.6",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2017-11-22T21:24:57Z",
+      "timestamp": 1511385897000
+    },
+    "page": "1-12",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "What do you mean?"
+    ],
+    "prefix": "10.2307",
+    "member": "1121",
+    "container-title": [
+      "Searching for Soul"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          9
+        ]
+      ],
+      "date-time": "2018-05-09T13:36:10Z",
+      "timestamp": 1525872970000
+    },
+    "score": 18.83038,
+    "resource": {
+      "primary": {
+        "URL": "https://www.jstor.org/stable/10.2307/j.ctt1rfspqt.6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.2307/j.ctt1rfspqt.6"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T04:38:51Z",
+      "timestamp": 1648874331739
+    },
+    "reference-count": 0,
+    "publisher": "SynthesisHub Advance Scientific Research",
+    "issue": "14",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "jcr"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.31838/jcr.07.14.96",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2020-07-14T07:11:53Z",
+      "timestamp": 1594710713000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "MAPPING XML TREES TO RELATIONAL DATABASES USING EFFICIENT DATA STRUCTURE FOR PROXIMITY KEYWORD SEARCHING"
+    ],
+    "prefix": "10.31838",
+    "volume": "7",
+    "member": "17074",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          2
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of critical reviews"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2020-07-14T07:13:21Z",
+      "timestamp": 1594710801000
+    },
+    "score": 18.830357,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jcreview.com/index.php?fulltxt=23023&fulltxtj=197&fulltxtp=197-1593939865.pdf"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "14",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            7,
+            2
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            7,
+            2
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.31838/jcr.07.14.96",
+    "ISSN": [
+      "2394-5125"
+    ],
+    "issn-type": [
+      {
+        "value": "2394-5125",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          2
+        ]
+      ]
+    }
+  }
+]

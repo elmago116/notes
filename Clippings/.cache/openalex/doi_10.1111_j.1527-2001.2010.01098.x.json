@@ -1,0 +1,487 @@
+{
+  "id": "https://openalex.org/W1485911243",
+  "doi": "https://doi.org/10.1111/j.1527-2001.2010.01098.x",
+  "title": "Miranda Fricker Epistemic Injustice: Power and the Ethics of Knowing. Oxford, Oxford University Press, 2007.",
+  "display_name": "Miranda Fricker Epistemic Injustice: Power and the Ethics of Knowing. Oxford, Oxford University Press, 2007.",
+  "publication_year": 2010,
+  "publication_date": "2010-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1485911243",
+    "doi": "https://doi.org/10.1111/j.1527-2001.2010.01098.x",
+    "mag": "1485911243"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1111/j.1527-2001.2010.01098.x",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S124984400",
+      "display_name": "Hypatia",
+      "issn_l": "0887-5367",
+      "issn": [
+        "0887-5367",
+        "1527-2001"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311721",
+      "host_organization_name": "Cambridge University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311721",
+        "https://openalex.org/P4310311702"
+      ],
+      "host_organization_lineage_names": [
+        "Cambridge University Press",
+        "University of Cambridge"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5002463941",
+        "display_name": "Rae Langton",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Rae Langton",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5002463941"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.898,
+  "has_fulltext": true,
+  "fulltext_origin": "ngrams",
+  "cited_by_count": 48,
+  "citation_normalized_percentile": {
+    "value": 0.987025,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "25",
+    "issue": "2",
+    "first_page": "459",
+    "last_page": "464"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10718",
+    "display_name": "Political Philosophy and Ethics",
+    "score": 0.9595,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3320",
+      "display_name": "Political Science and International Relations"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10718",
+      "display_name": "Political Philosophy and Ethics",
+      "score": 0.9595,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11477",
+      "display_name": "Epistemology, Ethics, and Metaphysics",
+      "score": 0.9402,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12295",
+      "display_name": "Foucault, Power, and Ethics",
+      "score": 0.9113,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/injustice",
+      "display_name": "Injustice",
+      "score": 0.7006954
+    },
+    {
+      "id": "https://openalex.org/keywords/content",
+      "display_name": "Content (measure theory)",
+      "score": 0.50395435
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777266375",
+      "wikidata": "https://www.wikidata.org/wiki/Q770480",
+      "display_name": "Injustice",
+      "level": 2,
+      "score": 0.7006954
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.5469882
+    },
+    {
+      "id": "https://openalex.org/C2778152352",
+      "wikidata": "https://www.wikidata.org/wiki/Q5165061",
+      "display_name": "Content (measure theory)",
+      "level": 2,
+      "score": 0.50395435
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.4894084
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.3844108
+    },
+    {
+      "id": "https://openalex.org/C29595303",
+      "wikidata": "https://www.wikidata.org/wiki/Q165650",
+      "display_name": "Media studies",
+      "level": 1,
+      "score": 0.37261355
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.35047197
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.2603305
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.22482273
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.08176255
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.069158316
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1111/j.1527-2001.2010.01098.x",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S124984400",
+        "display_name": "Hypatia",
+        "issn_l": "0887-5367",
+        "issn": [
+          "0887-5367",
+          "1527-2001"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311721",
+        "host_organization_name": "Cambridge University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311721",
+          "https://openalex.org/P4310311702"
+        ],
+        "host_organization_lineage_names": [
+          "Cambridge University Press",
+          "University of Cambridge"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/16",
+      "display_name": "Peace, justice, and strong institutions",
+      "score": 0.53
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 2,
+  "referenced_works": [
+    "https://openalex.org/W1585597938",
+    "https://openalex.org/W2889374239"
+  ],
+  "related_works": [
+    "https://openalex.org/W650520959",
+    "https://openalex.org/W4387994202",
+    "https://openalex.org/W4282826619",
+    "https://openalex.org/W4210480338",
+    "https://openalex.org/W3204462233",
+    "https://openalex.org/W3191567050",
+    "https://openalex.org/W2468600602",
+    "https://openalex.org/W193695556",
+    "https://openalex.org/W1522275965",
+    "https://openalex.org/W1503728802"
+  ],
+  "abstract_inverted_index": {
+    "An": [
+      0
+    ],
+    "abstract": [
+      1
+    ],
+    "is": [
+      2
+    ],
+    "not": [
+      3
+    ],
+    "available": [
+      4
+    ],
+    "for": [
+      5,
+      21
+    ],
+    "this": [
+      6,
+      27
+    ],
+    "content": [
+      7
+    ],
+    "so": [
+      8
+    ],
+    "a": [
+      9
+    ],
+    "preview": [
+      10
+    ],
+    "has": [
+      11
+    ],
+    "been": [
+      12
+    ],
+    "provided.": [
+      13
+    ],
+    "Please": [
+      14
+    ],
+    "use": [
+      15
+    ],
+    "the": [
+      16
+    ],
+    "Get": [
+      17
+    ],
+    "access": [
+      18,
+      26
+    ],
+    "link": [
+      19
+    ],
+    "above": [
+      20
+    ],
+    "information": [
+      22
+    ],
+    "on": [
+      23
+    ],
+    "how": [
+      24
+    ],
+    "to": [
+      25
+    ],
+    "content.": [
+      28
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1485911243",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-03T09:22:59.917698",
+  "created_date": "2016-06-24"
+}

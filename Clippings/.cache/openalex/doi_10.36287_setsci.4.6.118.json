@@ -1,0 +1,212 @@
+{
+  "id": "https://openalex.org/W2996541960",
+  "doi": "https://doi.org/10.36287/setsci.4.6.118",
+  "title": "ISO/IEC 27037, ISO/IEC 27041, ISO/IEC 27042 ve ISO/IEC 27043 Standartlarına Göre Sayısal Kanıtlar",
+  "display_name": "ISO/IEC 27037, ISO/IEC 27041, ISO/IEC 27042 ve ISO/IEC 27043 Standartlarına Göre Sayısal Kanıtlar",
+  "publication_year": 2019,
+  "publication_date": "2019-07-26",
+  "ids": {
+    "openalex": "https://openalex.org/W2996541960",
+    "doi": "https://doi.org/10.36287/setsci.4.6.118",
+    "mag": "2996541960"
+  },
+  "language": "tr",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.36287/setsci.4.6.118",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306499521",
+      "display_name": "4th International Symposium on Innovative Approaches in Engineering and Natural Sciences Proceedings",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "proceedings-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5001735013",
+        "display_name": "Nursel Yalçın",
+        "orcid": "https://orcid.org/0000-0002-0393-6408"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nursel Yalçın",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5024424129",
+        "display_name": "Berker Kılıç",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Berker Kılıç",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.592679,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 61,
+    "max": 69
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "444",
+    "last_page": "449"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14180",
+    "display_name": "Law, logistics, and international trade",
+    "score": 0.2433,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1402",
+      "display_name": "Accounting"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/14",
+      "display_name": "Business, Management and Accounting"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14180",
+      "display_name": "Law, logistics, and international trade",
+      "score": 0.2433,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3508963
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.36287/setsci.4.6.118",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306499521",
+        "display_name": "4th International Symposium on Innovative Approaches in Engineering and Natural Sciences Proceedings",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2530322880",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2350741829",
+    "https://openalex.org/W2130043461",
+    "https://openalex.org/W2001405890"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2996541960",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-16T06:43:58.354534",
+  "created_date": "2019-12-26"
+}

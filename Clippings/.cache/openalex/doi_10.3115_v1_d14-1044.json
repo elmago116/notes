@@ -1,0 +1,968 @@
+{
+  "id": "https://openalex.org/W175897666",
+  "doi": "https://doi.org/10.3115/v1/d14-1044",
+  "title": "Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases",
+  "display_name": "Incorporating Vector Space Similarity in Random Walk Inference over Knowledge Bases",
+  "publication_year": 2014,
+  "publication_date": "2014-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W175897666",
+    "doi": "https://doi.org/10.3115/v1/d14-1044",
+    "mag": "175897666"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3115/v1/d14-1044",
+    "pdf_url": "https://aclanthology.org/D14-1044.pdf",
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "proceedings-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://aclanthology.org/D14-1044.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5035088083",
+        "display_name": "Matt Gardner",
+        "orcid": "https://orcid.org/0000-0001-8458-1727"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I74973139",
+          "display_name": "Carnegie Mellon University",
+          "ror": "https://ror.org/05x2bcf33",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I74973139"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Matt Gardner",
+      "raw_affiliation_strings": [
+        "Carnegie Mellon University, Pittsburgh, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Carnegie Mellon University, Pittsburgh, United States",
+          "institution_ids": [
+            "https://openalex.org/I74973139"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033696194",
+        "display_name": "Partha Talukdar",
+        "orcid": "https://orcid.org/0000-0001-8825-589X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59270414",
+          "display_name": "Indian Institute of Science Bangalore",
+          "ror": "https://ror.org/04dese585",
+          "country_code": "IN",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I59270414"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Partha Talukdar",
+      "raw_affiliation_strings": [
+        "Indian Institute of Science Bangalore, Bengaluru, India"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Indian Institute of Science Bangalore, Bengaluru, India",
+          "institution_ids": [
+            "https://openalex.org/I59270414"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062893860",
+        "display_name": "Jayant Krishnamurthy",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I74973139",
+          "display_name": "Carnegie Mellon University",
+          "ror": "https://ror.org/05x2bcf33",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I74973139"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jayant Krishnamurthy",
+      "raw_affiliation_strings": [
+        "Carnegie Mellon University, Pittsburgh, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Carnegie Mellon University, Pittsburgh, United States",
+          "institution_ids": [
+            "https://openalex.org/I74973139"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5102921433",
+        "display_name": "Tom M. Mitchell",
+        "orcid": "https://orcid.org/0000-0001-7373-0301"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I74973139",
+          "display_name": "Carnegie Mellon University",
+          "ror": "https://ror.org/05x2bcf33",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I74973139"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tom Mitchell",
+      "raw_affiliation_strings": [
+        "Carnegie Mellon University, Pittsburgh, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Carnegie Mellon University, Pittsburgh, United States",
+          "institution_ids": [
+            "https://openalex.org/I74973139"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 7.76,
+  "has_fulltext": false,
+  "cited_by_count": 179,
+  "citation_normalized_percentile": {
+    "value": 0.999869,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10028",
+    "display_name": "Topic Modeling",
+    "score": 0.9996,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "score": 0.9996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11273",
+      "display_name": "Advanced Graph Neural Networks",
+      "score": 0.9993,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "score": 0.9969,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/similarity",
+      "display_name": "Similarity (geometry)",
+      "score": 0.67551273
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C103278499",
+      "wikidata": "https://www.wikidata.org/wiki/Q254465",
+      "display_name": "Similarity (geometry)",
+      "level": 3,
+      "score": 0.67551273
+    },
+    {
+      "id": "https://openalex.org/C121194460",
+      "wikidata": "https://www.wikidata.org/wiki/Q856741",
+      "display_name": "Random walk",
+      "level": 2,
+      "score": 0.6361529
+    },
+    {
+      "id": "https://openalex.org/C2776214188",
+      "wikidata": "https://www.wikidata.org/wiki/Q408386",
+      "display_name": "Inference",
+      "level": 2,
+      "score": 0.61703676
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.59802794
+    },
+    {
+      "id": "https://openalex.org/C2778572836",
+      "wikidata": "https://www.wikidata.org/wiki/Q380933",
+      "display_name": "Space (punctuation)",
+      "level": 2,
+      "score": 0.51422477
+    },
+    {
+      "id": "https://openalex.org/C13336665",
+      "wikidata": "https://www.wikidata.org/wiki/Q125977",
+      "display_name": "Vector space",
+      "level": 2,
+      "score": 0.49148357
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.4840278
+    },
+    {
+      "id": "https://openalex.org/C80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "level": 1,
+      "score": 0.32776013
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.32164788
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.13308507
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.083248675
+    },
+    {
+      "id": "https://openalex.org/C115961682",
+      "wikidata": "https://www.wikidata.org/wiki/Q860623",
+      "display_name": "Image (mathematics)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3115/v1/d14-1044",
+      "pdf_url": "https://aclanthology.org/D14-1044.pdf",
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/journal_contribution/Incorporating_Vector_Space_Similarity_in_Random_Walk_Inference_over_Knowledge_Bases/6475790",
+      "pdf_url": "https://figshare.com/articles/journal_contribution/Incorporating_Vector_Space_Similarity_in_Random_Walk_Inference_over_Knowledge_Bases/6475790/1/files/11907161.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402621",
+        "display_name": "INDIGO (University of Illinois at Chicago)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I39422238",
+        "host_organization_name": "University of Illinois Chicago",
+        "host_organization_lineage": [
+          "https://openalex.org/I39422238"
+        ],
+        "host_organization_lineage_names": [
+          "University of Illinois Chicago"
+        ],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.670.7336",
+      "pdf_url": "http://aclweb.org/anthology/D/D14/D14-1044.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400349",
+        "display_name": "CiteSeer X (The Pennsylvania State University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I130769515",
+        "host_organization_name": "Pennsylvania State University",
+        "host_organization_lineage": [
+          "https://openalex.org/I130769515"
+        ],
+        "host_organization_lineage_names": [
+          "Pennsylvania State University"
+        ],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3115/v1/d14-1044",
+    "pdf_url": "https://aclanthology.org/D14-1044.pdf",
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education",
+      "score": 0.56
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 19,
+  "referenced_works": [
+    "https://openalex.org/W114118985",
+    "https://openalex.org/W1512387364",
+    "https://openalex.org/W1788180225",
+    "https://openalex.org/W1852412531",
+    "https://openalex.org/W1950142954",
+    "https://openalex.org/W2016089260",
+    "https://openalex.org/W2019054776",
+    "https://openalex.org/W2022166150",
+    "https://openalex.org/W2029249040",
+    "https://openalex.org/W2094728533",
+    "https://openalex.org/W2107658650",
+    "https://openalex.org/W2125297418",
+    "https://openalex.org/W2128407051",
+    "https://openalex.org/W2129842875",
+    "https://openalex.org/W2133280805",
+    "https://openalex.org/W2251939518",
+    "https://openalex.org/W2251958415",
+    "https://openalex.org/W2952386310",
+    "https://openalex.org/W2964266863"
+  ],
+  "related_works": [
+    "https://openalex.org/W4297449606",
+    "https://openalex.org/W4245069437",
+    "https://openalex.org/W2382333285",
+    "https://openalex.org/W2325737604",
+    "https://openalex.org/W2084194111",
+    "https://openalex.org/W2055243143",
+    "https://openalex.org/W2042537860",
+    "https://openalex.org/W2038723108",
+    "https://openalex.org/W2033630974",
+    "https://openalex.org/W1597743604"
+  ],
+  "abstract_inverted_index": {
+    "Much": [
+      0
+    ],
+    "work": [
+      1,
+      41,
+      156
+    ],
+    "in": [
+      2,
+      39,
+      99,
+      121,
+      135,
+      161,
+      171
+    ],
+    "recent": [
+      3
+    ],
+    "years": [
+      4
+    ],
+    "has": [
+      5,
+      42
+    ],
+    "gone": [
+      6
+    ],
+    "into": [
+      7,
+      86,
+      110
+    ],
+    "the": [
+      8,
+      33,
+      64,
+      117,
+      162,
+      172
+    ],
+    "construction": [
+      9
+    ],
+    "of": [
+      10,
+      35,
+      48,
+      66,
+      164,
+      174
+    ],
+    "large": [
+      11,
+      50,
+      68
+    ],
+    "knowledge": [
+      12
+    ],
+    "bases": [
+      13
+    ],
+    "(KBs),": [
+      14
+    ],
+    "such": [
+      15,
+      67
+    ],
+    "as": [
+      16
+    ],
+    "Freebase,": [
+      17
+    ],
+    "DBPedia,": [
+      18
+    ],
+    "NELL,": [
+      19
+    ],
+    "and": [
+      20,
+      83,
+      137,
+      170
+    ],
+    "YAGO.While": [
+      21
+    ],
+    "these": [
+      22
+    ],
+    "KBs": [
+      23
+    ],
+    "are": [
+      24,
+      28
+    ],
+    "very": [
+      25,
+      30
+    ],
+    "large,": [
+      26
+    ],
+    "they": [
+      27
+    ],
+    "still": [
+      29
+    ],
+    "incomplete,": [
+      31
+    ],
+    "necessitating": [
+      32
+    ],
+    "use": [
+      34,
+      47,
+      65
+    ],
+    "inference": [
+      36,
+      57,
+      113,
+      134
+    ],
+    "to": [
+      37,
+      45,
+      53,
+      63,
+      70,
+      105,
+      127
+    ],
+    "fill": [
+      38
+    ],
+    "gaps.Prior": [
+      40
+    ],
+    "shown": [
+      43
+    ],
+    "how": [
+      44,
+      104
+    ],
+    "make": [
+      46
+    ],
+    "a": [
+      49,
+      76,
+      87
+    ],
+    "text": [
+      51,
+      85
+    ],
+    "corpus": [
+      52
+    ],
+    "augment": [
+      54,
+      71
+    ],
+    "random": [
+      55,
+      111
+    ],
+    "walk": [
+      56,
+      112
+    ],
+    "over": [
+      58,
+      114
+    ],
+    "KBs.We": [
+      59
+    ],
+    "present": [
+      60,
+      75
+    ],
+    "two": [
+      61,
+      145
+    ],
+    "improvements": [
+      62
+    ],
+    "corpora": [
+      69
+    ],
+    "KB": [
+      72,
+      81,
+      158
+    ],
+    "inference.First,": [
+      73
+    ],
+    "we": [
+      74,
+      102,
+      148
+    ],
+    "new": [
+      77
+    ],
+    "technique": [
+      78
+    ],
+    "for": [
+      79
+    ],
+    "combining": [
+      80
+    ],
+    "relations": [
+      82,
+      143
+    ],
+    "surface": [
+      84,
+      123
+    ],
+    "single": [
+      88
+    ],
+    "graph": [
+      89
+    ],
+    "representation": [
+      90
+    ],
+    "that": [
+      91,
+      150
+    ],
+    "is": [
+      92
+    ],
+    "much": [
+      93
+    ],
+    "more": [
+      94
+    ],
+    "compact": [
+      95
+    ],
+    "than": [
+      96
+    ],
+    "graphs": [
+      97
+    ],
+    "used": [
+      98
+    ],
+    "prior": [
+      100,
+      155
+    ],
+    "work.Second,": [
+      101
+    ],
+    "describe": [
+      103
+    ],
+    "incorporate": [
+      106
+    ],
+    "vector": [
+      107
+    ],
+    "space": [
+      108
+    ],
+    "similarity": [
+      109,
+      130
+    ],
+    "KBs,": [
+      115,
+      147
+    ],
+    "reducing": [
+      116
+    ],
+    "feature": [
+      118
+    ],
+    "sparsity": [
+      119
+    ],
+    "inherent": [
+      120
+    ],
+    "using": [
+      122
+    ],
+    "text.This": [
+      124
+    ],
+    "allows": [
+      125
+    ],
+    "us": [
+      126
+    ],
+    "combine": [
+      128
+    ],
+    "distributional": [
+      129
+    ],
+    "with": [
+      131
+    ],
+    "symbolic": [
+      132
+    ],
+    "logical": [
+      133
+    ],
+    "novel": [
+      136
+    ],
+    "effective": [
+      138
+    ],
+    "ways.With": [
+      139
+    ],
+    "experiments": [
+      140
+    ],
+    "on": [
+      141,
+      157
+    ],
+    "many": [
+      142
+    ],
+    "from": [
+      144
+    ],
+    "separate": [
+      146
+    ],
+    "show": [
+      149
+    ],
+    "our": [
+      151,
+      166
+    ],
+    "methods": [
+      152,
+      167
+    ],
+    "significantly": [
+      153
+    ],
+    "outperform": [
+      154
+    ],
+    "inference,": [
+      159
+    ],
+    "both": [
+      160
+    ],
+    "size": [
+      163
+    ],
+    "problem": [
+      165
+    ],
+    "can": [
+      168
+    ],
+    "handle": [
+      169
+    ],
+    "quality": [
+      173
+    ],
+    "predictions": [
+      175
+    ],
+    "made.": [
+      176
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W175897666",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-08-11T08:13:25.863186",
+  "created_date": "2016-06-24"
+}

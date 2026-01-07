@@ -1,0 +1,811 @@
+{
+  "id": "https://openalex.org/W4308901367",
+  "doi": "https://doi.org/10.1016/j.softx.2022.101235",
+  "title": "Rhizomer: Interactive semantic knowledge graphs exploration",
+  "display_name": "Rhizomer: Interactive semantic knowledge graphs exploration",
+  "publication_year": 2022,
+  "publication_date": "2022-11-10",
+  "ids": {
+    "openalex": "https://openalex.org/W4308901367",
+    "doi": "https://doi.org/10.1016/j.softx.2022.101235"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.softx.2022.101235",
+    "pdf_url": "http://www.softxjournal.com/article/S2352711022001534/pdf",
+    "source": {
+      "id": "https://openalex.org/S2506067282",
+      "display_name": "SoftwareX",
+      "issn_l": "2352-7110",
+      "issn": [
+        "2352-7110"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.softxjournal.com/article/S2352711022001534/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5005888520",
+        "display_name": "Roberto Garcı́a",
+        "orcid": "https://orcid.org/0000-0003-2207-9605"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I15766328",
+          "display_name": "Universitat de Lleida",
+          "ror": "https://ror.org/050c3cw24",
+          "country_code": "ES",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I15766328"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Roberto García",
+      "raw_affiliation_strings": [
+        "Universitat de Lleida, Jaume II 69, 25001 Lleida, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universitat de Lleida, Jaume II 69, 25001 Lleida, Spain",
+          "institution_ids": [
+            "https://openalex.org/I15766328"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046716798",
+        "display_name": "Juan Miguel López",
+        "orcid": "https://orcid.org/0000-0001-7730-0472"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169108374",
+          "display_name": "University of the Basque Country",
+          "ror": "https://ror.org/000xsnr85",
+          "country_code": "ES",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I169108374"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juan-Miguel López-Gil",
+      "raw_affiliation_strings": [
+        "University of the Basque Country, Paseo Manuel de Lardizabal 1, 20018 Donostia-San Sebastián, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of the Basque Country, Paseo Manuel de Lardizabal 1, 20018 Donostia-San Sebastián, Spain",
+          "institution_ids": [
+            "https://openalex.org/I169108374"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5039259350",
+        "display_name": "Rosa Gil",
+        "orcid": "https://orcid.org/0000-0001-6304-9635"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I15766328",
+          "display_name": "Universitat de Lleida",
+          "ror": "https://ror.org/050c3cw24",
+          "country_code": "ES",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I15766328"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rosa Gil",
+      "raw_affiliation_strings": [
+        "Universitat de Lleida, Jaume II 69, 25001 Lleida, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universitat de Lleida, Jaume II 69, 25001 Lleida, Spain",
+          "institution_ids": [
+            "https://openalex.org/I15766328"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5005888520"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I15766328"
+  ],
+  "apc_list": {
+    "value": 500,
+    "currency": "USD",
+    "value_usd": 500
+  },
+  "apc_paid": {
+    "value": 500,
+    "currency": "USD",
+    "value_usd": 500
+  },
+  "fwci": 0.757,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.777003,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 83,
+    "max": 84
+  },
+  "biblio": {
+    "volume": "20",
+    "issue": null,
+    "first_page": "101235",
+    "last_page": "101235"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10215",
+    "display_name": "Semantic Web and Ontologies",
+    "score": 0.9997,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "score": 0.9997,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11719",
+      "display_name": "Data Quality and Management",
+      "score": 0.9993,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11273",
+      "display_name": "Advanced Graph Neural Networks",
+      "score": 0.9888,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/knowledge-graph",
+      "display_name": "Knowledge graph",
+      "score": 0.6872806
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8695834
+    },
+    {
+      "id": "https://openalex.org/C206588197",
+      "wikidata": "https://www.wikidata.org/wiki/Q846574",
+      "display_name": "Reuse",
+      "level": 2,
+      "score": 0.7428178
+    },
+    {
+      "id": "https://openalex.org/C2987255567",
+      "wikidata": "https://www.wikidata.org/wiki/Q33002955",
+      "display_name": "Knowledge graph",
+      "level": 2,
+      "score": 0.6872806
+    },
+    {
+      "id": "https://openalex.org/C124913957",
+      "wikidata": "https://www.wikidata.org/wiki/Q1232548",
+      "display_name": "Zoom",
+      "level": 3,
+      "score": 0.58545256
+    },
+    {
+      "id": "https://openalex.org/C106131492",
+      "wikidata": "https://www.wikidata.org/wiki/Q3072260",
+      "display_name": "Filter (signal processing)",
+      "level": 2,
+      "score": 0.5068248
+    },
+    {
+      "id": "https://openalex.org/C2129575",
+      "wikidata": "https://www.wikidata.org/wiki/Q54837",
+      "display_name": "Semantic Web",
+      "level": 2,
+      "score": 0.47708806
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.46001363
+    },
+    {
+      "id": "https://openalex.org/C132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "level": 2,
+      "score": 0.4582031
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.41225052
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.36449653
+    },
+    {
+      "id": "https://openalex.org/C80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "level": 1,
+      "score": 0.12060693
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C78762247",
+      "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+      "display_name": "Petroleum engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C31972630",
+      "wikidata": "https://www.wikidata.org/wiki/Q844240",
+      "display_name": "Computer vision",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C15336307",
+      "wikidata": "https://www.wikidata.org/wiki/Q1766051",
+      "display_name": "Lens (geology)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.softx.2022.101235",
+      "pdf_url": "http://www.softxjournal.com/article/S2352711022001534/pdf",
+      "source": {
+        "id": "https://openalex.org/S2506067282",
+        "display_name": "SoftwareX",
+        "issn_l": "2352-7110",
+        "issn": [
+          "2352-7110"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/008202e365be4088bbf3be920b03a5b6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.softx.2022.101235",
+    "pdf_url": "http://www.softxjournal.com/article/S2352711022001534/pdf",
+    "source": {
+      "id": "https://openalex.org/S2506067282",
+      "display_name": "SoftwareX",
+      "issn_l": "2352-7110",
+      "issn": [
+        "2352-7110"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 18,
+  "referenced_works": [
+    "https://openalex.org/W1482953030",
+    "https://openalex.org/W1596232896",
+    "https://openalex.org/W1651004564",
+    "https://openalex.org/W1895925081",
+    "https://openalex.org/W1993977866",
+    "https://openalex.org/W2085483704",
+    "https://openalex.org/W2104914590",
+    "https://openalex.org/W2106588364",
+    "https://openalex.org/W2487654840",
+    "https://openalex.org/W2795736414",
+    "https://openalex.org/W2901262125",
+    "https://openalex.org/W2980846330",
+    "https://openalex.org/W2991530011",
+    "https://openalex.org/W3126174444",
+    "https://openalex.org/W3155012498",
+    "https://openalex.org/W4220877232",
+    "https://openalex.org/W4234608720",
+    "https://openalex.org/W4252695905"
+  ],
+  "related_works": [
+    "https://openalex.org/W3172556642",
+    "https://openalex.org/W3165790285",
+    "https://openalex.org/W3157456843",
+    "https://openalex.org/W3144351989",
+    "https://openalex.org/W2788595494",
+    "https://openalex.org/W2244676099",
+    "https://openalex.org/W2091972240",
+    "https://openalex.org/W2036676347",
+    "https://openalex.org/W1990150827",
+    "https://openalex.org/W1589307369"
+  ],
+  "abstract_inverted_index": {
+    "Rhizomer": [
+      0,
+      56,
+      89
+    ],
+    "helps": [
+      1
+    ],
+    "researchers": [
+      2
+    ],
+    "and": [
+      3,
+      22,
+      24,
+      41,
+      51,
+      74,
+      98
+    ],
+    "practitioners": [
+      4
+    ],
+    "explore": [
+      5
+    ],
+    "knowledge": [
+      6,
+      76
+    ],
+    "graphs": [
+      7
+    ],
+    "available": [
+      8
+    ],
+    "as": [
+      9
+    ],
+    "Semantic": [
+      10
+    ],
+    "Web": [
+      11
+    ],
+    "data": [
+      12,
+      17,
+      60,
+      85
+    ],
+    "by": [
+      13
+    ],
+    "performing": [
+      14
+    ],
+    "the": [
+      15,
+      38,
+      67,
+      83
+    ],
+    "three": [
+      16
+    ],
+    "analysis": [
+      18
+    ],
+    "tasks:": [
+      19
+    ],
+    "overview,": [
+      20
+    ],
+    "zoom": [
+      21
+    ],
+    "filter,": [
+      23
+    ],
+    "details-on-demand.": [
+      25
+    ],
+    "This": [
+      26
+    ],
+    "approach": [
+      27
+    ],
+    "makes": [
+      28
+    ],
+    "it": [
+      29
+    ],
+    "easier": [
+      30
+    ],
+    "for": [
+      31,
+      59,
+      75
+    ],
+    "users": [
+      32
+    ],
+    "to": [
+      33,
+      48,
+      64,
+      101
+    ],
+    "get": [
+      34
+    ],
+    "an": [
+      35
+    ],
+    "idea": [
+      36
+    ],
+    "about": [
+      37,
+      66
+    ],
+    "overall": [
+      39
+    ],
+    "structure": [
+      40
+    ],
+    "intricacies": [
+      42
+    ],
+    "of": [
+      43,
+      70
+    ],
+    "a": [
+      44,
+      71
+    ],
+    "dataset,": [
+      45,
+      73
+    ],
+    "when": [
+      46
+    ],
+    "compared": [
+      47
+    ],
+    "existing": [
+      49
+    ],
+    "approaches": [
+      50
+    ],
+    "even": [
+      52
+    ],
+    "without": [
+      53
+    ],
+    "prior": [
+      54
+    ],
+    "knowledge.": [
+      55
+    ],
+    "is": [
+      57
+    ],
+    "helpful": [
+      58
+    ],
+    "reusers,": [
+      61
+    ],
+    "who": [
+      62,
+      79
+    ],
+    "want": [
+      63
+    ],
+    "know": [
+      65
+    ],
+    "reuse": [
+      68
+    ],
+    "opportunities": [
+      69
+    ],
+    "given": [
+      72
+    ],
+    "graph": [
+      77
+    ],
+    "creators,": [
+      78
+    ],
+    "can": [
+      80
+    ],
+    "check": [
+      81
+    ],
+    "if": [
+      82
+    ],
+    "generated": [
+      84
+    ],
+    "follow": [
+      86
+    ],
+    "their": [
+      87
+    ],
+    "expectations.": [
+      88
+    ],
+    "has": [
+      90
+    ],
+    "been": [
+      91
+    ],
+    "applied": [
+      92
+    ],
+    "in": [
+      93
+    ],
+    "many": [
+      94
+    ],
+    "scenarios,": [
+      95
+    ],
+    "from": [
+      96
+    ],
+    "research": [
+      97
+    ],
+    "commercial": [
+      99
+    ],
+    "projects": [
+      100
+    ],
+    "teaching.": [
+      102
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4308901367",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-08-16T15:04:34.180700",
+  "created_date": "2022-11-19"
+}

@@ -1,0 +1,477 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        31
+      ]
+    ],
+    "date-time": "2025-07-31T00:47:54Z",
+    "timestamp": 1753922874855
+  },
+  "reference-count": 51,
+  "publisher": "Association for Computing Machinery (ACM)",
+  "issue": "12",
+  "content-domain": {
+    "domain": [
+      "dl.acm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. VLDB Endow."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "abstract": "<jats:p>\n            Knowledge Graphs (KGs) have been used to support a wide range of applications, from web search to personal assistant. In this paper, we describe three generations of knowledge graphs:\n            <jats:italic>entity-based KGs</jats:italic>\n            , which have been supporting general search and question answering (\n            <jats:italic>e.g.</jats:italic>\n            , at Google and Bing);\n            <jats:italic>text-rich KGs</jats:italic>\n            , which have been supporting search and recommendations for products, bio-informatics, etc. (\n            <jats:italic>e.g.</jats:italic>\n            , at Amazon and Alibaba); and the emerging integration of KGs and LLMs, which we call\n            <jats:italic>dual neural KGs.</jats:italic>\n            We describe the characteristics of each generation of KGs, the crazy ideas behind the scenes in constructing such KGs, and the techniques developed over time to enable industry impact. In addition, we use KGs as examples to demonstrate a recipe to evolve research ideas from innovations to production practice, and then to the next level of innovations, to advance both science and business.\n          </jats:p>",
+  "DOI": "10.14778/3611540.3611636",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        15
+      ]
+    ],
+    "date-time": "2023-09-15T15:32:37Z",
+    "timestamp": 1694791957000
+  },
+  "page": "4130-4137",
+  "update-policy": "http://dx.doi.org/10.1145/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 12,
+  "title": [
+    "Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact"
+  ],
+  "prefix": "10.14778",
+  "volume": "16",
+  "author": [
+    {
+      "given": "Xin Luna",
+      "family": "Dong",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Meta Reality Labs, Redmond, Washington"
+        }
+      ]
+    }
+  ],
+  "member": "320",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        12
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_1_1_1",
+      "unstructured": "[n.d.]. ChatGPT. https://chat.openai.com/.  [n.d.]. ChatGPT. https://chat.openai.com/."
+    },
+    {
+      "key": "e_1_2_1_2_1",
+      "unstructured": "2018. How Alexa keeps getting smarter.  2018. How Alexa keeps getting smarter."
+    },
+    {
+      "key": "e_1_2_1_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/336597.336644"
+    },
+    {
+      "key": "e_1_2_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-76298-0_52"
+    },
+    {
+      "key": "e_1_2_1_5_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kurt Bollacker Colin Evans Praveen Paritosh Tim Sturge and Jamie Taylor. 2008. Freebase: a collaboratively created graph database for structuring human knowledge. In SIGMOD. 1247--1250.  Kurt Bollacker Colin Evans Praveen Paritosh Tim Sturge and Jamie Taylor. 2008. Freebase: a collaboratively created graph database for structuring human knowledge. In SIGMOD. 1247--1250.",
+      "DOI": "10.1145/1376616.1376746"
+    },
+    {
+      "key": "e_1_2_1_6_1",
+      "volume-title": "Improving language models by retrieving from trillions of tokens. arXiv",
+      "author": "Borgeaud Sebastian",
+      "year": "2022",
+      "unstructured": "Sebastian Borgeaud , Arthur Mensch , and etc. Jordan Hoffmann &dagger;. 2022. Improving language models by retrieving from trillions of tokens. arXiv ( 2022 ). Sebastian Borgeaud, Arthur Mensch, and etc. Jordan Hoffmann&dagger;. 2022. Improving language models by retrieving from trillions of tokens. arXiv (2022)."
+    },
+    {
+      "key": "e_1_2_1_7_1",
+      "volume-title": "Proc. of the WebDB Workshop.",
+      "author": "Brin Sergey",
+      "year": "1998",
+      "unstructured": "Sergey Brin . 1998 . Extracting Patterns and Relations from the World Wide Web . In Proc. of the WebDB Workshop. Sergey Brin. 1998. Extracting Patterns and Relations from the World Wide Web. In Proc. of the WebDB Workshop."
+    },
+    {
+      "key": "e_1_2_1_8_1",
+      "volume-title": "Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, and Yi Zhang.",
+      "author": "Bubeck Sébastien",
+      "year": "2023",
+      "unstructured": "Sébastien Bubeck , Varun Chandrasekaran , Ronen Eldan , Johannes Gehrke , Eric Horvitz , Ece Kamar , Peter Lee , Yin Tat Lee , Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, and Yi Zhang. 2023 . Sparks of Artificial General Intelligence: Early experiments with GPT- 4. arXiv. Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, and Yi Zhang. 2023. Sparks of Artificial General Intelligence: Early experiments with GPT-4. arXiv."
+    },
+    {
+      "key": "e_1_2_1_9_1",
+      "volume-title": "Eugene Wu, and Yang Zhang.",
+      "author": "Cafarella Michael J.",
+      "year": "2008",
+      "unstructured": "Michael J. Cafarella , Alon Y. Halevy , Daisy Zhe Wang , Eugene Wu, and Yang Zhang. 2008 . WebTables: exploring the power of tables on the web. In PVLDB. 538--549. Michael J. Cafarella, Alon Y. Halevy, Daisy Zhe Wang, Eugene Wu, and Yang Zhang. 2008. WebTables: exploring the power of tables on the web. In PVLDB. 538--549."
+    },
+    {
+      "key": "e_1_2_1_10_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "A. Carlson J. Betteridge B. Kisiel B. Settles E. Hruschka Jr. and T. Mitchell. 2010. Toward an Architecture for Never-Ending Language Learning. In AAAI.  A. Carlson J. Betteridge B. Kisiel B. Settles E. Hruschka Jr. and T. Mitchell. 2010. Toward an Architecture for Never-Ending Language Learning. In AAAI.",
+      "DOI": "10.1609/aaai.v24i1.7519"
+    },
+    {
+      "key": "e_1_2_1_11_1",
+      "volume-title": "Xin Luna Dong, and Yizhou Sun.",
+      "author": "Cheng Kewei",
+      "year": "2023",
+      "unstructured": "Kewei Cheng , Xian Li , Zhengyang Wang , Chenwei Zhang , Binxuan Huang , Yifan Ethan Xu , Xin Luna Dong, and Yizhou Sun. 2023 . Tab-Cleaner: Weakly Supervised Tabular Data Cleaning via Pre-training for E-commerce Catalog. In ACL. Kewei Cheng, Xian Li, Zhengyang Wang, Chenwei Zhang, Binxuan Huang, Yifan Ethan Xu, Xin Luna Dong, and Yizhou Sun. 2023. Tab-Cleaner: Weakly Supervised Tabular Data Cleaning via Pre-training for E-commerce Catalog. In ACL."
+    },
+    {
+      "key": "e_1_2_1_12_1",
+      "volume-title": "Xin Luna Dong, and Yizhou Sun",
+      "author": "Cheng Kewei",
+      "year": "2022",
+      "unstructured": "Kewei Cheng , Xian Li , Yifan Xu , Xin Luna Dong, and Yizhou Sun . 2022 . PGE : Robust product graph embedding learning for error detection. In VLDB. Kewei Cheng, Xian Li, Yifan Xu, Xin Luna Dong, and Yizhou Sun. 2022. PGE: Robust product graph embedding learning for error detection. In VLDB."
+    },
+    {
+      "key": "e_1_2_1_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1147197.1147210"
+    },
+    {
+      "key": "e_1_2_1_14_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xin Luna Dong. 2016. Leave No Valuable Data Behind: The Crazy Ideas and the Business. In VLDB.  Xin Luna Dong. 2016. Leave No Valuable Data Behind: The Crazy Ideas and the Business. In VLDB.",
+      "DOI": "10.14778/3007263.3007326"
+    },
+    {
+      "key": "e_1_2_1_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICDE.2019.00010"
+    },
+    {
+      "key": "e_1_2_1_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2623330.2623623"
+    },
+    {
+      "key": "e_1_2_1_17_1",
+      "volume-title": "From Data Fusion to Knowledge Fusion. PVLDB",
+      "author": "Dong Xin Luna",
+      "year": "2014",
+      "unstructured": "Xin Luna Dong , Evgeniy Gabrilovich , Geremy Heitz , Wilko Horn , Kevin Murphy , Shaohua Sun , and Wei Zhang . 2014. From Data Fusion to Knowledge Fusion. PVLDB ( 2014 ). Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Kevin Murphy, Shaohua Sun, and Wei Zhang. 2014. From Data Fusion to Knowledge Fusion. PVLDB (2014)."
+    },
+    {
+      "key": "e_1_2_1_18_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xin Luna Dong Evgeniy Gabrilovich Kevin Murphy Van Dang Wilko Horn Camillo Lugaresi Shaohua Sun and Wei Zhang. 2015. Knowledge-based trust: estimating the trustworthiness of web sources. In VLDB.  Xin Luna Dong Evgeniy Gabrilovich Kevin Murphy Van Dang Wilko Horn Camillo Lugaresi Shaohua Sun and Wei Zhang. 2015. Knowledge-based trust: estimating the trustworthiness of web sources. In VLDB.",
+      "DOI": "10.14778/2777598.2777603"
+    },
+    {
+      "key": "e_1_2_1_19_1",
+      "unstructured": "Xin Luna Dong Xiang He Andrey Kan Xian Li Yan Liang Jun Ma Yifan Ethan Xu Chenwei Zhang Tong Zhao Gabriel Blanco Saldana Saurabh Deshpande Alexandre Michetti Manduca Jay Ren Surender Pal Singh Fan Xiao Haw-Shiuan Chang Giannis Karamanolakis Yuning Mao Yaqing Wang Christos Faloutsos Andrew McCallum and Jiawei Han. 2020. AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types. In SigKDD.  Xin Luna Dong Xiang He Andrey Kan Xian Li Yan Liang Jun Ma Yifan Ethan Xu Chenwei Zhang Tong Zhao Gabriel Blanco Saldana Saurabh Deshpande Alexandre Michetti Manduca Jay Ren Surender Pal Singh Fan Xiao Haw-Shiuan Chang Giannis Karamanolakis Yuning Mao Yaqing Wang Christos Faloutsos Andrew McCallum and Jiawei Han. 2020. AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types. In SigKDD."
+    },
+    {
+      "key": "e_1_2_1_20_1",
+      "volume-title": "Data fusion-Resolving data conflicts for integration. PVLDB",
+      "author": "Dong Xin Luna",
+      "year": "2009",
+      "unstructured": "Xin Luna Dong and Felix Naumann . 2009. Data fusion-Resolving data conflicts for integration. PVLDB ( 2009 ). Xin Luna Dong and Felix Naumann. 2009. Data fusion-Resolving data conflicts for integration. PVLDB (2009)."
+    },
+    {
+      "key": "e_1_2_1_21_1",
+      "volume-title": "Big data integration. PVLDB",
+      "author": "Dong Xin Luna",
+      "year": "2013",
+      "unstructured": "Xin Luna Dong and Divesh Srivastava . 2013. Big data integration. PVLDB ( 2013 ). Xin Luna Dong and Divesh Srivastava. 2013. Big data integration. PVLDB (2013)."
+    },
+    {
+      "key": "e_1_2_1_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01621459.1969.10501049"
+    },
+    {
+      "key": "e_1_2_1_23_1",
+      "volume-title": "Proc. of SIGKDD.",
+      "author": "Gao Yuqing",
+      "year": "2018",
+      "unstructured": "Yuqing Gao , Jisheng Liang , Benjamin Han , Mohamed Yakout , and Ahmed Mohamed . 2018 . Building a Large-Scale, Accurate and Fresh Knowledge Graph . In Proc. of SIGKDD. Yuqing Gao, Jisheng Liang, Benjamin Han, Mohamed Yakout, and Ahmed Mohamed. 2018. Building a Large-Scale, Accurate and Fresh Knowledge Graph. In Proc. of SIGKDD."
+    },
+    {
+      "key": "e_1_2_1_24_1",
+      "volume-title": "Christos Faloutsos, Yizhou Sun, and Wei Wang.",
+      "author": "Hao Junheng",
+      "year": "2020",
+      "unstructured": "Junheng Hao , Tong Zhao , Jin Li , Xin Luna Dong , Christos Faloutsos, Yizhou Sun, and Wei Wang. 2020 . P-Companion: A principled framework for diversified complementary product recommendation. In CIKM. Junheng Hao, Tong Zhao, Jin Li, Xin Luna Dong, Christos Faloutsos, Yizhou Sun, and Wei Wang. 2020. P-Companion: A principled framework for diversified complementary product recommendation. In CIKM."
+    },
+    {
+      "key": "e_1_2_1_25_1",
+      "volume-title": "Xin Luna Dong, and Danai Koutra",
+      "author": "Jin Di",
+      "year": "2022",
+      "unstructured": "Di Jin , Bunyamin Sisman , Hao Wei , Xin Luna Dong, and Danai Koutra . 2022 . Deep transfer learning for multi-source entity linkage via domain adaptation. In VLDB. Di Jin, Bunyamin Sisman, Hao Wei, Xin Luna Dong, and Danai Koutra. 2022. Deep transfer learning for multi-source entity linkage via domain adaptation. In VLDB."
+    },
+    {
+      "key": "e_1_2_1_26_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Giannis Karamanolakis Jun Ma and Xin Luna Dong. 2020. TXtract: Taxonomy-aware knowledge extraction for thousands of product categories. In ACL.  Giannis Karamanolakis Jun Ma and Xin Luna Dong. 2020. TXtract: Taxonomy-aware knowledge extraction for thousands of product categories. In ACL.",
+      "DOI": "10.18653/v1/2020.acl-main.751"
+    },
+    {
+      "key": "e_1_2_1_27_1",
+      "volume-title": "Proc. of IJCAI.",
+      "author": "Kushmerick N.",
+      "unstructured": "N. Kushmerick , D. S. Weld , and R. B. Doorenbos . 1997. Wrapper induction for information extraction . In Proc. of IJCAI. N. Kushmerick, D. S. Weld, and R. B. Doorenbos. 1997. Wrapper induction for information extraction. In Proc. of IJCAI."
+    },
+    {
+      "key": "e_1_2_1_28_1",
+      "volume-title": "Anno Largen, and Yang Li.",
+      "author": "Li Furong",
+      "year": "2017",
+      "unstructured": "Furong Li , Xin Luna Dong , Anno Largen, and Yang Li. 2017 . Knowledge verification for long tail verticals. In VLDB. Furong Li, Xin Luna Dong, Anno Largen, and Yang Li. 2017. Knowledge verification for long tail verticals. In VLDB."
+    },
+    {
+      "key": "e_1_2_1_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICDE.2015.7113275"
+    },
+    {
+      "key": "e_1_2_1_30_1",
+      "volume-title": "PAM: Understanding product images in cross product category attribute extraction. In SigKDD.",
+      "author": "Lin Rongmei",
+      "year": "2021",
+      "unstructured": "Rongmei Lin , Xiang He , Jie Feng , Nasser Zalmout , Yan Liang , Li Xiong , and Xin Luna Dong . 2021 . PAM: Understanding product images in cross product category attribute extraction. In SigKDD. Rongmei Lin, Xiang He, Jie Feng, Nasser Zalmout, Yan Liang, Li Xiong, and Xin Luna Dong. 2021. PAM: Understanding product images in cross product category attribute extraction. In SigKDD."
+    },
+    {
+      "key": "e_1_2_1_31_1",
+      "volume-title": "Yu",
+      "author": "Liu Ye",
+      "year": "2021",
+      "unstructured": "Ye Liu , Yao Wan , Lifang He , Hao Peng , and Philip S . Yu . 2021 . KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning. In AAAI. Ye Liu, Yao Wan, Lifang He, Hao Peng, and Philip S. Yu. 2021. KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning. In AAAI."
+    },
+    {
+      "key": "e_1_2_1_32_1",
+      "volume-title": "Arash Einolghozati, and Prashant Shiralkar.",
+      "author": "Lockard Colin",
+      "year": "2018",
+      "unstructured": "Colin Lockard , Xin Luna Dong , Arash Einolghozati, and Prashant Shiralkar. 2018 . Ceres : Distantly supervised relation extraction from the semi-structured web. In VLDB. Colin Lockard, Xin Luna Dong, Arash Einolghozati, and Prashant Shiralkar. 2018. Ceres: Distantly supervised relation extraction from the semi-structured web. In VLDB."
+    },
+    {
+      "key": "e_1_2_1_33_1",
+      "unstructured": "Colin Lockard Prashant Shiralkar and Xin Luna Dong. 2019. OpenCeres: When open information extraction meets the semi-structured web. In NAACL.  Colin Lockard Prashant Shiralkar and Xin Luna Dong. 2019. OpenCeres: When open information extraction meets the semi-structured web. In NAACL."
+    },
+    {
+      "key": "e_1_2_1_34_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Colin Lockard Prashant Shiralkar Hannaneh Hajishirzi and Xin Luna Dong. 2020. ZeroShotCeres: Zero-shot relation extraction from semi-structured webpages. In ACL.  Colin Lockard Prashant Shiralkar Hannaneh Hajishirzi and Xin Luna Dong. 2020. ZeroShotCeres: Zero-shot relation extraction from semi-structured webpages. In ACL.",
+      "DOI": "10.18653/v1/2020.acl-main.721"
+    },
+    {
+      "key": "e_1_2_1_35_1",
+      "volume-title": "Christos Faloutsos, and Jiawei Han.",
+      "author": "Mao Yuning",
+      "year": "2020",
+      "unstructured": "Yuning Mao , Tong Zhao , Andrey Kan , Chenwei Zhang , Xin Luna Dong , Christos Faloutsos, and Jiawei Han. 2020 . Octet : Online catalog taxonomy enrichment with self-supervision. In SigKDD. Yuning Mao, Tong Zhao, Andrey Kan, Chenwei Zhang, Xin Luna Dong, Christos Faloutsos, and Jiawei Han. 2020. Octet: Online catalog taxonomy enrichment with self-supervision. In SigKDD."
+    },
+    {
+      "key": "e_1_2_1_36_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mike Mintz Steven Bills Rion Snow and Dan Jurafsky. 2009. Distant supervision for relation extraction without labeled data. In ACL.  Mike Mintz Steven Bills Rion Snow and Dan Jurafsky. 2009. Distant supervision for relation extraction without labeled data. In ACL.",
+      "DOI": "10.3115/1690219.1690287"
+    },
+    {
+      "key": "e_1_2_1_37_1",
+      "volume-title": "WebGPT: Browser-assisted question-answering with human feedback. arXiv",
+      "author": "Nakano Reiichiro",
+      "year": "2022",
+      "unstructured": "Reiichiro Nakano , Jacob Hilton , Suchir Balaji , Jeff Wu , Long Ouyang , Christina Kim , Christopher Hesse , Shantanu Jain , Vineet Kosaraju , William Saunders , Xu Jiang , Karl Cobbe , Tyna Eloundou , Gretchen Krueger , Kevin Button , Matthew Knight , Benjamin Chess , and John Schulman . 2022. WebGPT: Browser-assisted question-answering with human feedback. arXiv ( 2022 ). Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, and John Schulman. 2022. WebGPT: Browser-assisted question-answering with human feedback. arXiv (2022)."
+    },
+    {
+      "key": "e_1_2_1_38_1",
+      "volume-title": "REPLUG: Retrieval-Augmented Black-Box Language Models. arXiv",
+      "author": "Shi Weijia",
+      "year": "2023",
+      "unstructured": "Weijia Shi , Sewon Min , Michihiro Yasunaga , Minjoon Seo , Rich James , Mike Lewis , Luke Zettlemoyer , and Wen tau Yih . 2023 . REPLUG: Retrieval-Augmented Black-Box Language Models. arXiv (2023). Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, and Wen tau Yih. 2023. REPLUG: Retrieval-Augmented Black-Box Language Models. arXiv (2023)."
+    },
+    {
+      "key": "e_1_2_1_39_1",
+      "unstructured": "Amit Singhal. 2012. Introducing the Knowledge Graph: Things Not Strings. Google Official Blog.  Amit Singhal. 2012. Introducing the Knowledge Graph: Things Not Strings. Google Official Blog."
+    },
+    {
+      "key": "e_1_2_1_40_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fabian M. Suchanek Gjergji Kasneci and Gerhard Weikum. 2007. YAGO - A Core of Semantic Knowledge. In WWW.  Fabian M. Suchanek Gjergji Kasneci and Gerhard Weikum. 2007. YAGO - A Core of Semantic Knowledge. In WWW.",
+      "DOI": "10.1145/1242572.1242667"
+    },
+    {
+      "key": "e_1_2_1_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1526709.1526794"
+    },
+    {
+      "key": "e_1_2_1_42_1",
+      "volume-title": "Hanwen Zha, Yue Liu, and Xin Luna Dong.",
+      "author": "Sun Kai",
+      "year": "2023",
+      "unstructured": "Kai Sun , Yifan Ethan Xu , Hanwen Zha, Yue Liu, and Xin Luna Dong. 2023 . How Knowledgeable are Large Language Models ? in submission. Kai Sun, Yifan Ethan Xu, Hanwen Zha, Yue Liu, and Xin Luna Dong. 2023. How Knowledgeable are Large Language Models? in submission."
+    },
+    {
+      "key": "e_1_2_1_43_1",
+      "volume-title": "Wikidata: A Free Collaborative Knowledgebase., 78--85 pages.",
+      "author": "Vrandečić Denny",
+      "year": "2014",
+      "unstructured": "Denny Vrandečić and Markus Krötzsch . 2014 . Wikidata: A Free Collaborative Knowledgebase., 78--85 pages. Denny Vrandečić and Markus Krötzsch. 2014. Wikidata: A Free Collaborative Knowledgebase., 78--85 pages."
+    },
+    {
+      "key": "e_1_2_1_44_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qifan Wang Li Yang Bhargav Kanagal Sumit Sanghai D. Sivakumar Bin Shu Zac Yu and Jon Elsas. 2020. Learning to Extract Attribute VAlue from Product via Question Answering: A Multi-task Approach. In SigKDD.  Qifan Wang Li Yang Bhargav Kanagal Sumit Sanghai D. Sivakumar Bin Shu Zac Yu and Jon Elsas. 2020. Learning to Extract Attribute VAlue from Product via Question Answering: A Multi-task Approach. In SigKDD.",
+      "DOI": "10.1145/3394486.3403047"
+    },
+    {
+      "key": "e_1_2_1_45_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ruize Wang Duyu Tang Nan Duan Zhongyu Wei Xuanjing Huang Jianshu Ji Guihong Cao Daxin Jiang and Ming Zhou. 2021. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. In ACL.  Ruize Wang Duyu Tang Nan Duan Zhongyu Wei Xuanjing Huang Jianshu Ji Guihong Cao Daxin Jiang and Ming Zhou. 2021. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. In ACL.",
+      "DOI": "10.18653/v1/2021.findings-acl.121"
+    },
+    {
+      "key": "e_1_2_1_46_1",
+      "volume-title": "Chi, Quoc Le, and Denny Zhou",
+      "author": "Wei Jason",
+      "year": "2022",
+      "unstructured": "Jason Wei , Xuezhi Wang , Dale Schuurmans , Maarten Bosma , Brian Ichter , Fei Xia , Ed Chi, Quoc Le, and Denny Zhou . 2022 . Chain-of-Thought Prompting Elicits Reasoning in Large Language Models . Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou. 2022. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models."
+    },
+    {
+      "key": "e_1_2_1_47_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chris Welty Lora Aroyo Flip Korn Sara M. McCarthy and Shubin Zhao. 2021. Rapid Instance-Level Knowledge Acquisition for Google Maps from Class-Level Common Sense. In HCOMP.  Chris Welty Lora Aroyo Flip Korn Sara M. McCarthy and Shubin Zhao. 2021. Rapid Instance-Level Knowledge Acquisition for Google Maps from Class-Level Common Sense. In HCOMP.",
+      "DOI": "10.1609/hcomp.v9i1.18947"
+    },
+    {
+      "key": "e_1_2_1_48_1",
+      "volume-title": "Pascual Martinez-Gomez, Nasser Zalmout, Wei Chen, Tong Zhao, Hao He, and Yaohui Jin.",
+      "author": "Xiao Liqiang",
+      "year": "2021",
+      "unstructured": "Liqiang Xiao , Jun Ma , Xin Luna Dong , Pascual Martinez-Gomez, Nasser Zalmout, Wei Chen, Tong Zhao, Hao He, and Yaohui Jin. 2021 . End-to-end conversational search for online shopping with utterance transfer. Liqiang Xiao, Jun Ma, Xin Luna Dong, Pascual Martinez-Gomez, Nasser Zalmout, Wei Chen, Tong Zhao, Hao He, and Yaohui Jin. 2021. End-to-end conversational search for online shopping with utterance transfer."
+    },
+    {
+      "key": "e_1_2_1_49_1",
+      "unstructured": "Huimin Xu Wenting Wang Xin Mao Xinyu Jiang and Man Lan. 2019. SUOpenTag: Scaling Up Open Tagging from Tens to Thousands: Comprehension Empowered Attribute Value Extraction from Product Title. In ACL.  Huimin Xu Wenting Wang Xin Mao Xinyu Jiang and Man Lan. 2019. SUOpenTag: Scaling Up Open Tagging from Tens to Thousands: Comprehension Empowered Attribute Value Extraction from Product Title. In ACL."
+    },
+    {
+      "key": "e_1_2_1_50_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jun Yan Nasser Zalmout Yan Liang Christan Grant Xiang Ren and Xin Luna Dong. 2021. AdaTag: Multi-attribute value extraction from product profiles with adaptive decoding. In ACL.  Jun Yan Nasser Zalmout Yan Liang Christan Grant Xiang Ren and Xin Luna Dong. 2021. AdaTag: Multi-attribute value extraction from product profiles with adaptive decoding. In ACL.",
+      "DOI": "10.18653/v1/2021.acl-long.362"
+    },
+    {
+      "key": "e_1_2_1_51_1",
+      "volume-title": "Xin Luna Dong, and Feifei Li",
+      "author": "Zheng Guineng",
+      "year": "2018",
+      "unstructured": "Guineng Zheng , Subhabrata Mukherjee , Xin Luna Dong, and Feifei Li . 2018 . OpenTag: Open attribute value extraction from product profiles. In SigKDD. Guineng Zheng, Subhabrata Mukherjee, Xin Luna Dong, and Feifei Li. 2018. OpenTag: Open attribute value extraction from product profiles. In SigKDD."
+    }
+  ],
+  "container-title": [
+    "Proceedings of the VLDB Endowment"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://dl.acm.org/doi/pdf/10.14778/3611540.3611636",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        15
+      ]
+    ],
+    "date-time": "2023-09-15T15:46:34Z",
+    "timestamp": 1694792794000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dl.acm.org/doi/10.14778/3611540.3611636"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "references-count": 51,
+  "journal-issue": {
+    "issue": "12",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.14778/3611540.3611636"
+  ],
+  "URL": "https://doi.org/10.14778/3611540.3611636",
+  "relation": {},
+  "ISSN": [
+    "2150-8097"
+  ],
+  "issn-type": [
+    {
+      "value": "2150-8097",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2023-09-12",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

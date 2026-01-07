@@ -1,20 +1,76 @@
 ---
 title: The World Literature Knowledge Graph
+authors: 
+- Marco Antonio Stranisci
+- Eleonora Bernasconi
+- Viviana Patti
+- Stefano Ferilli
+- Miguel Ceriani
+- Rossana Damiano
+year: 2017
+type: preprint
+journal: Lecture Notes in Computer Science
+doi: 10.1007/978-3-031-47243-5_24
+base: clippings
+source: Manual
+tags:
+  - Tech/KG
+  - Tech/SemanticWeb
+  - themes/art
+  - themes/literature
+last_enrichment_run: 2025-08-20
+pages: 435-452
+url: https://arxiv.org/abs/1701.00991
+apa_citation: Stranisci et al., 2017
+---
+
+## Notes for digital libraries article
+- **Process-driven**:
+  - “In this paper we present The World Literature Knowledge Graph (WL-KG), a semantic resource containing 194,346 writers and 971,210 works, specifically designed for exploring facts about literary works and authors from different parts of the world.” (Abstract)
+  - “The knowledge graph integrates information about the reception of literary works gathered from 3 different communities of readers, aligned according to a single semantic model.” (Abstract)
+- **Methodological tools**:
+  - “The resource is accessible through an online visualization platform, which can be found at the following URL: https://literaturegraph.di.unito.it.” (Abstract)
+  - “This platform has been rigorously tested and validated by 3 distinct categories of experts who have found it to be highly beneficial for their respective work domains. These categories include teachers, researchers in the humanities, and professionals in the publishing industry.” (Abstract)
+- **Participation level**:
+  - “The resource is accessible through an online visualization platform ... This platform has been rigorously tested and validated by 3 distinct categories of experts who have found it to be highly beneficial for their respective work domains.” (Abstract)
+- **Epistemic justice**:
+  - “However, these sources of knowledge are fragmented and do not adequately represent non-Western writers and their works.” (Abstract)
+
+[[The World Literature Knowledge Graph.pdf]]
+
+[[The World Literature Knowledge Graph.pdf]]
+
+---
+title: The World Literature Knowledge Graph
 source: https://link.springer.com/chapter/10.1007/978-3-031-47243-5_24
-author:
-  - "[[SpringerLink]]"
 published: 2023-10-27
 created: 2025-03-18
 description: Digital media have enabled the access to unprecedented literary knowledge. Authors, readers, and scholars are now able to discover and share an increasing amount of information about books and their authors. However, these sources of knowledge are fragmented and do...
-tags:
-  - themes/HerStory/humanities
-  - Tech/KG
-  - themes/HerStory/GLAM
-  - similarProject
+year: 2023
+journal: Lecture Notes in Computer Science
+doi: 10.1007/978-3-031-47243-5_24
+url: https://doi.org/10.1007/978-3-031-47243-5_24
+pages: 435-452
+publisher: Springer Nature Switzerland
+authors:
+  - Christoph Hube
+  - Frank Fischer
+  - Robert Jäschke
+  - Gerhard Lauer
+  - Mads Rosendahl Thomsen
+  - Stranisci
+arxiv_id: 1701.00991
+categories:
+  - cs.IR
+  - cs.CL
+abstract: Among the manifold takes on world literature, it is our goal to contribute to
+last_enrichment_run: 2025-08-19
+updated: 2025-08-19
+type: book-chapter
 ---
 ## Abstract
 
-Digital media have enabled the access to unprecedented literary knowledge. Authors, readers, and scholars are now able to discover and share an increasing amount of information about books and their authors. However, these sources of knowledge are fragmented and do not adequately represent non-Western writers and their works. In this paper we present The World Literature Knowledge Graph (WL-KG), a semantic resource containing 194, 346 writers and 971, 210 works, specifically designed for exploring facts about literary works and authors from different parts of the world. The knowledge graph integrates information about the reception of literary works gathered from 3 different communities of readers, aligned according to a single semantic model. The resource is accessible through an online visualization platform, which can be found at the following URL: [https://literaturegraph.di.unito.it](https://literaturegraph.di.unito.it/). This platform has been rigorously #UX/testing/user_testing tested and validated by 3 distinct categories of experts who have found it to be highly beneficial for their respective work domains. These categories include teachers, researchers in the humanities, and professionals in the publishing industry. The feedback received from these experts confirms that they can effectively utilize the platform to enhance their work processes and to achieve valuable outcomes. 
+Digital media have enabled the access to unprecedented literary knowledge. Authors, readers, and scholars are now able to discover and share an increasing amount of information about books and their authors. However, these sources of knowledge are fragmented and do not adequately represent non-Western writers and their works. In this paper we present The World Literature Knowledge Graph (WL-KG), a semantic resource containing 194, 346 writers and 971, 210 works, specifically designed for exploring facts about literary works and authors from different parts of the world. The knowledge graph integrates information about the reception of literary works gathered from 3 different communities of readers, aligned according to a single semantic model. The resource is accessible through an online visualization platform, which can be found at the following URL: [https://literaturegraph.di.unito.it](https://literaturegraph.di.unito.it/). This platform has been rigorously #design/UX/testing tested and validated by 3 distinct categories of experts who have found it to be highly beneficial for their respective work domains. These categories include teachers, researchers in the humanities, and professionals in the publishing industry. The feedback received from these experts confirms that they can effectively utilize the platform to enhance their work processes and to achieve valuable outcomes. 
 
 M. A. Stranisci and E. Bernasconi—Contributed equally to this work.
 
@@ -156,23 +212,23 @@ Stranisci, M.A., Bernasconi, E., Patti, V., Ferilli, S., Ceriani, M., Damiano, R
 
 the Semantic Web Science Association
 
-](http://swsa.semanticweb.org/) #stakeholders/org
+](http://swsa.semanticweb.org/) #design/stakeholders/org
 
 [^1]: Adams, J., Brückner, H., Naslund, C.: Who counts as a notable sociologist on Wikipedia? Gender, race, and the “professor test.” Socius **5**, 2378023118823946 (2019)
 
-[^2]: Benwell, B., Procter, J., Robinson, G.: Postcolonial Audiences: Readers, Viewers and Reception. Routledge, New York (2012) #op/buscar 
+[^2]: Benwell, B., Procter, J., Robinson, G.: Postcolonial Audiences: Readers, Viewers and Reception. Routledge, New York (2012) #op/acc/buscar #Humanities/decolonization 
 
-[^3]: Bernasconi, E., Ceriani, M., Mecella, M.: Linked data interfaces: a survey. In: Falcon, A., Ferilli, S., Bardi, A., Marchesin, S., Redavid, D. (eds.) Proceedings of the XIX Italian Research Conference on Digital Libraries - Information and Research Science connecting to Digital and Library Science (IRCDL2023). vol. 3365, p. 16. Central Europe (CEUR) Workshop Proceedings, Bari, Italy (2023) #research_method/ScopingReview #op/buscar 
+[^3]: Bernasconi, E., Ceriani, M., Mecella, M.: Linked data interfaces: a survey. In: Falcon, A., Ferilli, S., Bardi, A., Marchesin, S., Redavid, D. (eds.) Proceedings of the XIX Italian Research Conference on Digital Libraries - Information and Research Science connecting to Digital and Library Science (IRCDL2023). vol. 3365, p. 16. Central Europe (CEUR) Workshop Proceedings, Bari, Italy (2023) #research_method/ScopingReview #op/acc/buscar #design/UX/user_interface 
 
-[^4]: Bernasconi, E., Ceriani, M., Mecella, M., Catarci, T.: Design, realization, and user evaluation of the ARCA system for exploring a digital library. Int. J. Digit. Libr. **24**(1), 1–22 (2023) #UX/testing/user_testing #op/buscar 
+[^4]: Bernasconi, E., Ceriani, M., Mecella, M., Catarci, T.: Design, realization, and user evaluation of the ARCA system for exploring a digital library. Int. J. Digit. Libr. **24**(1), 1–22 (2023) #design/UX/testing #op/acc/buscar 
 
-[^5]: Bernasconi, E., Ceriani, M., Mecella, M., Morvillo, A.: Automatic knowledge extraction from a digital library and collaborative validation. In: Silvello, G., et al. Linking Theory and Practice of Digital Libraries. TPDL 2022. LNCS, vol. 13541. Springer, Cham (2022). [https://doi.org/10.1007/978-3-031-16802-4\_49](https://doi.org/10.1007/978-3-031-16802-4_49)
+[^5]: Bernasconi, E., Ceriani, M., Mecella, M., Morvillo, A.: Automatic knowledge extraction from a digital library and collaborative validation. In: Silvello, G., et al. Linking Theory and Practice of Digital Libraries. TPDL 2022. LNCS, vol. 13541. Springer, Cham (2022). [https://doi.org/10.1007/978-3-031-16802-4\_49](https://doi.org/10.1007/978-3-031-16802-4_49) 
 
 [^6]: Bolina, M.: Yewno Discover. Nord. J. Inf. Literacy High. Educ. **11**(1) (2019)
 
 [^7]: Boter, B., Rensen, M., Scott-Smith, G.: Unhinging the National Framework: Perspectives on Transnational Life Writing. Sidestone Press (2020)
 
-[^8]: Chawuthai, R., Takeda, H.: RDF graph visualization by interpreting linked data as knowledge. In: Qi, G., Kozaki, K., Pan, J.Z., Yu, S. (eds.) JIST 2015. LNCS, vol. 9544, pp. 23–39. Springer, Cham (2016). [https://doi.org/10.1007/978-3-319-31676-5\_2](https://doi.org/10.1007/978-3-319-31676-5_2)
+[^8]: Chawuthai, R., Takeda, H.: RDF graph visualization by interpreting linked data as knowledge. In: Qi, G., Kozaki, K., Pan, J.Z., Yu, S. (eds.) JIST 2015. LNCS, vol. 9544, pp. 23–39. Springer, Cham (2016). [https://doi.org/10.1007/978-3-319-31676-5\_2](https://doi.org/10.1007/978-3-319-31676-5_2)  #op/acc/leer  #Tech/KG/linked_open_data 
 
 [^9]: Crenshaw, K.W.: On intersectionality: Essential writings. The New Press (2017)
 
@@ -196,7 +252,7 @@ the Semantic Web Science Association
 
 [^19]: Jauss, H.R., Benzinger, E.: Literary history as a challenge to literary theory. N. Literary Hist. **2**(1), 7–37 (1970)
 
-[^20]: Lebo, T., et al.: PROV-O: The #similarProject  PROV ontology. W3C Recommendation, World Wide Web Consortium, United States (2013)
+[^20]: Lebo, T., et al.: PROV-O: The #op/projects/similar  PROV ontology. W3C Recommendation, World Wide Web Consortium, United States (2013)
 
 [^21]: Lohmann, S., Link, V., Marbach, E., Negru, S.: WebVOWL: web-based visualization of ontologies. In: Lambrix, P., et al. (eds.) EKAW 2014. LNCS (LNAI), vol. 8982, pp. 154–158. Springer, Cham (2015). [https://doi.org/10.1007/978-3-319-17966-7\_21](https://doi.org/10.1007/978-3-319-17966-7_21)
 

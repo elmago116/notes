@@ -1,0 +1,767 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ],
+    "date-time": "2025-08-06T13:42:43Z",
+    "timestamp": 1754487763350,
+    "version": "3.38.0"
+  },
+  "reference-count": 84,
+  "publisher": "SAGE Publications",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            24
+          ]
+        ],
+        "date-time": "2023-04-24T00:00:00Z",
+        "timestamp": 1682294400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "SW"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        24
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Cultural heritage (CH) contents are typically strongly interlinked, but published in heterogeneous, distributed local data silos, making it difficult to utilize the data on a global level. Furthermore, the content is usually available only for humans to read, and not as data for Digital Humanities (DH) analyses and application development. This application report addresses these problems by presenting a collaborative publication model for CH Linked Data and six design principles for creating shared data services and semantic portals for DH research and applications. This Sampo model has evolved gradually in 2002–2021 through lessons learned when developing the Sampo series of linked data services and semantic portals in use, including MuseumFinland (2004), CultureSampo (2009), BookSampo (2011), WarSampo (2015), Norssit Alumni (2017), U.S. Congress Prosopographer (2018), NameSampo (2019), BiographySampo (2019), WarVictimSampo 1914–1922 (2019), MMM (2020), AcademySampo (2021), FindSampo (2021), WarMemoirSampo (2021), and LetterSampo (2022). These Semantic Web applications surveyed in this paper cover a wide range of application domains in CH and have attracted up to millions of users on the Semantic Web, suggesting feasibility of the proposed Sampo model. This work shows a shift of focus in research on CH semantic portals from data aggregation and exploration systems (1. generation systems) to systems supporting DH research (2. generation systems) with data analytic tools, and finally to automatic knowledge discovery and Artificial Intelligence (3. generation systems).</jats:p>",
+  "DOI": "10.3233/sw-223034",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        30
+      ]
+    ],
+    "date-time": "2022-08-30T16:10:44Z",
+    "timestamp": 1661875844000
+  },
+  "page": "729-744",
+  "source": "Crossref",
+  "is-referenced-by-count": 22,
+  "title": [
+    "Digital humanities on the Semantic Web: Sampo model and portal series"
+  ],
+  "prefix": "10.1177",
+  "volume": "14",
+  "author": [
+    {
+      "given": "Eero",
+      "family": "Hyvönen",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Computer Science, Aalto University, Finland"
+        }
+      ]
+    }
+  ],
+  "member": "179",
+  "reference": [
+    {
+      "key": "10.3233/SW-223034_ref1",
+      "doi-asserted-by": "publisher",
+      "first-page": "879",
+      "DOI": "10.1007/978-3-540-76298-0_64",
+      "volume-title": "CHIP Demonstrator: Semantics-Driven Recommendations and Museum Tour Generation, in: The Semantic Web",
+      "author": "Aroyo",
+      "year": "2007"
+    },
+    {
+      "issue": "5",
+      "key": "10.3233/SW-223034_ref2",
+      "first-page": "34",
+      "volume": "284",
+      "author": "Berners-Lee",
+      "year": "2001",
+      "journal-title": "The Semantic Web, Scientific American"
+    },
+    {
+      "key": "10.3233/SW-223034_ref3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/SW-210425"
+    },
+    {
+      "key": "10.3233/SW-223034_ref5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-30796-7_3"
+    },
+    {
+      "key": "10.3233/SW-223034_ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9781139003865"
+    },
+    {
+      "issue": "3",
+      "key": "10.3233/SW-223034_ref7",
+      "doi-asserted-by": "publisher",
+      "first-page": "96",
+      "DOI": "10.1145/3418294",
+      "article-title": "Knowledge graphs",
+      "volume": "64",
+      "author": "Gutierrez",
+      "year": "2021",
+      "journal-title": "Communications of the ACM"
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223034_ref8",
+      "doi-asserted-by": "publisher",
+      "first-page": "117",
+      "DOI": "10.1177/0165551515594729",
+      "article-title": "Current state of linked data in digital libraries",
+      "volume": "42",
+      "author": "Hallo",
+      "year": "2016",
+      "journal-title": "Journal of Information Science"
+    },
+    {
+      "key": "10.3233/SW-223034_ref10",
+      "unstructured": "M. Hearst, Design recommendations for hierarchical faceted search interfaces, in: ACM SIGIR Workshop on Faceted Search, Seattle, WA, 2006, pp. 1–5."
+    },
+    {
+      "key": "10.3233/SW-223034_ref11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2200/S00334ED1V01Y201102WBE001"
+    },
+    {
+      "key": "10.3233/SW-223034_ref12",
+      "unstructured": "F. Hernández, L. Rodrigo, J. Contreras and F. Carbone, Building a cultural heritage ontology for Cantabria, in: Annual Conference of CIDOC, 2008, pp. 1–14, https://cidoc.mini.icom.museum/wp-content/uploads/sites/6/2018/12/64_papers.pdf."
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223034_ref13",
+      "doi-asserted-by": "publisher",
+      "first-page": "76",
+      "DOI": "10.1145/3397512",
+      "article-title": "A review of the semantic web field",
+      "volume": "64",
+      "author": "Hitzler",
+      "year": "2021",
+      "journal-title": "Commun. ACM"
+    },
+    {
+      "key": "10.3233/SW-223034_ref14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "P. Hitzler, M. Krötzsch and S. Rudolph, Foundations of Semantic Web Technologies, Springer, 2010.",
+      "DOI": "10.1201/9781420090512"
+    },
+    {
+      "key": "10.3233/SW-223034_ref15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.17875/gup2019-1146"
+    },
+    {
+      "key": "10.3233/SW-223034_ref16",
+      "unstructured": "E. Hyvönen (ed.), Semantic Web Kick-Off in Finland – Vision, Technologies, Research, and Applications, in HIIT Publications 2002-01, 2002, http://www.seco.hut.fi/publications/2002/hyvonen-semantic-web-kick-off-2002.pdf."
+    },
+    {
+      "issue": "1–2",
+      "key": "10.3233/SW-223034_ref17",
+      "doi-asserted-by": "publisher",
+      "first-page": "33",
+      "DOI": "10.3233/SW-2010-0014",
+      "article-title": "Preventing interoperability problems instead of solving them, semantic web",
+      "volume": "1",
+      "author": "Hyvönen",
+      "year": "2010",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "key": "10.3233/SW-223034_ref18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2200/S00452ED1V01Y201210WBE003"
+    },
+    {
+      "key": "10.3233/SW-223034_ref19",
+      "unstructured": "E. Hyvönen, “sampo” model and semantic portals for digital humanities on the semantic web, in: DHN 2020 Digital Humanities in the Nordic Countries. Proceedings of the Digital Humanities in the Nordic Countries 5th Conference, CEUR Workshop Proceedings, Vol. 2612, 2020, pp. 373–378, http://ceur-ws.org/Vol-2612/poster1.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref20",
+      "unstructured": "E. Hyvönen, Linked open data infrastructure for digital humanities in Finland, in: DHN 2020 Digital Humanities in the Nordic Countries, Proceedings of the Digital Humanities in the Nordic Countries 5th Conference, CEUR Workshop Proceedings, Vol. 2612, 2020, pp. 254–259, http://ceur-ws.org/Vol-2612/short10.pdf."
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223034_ref21",
+      "first-page": "187",
+      "article-title": "Using the semantic web in digital humanities: Shift from data publishing to data-analysis and serendipitous knowledge discovery, semantic web",
+      "volume": "11",
+      "author": "Hyvönen",
+      "year": "2020",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "key": "10.3233/SW-223034_ref22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-34129-3_46"
+    },
+    {
+      "key": "10.3233/SW-223034_ref23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "E. Hyvönen, E. Ikkala, M. Koho, R. Leal, H. Rantala and M. Tamper, How to search and contextualize scenes inside videos for enriched watching experience: Case stories of the second world war veterans, in: Proceedings of the 19th Extended Semantic Web Conference (ESWC 2022), Poster and Demo Papers, 2022, forth-coming, https://seco.cs.aalto.fi/publications/2022/hyvonen-et-al-wms-2022.pdf.",
+      "DOI": "10.1007/978-3-031-11609-4_31"
+    },
+    {
+      "key": "10.3233/SW-223034_ref24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-88361-4_36"
+    },
+    {
+      "key": "10.3233/SW-223034_ref25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-59888-8_9"
+    },
+    {
+      "key": "10.3233/SW-223034_ref26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-21348-0_37"
+    },
+    {
+      "key": "10.3233/SW-223034_ref28",
+      "unstructured": "E. Hyvönen, E. Mäkelä, T. Kauppinen, O. Alm, J. Kurki, T. Ruotsalo, K. Seppälä, J. Takala, K. Puputti, H. Kuittinen, K. Viljanen, J. Tuominen, T. Palonen, M. Frosterus, R. Sinkkilä, P. Paakkarinen, J. Laitio and K. Nyberg, CultureSampo – Finnish culture on the Semantic Web 2.0. Thematic perspectives for the end-user, in: Museums and the Web 2009, Archives & Museum Informatics, Toronto, 2009, https://www.archimuse.com/mw2009/papers/hyvonen/hyvonen.html."
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223034_ref29",
+      "doi-asserted-by": "publisher",
+      "first-page": "224",
+      "DOI": "10.1016/j.websem.2005.05.008",
+      "article-title": "MuseumFinland—Finnish museums on the Semantic Web",
+      "volume": "3",
+      "author": "Hyvönen",
+      "year": "2005",
+      "journal-title": "Journal of Web Semantics"
+    },
+    {
+      "key": "10.3233/SW-223034_ref30",
+      "doi-asserted-by": "publisher",
+      "first-page": "55",
+      "DOI": "10.1093/llc/fqab042",
+      "volume-title": "Knowledge-Based Relational Search in Cultural Heritage Linked Data, Digital Scholarship in the Humanities (DSH)",
+      "author": "Hyvönen",
+      "year": "2021"
+    },
+    {
+      "key": "10.3233/SW-223034_ref31",
+      "doi-asserted-by": "publisher",
+      "first-page": "E24",
+      "DOI": "10.15184/aqy.2021.87",
+      "volume-title": "Citizen Science Archaeological Finds on the Semantic Web: The FindSampo Framework, Antiquity, a Review of World Archaeology 95(382)",
+      "author": "Hyvönen",
+      "year": "2021"
+    },
+    {
+      "key": "10.3233/SW-223034_ref32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-25956-5_7"
+    },
+    {
+      "key": "10.3233/SW-223034_ref33",
+      "unstructured": "E. Hyvönen, L. Sinikallio, P. Leskinen, M.L. Mela, J. Tuominen, K. Elo, S. Drobac, M. Koho, E. Ikkala, M. Tamper, R. Leal and J. Kesäniemi, Finnish Parliament on the Semantic Web: Using ParliamentSampo Data Service and Semantic Portal for Studying Political Culture and Language, in: Digital Parliamentary Data in Action (DIPADA 2022), Workshop at the 6th Digital Humanities in Nordic and Baltic Countries Conference, CEUR Workshop Proceedings, 2022, forth-coming, https://seco.cs.aalto.fi/publications/2022/hyvonen-et-al-semparl-dhnb-2022.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref34",
+      "unstructured": "E. Hyvönen, J. Takala, O. Alm, T. Ruotsalo and E. Mäkelä, Semantic Kalevala – accessing cultural contents through semantically annotated stories, in: Proceedings of the Cultural Heritage on the Semantic Web Workshop at the 6th International Semantic Web Conference (ISWC 2007), Busan, Korea, 2007, https://seco.cs.aalto.fi/publications/2007/hyvonen-et-al-kalevala-2007.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-62327-2_19"
+    },
+    {
+      "key": "10.3233/SW-223034_ref36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-11955-7_24"
+    },
+    {
+      "key": "10.3233/SW-223034_ref37",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-76298-0_560"
+    },
+    {
+      "key": "10.3233/SW-223034_ref38",
+      "doi-asserted-by": "publisher",
+      "first-page": "95",
+      "DOI": "10.1007/978-3-540-68234-9_10",
+      "volume-title": "Building a National Semantic Web Ontology and Ontology Service Infrastructure – the FinnONTO Approach, in: The Semantic Web: Research and Applications, 5th European Semantic Web Conference, ESWC 2008",
+      "author": "Hyvönen",
+      "year": "2008"
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223034_ref39",
+      "doi-asserted-by": "publisher",
+      "first-page": "69",
+      "DOI": "10.3233/SW-210428",
+      "article-title": "Sampo-UI: A full stack JavaScript framework for developing semantic portal user interfaces, semantic web",
+      "volume": "13",
+      "author": "Ikkala",
+      "year": "2022",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "key": "10.3233/SW-223034_ref40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3282933.3282936"
+    },
+    {
+      "issue": "3",
+      "key": "10.3233/SW-223034_ref41",
+      "doi-asserted-by": "publisher",
+      "first-page": "291",
+      "DOI": "10.3233/SW-120092",
+      "article-title": "Europeana linked open data – data.Europeana.eu, semantic web",
+      "volume": "4",
+      "author": "Isaac",
+      "year": "2013",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "key": "10.3233/SW-223034_ref42",
+      "isbn-type": "print",
+      "doi-asserted-by": "crossref",
+      "first-page": "723",
+      "DOI": "10.1007/978-3-642-02121-3_53",
+      "volume-title": "Media Meets Semantic Web – How the BBC Uses DBpedia and Linked Data to Make Connections, in: The Semantic Web: Research and Applications",
+      "author": "Kobilarov",
+      "year": "2009",
+      "ISBN": "https://id.crossref.org/isbn/9783642021213"
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223034_ref43",
+      "doi-asserted-by": "publisher",
+      "first-page": "240",
+      "DOI": "10.1002/asi.24499",
+      "article-title": "Harmonizing and publishing heterogeneous pre-modern manuscript metadata as linked open data",
+      "volume": "73",
+      "author": "Koho",
+      "year": "2022",
+      "journal-title": "Journal of the Association for Information Science and Technology (JASIST)"
+    },
+    {
+      "key": "10.3233/SW-223034_ref44",
+      "unstructured": "M. Koho, E. Heino and E. Hyvönen, SPARQL faceter – client-side faceted search based on SPARQL, in: Joint Proc. of the 4th International Workshop on Linked Media and the 3rd Developers Hackshop, CEUR Workshop Proceedings, Vol. 1615, 2016, http://ceur-ws.org/Vol-1615/semdevPaper5.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref45",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-01762-0"
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223034_ref46",
+      "doi-asserted-by": "publisher",
+      "first-page": "265",
+      "DOI": "10.3233/SW-200392",
+      "article-title": "WarSampo knowledge graph: Finland in the second world war as linked open data, semantic web",
+      "volume": "12",
+      "author": "Koho",
+      "year": "2021",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223034_ref47",
+      "doi-asserted-by": "publisher",
+      "first-page": "3",
+      "DOI": "10.1177/0961000615616450",
+      "article-title": "Data literacy for researchers and data librarians",
+      "volume": "49",
+      "author": "Koltay",
+      "year": "2015",
+      "journal-title": "Journal of Librarianship and Information Science"
+    },
+    {
+      "key": "10.3233/SW-223034_ref48",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.2200/s00786ed1v01y201707wbe016",
+      "volume-title": "Validating RDF Data, Synthesis Lectures on the Semantic Web: Theory and Technology",
+      "author": "Labra Gayo",
+      "year": "2017"
+    },
+    {
+      "issue": "4",
+      "key": "10.3233/SW-223034_ref49",
+      "first-page": "283",
+      "article-title": "An infrastructure for semantic web portals",
+      "volume": "6",
+      "author": "Lei",
+      "year": "2007",
+      "journal-title": "Journal of Web Engineering"
+    },
+    {
+      "key": "10.3233/SW-223034_ref50",
+      "unstructured": "P. Leskinen and E. Hyvönen, Linked open data service about historical Finnish academic people in 1640–1899, in: DHN 2020 Digital Humanities in the Nordic Countries. Proceedings of the Digital Humanities in the Nordic Countries 5th Conference, CEUR Workshop Proceedings, Vol. 2612, 2020, pp. 284–292, http://ceur-ws.org/Vol-2612/short14.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref51",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-88361-4_42"
+    },
+    {
+      "key": "10.3233/SW-223034_ref52",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/SSW210049"
+    },
+    {
+      "key": "10.3233/SW-223034_ref53",
+      "unstructured": "P. Leskinen, H. Rantala and E. Hyvönen, Analyzing the lives of Finnish academic people 1640–1899 in nordic and Baltic countries: AcademySampo data service and portal, in: 6th Digital Humanities in Nordic and Baltic Countries Conference, Proceedings, CEUR Workshop Proceedings, 2022, forth-coming, https://seco.cs.aalto.fi/publications/2022/leskinen-et-al-academysampo-dhnb-2022.pdf."
+    },
+    {
+      "issue": "3",
+      "key": "10.3233/SW-223034_ref54",
+      "doi-asserted-by": "publisher",
+      "first-page": "307",
+      "DOI": "10.1007/BF01059977",
+      "article-title": "Multiple perspectives: Concept, applications, and user guidelines",
+      "volume": "2",
+      "author": "Linstone",
+      "year": "1989",
+      "journal-title": "Systems practice"
+    },
+    {
+      "key": "10.3233/SW-223034_ref55",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-25093-4_12"
+    },
+    {
+      "issue": "3",
+      "key": "10.3233/SW-223034_ref56",
+      "doi-asserted-by": "publisher",
+      "first-page": "299",
+      "DOI": "10.3233/SW-120093",
+      "article-title": "Fiction literature as linked open data – the BookSampo dataset, Semantic Web",
+      "volume": "4",
+      "author": "Mäkelä",
+      "year": "2013",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "key": "10.3233/SW-223034_ref57",
+      "unstructured": "E. Mäkelä, K. Lagus, L. Lahti, T. Säily, M. Tolonen, M. Hämäläinen, S. Kaislaniemi and T. Nevalainen, Wrangling with non-standard data, in: Proceedings of the Digital Humanities in the Nordic Countries 5th Conference, CEUR Workshop Proceedings, 2020, pp. 81–96, http://ceur-ws.org/Vol-2612/paper6.pdf."
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223034_ref58",
+      "doi-asserted-by": "publisher",
+      "first-page": "85",
+      "DOI": "10.3233/SW-2012-0049",
+      "article-title": "How to deal with massively heterogeneous cultural heritage data—lessons learned in CultureSampo, Semantic Web",
+      "volume": "3",
+      "author": "Mäkelä",
+      "year": "2012",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "issue": "4",
+      "key": "10.3233/SW-223034_ref59",
+      "doi-asserted-by": "publisher",
+      "first-page": "41",
+      "DOI": "10.1145/1121949.1121979",
+      "article-title": "Exploratory search: From finding to understanding",
+      "volume": "49",
+      "author": "Marchionini",
+      "year": "2006",
+      "journal-title": "Communications of the ACM"
+    },
+    {
+      "key": "10.3233/SW-223034_ref60",
+      "doi-asserted-by": "crossref",
+      "unstructured": "W. McCarty, Humanities Computing, Palgrave, London, 2005.",
+      "DOI": "10.1057/9780230504219"
+    },
+    {
+      "key": "10.3233/SW-223034_ref61",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-47602-5_48"
+    },
+    {
+      "key": "10.3233/SW-223034_ref62",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-01765-1"
+    },
+    {
+      "key": "10.3233/SW-223034_ref63",
+      "unstructured": "F. Moretti, Distant Reading, Verso Books, 2013."
+    },
+    {
+      "key": "10.3233/SW-223034_ref64",
+      "unstructured": "E. Oksanen, H. Rantala, J. Tuominen, M. Lewis, D. Wigg-Wolf, F. Ehrnsten and E. Hyvönen, Digital humanities solutions for pan-European numismatic and archaeological heritage based on linked open data, in: Proceedings of the DIgital Humanities in Nordic adn Balric COuntries 2022, CEUR Workshop Proceedings, 2022, forthcoming, https://seco.cs.aalto.fi/publications/2022/oksanen-et-al-diginuma-dhnb-2022.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref65",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.30666/elore.78811"
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223034_ref66",
+      "doi-asserted-by": "publisher",
+      "first-page": "10",
+      "DOI": "10.1109/5254.850821",
+      "article-title": "Knowledge discovery from data?",
+      "volume": "15",
+      "author": "Pazzani",
+      "year": "2000",
+      "journal-title": "IEEE Intelligent Systems"
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223034_ref68",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3477606",
+      "article-title": "WarVictimSampo 1914–1922: A national war memorial on the Semantic Web for digital humanities research and applications",
+      "volume": "15",
+      "author": "Rantala",
+      "year": "2022",
+      "journal-title": "ACM Journal on Computing and Cultural Heritage"
+    },
+    {
+      "key": "10.3233/SW-223034_ref69",
+      "doi-asserted-by": "crossref",
+      "unstructured": "H. Rantala, E. Ikkala, V. Rohiola, M. Koho, J. Tuominen, E. Oksanen, A. Wessman and E. Hyvönen, FindSampo: A linked data based portal and data service for analyzing and disseminating archaeological object finds, in: Proceedings of the 19th Extended Semantic Web Conference (ESWC 2022), Springer, 2022, forth-coming, https://seco.cs.aalto.fi/publications/2022/rantala-et-al-findsampo-2022.pdf.",
+      "DOI": "10.1007/978-3-031-06981-9_28"
+    },
+    {
+      "key": "10.3233/SW-223034_ref70",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5334/bbi"
+    },
+    {
+      "issue": "3",
+      "key": "10.3233/SW-223034_ref71",
+      "doi-asserted-by": "publisher",
+      "first-page": "373",
+      "DOI": "10.3233/SW-150197",
+      "article-title": "The YASGUI family of SPARQL clients, Semantic Web",
+      "volume": "8",
+      "author": "Rietveld",
+      "year": "2017",
+      "journal-title": "Interoperability, Usability, Applicability"
+    },
+    {
+      "key": "10.3233/SW-223034_ref72",
+      "unstructured": "P. Riva, M. Doerr and M. Zumer, FRBRoo: Enabling a common view of information from memory institutions, in: World Library and Information Congress: 74th IFLA General Confrence and Council, 2008, https://archive.ifla.org/IV/ifla74/papers/156-Riva_Doerr_Zumer-en.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref73",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-4666-5888-2.ch382"
+    },
+    {
+      "issue": "4",
+      "key": "10.3233/SW-223034_ref74",
+      "doi-asserted-by": "publisher",
+      "first-page": "243",
+      "DOI": "10.1016/j.websem.2008.08.001",
+      "article-title": "Semantic annotation and search of cultural-heritage collections: The MultimediaN E-culture demonstrator",
+      "volume": "6",
+      "author": "Schreiber",
+      "year": "2008",
+      "journal-title": "Journal of Web Semantics"
+    },
+    {
+      "key": "10.3233/SW-223034_ref75",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4230/OASIcs.LDK.2021.8"
+    },
+    {
+      "key": "10.3233/SW-223034_ref76",
+      "unstructured": "I. Sommerville, Software Engineering, 10th edn, Pearson, 2016."
+    },
+    {
+      "key": "10.3233/SW-223034_ref77",
+      "doi-asserted-by": "crossref",
+      "unstructured": "S. Staab and R. Studer (eds), Handbook on Ontologies, 2nd edn, Springer, 2009.",
+      "DOI": "10.1007/978-3-540-92673-3"
+    },
+    {
+      "issue": "4",
+      "key": "10.3233/SW-223034_ref78",
+      "doi-asserted-by": "publisher",
+      "first-page": "287",
+      "DOI": "10.1016/j.websem.2009.09.003",
+      "article-title": "HealthFinland – a national semantic publishing network and portal for health information",
+      "volume": "7",
+      "author": "Suominen",
+      "year": "2009",
+      "journal-title": "Journal of Web Semantics"
+    },
+    {
+      "issue": "supplement",
+      "key": "10.3233/SW-223034_ref79",
+      "doi-asserted-by": "publisher",
+      "first-page": "152",
+      "DOI": "10.3366/ijhac.2014.0104",
+      "article-title": "Publishing the data of the Smithsonian American art museum to the linked data cloud",
+      "volume": "8",
+      "author": "Szekely",
+      "year": "2014",
+      "journal-title": "International Journal of Humanities and Arts Computing"
+    },
+    {
+      "key": "10.3233/SW-223034_ref80",
+      "unstructured": "M. Tamper, P. Leskinen, E. Hyvönen, R. Valjus and K. Keravuori, Analyzing Biography Collection Historiographically as Linked Data: Case National Biography of Finland, Semantic Web – Interoperability, Usability, Applicability, 2021, forth-coming, https://seco.cs.aalto.fi/publications/2021/tamper-et-al-bs-2021.pdf."
+    },
+    {
+      "key": "10.3233/SW-223034_ref81",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2200/S00190ED1V01Y200904ICR005"
+    },
+    {
+      "key": "10.3233/SW-223034_ref82",
+      "doi-asserted-by": "publisher",
+      "first-page": "768",
+      "DOI": "10.1007/978-3-642-02121-3_56",
+      "volume-title": "ONKI SKOS Server for Publishing and Utilizing SKOS Vocabularies and Ontologies as Services, in: The Semantic Web: Research and Applications: 6th European Semantic Web Conference, ESWC 2009",
+      "author": "Tuominen",
+      "year": "2009"
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223034_ref83",
+      "doi-asserted-by": "publisher",
+      "first-page": "329",
+      "DOI": "10.1007/s10844-016-0413-8",
+      "article-title": "Faceted exploration of RDF/s datasets: A survey",
+      "volume": "48",
+      "author": "Tzitzikas",
+      "year": "2017",
+      "journal-title": "Journal of Intelligent Information Systems"
+    },
+    {
+      "key": "10.3233/SW-223034_ref84",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00048623.2016.1162277"
+    },
+    {
+      "key": "10.3233/SW-223034_ref85",
+      "unstructured": "K. Verboven, M. Carlier and J. Dumolyn, A short manual to the art of prosopography, in: Prosopography Approaches and Applications. A Handbook, Unit for Prosopographical Research, Linacre, College, 2007, pp. 35–70. doi: 1854/8212."
+    },
+    {
+      "key": "10.3233/SW-223034_ref86",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-02121-3_57"
+    },
+    {
+      "key": "10.3233/SW-223034_ref87",
+      "unstructured": "M. Zeng and J. Qin, Metadata, 3rd edn, ALA Neal-Schuman, Chicago, 2022. ISBN 978-0-8389-4875-0."
+    },
+    {
+      "key": "10.3233/SW-223034_ref88",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/asi.24584"
+    }
+  ],
+  "container-title": [
+    "Semantic Web"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://content.iospress.com/download?id=10.3233/SW-223034",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2025-03-11T09:03:17Z",
+    "timestamp": 1741683797000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/full/10.3233/SW-223034"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Christoph",
+      "family": "Schlieder",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Bamberg, Germany"
+        }
+      ]
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        24
+      ]
+    ]
+  },
+  "references-count": 84,
+  "journal-issue": {
+    "issue": "4"
+  },
+  "URL": "https://doi.org/10.3233/sw-223034",
+  "relation": {},
+  "ISSN": [
+    "2210-4968",
+    "1570-0844"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2210-4968"
+    },
+    {
+      "type": "print",
+      "value": "1570-0844"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        24
+      ]
+    ]
+  }
+}

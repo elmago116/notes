@@ -1,0 +1,146 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        23
+      ]
+    ],
+    "date-time": "2024-12-23T18:10:19Z",
+    "timestamp": 1734977419859,
+    "version": "3.32.0"
+  },
+  "reference-count": 0,
+  "publisher": "Universidad de Buenos Aires",
+  "issue": "18",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "EM"
+  ],
+  "DOI": "10.34096/em.n18.16390",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        23
+      ]
+    ],
+    "date-time": "2024-12-23T17:33:31Z",
+    "timestamp": 1734975211000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Memoria y paisaje en la poesía de Diego Muzzio, Raquel Jaduszliwer y Diego Roel"
+  ],
+  "prefix": "10.34096",
+  "author": [
+    {
+      "given": "Lucas",
+      "family": "Margarit",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "18528",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        5
+      ]
+    ]
+  },
+  "container-title": [
+    "El Matadero"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "http://revistascientificas.filo.uba.ar/index.php/matadero/article/download/16390/13722",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://revistascientificas.filo.uba.ar/index.php/matadero/article/download/16390/13722",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        23
+      ]
+    ],
+    "date-time": "2024-12-23T17:33:43Z",
+    "timestamp": 1734975223000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://revistascientificas.filo.uba.ar/index.php/matadero/article/view/16390"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        5
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "18",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          13
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.34096/em.n18.16390",
+  "relation": {},
+  "ISSN": [
+    "2683-9687",
+    "0329-9546"
+  ],
+  "issn-type": [
+    {
+      "value": "2683-9687",
+      "type": "electronic"
+    },
+    {
+      "value": "0329-9546",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        5
+      ]
+    ]
+  }
+}

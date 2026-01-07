@@ -1,0 +1,518 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2025-03-28T02:55:47Z",
+    "timestamp": 1743130547208,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Cham",
+  "reference-count": 22,
+  "publisher": "Springer International Publishing",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9783031203084"
+    },
+    {
+      "type": "electronic",
+      "value": "9783031203091"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2022-01-01T00:00:00Z",
+        "timestamp": 1640995200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2022-01-01T00:00:00Z",
+        "timestamp": 1640995200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-031-20309-1_2",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        7
+      ]
+    ],
+    "date-time": "2022-12-07T06:11:35Z",
+    "timestamp": 1670393495000
+  },
+  "page": "15-27",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "A Multi-modal Knowledge Graph Platform Based on Medical Data Lake"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Ruoyu",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2_CR1",
+      "unstructured": "Bordes, A., Usunier, N., Garcia-Duran, A., Weston, J., Yakhnenko, O.: Translating embeddings for modeling multi-relational data. In: Burges, C.J.C., Bottou, L., Welling, M., Ghahramani, Z., Weinberger, K.Q. (eds.) Advances in Neural Information Processing Systems, vol. 26. Curran Associates, Inc. (2013)"
+    },
+    {
+      "key": "2_CR2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-662-44848-9_11",
+      "volume-title": "Open Question Answering with Weakly Supervised Embedding Models",
+      "author": "A Bordes",
+      "year": "2014",
+      "unstructured": "Bordes, A., Weston, J., Usunier, N.: Open Question Answering with Weakly Supervised Embedding Models. Springer, New York, Inc (2014)"
+    },
+    {
+      "key": "2_CR3",
+      "unstructured": "Cuddihy, P., Mchugh, J., Williams, J.W., Mulwad, V., Aggour, K.S.: Semtk: an ontology-first, open source semantic toolkit for managing and querying knowledge graphs (2017)"
+    },
+    {
+      "key": "2_CR4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ding, B., Wang, Q., Wang, B., Guo, L.: Improving knowledge graph embedding using simple constraints. In: Meeting of the Association for Computational Linguistics (2018)",
+      "DOI": "10.18653/v1/P18-1011"
+    },
+    {
+      "key": "2_CR5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Guo, S., Wang, Q., Wang, L., Wang, B., Guo, L.: Jointly embedding knowledge graphs and logical rules. In: Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (2016)",
+      "DOI": "10.18653/v1/D16-1019"
+    },
+    {
+      "key": "2_CR6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ji, G., He, S., Xu, L., Liu, K., Zhao, J.: Knowledge graph embedding via dynamic mapping matrix. In: Meeting of the Association for Computational Linguistics & the International Joint Conference on Natural Language Processing (2015)",
+      "DOI": "10.3115/v1/P15-1067"
+    },
+    {
+      "issue": "3",
+      "key": "2_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "59",
+      "DOI": "10.3390/fi11030059",
+      "volume": "11",
+      "author": "M Kejriwal",
+      "year": "2019",
+      "unstructured": "Kejriwal, M., Szekely, P.: MYDIG: personalized illicit domain-specific knowledge discovery with no programming. Future Internet 11(3), 59 (2019)",
+      "journal-title": "Future Internet"
+    },
+    {
+      "key": "2_CR8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yehuda, K., Robert, B., Chris, V.: Matrix factorization techniques for recommender systems. Computer 42, 30–37 (2009)",
+      "DOI": "10.1109/MC.2009.263"
+    },
+    {
+      "key": "2_CR9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lin, H., Liu, Y., Wang, W., Yue, Y., Lin, Z.: Learning entity and relation embeddings for knowledge resolution. In: Procedia Computer Science international Conference on Computational Science, ICCS 2017, 12–14 June 2017, pp. 345–354. Zurich, Switzerland (2017)",
+      "DOI": "10.1016/j.procs.2017.05.045"
+    },
+    {
+      "key": "2_CR10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu, P., et al.: HKDP: a hybrid knowledge graph based pediatric disease prediction system. In: International Conference on Smart Health (2016)",
+      "DOI": "10.1007/978-3-319-59858-1_8"
+    },
+    {
+      "key": "2_CR11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Galárraga, L., Teflioudi, C., Hose, K., Suchanek, F.M.: Fast rule mining in ontological knowledge bases with amie $$+$$. VLDB J. 24, 707–730 (2015)",
+      "DOI": "10.1007/s00778-015-0394-1"
+    },
+    {
+      "key": "2_CR12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mousselly-Sergieh, H., Botschen, T., Gurevych, I., Roth, S.: A multimodal translation-based approach for knowledge graph representation learning. In: Proceedings of the Seventh Joint Conference on Lexical and Computational Semantics, pp. 225–234 (2018)",
+      "DOI": "10.18653/v1/S18-2027"
+    },
+    {
+      "key": "2_CR13",
+      "unstructured": "Nickel, M., Tresp, V., Kriegel, H.P.: A three-way model for collective learning on multi-relational data, pp. 809–816 (2011)"
+    },
+    {
+      "key": "2_CR14",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ren, P., et al.: HMDFF: a heterogeneous medical data fusion framework supporting multimodal query. In: Siuly, Si., Wang, H., Chen, L., Guo, Y., Xing, C. (eds.) HIS 2021. LNCS, vol. 13079, pp. 254–266. Springer, Cham (2021). https://doi.org/10.1007/978-3-030-90885-0_23",
+      "DOI": "10.1007/978-3-030-90885-0_23"
+    },
+    {
+      "key": "2_CR15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Schlichtkrull, M., Kipf, T.N., Bloem, P., Berg, R.V., Welling, M.: Modeling Relational Data with Graph Convolutional Networks. The Semantic Web (2018)",
+      "DOI": "10.1007/978-3-319-93417-4_38"
+    },
+    {
+      "key": "2_CR16",
+      "unstructured": "Wang, Q., Wang, B., Guo, L.: Knowledge Base Completion Using Embeddings and Rules. AAAI Press (2015)"
+    },
+    {
+      "key": "2_CR17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, Z., Zhang, J., Feng, J., Chen, Z.: Knowledge graph embedding by translating on hyperplanes. Proc. AAAI Conf. Artif. Intell. 28(1) (2014)",
+      "DOI": "10.1609/aaai.v28i1.8870"
+    },
+    {
+      "key": "2_CR18",
+      "unstructured": "Weston, J., Bordes, A., Yakhnenko, O., Usunier, N.: Connecting language and knowledge bases with embedding models for relation extraction. IEEE (2013)"
+    },
+    {
+      "key": "2_CR19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xie, R., Liu, Z., Jia, J., Luan, H., Sun, M.: Representation learning of knowledge graphs with entity descriptions. In: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 30 (2016)",
+      "DOI": "10.1609/aaai.v30i1.10329"
+    },
+    {
+      "key": "2_CR20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xie, R., Liu, Z., Luan, H., Sun, M.: Image-embodied knowledge representation learning. In: AAAI Press (2016)",
+      "DOI": "10.24963/ijcai.2017/438"
+    },
+    {
+      "key": "2_CR21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang, Y., Sheng, M., Zhou, R., Wang, Y., Dong, J.: HKGB: an inclusive, extensible, intelligent, semi-auto-constructed knowledge graph framework for healthcare with clinicians’ expertise incorporated. Information Processing & Management, p. 102324 (2020)",
+      "DOI": "10.1016/j.ipm.2020.102324"
+    },
+    {
+      "key": "2_CR22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhao, C., Jiang, J., Xu, Z., Guan, Y.: A study of EMR-based medical knowledge network and its applications. Comput. Meth. Programs Biomed. 143, 13–23 (2017)",
+      "DOI": "10.1016/j.cmpb.2017.02.016"
+    }
+  ],
+  "container-title": [
+    "Lecture Notes in Computer Science",
+    "Web Information Systems and Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-20309-1_2",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        24
+      ]
+    ],
+    "date-time": "2023-01-24T20:03:17Z",
+    "timestamp": 1674590597000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-3-031-20309-1_2"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783031203084",
+    "9783031203091"
+  ],
+  "references-count": 22,
+  "URL": "https://doi.org/10.1007/978-3-031-20309-1_2",
+  "relation": {},
+  "ISSN": [
+    "0302-9743",
+    "1611-3349"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0302-9743"
+    },
+    {
+      "type": "electronic",
+      "value": "1611-3349"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "8 December 2022",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    },
+    {
+      "value": "WISA",
+      "order": 1,
+      "name": "conference_acronym",
+      "label": "Conference Acronym",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "International Conference on Web Information Systems and Applications",
+      "order": 2,
+      "name": "conference_name",
+      "label": "Conference Name",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Dalian",
+      "order": 3,
+      "name": "conference_city",
+      "label": "Conference City",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "China",
+      "order": 4,
+      "name": "conference_country",
+      "label": "Conference Country",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "2022",
+      "order": 5,
+      "name": "conference_year",
+      "label": "Conference Year",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "16 September 2022",
+      "order": 7,
+      "name": "conference_start_date",
+      "label": "Conference Start Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "18 September 2022",
+      "order": 8,
+      "name": "conference_end_date",
+      "label": "Conference End Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "19",
+      "order": 9,
+      "name": "conference_number",
+      "label": "Conference Number",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "wisa22022",
+      "order": 10,
+      "name": "conference_id",
+      "label": "Conference ID",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1",
+      "order": 11,
+      "name": "conference_url",
+      "label": "Conference URL",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Double-blind",
+      "order": 1,
+      "name": "type",
+      "label": "Type",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "EasyChair",
+      "order": 2,
+      "name": "conference_management_system",
+      "label": "Conference Management System",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "212",
+      "order": 3,
+      "name": "number_of_submissions_sent_for_review",
+      "label": "Number of Submissions Sent for Review",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "45",
+      "order": 4,
+      "name": "number_of_full_papers_accepted",
+      "label": "Number of Full Papers Accepted",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "19",
+      "order": 5,
+      "name": "number_of_short_papers_accepted",
+      "label": "Number of Short Papers Accepted",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "21% - The value is computed by the equation \"Number of Full Papers Accepted / Number of Submissions Sent for Review * 100\" and then rounded to a whole number.",
+      "order": 6,
+      "name": "acceptance_rate_of_full_papers",
+      "label": "Acceptance Rate of Full Papers",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "3",
+      "order": 7,
+      "name": "average_number_of_reviews_per_paper",
+      "label": "Average Number of Reviews per Paper",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "5",
+      "order": 8,
+      "name": "average_number_of_papers_per_reviewer",
+      "label": "Average Number of Papers per Reviewer",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "Yes",
+      "order": 9,
+      "name": "external_reviewers_involved",
+      "label": "External Reviewers Involved",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    }
+  ]
+}

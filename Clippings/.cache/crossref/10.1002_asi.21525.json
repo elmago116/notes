@@ -1,0 +1,1110 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T06:36:08Z",
+    "timestamp": 1755671768386
+  },
+  "reference-count": 84,
+  "publisher": "Wiley",
+  "issue": "7",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2015-09-01T00:00:00Z",
+        "timestamp": 1441065600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 1583,
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "J. Am. Soc. Inf. Sci."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2011,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1002/asi.21525",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        2
+      ]
+    ],
+    "date-time": "2011-05-02T13:49:26Z",
+    "timestamp": 1304344166000
+  },
+  "page": "1382-1402",
+  "source": "Crossref",
+  "is-referenced-by-count": 2102,
+  "title": [
+    "Science mapping software tools: Review, analysis, and cooperative study among tools"
+  ],
+  "prefix": "10.1002",
+  "volume": "62",
+  "author": [
+    {
+      "given": "M.J.",
+      "family": "Cobo",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "A.G.",
+      "family": "López-Herrera",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "E.",
+      "family": "Herrera-Viedma",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "F.",
+      "family": "Herrera",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "10.1002/asi.21525-BIB1|cit2",
+      "volume-title": "Modern information retrieval",
+      "author": "Baeza-Yates",
+      "year": "1999"
+    },
+    {
+      "issue": "7",
+      "key": "10.1002/asi.21525-BIB2|cit3",
+      "doi-asserted-by": "crossref",
+      "first-page": "949",
+      "DOI": "10.1002/asi.20362",
+      "article-title": "The scientific network of surfactants: Structural analysis",
+      "volume": "57",
+      "author": "Bailón-Moreno",
+      "year": "2006",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB3|cit4",
+      "doi-asserted-by": "crossref",
+      "first-page": "259",
+      "DOI": "10.1007/s11192-005-0212-4",
+      "article-title": "Analysis of the scientific field of physical chemistry of surfactants with the unified scienctometric model. Fit of relational and activity indicators",
+      "volume": "63",
+      "author": "Bailón-Moreno",
+      "year": "2005",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB4|cit5",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1007/s11192-010-0185-9",
+      "article-title": "Citations to the “introduction to informetrics” indexed by WOS, Scopus and Google Scholar",
+      "volume": "82",
+      "author": "Bar-Ilan",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB5|cit6",
+      "first-page": "47",
+      "article-title": "Pajek-Program for large network analysis",
+      "volume": "21",
+      "author": "Batagelj",
+      "year": "1998",
+      "journal-title": "Connections"
+    },
+    {
+      "issue": "5",
+      "key": "10.1002/asi.21525-BIB6|cit7",
+      "doi-asserted-by": "crossref",
+      "first-page": "761",
+      "DOI": "10.1068/a3505com",
+      "article-title": "The geography of scientific citation",
+      "volume": "35",
+      "author": "Batty",
+      "year": "2003",
+      "journal-title": "Environment and Planning A"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB7|cit8",
+      "volume-title": "Ucinet 6 for Windows: Software for social network analysis",
+      "author": "Borgatti",
+      "year": "2002"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB8|cit9",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1002/aris.1440370106",
+      "article-title": "Visualizing knowledge domains",
+      "volume": "37",
+      "author": "Börner",
+      "year": "2003",
+      "journal-title": "Annual Review of Information Science and Technology"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB9|cit10",
+      "doi-asserted-by": "crossref",
+      "first-page": "863",
+      "DOI": "10.1007/s11192-009-0149-0",
+      "article-title": "Rete-netzwerk-red: Analyzing and visualizing scholarly networks using the network workbench tool",
+      "volume": "83",
+      "author": "Börner",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "9",
+      "key": "10.1002/asi.21525-BIB10|cit11",
+      "doi-asserted-by": "crossref",
+      "first-page": "764",
+      "DOI": "10.1002/asi.10066",
+      "article-title": "Domain visualization using VxInsight for science and technology management",
+      "volume": "53",
+      "author": "Boyack",
+      "year": "2002",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB11|cit12",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1007/BF02019280",
+      "article-title": "Co-word analysis as a tool for describing the network of interactions between basic and technological research-The case of polymer chemistry",
+      "volume": "22",
+      "author": "Callon",
+      "year": "1991",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB12|cit13",
+      "doi-asserted-by": "crossref",
+      "first-page": "191",
+      "DOI": "10.1177/053901883022002003",
+      "article-title": "From translations to problematic networks: An introduction to co-word analysis",
+      "volume": "22",
+      "author": "Callon",
+      "year": "1983",
+      "journal-title": "Social Science Information"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB13|cit14",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/CBO9780511811395",
+      "volume-title": "Models and methods in social network analysis. Structural Analysis in the Social Sciences",
+      "author": "Carrington",
+      "year": "2005"
+    },
+    {
+      "issue": "suppl. 1",
+      "key": "10.1002/asi.21525-BIB14|cit15",
+      "doi-asserted-by": "crossref",
+      "first-page": "5303",
+      "DOI": "10.1073/pnas.0307513100",
+      "article-title": "Searching for intellectual turning points: Progressive knowledge domain visualization",
+      "volume": "101",
+      "author": "Chen",
+      "year": "2004",
+      "journal-title": "Proceedings of the National Academy of Science of the United States of America (PNAS)"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB15|cit16",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1002/asi.20317",
+      "article-title": "CiteSpace II: Detecting and visualizing emerging trends and transient patterns in scientific literature",
+      "volume": "57",
+      "author": "Chen",
+      "year": "2006",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "7",
+      "key": "10.1002/asi.21525-BIB16|cit17",
+      "doi-asserted-by": "crossref",
+      "first-page": "1386",
+      "DOI": "10.1002/asi.21309",
+      "article-title": "The structure and dynamics of cocitation clusters: A multiple-perspective cocitation analysis",
+      "volume": "61",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB17|cit18",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1016/j.joi.2010.01.001",
+      "article-title": "Community structure of the physical review citation network",
+      "volume": "4",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB18|cit19",
+      "doi-asserted-by": "crossref",
+      "first-page": "146",
+      "DOI": "10.1016/j.joi.2010.10.002",
+      "article-title": "An approach for detecting, quantifying, and visualizing the evolution of a research field: A practical application to the fuzzy sets theory field",
+      "volume": "5",
+      "author": "Cobo",
+      "year": "2011",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB19|cit20",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/0470073047",
+      "volume-title": "Mining graph data",
+      "author": "Cook",
+      "year": "2006"
+    },
+    {
+      "issue": "13",
+      "key": "10.1002/asi.21525-BIB20|cit21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1206",
+      "DOI": "10.1002/(SICI)1097-4571(1998)49:13<1206::AID-ASI7>3.0.CO;2-F",
+      "article-title": "Software engineering as seen through its research literature: A study in co-word analysis",
+      "volume": "49",
+      "author": "Coulter",
+      "year": "1998",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB21|cit22",
+      "doi-asserted-by": "crossref",
+      "first-page": "259",
+      "DOI": "10.1023/A:1008690008856",
+      "article-title": "Knowledge mining with vxinsight: Discovery through interaction",
+      "volume": "11",
+      "author": "Davidson",
+      "year": "1998",
+      "journal-title": "Journal of Intelligent Information Systems"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB22|cit23",
+      "unstructured": "Davidson , G.S. Wylie , B.N. Boyack , K.W. 2001 Cluster stability and the use of noise in interpretation of clustering 10.1109/INFVIS.2001.963275"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB23|cit24",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1002/asi.21227",
+      "article-title": "The natural landscape metaphor in information visualization: The role of commonsense geomorphology",
+      "volume": "61",
+      "author": "Fabrikant",
+      "year": "2010",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB24|cit25",
+      "doi-asserted-by": "crossref",
+      "first-page": "338",
+      "DOI": "10.1096/fj.07-9492LSF",
+      "article-title": "Comparison of Pubmed, Scopus, Web of Science, and Google Scholar: Strengths and weaknesses",
+      "volume": "22",
+      "author": "Falagas",
+      "year": "2008",
+      "journal-title": "FASEB Journal"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB25|cit26",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1023/A:1010512628145",
+      "article-title": "National characteristics in international scientific co-authorship relations",
+      "volume": "51",
+      "author": "Gänzel",
+      "year": "2001",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB26|cit27",
+      "doi-asserted-by": "crossref",
+      "first-page": "283",
+      "DOI": "10.1007/s11192-007-2013-4",
+      "article-title": "Networks of scientific journals: An exploration of Chinese patent data",
+      "volume": "80",
+      "author": "Gao",
+      "year": "2009",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "45",
+      "key": "10.1002/asi.21525-BIB27|cit28",
+      "first-page": "5",
+      "article-title": "Scientography: Mapping the tracks of science",
+      "volume": "7",
+      "author": "Garfield",
+      "year": "1994",
+      "journal-title": "Current Contents: Social & Behavioural Sciences"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB28|cit29",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1109/2945.981848",
+      "article-title": "Themeriver: Visualizing thematic changes in large document collections",
+      "volume": "8",
+      "author": "Havre",
+      "year": "2002",
+      "journal-title": "IEEE Transactions on Visualization and Computer Graphics"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB29|cit30",
+      "first-page": "161",
+      "volume-title": "Progress in convergence: Technologies for human wellbeing",
+      "volume": "1093",
+      "author": "Herr",
+      "year": "2007"
+    },
+    {
+      "issue": "5",
+      "key": "10.1002/asi.21525-BIB30|cit31",
+      "doi-asserted-by": "crossref",
+      "first-page": "22",
+      "DOI": "10.1109/MCG.2004.22",
+      "article-title": "Analysis experiences using information visualization",
+      "volume": "24",
+      "author": "Hetzler",
+      "year": "2005",
+      "journal-title": "IEEE Computer Graphic and Applications"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB31|cit32",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1007/s11192-005-0270-7",
+      "article-title": "A comparison of two bibliometric methods for mapping of the research front",
+      "volume": "65",
+      "author": "Jarneving",
+      "year": "2005",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB32|cit33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1145/1754428.1754430",
+      "article-title": "Analyzing knowledge communities using foreground and background clusters",
+      "volume": "4",
+      "author": "Kandylas",
+      "year": "2010",
+      "journal-title": "ACM Transactions on Knowledge Discovery from Data"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB33|cit34",
+      "doi-asserted-by": "crossref",
+      "first-page": "10",
+      "DOI": "10.1002/asi.5090140103",
+      "article-title": "Bibliographic coupling between scientific papers",
+      "volume": "14",
+      "author": "Kessler",
+      "year": "1963",
+      "journal-title": "American Documentation"
+    },
+    {
+      "issue": "4",
+      "key": "10.1002/asi.21525-BIB34|cit35",
+      "doi-asserted-by": "crossref",
+      "first-page": "373",
+      "DOI": "10.1023/A:1024940629314",
+      "article-title": "Bursty and hierarchical structure in streams",
+      "volume": "7",
+      "author": "Kleinberg",
+      "year": "2003",
+      "journal-title": "Data Mining and Knowledge Discovery"
+    },
+    {
+      "issue": "8",
+      "key": "10.1002/asi.21525-BIB35|cit36",
+      "doi-asserted-by": "crossref",
+      "first-page": "1622",
+      "DOI": "10.1002/asi.21347",
+      "article-title": "Mapping the geography of science: Distribution patterns and networks of relations among cities and institutes",
+      "volume": "61",
+      "author": "Leydesdorff",
+      "year": "2010",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "11",
+      "key": "10.1002/asi.21525-BIB36|cit37",
+      "doi-asserted-by": "crossref",
+      "first-page": "1810",
+      "DOI": "10.1002/asi.20891",
+      "article-title": "Dynamic animations of journal maps: Indicators of structural changes and interdisciplinary developments",
+      "volume": "59",
+      "author": "Leydesdorff",
+      "year": "2008",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "7",
+      "key": "10.1002/asi.21525-BIB37|cit38",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.3233/HIS-2010-0102",
+      "article-title": "A bibliometric study about the research based on hybridating the fuzzy logic field and the other computational intelligent techniques: A visual approach",
+      "volume": "17",
+      "author": "López-Herrera",
+      "year": "2010",
+      "journal-title": "Internacional Journal of Hybrid Intelligent Systems"
+    },
+    {
+      "issue": "4",
+      "key": "10.1002/asi.21525-BIB38|cit39",
+      "article-title": "Visualization and evolution of the scientific structure of fuzzy sets research in Spain",
+      "volume": "14",
+      "author": "López-Herrera",
+      "year": "2009",
+      "journal-title": "Information Research"
+    },
+    {
+      "issue": "4",
+      "key": "10.1002/asi.21525-BIB39|cit40",
+      "doi-asserted-by": "crossref",
+      "first-page": "290",
+      "DOI": "10.1002/(SICI)1097-4571(199105)42:4<290::AID-ASI5>3.0.CO;2-9",
+      "article-title": "Mapping economics through the journal literature: An experiment in journal co-citation analysis",
+      "volume": "42",
+      "author": "McCain",
+      "year": "1991",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB40|cit41",
+      "doi-asserted-by": "crossref",
+      "first-page": "321",
+      "DOI": "10.1007/s11192-009-0038-6",
+      "article-title": "Comparing Google Scholar and ISI Web of Science for earth sciences",
+      "volume": "82",
+      "author": "Mikki",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "8",
+      "key": "10.1002/asi.21525-BIB41|cit42",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1371/journal.pntd.0000501",
+      "article-title": "Co-authorship network analysis: A powerful tool for strategic planning of research, development and capacity building programs on neglected diseases",
+      "volume": "3",
+      "author": "Morel",
+      "year": "2009",
+      "journal-title": "PLoS Neglected Tropical Diseases"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB42|cit43",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1002/aris.2008.1440420113",
+      "article-title": "Mapping research specialties",
+      "volume": "42",
+      "author": "Morris",
+      "year": "2008",
+      "journal-title": "Annual Review of Information Science and Technology"
+    },
+    {
+      "issue": "6",
+      "key": "10.1002/asi.21525-BIB43|cit44",
+      "doi-asserted-by": "crossref",
+      "first-page": "1520",
+      "DOI": "10.1016/j.ipm.2005.03.017",
+      "article-title": "Domain analysis and information retrieval through the construction of heliocentric maps based on ISI-JCR category cocitation",
+      "volume": "41",
+      "author": "Moya-Anegón",
+      "year": "2005",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "issue": "14",
+      "key": "10.1002/asi.21525-BIB44|cit45",
+      "doi-asserted-by": "crossref",
+      "first-page": "2167",
+      "DOI": "10.1002/asi.20683",
+      "article-title": "Visualizing the marrow of science",
+      "volume": "58",
+      "author": "Moya-Anegón",
+      "year": "2007",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB45|cit46",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1002/(SICI)1097-4571(1999)50:2<115::AID-ASI3>3.0.CO;2-J",
+      "article-title": "Combining mapping and citation analysis for evaluative bibliometric purposes: A bibliometric study",
+      "volume": "50",
+      "author": "Noyons",
+      "year": "1999a",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB46|cit47",
+      "doi-asserted-by": "crossref",
+      "first-page": "591",
+      "DOI": "10.1007/BF02459614",
+      "article-title": "Integrating research performance analysis and science mapping",
+      "volume": "46",
+      "author": "Noyons",
+      "year": "1999b",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB47|cit48",
+      "first-page": "9",
+      "volume-title": "Celebrating scholarly communication studies: A festschrift for Olle Persson at his 60th birthday",
+      "volume": "5",
+      "author": "Persson",
+      "year": "2009"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB48|cit49",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1007/BF02018157",
+      "article-title": "Structuring scientific activities by co-author analysis an exercise on a university faculty level",
+      "volume": "20",
+      "author": "Peters",
+      "year": "1991",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB49|cit50",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/0048-7333(93)90031-C",
+      "article-title": "Co-word-based science maps of chemical engineering. Part I: Representations by direct multidimensional scaling",
+      "volume": "22",
+      "author": "Peters",
+      "year": "1993",
+      "journal-title": "Research Policy"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB50|cit51",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1023/A:1010537316758",
+      "article-title": "Using artificial neural networks for mapping of science and technology: A multi-self-organizingmaps approach",
+      "volume": "51",
+      "author": "Polanco",
+      "year": "2001",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB51|cit52",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/0471698466",
+      "volume-title": "Tech mining: exploiting new technologies for competitive advantage",
+      "author": "Porter",
+      "year": "2004"
+    },
+    {
+      "issue": "5",
+      "key": "10.1002/asi.21525-BIB52|cit53",
+      "doi-asserted-by": "crossref",
+      "first-page": "1023",
+      "DOI": "10.1007/s11051-009-9607-0",
+      "article-title": "How interdisciplinary is nanotechnology",
+      "volume": "11",
+      "author": "Porter",
+      "year": "2009a",
+      "journal-title": "Journal of Nanoparticle Research"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB53|cit54",
+      "doi-asserted-by": "crossref",
+      "first-page": "534",
+      "DOI": "10.1038/nnano.2009.207",
+      "article-title": "Where does nanotechnology belong in the map of science",
+      "volume": "4",
+      "author": "Porter",
+      "year": "2009b",
+      "journal-title": "Nature Nanotechnology"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB54|cit55",
+      "first-page": "27",
+      "article-title": "Studies in scientometrics I: Transience and continuance in scientific authorship. Ci",
+      "volume": "4",
+      "author": "Price",
+      "year": "1975",
+      "journal-title": "Informatics Rio de Janeiro"
+    },
+    {
+      "issue": "4",
+      "key": "10.1002/asi.21525-BIB55|cit56",
+      "doi-asserted-by": "crossref",
+      "first-page": "1611",
+      "DOI": "10.1016/j.ipm.2007.09.005",
+      "article-title": "A new variant of the pathfinder algorithm to generate large visual science maps in cubic time",
+      "volume": "44",
+      "author": "Quirin",
+      "year": "2008",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "issue": "6",
+      "key": "10.1002/asi.21525-BIB56|cit57",
+      "doi-asserted-by": "crossref",
+      "first-page": "381",
+      "DOI": "10.1007/BF02025827",
+      "article-title": "Co-word maps of biotechnology: An example of cognitive scientometrics",
+      "volume": "6",
+      "author": "Rip",
+      "year": "1984",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB57|cit58",
+      "doi-asserted-by": "crossref",
+      "first-page": "e8694",
+      "DOI": "10.1371/journal.pone.0008694",
+      "article-title": "Mapping change in large networks",
+      "volume": "5",
+      "author": "Rosvall",
+      "year": "2010",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB58|cit59",
+      "volume-title": "Introduction to modern information retrieval",
+      "author": "Salton",
+      "year": "1983"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB59|cit60",
+      "first-page": "249",
+      "volume-title": "The psychology of learning and motivation: Advances in research and theory",
+      "volume": "24",
+      "author": "Schvaneveldt",
+      "year": "1989"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB60|cit61",
+      "unstructured": "Sci 2 Team 2009 Science of Science (Sci 2 ) Tool http://sci.slis.indiana.edu"
+    },
+    {
+      "issue": "11",
+      "key": "10.1002/asi.21525-BIB61|cit62",
+      "doi-asserted-by": "crossref",
+      "first-page": "2498",
+      "DOI": "10.1101/gr.1239303",
+      "article-title": "Cytoscape: A software environment for integrated models of biomolecular interaction networks",
+      "volume": "13",
+      "author": "Shannon",
+      "year": "2003",
+      "journal-title": "Genome Research"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB62|cit63",
+      "doi-asserted-by": "crossref",
+      "first-page": "595",
+      "DOI": "10.1007/s11192-010-0204-x",
+      "article-title": "The emergence of social science research on nanotechnology",
+      "volume": "85",
+      "author": "Shapira",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB63|cit64",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1201/9781584888338",
+      "volume-title": "Understanding complex datasets: Data mining with matrix decompositions (Chapman & Hall/Crc Data Mining and Knowledge Discovery Series)",
+      "author": "Skillicorn",
+      "year": "2007"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB64|cit65",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.1016/j.joi.2009.03.002",
+      "article-title": "Discrete and continuous conceptualizations of science: Implications for knowledge domain visualization",
+      "volume": "3",
+      "author": "Skupin",
+      "year": "2009",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "4",
+      "key": "10.1002/asi.21525-BIB65|cit66",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1002/asi.4630240406",
+      "article-title": "Co-citation in the scientific literature: A new measure of the relationship between two documents",
+      "volume": "24",
+      "author": "Small",
+      "year": "1973",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB66|cit67",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.1007/BF02457414",
+      "article-title": "Update on science mapping: Creating large document spaces",
+      "volume": "38",
+      "author": "Small",
+      "year": "1997",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "9",
+      "key": "10.1002/asi.21525-BIB67|cit68",
+      "doi-asserted-by": "crossref",
+      "first-page": "799",
+      "DOI": "10.1002/(SICI)1097-4571(1999)50:9<799::AID-ASI9>3.0.CO;2-G",
+      "article-title": "Visualizing science by citation mapping",
+      "volume": "50",
+      "author": "Small",
+      "year": "1999",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB68|cit69",
+      "doi-asserted-by": "crossref",
+      "first-page": "595",
+      "DOI": "10.1007/s11192-006-0132-y",
+      "article-title": "Tracking and predicting growth areas in science",
+      "volume": "68",
+      "author": "Small",
+      "year": "2006",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "4",
+      "key": "10.1002/asi.21525-BIB69|cit70",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1177/016555158501100402",
+      "article-title": "The geography of science: Disciplinary and national mappings",
+      "volume": "11",
+      "author": "Small",
+      "year": "1985",
+      "journal-title": "Journal of Information Science"
+    },
+    {
+      "issue": "5",
+      "key": "10.1002/asi.21525-BIB70|cit71",
+      "doi-asserted-by": "crossref",
+      "first-page": "277",
+      "DOI": "10.1016/0306-4573(77)90017-6",
+      "article-title": "Journal clustering using a bibliographic coupling method",
+      "volume": "13",
+      "author": "Small",
+      "year": "1977",
+      "journal-title": "Information Processing and Management"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB71|cit72",
+      "doi-asserted-by": "crossref",
+      "first-page": "365",
+      "DOI": "10.1007/s11192-009-0424-0",
+      "article-title": "Citation structure of an emerging research area on the verge of application",
+      "volume": "79",
+      "author": "Small",
+      "year": "2009",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1002/asi.21525-BIB72|cit73",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1007/s11192-009-0051-9",
+      "article-title": "Emerging research fronts in science and technology: Patterns of new knowledge development",
+      "volume": "83",
+      "author": "Upham",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "5",
+      "key": "10.1002/asi.21525-BIB73|cit74",
+      "doi-asserted-by": "crossref",
+      "first-page": "625",
+      "DOI": "10.1142/S0218488507004911",
+      "article-title": "Bibliometric mapping of the computational intelligence field",
+      "volume": "15",
+      "author": "van Eck",
+      "year": "2007",
+      "journal-title": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems"
+    },
+    {
+      "issue": "8",
+      "key": "10.1002/asi.21525-BIB74|cit75",
+      "doi-asserted-by": "crossref",
+      "first-page": "1635",
+      "DOI": "10.1002/asi.21075",
+      "article-title": "How to normalize cooccurrence data? An analysis of some well-known similarity measures",
+      "volume": "60",
+      "author": "van Eck",
+      "year": "2009",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1002/asi.21525-BIB75|cit76",
+      "doi-asserted-by": "crossref",
+      "first-page": "523",
+      "DOI": "10.1007/s11192-009-0146-3",
+      "article-title": "Software survey: Vosviewer, a computer program for bibliometric mapping",
+      "volume": "84",
+      "author": "van Eck",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB76|cit77",
+      "doi-asserted-by": "crossref",
+      "unstructured": "van Eck , N.J. Waltman , L. Dekker , R. van den Berg , J. 2010 A comparison of two techniques for bibliometric mapping: Multidimensional scaling and vos",
+      "DOI": "10.1002/asi.21421"
+    },
+    {
+      "issue": "4",
+      "key": "10.1002/asi.21525-BIB77|cit78",
+      "doi-asserted-by": "crossref",
+      "first-page": "629",
+      "DOI": "10.1016/j.joi.2010.07.002",
+      "article-title": "A unified approach to mapping and clustering of bibliometric networks",
+      "volume": "4",
+      "author": "Waltman",
+      "year": "2010",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB78|cit79",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/CBO9780511815478",
+      "volume-title": "Social network analysis: Methods and applications",
+      "author": "Wasserman",
+      "year": "1994"
+    },
+    {
+      "key": "10.1002/asi.21525-BIB79|cit80",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1002/asi.4630320302",
+      "article-title": "Author co-citation: A literature measure of intellectual structure",
+      "volume": "32",
+      "author": "White",
+      "year": "1981",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "13",
+      "key": "10.1002/asi.21525-BIB80|cit81",
+      "doi-asserted-by": "crossref",
+      "first-page": "1224",
+      "DOI": "10.1002/(SICI)1097-4571(1999)50:13<1224::AID-ASI8>3.0.CO;2-4",
+      "article-title": "The ecological approach to text visualization",
+      "volume": "50",
+      "author": "Wise",
+      "year": "1999",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB81|cit82",
+      "doi-asserted-by": "crossref",
+      "first-page": "338",
+      "DOI": "10.1016/S0019-9958(65)90241-X",
+      "article-title": "Fuzzy sets",
+      "volume": "8",
+      "author": "Zadeh",
+      "year": "1965",
+      "journal-title": "Information and Control"
+    },
+    {
+      "issue": "13",
+      "key": "10.1002/asi.21525-BIB82|cit83",
+      "doi-asserted-by": "crossref",
+      "first-page": "2751",
+      "DOI": "10.1016/j.ins.2008.02.012",
+      "article-title": "Is there a need for fuzzy logic",
+      "volume": "178",
+      "author": "Zadeh",
+      "year": "2008",
+      "journal-title": "Information Sciences"
+    },
+    {
+      "issue": "13",
+      "key": "10.1002/asi.21525-BIB83|cit84",
+      "doi-asserted-by": "crossref",
+      "first-page": "2070",
+      "DOI": "10.1002/asi.20910",
+      "article-title": "Evolution of research activities and intellectual influences in information science 1996-2005: Introducing author bibliographic-coupling analysis",
+      "volume": "59",
+      "author": "Zhao",
+      "year": "2008",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "3",
+      "key": "10.1002/asi.21525-BIB84|cit85",
+      "doi-asserted-by": "crossref",
+      "first-page": "627",
+      "DOI": "10.1023/A:1005632319799",
+      "article-title": "Shadows of the past in international cooperation: Collaboration profiles of the top five producers of science",
+      "volume": "47",
+      "author": "Zitt",
+      "year": "2000",
+      "journal-title": "Scientometrics"
+    }
+  ],
+  "container-title": [
+    "Journal of the American Society for Information Science and Technology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fasi.21525",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1002/asi.21525/fullpdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        6
+      ]
+    ],
+    "date-time": "2024-04-06T13:05:14Z",
+    "timestamp": 1712408714000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://onlinelibrary.wiley.com/doi/10.1002/asi.21525"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        2
+      ]
+    ]
+  },
+  "references-count": 84,
+  "journal-issue": {
+    "issue": "7",
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          7
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1002/asi.21525",
+  "relation": {},
+  "ISSN": [
+    "1532-2882"
+  ],
+  "issn-type": [
+    {
+      "value": "1532-2882",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        2
+      ]
+    ]
+  }
+}

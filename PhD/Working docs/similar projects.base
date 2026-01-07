@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.hasTag("op/projects/similar")
+    - '!file.hasTag("op/na", "op/acc", "op/level", "op/doc", "op/activity", "CCC")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - title
+      - authors
+      - description
+      - tags
+      - Type
+      - url
+      - year
+    sort:
+      - property: author
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 263
+      note.title: 192
+      note.tags: 231
+  - type: table
+    name: Conflict
+    filters:
+      and:
+        - file.name.contains("conflict")
+    columnSize:
+      file.name: 512

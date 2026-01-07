@@ -1,0 +1,1211 @@
+{
+  "id": "https://openalex.org/W2913788248",
+  "doi": "https://doi.org/10.1177/2158244019829575",
+  "title": "Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories",
+  "display_name": "Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories",
+  "publication_year": 2019,
+  "publication_date": "2019-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2913788248",
+    "doi": "https://doi.org/10.1177/2158244019829575",
+    "mag": "2913788248"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/2158244019829575",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/2158244019829575",
+    "source": {
+      "id": "https://openalex.org/S148277943",
+      "display_name": "SAGE Open",
+      "issn_l": "2158-2440",
+      "issn": [
+        "2158-2440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/2158244019829575",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5091199062",
+        "display_name": "Dag W. Aksnes",
+        "orcid": "https://orcid.org/0000-0002-1519-195X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128595",
+          "display_name": "Nordic Institute for Studies in Innovation, Research and Education",
+          "ror": "https://ror.org/032jh6m87",
+          "country_code": "NO",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210128595"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Dag W. Aksnes",
+      "raw_affiliation_strings": [
+        "Nordic Institute for Studies in Innovation, Research and Education (NIFU), Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nordic Institute for Studies in Innovation, Research and Education (NIFU), Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4210128595"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053759690",
+        "display_name": "Liv Langfeldt",
+        "orcid": "https://orcid.org/0000-0002-8302-8150"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128595",
+          "display_name": "Nordic Institute for Studies in Innovation, Research and Education",
+          "ror": "https://ror.org/032jh6m87",
+          "country_code": "NO",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210128595"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Liv Langfeldt",
+      "raw_affiliation_strings": [
+        "Nordic Institute for Studies in Innovation, Research and Education (NIFU), Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nordic Institute for Studies in Innovation, Research and Education (NIFU), Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4210128595"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5084961610",
+        "display_name": "Paul Wouters",
+        "orcid": "https://orcid.org/0000-0002-4324-5732"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paul Wouters",
+      "raw_affiliation_strings": [
+        "Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5091199062"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210128595"
+  ],
+  "apc_list": {
+    "value": 1200,
+    "currency": "USD",
+    "value_usd": 1200
+  },
+  "apc_paid": {
+    "value": 1200,
+    "currency": "USD",
+    "value_usd": 1200
+  },
+  "fwci": 67.701,
+  "has_fulltext": true,
+  "fulltext_origin": "ngrams",
+  "cited_by_count": 1005,
+  "citation_normalized_percentile": {
+    "value": 0.999771,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10102",
+    "display_name": "scientometrics and bibliometrics research",
+    "score": 0.9994,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1804",
+      "display_name": "Statistics, Probability and Uncertainty"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/18",
+      "display_name": "Decision Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10102",
+      "display_name": "scientometrics and bibliometrics research",
+      "score": 0.9994,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10206",
+      "display_name": "Meta-analysis and systematic reviews",
+      "score": 0.9599,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13607",
+      "display_name": "Academic Publishing and Open Access",
+      "score": 0.9442,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/relevance",
+      "display_name": "Relevance",
+      "score": 0.58416694
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.56081015
+    },
+    {
+      "id": "https://openalex.org/keywords/soundness",
+      "display_name": "Soundness",
+      "score": 0.5157683
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776950860",
+      "wikidata": "https://www.wikidata.org/wiki/Q2914681",
+      "display_name": "Originality",
+      "level": 3,
+      "score": 0.7875906
+    },
+    {
+      "id": "https://openalex.org/C2778805511",
+      "wikidata": "https://www.wikidata.org/wiki/Q1713",
+      "display_name": "Citation",
+      "level": 2,
+      "score": 0.692592
+    },
+    {
+      "id": "https://openalex.org/C2779530757",
+      "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+      "display_name": "Quality (philosophy)",
+      "level": 2,
+      "score": 0.6710913
+    },
+    {
+      "id": "https://openalex.org/C158154518",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310970",
+      "display_name": "Relevance (law)",
+      "level": 2,
+      "score": 0.58416694
+    },
+    {
+      "id": "https://openalex.org/C2776291640",
+      "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+      "display_name": "Value (mathematics)",
+      "level": 2,
+      "score": 0.56081015
+    },
+    {
+      "id": "https://openalex.org/C39920170",
+      "wikidata": "https://www.wikidata.org/wiki/Q693083",
+      "display_name": "Soundness",
+      "level": 2,
+      "score": 0.5157683
+    },
+    {
+      "id": "https://openalex.org/C525823164",
+      "wikidata": "https://www.wikidata.org/wiki/Q472342",
+      "display_name": "Scientometrics",
+      "level": 2,
+      "score": 0.50388235
+    },
+    {
+      "id": "https://openalex.org/C527412718",
+      "wikidata": "https://www.wikidata.org/wiki/Q855395",
+      "display_name": "Interpretation (philosophy)",
+      "level": 2,
+      "score": 0.42776948
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.34794766
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.33739197
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.33444044
+    },
+    {
+      "id": "https://openalex.org/C118084267",
+      "wikidata": "https://www.wikidata.org/wiki/Q26110",
+      "display_name": "Positive economics",
+      "level": 1,
+      "score": 0.32260185
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.3076533
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2840763
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.24386269
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.24164596
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.22808918
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.15866804
+    },
+    {
+      "id": "https://openalex.org/C190248442",
+      "wikidata": "https://www.wikidata.org/wiki/Q839486",
+      "display_name": "Qualitative research",
+      "level": 2,
+      "score": 0.122510076
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/2158244019829575",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/2158244019829575",
+      "source": {
+        "id": "https://openalex.org/S148277943",
+        "display_name": "SAGE Open",
+        "issn_l": "2158-2440",
+        "issn": [
+          "2158-2440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/1826b2693d5d469293288d9b8f24a7de",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/11250/2585195",
+      "pdf_url": "https://nifu.brage.unit.no/nifu-xmlui/bitstream/11250/2585195/2/Aksnes%252C%2bD.%2bW.%2b2019%2b-%2bCitations%252C%2bcitation%2bindicators%252C%2band%2bresearch%2bquality.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401716",
+        "display_name": "Duo Research Archive (University of Oslo)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I184942183",
+        "host_organization_name": "University of Oslo",
+        "host_organization_lineage": [
+          "https://openalex.org/I184942183"
+        ],
+        "host_organization_lineage_names": [
+          "University of Oslo"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1887/78034",
+      "pdf_url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2979714/view",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [
+          "Royal Netherlands Academy of Arts and Sciences"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/2158244019829575",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/2158244019829575",
+    "source": {
+      "id": "https://openalex.org/S148277943",
+      "display_name": "SAGE Open",
+      "issn_l": "2158-2440",
+      "issn": [
+        "2158-2440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/17",
+      "display_name": "Partnerships for the goals",
+      "score": 0.45
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320323299",
+      "funder_display_name": "Norges Forskningsråd",
+      "award_id": "256223"
+    }
+  ],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 132,
+  "referenced_works": [
+    "https://openalex.org/W1485792508",
+    "https://openalex.org/W1493202602",
+    "https://openalex.org/W1498628038",
+    "https://openalex.org/W1505828506",
+    "https://openalex.org/W1516068682",
+    "https://openalex.org/W1538595822",
+    "https://openalex.org/W1546460521",
+    "https://openalex.org/W1559646899",
+    "https://openalex.org/W1713342896",
+    "https://openalex.org/W176391514",
+    "https://openalex.org/W1775749144",
+    "https://openalex.org/W1878144120",
+    "https://openalex.org/W190535179",
+    "https://openalex.org/W1930403392",
+    "https://openalex.org/W1936343182",
+    "https://openalex.org/W1941049987",
+    "https://openalex.org/W1965721320",
+    "https://openalex.org/W1969666528",
+    "https://openalex.org/W1973816953",
+    "https://openalex.org/W1974024430",
+    "https://openalex.org/W1976620368",
+    "https://openalex.org/W1977862340",
+    "https://openalex.org/W1977946092",
+    "https://openalex.org/W1979116104",
+    "https://openalex.org/W1987341880",
+    "https://openalex.org/W1991747566",
+    "https://openalex.org/W1991962104",
+    "https://openalex.org/W1997006426",
+    "https://openalex.org/W1999051528",
+    "https://openalex.org/W2005950835",
+    "https://openalex.org/W2007591921",
+    "https://openalex.org/W2014147337",
+    "https://openalex.org/W2015398090",
+    "https://openalex.org/W2017063866",
+    "https://openalex.org/W2017933882",
+    "https://openalex.org/W2019443264",
+    "https://openalex.org/W2019753053",
+    "https://openalex.org/W2023754051",
+    "https://openalex.org/W2025328309",
+    "https://openalex.org/W2032020071",
+    "https://openalex.org/W2032160096",
+    "https://openalex.org/W2034321615",
+    "https://openalex.org/W2035986646",
+    "https://openalex.org/W2042122549",
+    "https://openalex.org/W2043934960",
+    "https://openalex.org/W2050381689",
+    "https://openalex.org/W2050743787",
+    "https://openalex.org/W2052071685",
+    "https://openalex.org/W2054650225",
+    "https://openalex.org/W2060167209",
+    "https://openalex.org/W2061312249",
+    "https://openalex.org/W2068452509",
+    "https://openalex.org/W2070437482",
+    "https://openalex.org/W2073515370",
+    "https://openalex.org/W2077062538",
+    "https://openalex.org/W2077377252",
+    "https://openalex.org/W2081438176",
+    "https://openalex.org/W2081818270",
+    "https://openalex.org/W2087876208",
+    "https://openalex.org/W2088209891",
+    "https://openalex.org/W2089466924",
+    "https://openalex.org/W2093498562",
+    "https://openalex.org/W2094721029",
+    "https://openalex.org/W2095149397",
+    "https://openalex.org/W2096690004",
+    "https://openalex.org/W2097110982",
+    "https://openalex.org/W2099811601",
+    "https://openalex.org/W2105806663",
+    "https://openalex.org/W2107351709",
+    "https://openalex.org/W2109030009",
+    "https://openalex.org/W2114111800",
+    "https://openalex.org/W2115641591",
+    "https://openalex.org/W2116209312",
+    "https://openalex.org/W2124407761",
+    "https://openalex.org/W2126197183",
+    "https://openalex.org/W2128438887",
+    "https://openalex.org/W2133034347",
+    "https://openalex.org/W2133716760",
+    "https://openalex.org/W2133928412",
+    "https://openalex.org/W2138780415",
+    "https://openalex.org/W2139081384",
+    "https://openalex.org/W2139282251",
+    "https://openalex.org/W2144981148",
+    "https://openalex.org/W2149978608",
+    "https://openalex.org/W2152243616",
+    "https://openalex.org/W2156577392",
+    "https://openalex.org/W2158413506",
+    "https://openalex.org/W2163539724",
+    "https://openalex.org/W2163677803",
+    "https://openalex.org/W2165235748",
+    "https://openalex.org/W2169089330",
+    "https://openalex.org/W2170331721",
+    "https://openalex.org/W2171789734",
+    "https://openalex.org/W2178471959",
+    "https://openalex.org/W2211385352",
+    "https://openalex.org/W2235214564",
+    "https://openalex.org/W2273766569",
+    "https://openalex.org/W2294298973",
+    "https://openalex.org/W2313775435",
+    "https://openalex.org/W2338603689",
+    "https://openalex.org/W2343204342",
+    "https://openalex.org/W2468566926",
+    "https://openalex.org/W2513297789",
+    "https://openalex.org/W2519983476",
+    "https://openalex.org/W2523550674",
+    "https://openalex.org/W2533043833",
+    "https://openalex.org/W2588841625",
+    "https://openalex.org/W2589794072",
+    "https://openalex.org/W2607067892",
+    "https://openalex.org/W2764959802",
+    "https://openalex.org/W282661172",
+    "https://openalex.org/W2998874360",
+    "https://openalex.org/W3006485874",
+    "https://openalex.org/W3100614207",
+    "https://openalex.org/W3103386013",
+    "https://openalex.org/W3103874031",
+    "https://openalex.org/W3117097422",
+    "https://openalex.org/W3126024829",
+    "https://openalex.org/W4211177367",
+    "https://openalex.org/W4211187293",
+    "https://openalex.org/W4211240286",
+    "https://openalex.org/W4237327899",
+    "https://openalex.org/W4238502208",
+    "https://openalex.org/W4240578951",
+    "https://openalex.org/W4248259122",
+    "https://openalex.org/W4292887282",
+    "https://openalex.org/W4299332774",
+    "https://openalex.org/W4302515067",
+    "https://openalex.org/W565878114",
+    "https://openalex.org/W595791329",
+    "https://openalex.org/W767067438",
+    "https://openalex.org/W772173499"
+  ],
+  "related_works": [
+    "https://openalex.org/W4200071106",
+    "https://openalex.org/W3126095231",
+    "https://openalex.org/W2593155302",
+    "https://openalex.org/W2384288445",
+    "https://openalex.org/W2382526412",
+    "https://openalex.org/W2378906650",
+    "https://openalex.org/W2352855287",
+    "https://openalex.org/W2347474189",
+    "https://openalex.org/W2072812638",
+    "https://openalex.org/W2041415459"
+  ],
+  "abstract_inverted_index": {
+    "Citations": [
+      0
+    ],
+    "are": [
+      1,
+      17,
+      99
+    ],
+    "increasingly": [
+      2
+    ],
+    "used": [
+      3
+    ],
+    "as": [
+      4,
+      81,
+      101,
+      173
+    ],
+    "performance": [
+      5,
+      82
+    ],
+    "indicators": [
+      6,
+      156
+    ],
+    "in": [
+      7,
+      157
+    ],
+    "research": [
+      8,
+      13,
+      25,
+      42,
+      114,
+      148,
+      158,
+      169
+    ],
+    "policy": [
+      9
+    ],
+    "and": [
+      10,
+      36,
+      45,
+      74,
+      77,
+      95,
+      128,
+      160,
+      176
+    ],
+    "within": [
+      11
+    ],
+    "the": [
+      12,
+      21,
+      24,
+      31,
+      65,
+      75,
+      135
+    ],
+    "system.": [
+      14
+    ],
+    "Usually,": [
+      15
+    ],
+    "citations": [
+      16,
+      39,
+      80,
+      108,
+      121,
+      142
+    ],
+    "assumed": [
+      18
+    ],
+    "to": [
+      19,
+      41,
+      111,
+      125,
+      166
+    ],
+    "reflect": [
+      20,
+      122,
+      143
+    ],
+    "impact": [
+      22,
+      127
+    ],
+    "of": [
+      23,
+      54,
+      62,
+      64,
+      72,
+      79,
+      147,
+      154
+    ],
+    "or": [
+      26
+    ],
+    "its": [
+      27
+    ],
+    "quality.": [
+      28,
+      149
+    ],
+    "What": [
+      29
+    ],
+    "is": [
+      30,
+      86,
+      118,
+      138
+    ],
+    "justification": [
+      32
+    ],
+    "for": [
+      33
+    ],
+    "these": [
+      34,
+      112,
+      167
+    ],
+    "assumptions": [
+      35
+    ],
+    "how": [
+      37,
+      107
+    ],
+    "do": [
+      38
+    ],
+    "relate": [
+      40,
+      110
+    ],
+    "quality?": [
+      43
+    ],
+    "These": [
+      44
+    ],
+    "similar": [
+      46
+    ],
+    "issues": [
+      47,
+      67
+    ],
+    "have": [
+      48
+    ],
+    "been": [
+      49
+    ],
+    "addressed": [
+      50
+    ],
+    "through": [
+      51
+    ],
+    "several": [
+      52
+    ],
+    "decades": [
+      53
+    ],
+    "scientometric": [
+      55
+    ],
+    "research.": [
+      56
+    ],
+    "This": [
+      57
+    ],
+    "article": [
+      58,
+      105
+    ],
+    "provides": [
+      59
+    ],
+    "an": [
+      60,
+      151
+    ],
+    "overview": [
+      61
+    ],
+    "some": [
+      63
+    ],
+    "main": [
+      66
+    ],
+    "at": [
+      68
+    ],
+    "stake,": [
+      69
+    ],
+    "including": [
+      70
+    ],
+    "theories": [
+      71
+    ],
+    "citation": [
+      73,
+      155
+    ],
+    "interpretation": [
+      76
+    ],
+    "validity": [
+      78
+    ],
+    "measures.": [
+      83
+    ],
+    "Research": [
+      84
+    ],
+    "quality": [
+      85,
+      115,
+      170
+    ],
+    "a": [
+      87
+    ],
+    "multidimensional": [
+      88
+    ],
+    "concept,": [
+      89
+    ],
+    "where": [
+      90
+    ],
+    "plausibility/soundness,": [
+      91
+    ],
+    "originality,": [
+      92,
+      175
+    ],
+    "scientific": [
+      93,
+      126
+    ],
+    "value,": [
+      94
+    ],
+    "societal": [
+      96,
+      177
+    ],
+    "value": [
+      97
+    ],
+    "commonly": [
+      98
+    ],
+    "perceived": [
+      100
+    ],
+    "key": [
+      102,
+      145
+    ],
+    "characteristics.": [
+      103
+    ],
+    "The": [
+      104
+    ],
+    "investigates": [
+      106
+    ],
+    "may": [
+      109,
+      162
+    ],
+    "various": [
+      113
+    ],
+    "dimensions.": [
+      116
+    ],
+    "It": [
+      117
+    ],
+    "argued": [
+      119
+    ],
+    "that": [
+      120,
+      141
+    ],
+    "aspects": [
+      123
+    ],
+    "related": [
+      124
+    ],
+    "relevance,": [
+      129
+    ],
+    "although": [
+      130
+    ],
+    "with": [
+      131
+    ],
+    "important": [
+      132
+    ],
+    "limitations.": [
+      133
+    ],
+    "On": [
+      134
+    ],
+    "contrary,": [
+      136
+    ],
+    "there": [
+      137
+    ],
+    "no": [
+      139
+    ],
+    "evidence": [
+      140
+    ],
+    "other": [
+      144,
+      168
+    ],
+    "dimensions": [
+      146
+    ],
+    "Hence,": [
+      150
+    ],
+    "increased": [
+      152
+    ],
+    "use": [
+      153
+    ],
+    "evaluation": [
+      159
+    ],
+    "funding": [
+      161
+    ],
+    "imply": [
+      163
+    ],
+    "less": [
+      164
+    ],
+    "attention": [
+      165
+    ],
+    "dimensions,": [
+      171
+    ],
+    "such": [
+      172
+    ],
+    "solidity/plausibility,": [
+      174
+    ],
+    "value.": [
+      178
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2913788248",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 102
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 212
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 200
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 184
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 178
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 94
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 24
+    }
+  ],
+  "updated_date": "2025-08-19T13:25:12.756044",
+  "created_date": "2019-02-21"
+}
