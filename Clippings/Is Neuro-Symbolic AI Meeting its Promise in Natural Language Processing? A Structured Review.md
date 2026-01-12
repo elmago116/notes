@@ -16,10 +16,13 @@ updated: 2025-08-20
 tags:
   - research_method/ScopingReview
   - Tech/NeuroSymbolic
-  - tech/Ai/Hybrid
+  - tech/Hybrid
 apa_citation: Kyle Hamilton et al., 2022
 ---
 [[Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review.pdf]]
+
+![[Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review.pdf#page=6&rect=59,557,537,734|Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review, p.6]]
+
 
 ## PDF text extraction
 

@@ -1,15 +1,17 @@
 ---
 title: hermeneutical injustice - Adriana Falbo
-type: article
+type: Draft
 base: clippings
 source: pdf
 tags:
   - Humanities/hermeneutics
+authors:
+  - Adriana Falbo
 ---
+"The injustice of having some significant area of one’s social experience obscured from collective understanding owing to hermeneutical marginalization" (Fricker; 2007, 158)
 
-Linked PDF file(s) for **hermeneutical injustice - Adriana Falbo**:
 
-- [[PDF/hermeneutical injustice - Adriana Falbo.pdf]]
+![[PDF/hermeneutical injustice - Adriana Falbo.pdf]]
 
 ## PDF text extraction
 

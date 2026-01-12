@@ -1,15 +1,18 @@
 ---
-title: "Information and Knowledge Organisation in Digital Humanities- Global Perspectives"
+title: Information and Knowledge Organisation in Digital Humanities- Global Perspectives
 type: article
 base: clippings
 source: pdf
 tags:
   - Humanities/digitalHumanities
+year: "2022"
 ---
+> ([[Information and Knowledge Organisation in Digital Humanities- Global Perspectives.pdf#page=26&annotation=12015R|Information and Knowledge Organisation in Digital Humanities- Global Perspectives, p.1]])
+> The field of digital humanities (DH), which emerged as the umbrella term in the mid-2000s for humanities scholarship using computational techniques, has hosted many contentious discussions on the field’s identity and purview, with think pieces positing “what DH means” and “what counts as DH” becoming a genre of its own (Kirschenbaum 2010).
 
-Linked PDF file(s) for **Information and Knowledge Organisation in Digital Humanities- Global Perspectives**:
 
-- [[PDF/Information and Knowledge Organisation in Digital Humanities- Global Perspectives.pdf]]
+
+![[PDF/Information and Knowledge Organisation in Digital Humanities- Global Perspectives.pdf]]
 
 ## PDF text extraction
 

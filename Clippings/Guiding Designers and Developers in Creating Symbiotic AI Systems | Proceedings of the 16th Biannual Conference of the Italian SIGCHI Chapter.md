@@ -9,7 +9,6 @@ published:
 created: 2025-12-04
 description:
 tags:
-  - tech/hybrid
   - design/hybrid-symbiosis
   - design/UX/Method
   - op/acc/leer

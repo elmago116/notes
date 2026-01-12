@@ -16,7 +16,11 @@ apa_citation: Ford, Bawden, & Robinson, 2015
 ---
 
 
-- [[Introduction to Information Behaviour -- Nigel Ford; David Bawden; Lyn Robinson.pdf]]
+[[Introduction to Information Behaviour -- Nigel Ford; David Bawden; Lyn Robinson.pdf]]
+
+> ([[Introduction to Information Behaviour -- Nigel Ford; David Bawden; Lyn Robinson.pdf#page=47&annotation=2208R|Introduction to Information Behaviour -- Nigel Ford; David Bawden; Lyn Robinson, p.36]])
+> ‘Making sense’ is not restricted to acquiring knowledge. It includes a wider range of thoughts and feelings that reﬂect a person’s interpretation of a situation,  including  intuitions,  opinions,  hunches,  eﬀective  responses, evaluations, and questions.
+#Humanities/hermeneutics 
 
 ## PDF text extraction
 

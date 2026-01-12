@@ -1,18 +1,12 @@
 ---
 title: UBXAT - Resumen Fase de DisenÞo(DCU)
-type: article
-base: clippings
-source: pdf
+source: UBXAT - Resumen Fase de DisenÞo(DCU).pdf
+type: PDF extraction
 tags:
-  - op/projects/UBXAT
   - op/projects/peninsula
 ---
 
-Linked PDF file(s) for **UBXAT - Resumen Fase de DisenÞo(DCU)**:
-
-- [[PDF/Peninsula/UBXAT - Resumen Fase de DisenÞo(DCU).pdf]]
-
-## PDF text extraction
+[[UBXAT - Resumen Fase de DisenÞo(DCU).pdf]]
 
 Resumen Ejecutivo y Metodología Aplicada
 Resumen Ejecutivo del Proyecto UBXAT
@@ -168,3 +162,4 @@ potente motor técnico de UBXAT II no sea únicamente una proeza de ingeniería,
 herramienta útil, usable e inclusiva. Los hallazgos y el diseño resultante están directamente
 orientados a resolver los problemas reales de los investigadores, con el objetivo de acelerar
 significativamente su capacidad de análisis y descubrimiento de conocimiento.
+

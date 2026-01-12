@@ -10,11 +10,22 @@ tags:
   - op/acc/leer
   - tech/Ai/LLM
   - Tech/KG
+  - tech/hybrid
 year: "2025"
 ---
+# 1.
+
+
+
+
+
+
+
 ![[Knowledge Graphs and LLMs in Action.pdf]]
 
-## PDF text extraction
+
+
+# PDF text extraction
 
 Knowledge Graphs and LLMs in Action
 Alessandro Negro with Vlastimil Kus, Giuseppe Futia

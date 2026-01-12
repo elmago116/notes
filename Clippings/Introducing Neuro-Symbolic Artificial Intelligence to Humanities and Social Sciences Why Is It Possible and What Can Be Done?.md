@@ -5,13 +5,17 @@ base: clippings
 source: pdf
 tags:
   - Tech/NeuroSymbolic
-  - tech/Ai/Hybrid
+  - tech/Hybrid
+  - Humanities/digitalHumanities
+authors:
+  - Zhen Huang
+doi: 10.18421/TEM114-54
+year: "2022"
 ---
 
 Linked PDF file(s) for **Introducing Neuro-Symbolic Artificial Intelligence**:
 
-- [[Introducing Neuro-Symbolic Artificial Intelligence.pdf]]
-
+![[Introducing_Neuro-Symbolic_Artificial_Intelligence.pdf]]
 ## PDF text extraction
 
 TEM Journal. Volume 11, Issue 4, pages 1863-1870, ISSN 2217-8309, DOI: 10.18421/TEM114-54, November 2022. 

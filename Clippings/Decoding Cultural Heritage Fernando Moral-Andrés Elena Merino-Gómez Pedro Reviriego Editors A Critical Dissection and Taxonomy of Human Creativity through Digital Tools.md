@@ -2,8 +2,9 @@
 title: Analysis of the Usability of Automatically Enriched Cultural Heritage Data
 source: https://link-springer-com.sire.ub.edu/chapter/10.1007/978-3-031-57675-1_4?fromPaywallRec=true
 authors:
-  - "[[Julien A. Raemy]]"
-  - "[[Robert Sanderson]]"
+  - Fernando Moral-Andrés
+  - Elena Merino-Gómez
+  - Pedro Reviriego 
 published: 2024-01-01
 created: 2025-12-11
 description: This chapter presents the potential of interoperability and standardised data publication for cultural heritage resources, with a focus on community-driven approaches and web standards for usability. The Linked Open Usable Data (LOUD) design principles, which rely on...
@@ -14,11 +15,8 @@ tags:
   - op/acc/leer
 DOI: https://doi.org/10.1007/978-3-031-57675-1
 ISBN: ISBN 978-3-031-57674-4
-year: "2024"
 ---
-![[Decoding Cultural Heritage Fernando Moral-Andrés Elena Merino-Gómez Pedro Reviriego Editors A Critical Dissection and Taxonomy of Human Creativity through Digital Tools.pdf#page=80&rect=37,506,409,623|Decoding Cultural Heritage Fernando Moral-Andrés Elena Merino-Gómez Pedro Reviriego Editors A Critical Dissection and Taxonomy of Human Creativity through Digital Tools, p.69]]
-
-[[Decoding Cultural Heritage Fernando Moral-Andrés Elena Merino-Gómez Pedro Reviriego Editors A Critical Dissection and Taxonomy of Human Creativity through Digital Tools.pdf]]
+![[Decoding Cultural Heritage Fernando Moral-Andrés Elena Merino-Gómez Pedro Reviriego Editors A Critical Dissection and Taxonomy of Human Creativity through Digital Tools.pdf]]
 
 ## Abstract
 

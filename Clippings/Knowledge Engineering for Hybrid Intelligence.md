@@ -21,11 +21,10 @@ authors:
   - Stefan Schlobach
   - André Meyer-Vitali
 tags:
-  - tech/Ai/Hybrid
-"":
+  - design/hybrid-symbiosis
 apa_citation: Ilaria Tiddi, et al., 2023
 ---
-[[Knowledge Engineering for Hybrid Intelligence.pdf]]
+![[Knowledge Engineering for Hybrid Intelligence.pdf]]
 
 ## PDF text extraction
 

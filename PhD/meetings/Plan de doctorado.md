@@ -11,7 +11,7 @@ tiempo: 1
 ---
 
 
-![[Correo de Nuria con obj HerStory NeSy AI]]
+![[Correo - objetivos para HerStory NeSy AI]]
 
 
 ![[Abstract]]

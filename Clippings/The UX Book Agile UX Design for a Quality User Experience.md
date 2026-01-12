@@ -17,13 +17,24 @@ tags:
   - design/UX/testing
   - op/acc/leer
 ---
-[[The UX Book Agile UX Design for a Quality User Experience]]
 
-[[The UX Book Agile UX Design for a Quality User Experience.epub]]
+# Components of UX
+![[The UX Book Agile UX Design for a Quality User Experience.pdf#page=34&rect=100,330,486,678|The UX Book Agile UX Design for a Quality User Experience, p.34]]
+
+# Types of interaction (UX)
+
+> ([[The UX Book Agile UX Design for a Quality User Experience.pdf#page=41&selection=27,0,31,32|The UX Book Agile UX Design for a Quality User Experience, p.41]])
+> We have identified a few different kinds of interaction that we can correlate with different kinds of user experiences. 1. Localized interaction. 2. Activity-based interaction. 3. System-spanning interaction.
+
+# Agile Design lifecycle
+
+![[The UX Book Agile UX Design for a Quality User Experience.pdf#page=96&rect=105,426,485,756|The UX Book Agile UX Design for a Quality User Experience, p.96]]
+
+![[The UX Book Agile UX Design for a Quality User Experience.pdf]]
 
 
 
 
 
-![[Screenshot 2025-12-27 at 11.02.08 PM.png]]
+
 
