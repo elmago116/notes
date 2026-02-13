@@ -5,7 +5,11 @@ base: clippings
 source: pdf
 tags:
   - Humanities/digitalHumanities
+  - lis
 year: "2022"
+authors:
+  - Koraljka Golub
+  - Ying-Hsang Liu
 ---
 > ([[Information and Knowledge Organisation in Digital Humanities- Global Perspectives.pdf#page=26&annotation=12015R|Information and Knowledge Organisation in Digital Humanities- Global Perspectives, p.1]])
 > The field of digital humanities (DH), which emerged as the umbrella term in the mid-2000s for humanities scholarship using computational techniques, has hosted many contentious discussions on the field’s identity and purview, with think pieces positing “what DH means” and “what counts as DH” becoming a genre of its own (Kirschenbaum 2010).

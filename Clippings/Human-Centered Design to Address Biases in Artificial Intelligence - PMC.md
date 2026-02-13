@@ -1,20 +1,20 @@
 ---
-title: "Human-Centered Design to Address Biases in Artificial Intelligence - PMC"
+title: Human-Centered Design to Address Biases in Artificial Intelligence - PMC
 authors: You Chen", "Ellen Wright Clayton", "Laurie L. Novak", "Shilo Anders", "Bradley Malin
 year: 2023
 type: journal-article
-journal: "Journal of Medical Internet Research"
+journal: Journal of Medical Internet Research
 doi: 10.2196/43251
 base: clippings
 source: Manual
 tags:
   - Tech/AI
+  - themes/bias/algorithmic
 last_enrichment_run: 2025-08-20
 pages: e43251
-publisher: "JMIR Publications Inc."
+publisher: JMIR Publications Inc.
 url: https://doi.org/10.2196/43251
 volume: 25
-
 ---
 
 [[Clippings/PDF/Human-Centered Design to Address Biases in Artificial Intelligence - PMC.pdf]]
@@ -77,7 +77,7 @@ The potential of artificial intelligence (AI) to reduce health care disparities 
 
 ## Introduction
 
-Artificial intelligence (AI) promises to help health organizations deliver equitable care to their patients and optimize administrative processes \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref1),[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref2) \]. However, the complex life cycle of AI can be biased in ways that exacerbate health disparities and inequities. As AI applications take on more central roles in biomedical research and health care \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref3) \], it is crucial to determine how best to maximize their benefits while minimizing their risks to patients and health care systems. One way to accomplish this is by involving a diverse group of stakeholders in the development and implementation of AI in health care. This perspective highlights the dual impact of AI on health disparities and inequalities; potential biases in each stage of AI design, development, and deployment life cycle; and tools for identifying and mitigating these biases. Finally, it illustrates how human-centered AI (HCAI) ( [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#figure1) ) can be applied to recognize and address the biases.
+Artificial intelligence (AI) promises to help health organizations deliver equitable care to their patients and optimize administrative processes \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref1),[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref2) \]. However, the complex life cycle of AI can be biased in ways that exacerbate health disparities and inequities #themes/bias/algorithmic . As AI applications take on more central roles in biomedical research and health care \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref3) \], it is crucial to determine how best to maximize their benefits while minimizing their risks to patients and health care systems. One way to accomplish this is by involving a diverse group of stakeholders in the development and implementation of AI in health care. This perspective highlights the dual impact of AI on health disparities and inequalities; potential biases in each stage of AI design, development, and deployment life cycle; and tools for identifying and mitigating these biases. Finally, it illustrates how human-centered AI (HCAI) ( [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#figure1) ) can be applied to recognize and address the biases.
 
 ![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b802/10132017/8ccfd80f52bd/jmir_v25i1e43251_fig1.jpg)
 
@@ -103,9 +103,9 @@ Biases can exist in each step of the AI life cycle \[ [23](https://pmc.ncbi.nlm.
 
 ## Bias Auditing Tools
 
-Notably, AI itself offers the potential to detect and mitigate biases in AI systems by involving open-source bias auditing tools \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref24) \]. <mark class="hltr-yellow">Bias auditing tools #tech/Bias-auditing-tools typically involve a combination of techniques from statistics, computer science, social science, and organizational management</mark>. These tools are developed to audit the predictions of ML-based risk assessment models to understand different types of biases and make informed decisions about developing and deploying such systems. They further ensure that the ML models are appropriately trained from their inception to their completion and tested across the full diversity of patients. As illustrated in one recent study, it was shown that bias auditing tools can address inequities for race across risk models for breast cancer, renal disease, and cardiac disease \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref2) \].
+Notably, AI itself offers the potential to detect and mitigate biases in AI systems by involving open-source bias auditing tools \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref24) \]. <mark class="hltr-yellow">Bias auditing tools #themes/bias/algorithmic/bias-auditing-tools typically involve a combination of techniques from statistics, computer science, social science, and organizational management</mark>. These tools are developed to audit the predictions of ML-based risk assessment models to understand different types of biases and make informed decisions about developing and deploying such systems. They further ensure that the ML models are appropriately trained from their inception to their completion and tested across the full diversity of patients. As illustrated in one recent study, it was shown that bias auditing tools can address inequities for race across risk models for breast cancer, renal disease, and cardiac disease \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref2) \].
 
-Bias auditing tools typically rely on a combination of several methods to detect and analyze bias in AI systems. These #tech/Bias-auditing-tools methods can include fairness metrics, counterfactual_analysis, sensitivity analysis, algorithmic transparency, and adversarial testing \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref25) - [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref27) \]. For example, a bias auditing tool may apply fairness metrics to spotlight potential biases in a model and then use counterfactual analysis to understand the underlying causes of the bias. After identifying the sources of bias, the tool may use sensitivity analysis to determine the factors that contribute to the bias and algorithmic transparency to understand how the model is making its predictions. Finally, the tool may use adversarial testing to identify potential weaknesses in the model. While useful in identifying potential biases in AI systems, bias auditing tools have certain limitations in detecting all forms of bias. These shortcomings may arise from various assumptions about bias and fairness, can be computationally demanding, may not provide solutions for removing the bias, may not be applicable for different forms of bias, may be difficult to interpret, and may be tested on a limited set of data. Furthermore, biases raised from AI practitioners using the AI system cannot be detected or addressed by the auditing tools. Therefore, auditing tools are clearly an incomplete solution for addressing biases in AI systems.
+Bias auditing tools typically rely on a combination of several methods to detect and analyze bias in AI systems. These #themes/bias/algorithmic/bias-auditing-tools methods can include fairness metrics, counterfactual_analysis, sensitivity analysis, algorithmic transparency, and adversarial testing \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref25) - [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/#ref27) \]. For example, a bias auditing tool may apply fairness metrics to spotlight potential biases in a model and then use counterfactual analysis to understand the underlying causes of the bias. After identifying the sources of bias, the tool may use sensitivity analysis to determine the factors that contribute to the bias and algorithmic transparency to understand how the model is making its predictions. Finally, the tool may use adversarial testing to identify potential weaknesses in the model. While useful in identifying potential biases in AI systems, bias auditing tools have certain limitations in detecting all forms of bias. These shortcomings may arise from various assumptions about bias and fairness, can be computationally demanding, may not provide solutions for removing the bias, may not be applicable for different forms of bias, may be difficult to interpret, and may be tested on a limited set of data. Furthermore, biases raised from AI practitioners using the AI system cannot be detected or addressed by the auditing tools. Therefore, auditing tools are clearly an incomplete solution for addressing biases in AI systems.
 
 ## Human-Centered AI
 

@@ -1,16 +1,30 @@
 ---
-year: "2023"
-title: "The Participatory Turn in AI Design: Theoretical Foundations and the Current State of Practice"
+title: The Participatory Turn in AI Design Theoretical Foundations and the Current State of Practice
 authors:
   - Fernando Delgado
-  - Michael Madaio
   - Stephen Yang
+  - Michael Madaio
   - Qian Yang
+year: 2023
+type: journal-article
+journal: Equity and Access in Algorithms, Mechanisms, and Optimization
+doi: 10.1145/3617694.3623261
+base: clippings
+source: Crossref
 tags:
+  - Tech/AI
+  - design/participatory
+  - research_method/ScopingReview
   - design/participatory/participatoryTurn
-  - tech/Ai
-  - CCC/ScopingReview
-  - lis/SemanticAnnotation
+enrichment_attempts:
+  - openalex_doi
+  - arxiv_doi
+  - openalex_title
+last_enrichment_run: 2025-08-20
+pages: 1-23
+publisher: ACM
+updated: 2025-08-20
+url: https://doi.org/10.1145/3617694.3623261
 apa_citation: Fernando Delgado et al., 2023
 ---
 ![[The Participatory Turn in AI Design Theoretical Foundations and the Current State of Practice.pdf]]
@@ -2258,7 +2272,7 @@ technical discourses Workbook Sprint University students as
 non-experts
 
 The Participatory Turn in AI Design EAAMO ’23, October 30–November 01, 2023, Boston, MA
-Paper Sector Domain Purpose Methods Stakeholder
+Paper Sector Domain Purpose [[Methods UCD-SC]] Stakeholder
 Saxena and Guha
 (2020) [187] Academia Public Services Predict if a child needs state
 assistance
@@ -2297,7 +2311,7 @@ Criminal justice
 experts
 Georgiou et al. (2020)
 [82] Academia Assistive Living Support stroke survivors in the
-home environment
+[[home]] environment
 Sketching, Demoing,
 Focus Groups Stroke survivors
 Halfaker and Geiger
@@ -2376,7 +2390,7 @@ characteristics Data probes AI designers and
 engineers
 
 EAAMO ’23, October 30–November 01, 2023, Boston, MA Delgado et al.
-Paper Sector Domain Purpose Methods Stakeholder
+Paper Sector Domain Purpose [[Methods UCD-SC]] Stakeholder
 Scurto, Caramiaux, and
 Bevilacqua (2021) [191] Academia Arts & Entertainment Foster music performance and
 robotic art Art practices Musicians
@@ -2501,7 +2515,7 @@ Wolf and Blomberg
 Cooperative Work Support solution design Ethnography IT Architects
 
 The Participatory Turn in AI Design EAAMO ’23, October 30–November 01, 2023, Boston, MA
-Paper Sector Domain Purpose Methods Stakeholder
+Paper Sector Domain Purpose [[Methods UCD-SC]] Stakeholder
 Park et al. (2022) [167] Academia Community
 Engagement
 Select volunteers for academic

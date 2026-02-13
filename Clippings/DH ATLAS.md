@@ -6,7 +6,7 @@ published:
 created: 2025-12-16
 description: "The ATLAS of Italian Digital Humanities"
 tags:
-  - "op/tools"
+  - "op/doc/tool"
 DOI:
 Type:
 ---

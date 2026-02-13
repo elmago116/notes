@@ -5,7 +5,8 @@ type: PDF extraction
 tags:
   - op/projects/peninsula
 ---
-[[UBXAT API Module (EN)]]
+
+[[UBXAT API Module (EN).pdf]]
 
 UBXAT API MODULE
 Overview

@@ -13,6 +13,9 @@ DOI: https://doi.Org/1 0.1 007/S10677-020-1 0094-z
 Type: Article
 year: "2020"
 ---
+> ([[Explanatory Injustice and Epistemic Agency.pdf#page=2&annotation=1305R|Explanatory Injustice and Epistemic Agency, p.p. [707]]])
+> how certain reason-ascriptions empower while others disempower, and (consequently) how through them believers are robbed of agency over their beliefs
+
 
 [[Explanatory Injustice and Epistemic Agency.pdf]]
 

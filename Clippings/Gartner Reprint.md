@@ -13,6 +13,7 @@ authors:
   - William B. Gartner
 tags:
   - op/doc/tool
+  - tech/evaluation
 apa_citation: William B. Gartner, 2016
 ---
 [[Clippings/PDF/Gartner Reprint.pdf]]

@@ -6,7 +6,7 @@ published: UserFocus
 created: 2026-01-06
 description: "The Fable of the User-Centered Designer - free book at E-Books Directory. You can download the book or read it online. It is made freely available by its author and publisher."
 tags:
-  - "UCD"
+  - "design/UCD"
   - "op/suggested/tutors"
 DOI:
 Type: "book"

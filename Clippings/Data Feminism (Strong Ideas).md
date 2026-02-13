@@ -7,13 +7,19 @@ source: pdf
 tags:
   - themes/HerStory
   - themes/gender
+  - themes/bias/algorithmic
 authors:
-  - Catherine D'Ignazio, Lauren F Klein,
+  - Catherine D'Ignazio
+  - Lauren F Klein
 publisher: The MIT Press -- 9780262044004
 apa_citation: Catherine D'Ignazio, Lauren F Klein,, 2020
 ---
 
-Linked PDF file(s) for **Data Feminism (Strong Ideas) -- Catherine D'Ignazio, Lauren F Klein, Catherine D`ignazio -- Strong Ideas, 1, 2020 -- The MIT Press -- 9780262044004 -- 775cc87831ced91a8f2d6b96707987a8 -- Anna’s Archive**:
+> ([[Data Feminism (Strong Ideas).pdf#page=42&annotation=9023R|Data Feminism (Strong Ideas), p.29]])
+> So it matters deeply that data science and artificial intelligence are dominated by elite white men because it means there is a collective privilege hazard so great that it would be a profound surprise if they could actually identify instances of bias prior to unleashing them onto the world. Social scientist Kate Crawford has advanced the idea that the biggest threat from artificial intelligence systems is not that they will become smarter than humans, but rather that they will hard-code sexism, racism, and other forms of discrimination into the digital infrastructure of our societie
+
+
+
 
 - [[Data Feminism (Strong Ideas).pdf]]
 

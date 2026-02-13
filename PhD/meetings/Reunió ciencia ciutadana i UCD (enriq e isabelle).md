@@ -28,8 +28,8 @@ Se pre
 otra en Gener 
 
 # Tareas Elena:
- - [ ] Ideas para comunicar el proyecto (kick off) #op/acc/tarea 
- - [ ] Ideas de estructura #op/acc/tarea
+ - [x] Ideas para comunicar el proyecto (kick off) 
+ - [x] Ideas de estructura 
  - [x] Compartir el cuadro de proyectos de la TFM [[]]
  - [x] Compartir la lista de revisiones integradas
 

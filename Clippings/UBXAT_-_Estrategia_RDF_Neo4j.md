@@ -38,8 +38,7 @@ Detalles técnicos:
 • Se cuenta con un loader unificado que carga archivos RDF usando rdflib.
 • Convierte los triples RDF a texto estructurado para procesamiento por LLM.
 • Se usa la extracción para obtener entidades y relaciones según la ontología.
-• Se escriben los datos en Neo4j aplicando transformaciones ontológicas y evitando errores
-cartesianos.
+• Se escriben los datos en Neo4j aplicando transformaciones ontológicas y evitando errores cartesianos.
 
 
 Flujo de Datos: Neo4j → RDF (SPARQL Endpoint)

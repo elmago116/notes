@@ -19,6 +19,8 @@ tags:
   - Humanities/language
   - research_method/
   - jm
+  - themes/bias/algorithmic
+  - op/acc/leer
 apa_citation: Radek Čech, 2012
 ---
 [[Clippings/PDF/Scopus - Document details - Thematic concentration as a discriminating feature of text types.pdf]]

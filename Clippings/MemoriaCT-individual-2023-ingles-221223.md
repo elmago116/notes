@@ -1,6 +1,6 @@
 ---
 title: MemoriaCT-individual-2023-ingles-221223
-year: 2023
+year:
 type: article
 base: clippings
 source: pdf

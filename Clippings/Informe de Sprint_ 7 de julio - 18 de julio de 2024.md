@@ -1,6 +1,6 @@
 ---
 title: Informe de Sprint 7 de julio - 18 de julio de 2024
-year: 2024
+year:
 type: article
 base: clippings
 source: pdf

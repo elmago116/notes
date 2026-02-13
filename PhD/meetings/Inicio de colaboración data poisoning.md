@@ -20,8 +20,6 @@ Se discute y contextualiza la necesidad en el tipo de proyecto.
 
 Elena Comparte KW relacionadas halladas en TFM.
 
-#op/acc/tarea 
-
-- [ ]  Proponer Kw
+- [x]  Proponer Kw #op/acc/done 
 
 Próxima reunión: en Febrero con búsqueda. 

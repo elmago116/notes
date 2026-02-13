@@ -6,7 +6,7 @@ published:
 created: 2026-01-09
 description: Plataforma de datos abiertos del Gobierno de España
 tags:
-  - op/tools
+  - op/doc/tool
   - tech/Ai
   - op/suggested/tutors
 DOI:

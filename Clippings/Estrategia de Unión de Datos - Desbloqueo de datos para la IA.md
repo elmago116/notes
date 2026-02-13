@@ -6,7 +6,7 @@ published:
 created: 2026-01-09
 description: "La estrategia de la Unión de Datos prevé acciones en tres ámbitos prioritarios: ampliar el acceso a los datos para la IA; racionalizar las normas sobre datos; reforzar la posición mundial de la UE sobre los flujos internacionales de datos."
 tags:
-  - op/tools
+  - op/doc/tool
   - tech/Ai
   - op/suggested/tutors
 DOI:

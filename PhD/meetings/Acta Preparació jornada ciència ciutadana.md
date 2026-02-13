@@ -52,12 +52,12 @@ TEMES 
 - Personal acadèmic -> proposta de l’Enric 
     
 
-4. Ens interessa que en aquesta sessió interactuïn, testegin les dades. O saber quines idees tenen, què esperen, què els agradaria...  
+4. ==Ens interessa que en aquesta sessió interactuïn, testegin les dades. O saber quines idees tenen, què esperen, què els agradaria...  
     
 
 L’Enric comenta que una sessió mixta estaria bé. Ho podem tancar el dia 21 de gener al matí per definir l’operativa de la sessió. 
 
-5. Voldrem saber, de les persones assistents: quina experiència com a usuàries/is tenen, quina percepció tenen o experiència amb IA, etc. 
+5. ==Voldrem saber, de les persones assistents: quina experiència com a usuàries/is tenen, quina percepció tenen o experiència amb IA, etc. 
     
 
 IDEES 

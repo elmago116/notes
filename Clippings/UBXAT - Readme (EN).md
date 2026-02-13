@@ -5,6 +5,7 @@ type: PDF extraction
 tags:
   - op/projects/peninsula
 ---
+[[UBXAT - Readme (EN).pdf]]
 
 UBXAT: TECHNICAL DOCUMENTATION
 Technical Architecture Overviewubxatii/
