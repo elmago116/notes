@@ -25,8 +25,6 @@ apa_citation: Fricker, Miranda,  2007
 ---
 [[Epistemic Injustice  Power and the Ethics of Knowing.pdf]]
 
-[[Epistemic Injustice _ Power and the Ethics of Knowing -- Fricker, Miranda(Author) -- Repr, 2011 -- Oxford University Press, USA]]
-
 ## PDF text extraction
 
 The Multiple Faces of Cultural Heritage: Towards an Integrated

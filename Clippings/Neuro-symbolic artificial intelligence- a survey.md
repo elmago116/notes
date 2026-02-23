@@ -1,10 +1,11 @@
 ---
-title: "Neuro-symbolic artificial intelligence- a survey"
+title: Neuro-symbolic artificial intelligence- a survey
 type: article
 base: clippings
 source: pdf
 tags:
   - Tech/NeuroSymbolic
+  - research_method/ScopingReview
 ---
 
 Linked PDF file(s) for **Neuro-symbolic artificial intelligence- a survey**:

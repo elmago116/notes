@@ -25,7 +25,7 @@ authors:
 Linked PDF file(s) for **The Multiple Faces of Cultural Heritage Towards an Integrated Visualization Platform for Tangible and Intangible Cultural Assets**:
 
 - ![[The_Multiple_Faces_of_Cultural_Heritage_Towards_an_Integrated_Visualization_Platform_for_Tangible_and_Intangible_Cultural_Assets.pdf]]
-- [[Epistemic Injustice _ Power and the Ethics of Knowing.pdf]]
+- [[The Multiple Faces of Cultural Heritage Towards an Integrated Visualization Platform for Tangible and Intangible Cultural Assets.pdf]]
 
 ## Highlights / Annotations
 
