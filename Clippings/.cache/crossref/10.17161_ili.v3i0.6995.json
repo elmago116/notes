@@ -1,0 +1,129 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        3
+      ]
+    ],
+    "date-time": "2022-04-03T23:32:29Z",
+    "timestamp": 1649028749397
+  },
+  "reference-count": 0,
+  "publisher": "The University of Kansas",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "ILI"
+  ],
+  "DOI": "10.17161/ili.v3i0.6995",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        4,
+        6
+      ]
+    ],
+    "date-time": "2018-04-06T16:02:29Z",
+    "timestamp": 1523030549000
+  },
+  "page": "18",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Summary/Commentary on Session \"Curriculum Repair: If It’s Broken, Fix It!\" and \"Wonderful Words: Vocabulary Matters\""
+  ],
+  "prefix": "10.17161",
+  "volume": "3",
+  "author": [
+    {
+      "given": "Summer",
+      "family": "Peixoto",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "6672",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        10
+      ]
+    ]
+  },
+  "container-title": [
+    "Issues in Language Instruction"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://journals.ku.edu/ili/article/viewFile/6995/6328",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.ku.edu/ili/article/viewFile/6995/6328",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        22
+      ]
+    ],
+    "date-time": "2020-01-22T22:28:13Z",
+    "timestamp": 1579732093000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.ku.edu/ili/article/view/6995"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        10
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.17161/ili.v3i0.6995",
+  "relation": {},
+  "ISSN": [
+    "2576-8387"
+  ],
+  "issn-type": [
+    {
+      "value": "2576-8387",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        10
+      ]
+    ]
+  }
+}

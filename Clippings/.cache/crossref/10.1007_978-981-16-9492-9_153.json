@@ -1,0 +1,432 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2025-03-27T14:25:35Z",
+    "timestamp": 1743085535879,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Singapore",
+  "reference-count": 22,
+  "publisher": "Springer Singapore",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9789811694912"
+    },
+    {
+      "type": "electronic",
+      "value": "9789811694929"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2022-01-01T00:00:00Z",
+        "timestamp": 1640995200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2022-01-01T00:00:00Z",
+        "timestamp": 1640995200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-981-16-9492-9_153",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        18
+      ]
+    ],
+    "date-time": "2022-03-18T00:21:51Z",
+    "timestamp": 1647562911000
+  },
+  "page": "1547-1557",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Sequential Semantic Knowledge Graph Embedding"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "given": "Yu-Ming",
+      "family": "Shang",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Heyan",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Yan",
+      "family": "Yuan",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "153_CR1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bollacker, K., Evans, C., Paritosh, P., Sturge, T., Taylor, J.: Freebase: a collaboratively created graph database for structuring human knowledge. In: Proceedings of the 2008 ACM SIGMOD International Conference on Management of Data, pp. 1247–1250. ACM (2008)",
+      "DOI": "10.1145/1376616.1376746"
+    },
+    {
+      "issue": "2",
+      "key": "153_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "167",
+      "DOI": "10.3233/SW-140134",
+      "volume": "6",
+      "author": "J Lehmann",
+      "year": "2015",
+      "unstructured": "Lehmann, J.: DBpedia - a large-scale, multilingual knowledge base extracted from Wikipedia. Semantic Web 6(2), 167 (2015). https://doi.org/10.3233/SW-140134",
+      "journal-title": "Semantic Web"
+    },
+    {
+      "key": "153_CR3",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Kasneci, G., Suchanek, F.M., Ifrim, G., Ramanath, M., Weikum, G.: Naga: searching and ranking knowledge. In: IEEE International Conference on Data Engineering, pp. 953–962 (2008). https://doi.org/10.1109/ICDE.2008.4497504",
+      "DOI": "10.1109/ICDE.2008.4497504"
+    },
+    {
+      "key": "153_CR4",
+      "unstructured": "Zhang, Y., et al.: Question answering over knowledge base with neural attention combining global knowledge information (2016)"
+    },
+    {
+      "key": "153_CR5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yang, B., Mitchell, T.: Leveraging knowledge bases in LSTMs for improving machine reading. In: Meeting of the Association for Computational Linguistics, pp. 1436–1446 (2017)",
+      "DOI": "10.18653/v1/P17-1132"
+    },
+    {
+      "key": "153_CR6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ji, G., He, S., Xu, L., Liu, K., Zhao, J.: Knowledge graph embedding via dynamic mapping matrix. In: Meeting of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing, pp. 687–696 (2015)",
+      "DOI": "10.3115/v1/P15-1067"
+    },
+    {
+      "key": "153_CR7",
+      "unstructured": "Bordes, A., Usunier, N., Garcia-Duran, A., Weston, J., Yakhnenko, O.: Translating embeddings for modeling multi-relational data. In: International Conference on Neural Information Processing Systems, pp. 2787–2795 (2013)"
+    },
+    {
+      "key": "153_CR8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xie, R., Liu, Z., Jia, J., Luan, H., Sun, M.: Representation learning of knowledge graphs with entity descriptions. In: AAAI, pp. 2659–2665 (2016)",
+      "DOI": "10.1609/aaai.v30i1.10329"
+    },
+    {
+      "key": "153_CR9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dettmers, T., Minervini, P., Stenetorp, P., Riedel, S.: Convolutional 2D knowledge graph embeddings. In: Thirty-Second AAAI Conference on Artificial Intelligence (2018)",
+      "DOI": "10.1609/aaai.v32i1.11573"
+    },
+    {
+      "key": "153_CR10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lin, Y., Liu, Z., Sun, M., Liu, Y., Zhu, X.: Learning entity and relation embeddings for knowledge graph completion. In: Twenty-ninth AAAI Conference on Artificial Intelligence (2015)",
+      "DOI": "10.1609/aaai.v29i1.9491"
+    },
+    {
+      "key": "153_CR11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, Z., Zhang, J., Feng, J., Chen, Z.: Knowledge graph embedding by translating on hyperplanes. In: Twenty-Eighth AAAI Conference on Artificial Intelligence, pp. 1112–1119 (2014)",
+      "DOI": "10.1609/aaai.v28i1.8870"
+    },
+    {
+      "key": "153_CR12",
+      "unstructured": "Trouillon, T., Welbl, J., Riedel, S., Gaussier, E., Bouchard, G.: Complex embeddings for simple link prediction. In: International Conference on Machine Learning, pp. 2071–2080 (2016)"
+    },
+    {
+      "key": "153_CR13",
+      "series-title": "Lecture Notes in Computer Science",
+      "doi-asserted-by": "publisher",
+      "first-page": "593",
+      "DOI": "10.1007/978-3-319-93417-4_38",
+      "volume-title": "The Semantic Web",
+      "author": "M Schlichtkrull",
+      "year": "2018",
+      "unstructured": "Schlichtkrull, M., Kipf, T.N., Bloem, P., van den Berg, R., Titov, I., Welling, M.: Modeling relational data with graph convolutional networks. In: Gangemi, A., et al. (eds.) ESWC 2018. LNCS, vol. 10843, pp. 593–607. Springer, Cham (2018). https://doi.org/10.1007/978-3-319-93417-4_38"
+    },
+    {
+      "key": "153_CR14",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nguyen, D.Q., Nguyen, D.Q., Nguyen, T.D., Phung, D.: A convolutional neural network-based model for knowledge base completion and its application to search personalization . In: Social Work, pp. 1–14 (2018). https://doi.org/10.3233/SW-180318",
+      "DOI": "10.3233/SW-180318"
+    },
+    {
+      "key": "153_CR15",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Lin, Y., Liu, Z., Luan, H., Sun, M., Rao, S., Liu, S.: Modeling relation paths for representation learning of knowledge bases. In: Computer Science (2015). https://doi.org/10.18653/v1/D15-1082",
+      "DOI": "10.18653/v1/D15-1082"
+    },
+    {
+      "key": "153_CR16",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Guo, S., Wang, Q., Wang, L., Wang, B., Guo, L.: Knowledge graph embedding with iterative guidance from soft rules. In: Thirty-Second AAAI Conference on Artificial Intelligence (2018). https://doi.org/10.1016/j.patrec.2016.09.005",
+      "DOI": "10.1016/j.patrec.2016.09.005"
+    },
+    {
+      "key": "153_CR17",
+      "unstructured": "Glorot, X., Bengio, Y.: Understanding the difficulty of training deep feedforward neural networks. In: Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics, pp. 249–256 (2010)"
+    },
+    {
+      "key": "153_CR18",
+      "unstructured": "Ioffe, S., Szegedy, C.: Batch normalization: accelerating deep network training by reducing internal covariate shift. In: International Conference on International Conference on Machine Learning (2015)"
+    },
+    {
+      "issue": "1",
+      "key": "153_CR19",
+      "first-page": "1929",
+      "volume": "15",
+      "author": "N Srivastava",
+      "year": "2014",
+      "unstructured": "Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R.: Dropout: a simple way to prevent neural networks from overfitting. J. Mach. Learn. Res. 15(1), 1929–1958 (2014)",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "key": "153_CR20",
+      "unstructured": "Kingma, D.P., Ba, J.: Adam: a method for stochastic optimization. In: Computer Science (2014)"
+    },
+    {
+      "key": "153_CR21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Toutanova, K., Chen, D.: Observed versus latent features for knowledge base and text inference. In: 3rd Workshop on Continuous Vector Space Models and Their Compositionality (2015)",
+      "DOI": "10.18653/v1/W15-4007"
+    },
+    {
+      "key": "153_CR22",
+      "unstructured": "Yang, B., Yih, W., He, X., Gao, J., Deng, L.: Embedding entities and relations for learning and inference in knowledge bases. In: International Conference on Learning Representations (2015)"
+    }
+  ],
+  "container-title": [
+    "Lecture Notes in Electrical Engineering",
+    "Proceedings of 2021 International Conference on Autonomous Unmanned Systems (ICAUS 2021)"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-981-16-9492-9_153",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        29
+      ]
+    ],
+    "date-time": "2023-01-29T12:02:54Z",
+    "timestamp": 1674993774000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-981-16-9492-9_153"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "ISBN": [
+    "9789811694912",
+    "9789811694929"
+  ],
+  "references-count": 22,
+  "URL": "https://doi.org/10.1007/978-981-16-9492-9_153",
+  "relation": {},
+  "ISSN": [
+    "1876-1100",
+    "1876-1119"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "1876-1100"
+    },
+    {
+      "type": "electronic",
+      "value": "1876-1119"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "18 March 2022",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    },
+    {
+      "value": "ICAUS",
+      "order": 1,
+      "name": "conference_acronym",
+      "label": "Conference Acronym",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "International Conference on Autonomous Unmanned Systems",
+      "order": 2,
+      "name": "conference_name",
+      "label": "Conference Name",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Changsha",
+      "order": 3,
+      "name": "conference_city",
+      "label": "Conference City",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "China",
+      "order": 4,
+      "name": "conference_country",
+      "label": "Conference Country",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "2021",
+      "order": 5,
+      "name": "conference_year",
+      "label": "Conference Year",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "24 September 2021",
+      "order": 7,
+      "name": "conference_start_date",
+      "label": "Conference Start Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "26 September 2021",
+      "order": 8,
+      "name": "conference_end_date",
+      "label": "Conference End Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "icaus2021",
+      "order": 10,
+      "name": "conference_id",
+      "label": "Conference ID",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "http://icaus2021.scholarbee.cn/",
+      "order": 11,
+      "name": "conference_url",
+      "label": "Conference URL",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    }
+  ]
+}

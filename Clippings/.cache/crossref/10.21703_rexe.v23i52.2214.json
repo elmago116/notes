@@ -1,0 +1,407 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        3
+      ]
+    ],
+    "date-time": "2025-07-03T04:15:39Z",
+    "timestamp": 1751516139056,
+    "version": "3.41.0"
+  },
+  "reference-count": 30,
+  "publisher": "Universidad Catolica de la Santisima Concepcion",
+  "issue": "52",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            2
+          ]
+        ],
+        "date-time": "2024-08-02T00:00:00Z",
+        "timestamp": 1722556800000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "REXE"
+  ],
+  "abstract": "<jats:p>Introduction: The pandemic left formative sequelae that led teachers to adopt various strategies and tools to mitigate its effects. Among the computer and information technologies (ICT) used remotely as support, the podcast stood out as a chosen resource for teaching professional reasoning, and it is unknown to what extent it is truly relevant and aligned with educational objectives upon returning to face-to-face learning.\r\nMethods: Four teachers explored the possibility of using Artificial Intelligence (AI) to evaluate the potential of the podcast as a resource in professional reasoning training. For this purpose, they employed open-ended questions to the AI model available and free from OpenAI, known as Chat GPT (Generative Pretrained Transformer version 3.5).\r\nResults: The texts provided by Chat GPT revealed that the synergy between the podcast and AI can be feedback for the learning process of professional reasoning in the post-pandemic period. The obtained results included descriptive and comparative tables, showing how Chat GPT provided feedback on methodological strategies and evaluation instruments related to the use of model human movement function-dysfunction (MHMFD) as a resource for learning professional reasoning.\r\nConclusion: AI can be a support to the podcast, providing updated feedback when requested to limit its analysis to the reasoning model of human MHMFD.</jats:p>",
+  "DOI": "10.21703/rexe.v23i52.2214",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        2
+      ]
+    ],
+    "date-time": "2024-08-02T18:27:07Z",
+    "timestamp": 1722623227000
+  },
+  "page": "29-42",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "El Podcast como Apoyo al Razonamiento Profesional Evaluado por la Inteligencia Artificial"
+  ],
+  "prefix": "10.21703",
+  "volume": "23",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-1659-6318",
+      "authenticated-orcid": false,
+      "given": "Oscar",
+      "family": "Bustos-Moyano",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04vdpck27",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Universidad Católica del Maule, Chile"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8092-4104",
+      "authenticated-orcid": false,
+      "given": "Pablo",
+      "family": "Morales-Barrientos",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04vdpck27",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Universidad Católica del Maule, Chile"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6395-3739",
+      "authenticated-orcid": false,
+      "given": "Hugo",
+      "family": "Tapia-Gallardo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04vdpck27",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Universidad Católica del Maule, Chile"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6608-4054",
+      "authenticated-orcid": false,
+      "given": "Paul",
+      "family": "Medina-González",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04vdpck27",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Universidad Católica del Maule, Chile"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5780-207X",
+      "authenticated-orcid": false,
+      "given": "Máximo",
+      "family": "Escobar-Cabello",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04vdpck27",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Universidad Católica del Maule, Chile"
+        }
+      ]
+    }
+  ],
+  "member": "9161",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "62910",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Álvarez, K., Pilamunga, D., Mora, K., y Naranjo, M. (2020). Tiempo en pantalla (televisión, computadora, celular, tabletas) en las relaciones interpersonales entre niños de 8 a 12 años. Horizontes Revista de Investigación en Ciencias de la Educación, 4(15), 258-266. http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2616-79642020000300008&lng=es&tlng=es.",
+      "DOI": "10.33996/revistahorizontes.v4i15.113"
+    },
+    {
+      "key": "62911",
+      "unstructured": "Arbillana, A., Pardàs, M., Escudero, R., Rodríguez, R., Alcaraz, V., Llanes, S., Herrero, B. Gimeno, E. & Ríos A. (2020). Fisioterapia respiratoria en el manejo del paciente con COVID-19: recomendaciones generales. Sociedad Española de Neumología y Cirugía Torácica. Versión 1.0."
+    },
+    {
+      "key": "62912",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Aristovnik, A., Kerzic, D., Ravselj, D., Tomazevic, N., y Umek, L. (2020). Impacts of the COVID-19 Pandemic on Life of Higher Education Students: A Global Perspective. Sustainability, 12, 8438.",
+      "DOI": "10.3390/su12208438"
+    },
+    {
+      "key": "62913",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Augustin, R., Bonifacino, E., y Tilstra, S. (2019). Moming Report for all: the use of podcast to disseminate clinical reasoning tools. Med Educ, 53(11), 1150.",
+      "DOI": "10.1111/medu.13964"
+    },
+    {
+      "key": "62914",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Castellanos-Paéz, V., Abello-Correa, R., Gutiérrez-Romero, M., Ochoa-Angrino, S., Rojas-Ospina, T., Taborda-Osorio, H. (2022). Impacto de la pandemia en el aprendizaje: reflexiones desde la psicología educativa. Prax. Saber [online]. 13(34) 210-244. https://doi.org/10.19053/22160159.v13.n34.2022.14532.",
+      "DOI": "10.19053/22160159.v13.n34.2022.14532"
+    },
+    {
+      "key": "62915",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Castillejos López, B. (2022). Inteligencia artificial y entornos personales de aprendizaje: atentos al uso adecuado de los recursos tecnológicos de los estudiantes universitarios. Educación, 31(60), 9-24. https://dx.doi.org/10.18800/educacion.202201.001",
+      "DOI": "10.18800/educacion.202201.001"
+    },
+    {
+      "key": "62916",
+      "unstructured": "Escobar, M., Sanhueza, S., y Friz, M. (2018). Uso de estrategias tecnológicas en educación: una comparación entre biología y educación física. RMIE [online]. 23(77), 483-504."
+    },
+    {
+      "key": "62917",
+      "unstructured": "Escobar, M. ySánchez, I. (2020). Disfunciones formativas en kinesiología/fisioterapia para el desarrollo de competencias de razonamiento. Revista de Investigación 101. (44)."
+    },
+    {
+      "key": "62918",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Escobar, M., Medina, P., y Muñoz, R. (2020). Dinámica del aprendizaje de racionalidades profesionales según el modelo función-disfunción del movimiento humano: Un consenso docente. REXE, 19(39), 195-212.",
+      "DOI": "10.21703/rexe.20201939escobar11"
+    },
+    {
+      "key": "62919",
+      "unstructured": "Escobar, M. (2021). Aprendizaje del razonamiento profesional en kinesiología: Percepción profesional de los contextos formativos externos. Rev Educ Cien Salud, 18(2), 94-99."
+    },
+    {
+      "key": "62920",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Garrido C., D. (2020). Educar en tiempos de pandemia: acentuación de las desigualdades en el sistema educativo chileno. Rev. Caminhos Da Educação: Diálogos, Culturas e Diversidades, 2(2), 43–68.",
+      "DOI": "10.26694/caedu.v2i2.11241"
+    },
+    {
+      "key": "62921",
+      "doi-asserted-by": "crossref",
+      "unstructured": "González, A., Habechian, F., Bobadilla, E., Cancino, M., González, H., Crisóstomo, S., y Escobar, M. (2021). Rediseño del Currículo: ¿Garantizan la coherencia del método y la evaluación mejores oportunidades de aprendizaje en kinesiología? REXE, 20 (44), 428-444. https://doi.org/10.21703/0718-5162.v20.n43.2021.024",
+      "DOI": "10.21703/0718-5162.v20.n43.2021.024"
+    },
+    {
+      "key": "62922",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Huang, J., Saleh, S., y Liu, Y. (2021). A Review on Artificial Intelligence in Education. Academic Journal of Interdisciplinary Studies, 10(3), 206-217. https://doi.org/10.36941/ajis-2021-0077",
+      "DOI": "10.36941/ajis-2021-0077"
+    },
+    {
+      "key": "62923",
+      "unstructured": "Instituto Internacional para la Educación Superior en América Latina y el Caribe. (2020). COVID-2019 y educación superior: De los efectos inmediatos al día después. UNESCO."
+    },
+    {
+      "key": "62924",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lista-Paz, A., González-Doniz, L., y Souto-Camba, S. (2020). ¿Qué papel desempeña la Fisioterapia en la pandemia mundial por COVID-19? Fisioterapia, 42(4), 167–169. Spanish. https://doi.org/10.1016/j.ft.2020.04.002.",
+      "DOI": "10.1016/j.ft.2020.04.002"
+    },
+    {
+      "key": "62925",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Maher, S., Hayden, J., Strawnridge, J., Gallagher, P., y Flood, M. (2020). “Both useful in their own way”: Video podcast and typed solutions as feedback on undergraduate pharmaceutical calculations skills assessment. Current Pharmacy Learning, 12(4), 367-377.",
+      "DOI": "10.1016/j.cptl.2019.12.021"
+    },
+    {
+      "key": "62926",
+      "unstructured": "Maneiro, S. (2020). ¿Cómo prepararse para la reapertura? Estas son las recomendaciones del IESALC para planificar la transición hacia la nueva normalidad. http://www.iesalc.unesco.org/2020/06/18/como-prepararse-para-la-reapertura-estas-son-las-recomendaciones-del-iesalc-para-planificar-la-transicion-hacia-la-nueva-normalidad"
+    },
+    {
+      "key": "62927",
+      "unstructured": "Maureira, H. (2017). Síntesis de los principales elementos del modelo Función-Disfunción del Movimiento Humano. REEM, 4(1), 7-24."
+    },
+    {
+      "key": "62928",
+      "unstructured": "Marinoni, G., Van't Land, H. & Jensen T. (2020). The impact of COVID-19 on Global Higher Education. International Higher Education, 1-50."
+    },
+    {
+      "key": "62929",
+      "unstructured": "Mominó, J. M., y Sigáles, C. (2016). El impacto de las TIC en la educación. Más allá de las promesas. UOC Ediciones."
+    },
+    {
+      "key": "62930",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Moncayo, N., Pereira, J., yLuján, M. (2018). Las actividades de aprendizaje y el rendimiento académico en la educación a distancia. Universidad Técnica Particular de Loja, Ecuador. Revista UNIMAR, 36(1), 33-47. https://doi.org/10.31948/unimar.36-1.2",
+      "DOI": "10.31948/unimar.36-1.2"
+    },
+    {
+      "key": "62931",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Moore, W., y Smith, A. (2012). Effects of video podcasting on psychomotor and cognitive performance, attitudes, and study behavior of student physical therapists. Innovations in Education and Teaching International, 49(4), 401-414.",
+      "DOI": "10.1080/14703297.2012.728876"
+    },
+    {
+      "key": "62932",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Narváez-Díaz, L. E., Chi-Pech, V. M., Llanes-Castro, E. R., y Canché-Euán, M. (2022). Estrategias Educativas Implementadas en la UMT ante la Pandemia de la COVID-19. Revista Tecnológica-Educativa Docentes 2.0, 15(2), 76-84. https://doi.org/10.37843/rted.v15i2.340",
+      "DOI": "10.37843/rted.v15i2.340"
+    },
+    {
+      "key": "62933",
+      "unstructured": "Norkjær, S., Holm, R., & Dau, S. (2018). Podcast as a Learning Media in Higher Education. 17th European Conference on e-Learning."
+    },
+    {
+      "key": "62934",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Parra-Sánchez, J. S. (2022). Potencialidades de la Inteligencia Artificial en Educación Superior: Un Enfoque desde la Personalización. Revista Tecnológica-Educativa Docentes 2.0, 14(1), 19-27. https://doi.org/10.37843/rted.v14i1.296",
+      "DOI": "10.37843/rted.v14i1.296"
+    },
+    {
+      "key": "62935",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Priyadharshini, A., Doke, A., Parveen, M. S., y Swathi.Y, Y. (2022). Survey on Podcasting to Improve Teaching Learning Process. https://doi.org/10.1007/978-981-16-4284-5_52",
+      "DOI": "10.1007/978-981-16-4284-5_52"
+    },
+    {
+      "key": "62936",
+      "unstructured": "Saenz, M., & Cira, J. (2020). La Educación Superior en los tiempos de Covid-19; impactos inmediatos, acciones, experiencias y recomendaciones. Enfermería, I(4), 1-12."
+    },
+    {
+      "key": "62937",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Samaniego, J., Lavid, E., Vásconez, S., y Neira, M. (2022). Educational Podcast, a Link to Auditory Learning. https://doi.org/10.21125/inted.2022.1968.",
+      "DOI": "10.21125/inted.2022.1968"
+    },
+    {
+      "key": "62938",
+      "unstructured": "Valadez Huizar, M., & González de la Torre, Y. (2020). aprendizaje autorregulado: las tecnologías de información y comunicación (tic) y la lectura en la educación superior. Red De Investigación Educativa, 12(2), 31 - 45. https://revistas.uclave.org/index.php/redine/article/view/2816."
+    },
+    {
+      "key": "62939",
+      "unstructured": "UNESCO. (2024). La inteligencia artificial generativa en la educación: ¿Cuáles son las oportunidades y los desafíos? https://www.unesco.org/es/articles/la-inteligencia-artificial-generativa-en-la-educacion-cuales-son-las-oportunidades-y-los-desafios."
+    }
+  ],
+  "container-title": [
+    "Revista de Estudios y Experiencias en Educación"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://www.rexe.cl/index.php/rexe/article/download/2214/1879",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.rexe.cl/index.php/rexe/article/download/2214/1879",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        2
+      ]
+    ],
+    "date-time": "2025-07-02T18:01:21Z",
+    "timestamp": 1751479281000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.rexe.cl/index.php/rexe/article/view/2214"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        2
+      ]
+    ]
+  },
+  "references-count": 30,
+  "journal-issue": {
+    "issue": "52",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.21703/rexe.v23i52.2214",
+  "relation": {},
+  "ISSN": [
+    "0718-5162"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "0718-5162"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        2
+      ]
+    ]
+  }
+}

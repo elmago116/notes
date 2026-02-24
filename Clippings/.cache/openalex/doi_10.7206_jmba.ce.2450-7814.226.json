@@ -1,0 +1,1191 @@
+{
+  "id": "https://openalex.org/W2863799402",
+  "doi": "https://doi.org/10.7206/jmba.ce.2450-7814.226",
+  "title": "International Contexts of Social Media and e-WoM Communication in the Customer Decision-Making Process",
+  "display_name": "International Contexts of Social Media and e-WoM Communication in the Customer Decision-Making Process",
+  "publication_year": 2018,
+  "publication_date": "2018-06-15",
+  "ids": {
+    "openalex": "https://openalex.org/W2863799402",
+    "doi": "https://doi.org/10.7206/jmba.ce.2450-7814.226",
+    "mag": "2863799402"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7206/jmba.ce.2450-7814.226",
+    "pdf_url": "https://journals.kozminski.edu.pl/system/files/Bartosik-Purgat_2_2018.pdf",
+    "source": {
+      "id": "https://openalex.org/S2737496885",
+      "display_name": "Journal of Management and Business Administration Central Europe",
+      "issn_l": "2450-7814",
+      "issn": [
+        "2450-7814",
+        "2450-8829"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317468",
+      "host_organization_name": "Kozminski University",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317468"
+      ],
+      "host_organization_lineage_names": [
+        "Kozminski University"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://journals.kozminski.edu.pl/system/files/Bartosik-Purgat_2_2018.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5070670590",
+        "display_name": "Małgorzata Bartosik‐Purgat",
+        "orcid": "https://orcid.org/0000-0003-3517-3617"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12379730",
+          "display_name": "Poznań University of Economics and Business",
+          "ror": "https://ror.org/0532c1x92",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12379730"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Małgorzata Bartosik-Purgat",
+      "raw_affiliation_strings": [
+        "Poznań University of Economics and Business",
+        "Poznań University of Economics and Business, Al. Niepodległości 10, 61-875 Poznań, Poland,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Poznań University of Economics and Business",
+          "institution_ids": [
+            "https://openalex.org/I12379730"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Poznań University of Economics and Business, Al. Niepodległości 10, 61-875 Poznań, Poland,",
+          "institution_ids": [
+            "https://openalex.org/I12379730"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5070670590"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I12379730"
+  ],
+  "apc_list": {
+    "value": 0,
+    "currency": "USD",
+    "value_usd": 0
+  },
+  "apc_paid": null,
+  "fwci": 2.055,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 10,
+  "citation_normalized_percentile": {
+    "value": 0.883941,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 84,
+    "max": 85
+  },
+  "biblio": {
+    "volume": "26",
+    "issue": "2",
+    "first_page": "16",
+    "last_page": "33"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10609",
+    "display_name": "Digital Marketing and Social Media",
+    "score": 0.9998,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10609",
+      "display_name": "Digital Marketing and Social Media",
+      "score": 0.9998,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10145",
+      "display_name": "Consumer Behavior in Brand Consumption and Identification",
+      "score": 0.9891,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13155",
+      "display_name": "Digital Communication and Language",
+      "score": 0.9833,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/consumer-behaviour",
+      "display_name": "Consumer behaviour",
+      "score": 0.54185987
+    },
+    {
+      "id": "https://openalex.org/keywords/consumption",
+      "display_name": "Consumption",
+      "score": 0.5112884
+    },
+    {
+      "id": "https://openalex.org/keywords/word-of-mouth",
+      "display_name": "Word of mouth",
+      "score": 0.49176124
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical Research",
+      "score": 0.48696312
+    },
+    {
+      "id": "https://openalex.org/keywords/scope",
+      "display_name": "Scope (computer science)",
+      "score": 0.43855813
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C518677369",
+      "wikidata": "https://www.wikidata.org/wiki/Q202833",
+      "display_name": "Social media",
+      "level": 2,
+      "score": 0.68927
+    },
+    {
+      "id": "https://openalex.org/C2776950860",
+      "wikidata": "https://www.wikidata.org/wiki/Q2914681",
+      "display_name": "Originality",
+      "level": 3,
+      "score": 0.5998672
+    },
+    {
+      "id": "https://openalex.org/C2776967331",
+      "wikidata": "https://www.wikidata.org/wiki/Q1132131",
+      "display_name": "Loyalty",
+      "level": 2,
+      "score": 0.58302623
+    },
+    {
+      "id": "https://openalex.org/C162853370",
+      "wikidata": "https://www.wikidata.org/wiki/Q39809",
+      "display_name": "Marketing",
+      "level": 1,
+      "score": 0.5567599
+    },
+    {
+      "id": "https://openalex.org/C112698675",
+      "wikidata": "https://www.wikidata.org/wiki/Q37038",
+      "display_name": "Advertising",
+      "level": 1,
+      "score": 0.5545044
+    },
+    {
+      "id": "https://openalex.org/C23213687",
+      "wikidata": "https://www.wikidata.org/wiki/Q301468",
+      "display_name": "Consumer behaviour",
+      "level": 2,
+      "score": 0.54185987
+    },
+    {
+      "id": "https://openalex.org/C30772137",
+      "wikidata": "https://www.wikidata.org/wiki/Q5164762",
+      "display_name": "Consumption (sociology)",
+      "level": 2,
+      "score": 0.5112884
+    },
+    {
+      "id": "https://openalex.org/C137913393",
+      "wikidata": "https://www.wikidata.org/wiki/Q15737157",
+      "display_name": "Word of mouth",
+      "level": 2,
+      "score": 0.49176124
+    },
+    {
+      "id": "https://openalex.org/C120936955",
+      "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+      "display_name": "Empirical research",
+      "level": 2,
+      "score": 0.48696312
+    },
+    {
+      "id": "https://openalex.org/C2778012447",
+      "wikidata": "https://www.wikidata.org/wiki/Q1034415",
+      "display_name": "Scope (computer science)",
+      "level": 2,
+      "score": 0.43855813
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.43085182
+    },
+    {
+      "id": "https://openalex.org/C191935318",
+      "wikidata": "https://www.wikidata.org/wiki/Q148",
+      "display_name": "China",
+      "level": 2,
+      "score": 0.41790885
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.41037318
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.29459256
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.25479555
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.22586921
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.13224241
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0916349
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C11012388",
+      "wikidata": "https://www.wikidata.org/wiki/Q170658",
+      "display_name": "Creativity",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7206/jmba.ce.2450-7814.226",
+      "pdf_url": "https://journals.kozminski.edu.pl/system/files/Bartosik-Purgat_2_2018.pdf",
+      "source": {
+        "id": "https://openalex.org/S2737496885",
+        "display_name": "Journal of Management and Business Administration Central Europe",
+        "issn_l": "2450-7814",
+        "issn": [
+          "2450-7814",
+          "2450-8829"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_indexed_in_scopus": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310317468",
+        "host_organization_name": "Kozminski University",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310317468"
+        ],
+        "host_organization_lineage_names": [
+          "Kozminski University"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/52f03e35095747849a147bcce2cff5e5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7206/jmba.ce.2450-7814.226",
+    "pdf_url": "https://journals.kozminski.edu.pl/system/files/Bartosik-Purgat_2_2018.pdf",
+    "source": {
+      "id": "https://openalex.org/S2737496885",
+      "display_name": "Journal of Management and Business Administration Central Europe",
+      "issn_l": "2450-7814",
+      "issn": [
+        "2450-7814",
+        "2450-8829"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310317468",
+      "host_organization_name": "Kozminski University",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310317468"
+      ],
+      "host_organization_lineage_names": [
+        "Kozminski University"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.55,
+      "display_name": "Gender equality",
+      "id": "https://metadata.un.org/sdg/5"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 57,
+  "referenced_works": [
+    "https://openalex.org/W1518394269",
+    "https://openalex.org/W1567381079",
+    "https://openalex.org/W1568698128",
+    "https://openalex.org/W1572680973",
+    "https://openalex.org/W1588544661",
+    "https://openalex.org/W1966384076",
+    "https://openalex.org/W1969262065",
+    "https://openalex.org/W1973394585",
+    "https://openalex.org/W1989528006",
+    "https://openalex.org/W2003429563",
+    "https://openalex.org/W2011737919",
+    "https://openalex.org/W2015801922",
+    "https://openalex.org/W2016945502",
+    "https://openalex.org/W2023871980",
+    "https://openalex.org/W2026076895",
+    "https://openalex.org/W2026243158",
+    "https://openalex.org/W2029260103",
+    "https://openalex.org/W2030635707",
+    "https://openalex.org/W2035106509",
+    "https://openalex.org/W2035159275",
+    "https://openalex.org/W2036515033",
+    "https://openalex.org/W2040924390",
+    "https://openalex.org/W2041563290",
+    "https://openalex.org/W2042424695",
+    "https://openalex.org/W2048032237",
+    "https://openalex.org/W2049042644",
+    "https://openalex.org/W2054648989",
+    "https://openalex.org/W2073350664",
+    "https://openalex.org/W2081556646",
+    "https://openalex.org/W2085924081",
+    "https://openalex.org/W2089671328",
+    "https://openalex.org/W2091330520",
+    "https://openalex.org/W2097357438",
+    "https://openalex.org/W2102314894",
+    "https://openalex.org/W2116374600",
+    "https://openalex.org/W2121001699",
+    "https://openalex.org/W2128777768",
+    "https://openalex.org/W2142088817",
+    "https://openalex.org/W2146096861",
+    "https://openalex.org/W2146943142",
+    "https://openalex.org/W2150409311",
+    "https://openalex.org/W2153134053",
+    "https://openalex.org/W2167325287",
+    "https://openalex.org/W2168669297",
+    "https://openalex.org/W2176247761",
+    "https://openalex.org/W2195081842",
+    "https://openalex.org/W2239097673",
+    "https://openalex.org/W2266936885",
+    "https://openalex.org/W2268427489",
+    "https://openalex.org/W2268990252",
+    "https://openalex.org/W2280465155",
+    "https://openalex.org/W2297640615",
+    "https://openalex.org/W2516396761",
+    "https://openalex.org/W2522871060",
+    "https://openalex.org/W3034168351",
+    "https://openalex.org/W3179324013",
+    "https://openalex.org/W4285719527"
+  ],
+  "related_works": [
+    "https://openalex.org/W4200071106",
+    "https://openalex.org/W3126095231",
+    "https://openalex.org/W2593155302",
+    "https://openalex.org/W2384288445",
+    "https://openalex.org/W2378906650",
+    "https://openalex.org/W2352855287",
+    "https://openalex.org/W2186696746",
+    "https://openalex.org/W2072812638",
+    "https://openalex.org/W2041415459",
+    "https://openalex.org/W1480956163"
+  ],
+  "abstract_inverted_index": {
+    "Purpose:": [
+      0
+    ],
+    "The": [
+      1,
+      40,
+      96,
+      177,
+      207,
+      237,
+      256
+    ],
+    "main": [
+      2
+    ],
+    "purpose": [
+      3
+    ],
+    "of": [
+      4,
+      12,
+      19,
+      27,
+      35,
+      49,
+      59,
+      69,
+      117,
+      134,
+      144,
+      155,
+      179,
+      194,
+      239,
+      265
+    ],
+    "the": [
+      5,
+      10,
+      24,
+      47,
+      51,
+      57,
+      91,
+      114,
+      132,
+      142,
+      153,
+      180,
+      192,
+      195,
+      199,
+      223,
+      240,
+      249,
+      254,
+      259
+    ],
+    "paper": [
+      6,
+      241,
+      260
+    ],
+    "is": [
+      7,
+      73,
+      242
+    ],
+    "to": [
+      8,
+      23,
+      131,
+      197,
+      201,
+      218,
+      262
+    ],
+    "identify": [
+      9
+    ],
+    "importance": [
+      11
+    ],
+    "social": [
+      13,
+      54,
+      77,
+      135,
+      150,
+      215,
+      234
+    ],
+    "media": [
+      14,
+      55,
+      136,
+      151,
+      216
+    ],
+    "in": [
+      15,
+      21,
+      33,
+      62,
+      90,
+      129,
+      222,
+      253
+    ],
+    "e-WoM": [
+      16,
+      63,
+      173
+    ],
+    "(electronic": [
+      17
+    ],
+    "word": [
+      18
+    ],
+    "mouth)": [
+      20
+    ],
+    "relation": [
+      22,
+      130
+    ],
+    "two": [
+      25
+    ],
+    "stages": [
+      26
+    ],
+    "consumer": [
+      28,
+      70
+    ],
+    "behavior,": [
+      29
+    ],
+    "pre-purchase": [
+      30,
+      79
+    ],
+    "and": [
+      31,
+      38,
+      88,
+      102,
+      119,
+      159,
+      184,
+      226,
+      246
+    ],
+    "post-consumption,": [
+      32
+    ],
+    "groups": [
+      34,
+      264
+    ],
+    "different": [
+      36
+    ],
+    "gender": [
+      37
+    ],
+    "countries.": [
+      39
+    ],
+    "article": [
+      41
+    ],
+    "answers": [
+      42
+    ],
+    "three": [
+      43
+    ],
+    "research": [
+      44,
+      181
+    ],
+    "questions.": [
+      45
+    ],
+    "Whether": [
+      46
+    ],
+    "frequency": [
+      48
+    ],
+    "using": [
+      50,
+      60
+    ],
+    "most": [
+      52
+    ],
+    "popular": [
+      53
+    ],
+    "influences": [
+      56,
+      172
+    ],
+    "range": [
+      58
+    ],
+    "them": [
+      61
+    ],
+    "among": [
+      64,
+      106
+    ],
+    "individual": [
+      65
+    ],
+    "users?": [
+      66
+    ],
+    "Which": [
+      67
+    ],
+    "stage": [
+      68,
+      154
+    ],
+    "behavior": [
+      71
+    ],
+    "process": [
+      72
+    ],
+    "more": [
+      74
+    ],
+    "dependent": [
+      75
+    ],
+    "on": [
+      76,
+      99,
+      191,
+      230,
+      248
+    ],
+    "media,": [
+      78
+    ],
+    "or": [
+      80
+    ],
+    "post-consumption?": [
+      81
+    ],
+    "Do": [
+      82
+    ],
+    "any": [
+      83
+    ],
+    "differences": [
+      84,
+      125
+    ],
+    "exist": [
+      85
+    ],
+    "between": [
+      86,
+      126
+    ],
+    "men": [
+      87
+    ],
+    "women": [
+      89
+    ],
+    "scope": [
+      92
+    ],
+    "under": [
+      93
+    ],
+    "consideration?": [
+      94
+    ],
+    "Methodology:": [
+      95
+    ],
+    "analysis": [
+      97,
+      146
+    ],
+    "bases": [
+      98
+    ],
+    "literature": [
+      100,
+      145
+    ],
+    "studies": [
+      101
+    ],
+    "empirical": [
+      103
+    ],
+    "data": [
+      104
+    ],
+    "collected": [
+      105
+    ],
+    "1246": [
+      107
+    ],
+    "respondents": [
+      108
+    ],
+    "from": [
+      109,
+      258
+    ],
+    "four": [
+      110
+    ],
+    "countries:": [
+      111
+    ],
+    "China,": [
+      112
+    ],
+    "Poland,": [
+      113
+    ],
+    "United": [
+      115
+    ],
+    "States": [
+      116
+    ],
+    "America,": [
+      118
+    ],
+    "Turkey.": [
+      120
+    ],
+    "Findings:": [
+      121
+    ],
+    "General": [
+      122
+    ],
+    "conclusions": [
+      123
+    ],
+    "show": [
+      124
+    ],
+    "these": [
+      127
+    ],
+    "countries": [
+      128
+    ],
+    "use": [
+      133,
+      214
+    ],
+    "for": [
+      137,
+      157,
+      211
+    ],
+    "e-WoM.": [
+      138
+    ],
+    "Moreover,": [
+      139
+    ],
+    "results": [
+      140,
+      200,
+      208
+    ],
+    "confirmed": [
+      141
+    ],
+    "findings": [
+      143
+    ],
+    "wherever": [
+      147
+    ],
+    "consumers": [
+      148
+    ],
+    "used": [
+      149
+    ],
+    "at": [
+      152
+    ],
+    "looking": [
+      156
+    ],
+    "information": [
+      158,
+      210,
+      257
+    ],
+    "advice": [
+      160
+    ],
+    "about": [
+      161
+    ],
+    "products": [
+      162
+    ],
+    "(pre-purchase).": [
+      163
+    ],
+    "Gender": [
+      164
+    ],
+    "appeared": [
+      165
+    ],
+    "as": [
+      166
+    ],
+    "a": [
+      167
+    ],
+    "significant": [
+      168
+    ],
+    "differentiating": [
+      169
+    ],
+    "factor": [
+      170
+    ],
+    "that": [
+      171
+    ],
+    "behavior.": [
+      174
+    ],
+    "Research": [
+      175,
+      205
+    ],
+    "limitations:": [
+      176
+    ],
+    "design": [
+      178
+    ],
+    "(samples’": [
+      182
+    ],
+    "size": [
+      183
+    ],
+    "sampling": [
+      185
+    ],
+    "method)": [
+      186
+    ],
+    "could": [
+      187
+    ],
+    "place": [
+      188
+    ],
+    "some": [
+      189
+    ],
+    "limits": [
+      190
+    ],
+    "capacity": [
+      193
+    ],
+    "study": [
+      196
+    ],
+    "generalize": [
+      198
+    ],
+    "other": [
+      202
+    ],
+    "national": [
+      203
+    ],
+    "contexts.": [
+      204
+    ],
+    "implications:": [
+      206
+    ],
+    "offer": [
+      209
+    ],
+    "marketers": [
+      212
+    ],
+    "who": [
+      213,
+      228
+    ],
+    "communication": [
+      217
+    ],
+    "build": [
+      219
+    ],
+    "brands’": [
+      220
+    ],
+    "loyalty": [
+      221
+    ],
+    "international": [
+      224
+    ],
+    "marketplace": [
+      225
+    ],
+    "individuals": [
+      227
+    ],
+    "rely": [
+      229
+    ],
+    "experiences": [
+      231
+    ],
+    "shared": [
+      232
+    ],
+    "through": [
+      233
+    ],
+    "media.": [
+      235
+    ],
+    "Originality:": [
+      236
+    ],
+    "content": [
+      238
+    ],
+    "important,": [
+      243
+    ],
+    "timely,": [
+      244
+    ],
+    "original,": [
+      245
+    ],
+    "focusses": [
+      247
+    ],
+    "subject": [
+      250
+    ],
+    "infrequently": [
+      251
+    ],
+    "studied": [
+      252
+    ],
+    "literature.": [
+      255
+    ],
+    "applies": [
+      261
+    ],
+    "numerous": [
+      263
+    ],
+    "stakeholders.": [
+      266
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2863799402",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-08-19T22:06:31.511335",
+  "created_date": "2018-07-19"
+}

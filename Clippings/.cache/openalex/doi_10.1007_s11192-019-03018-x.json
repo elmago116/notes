@@ -1,0 +1,1226 @@
+{
+  "id": "https://openalex.org/W2883709920",
+  "doi": "https://doi.org/10.1007/s11192-019-03018-x",
+  "title": "Heuristics as conceptual lens for understanding and studying the usage of bibliometrics in research evaluation",
+  "display_name": "Heuristics as conceptual lens for understanding and studying the usage of bibliometrics in research evaluation",
+  "publication_year": 2019,
+  "publication_date": "2019-06-22",
+  "ids": {
+    "openalex": "https://openalex.org/W2883709920",
+    "doi": "https://doi.org/10.1007/s11192-019-03018-x",
+    "mag": "2883709920"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s11192-019-03018-x",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11192-019-03018-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S148561398",
+      "display_name": "Scientometrics",
+      "issn_l": "0138-9130",
+      "issn": [
+        "0138-9130",
+        "1588-2861"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320108",
+      "host_organization_name": "Springer Nature (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965",
+        "https://openalex.org/P4310320108"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature",
+        "Springer Nature (Netherlands)"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "arxiv",
+    "crossref",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11192-019-03018-x.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5027052270",
+        "display_name": "Lutz Bornmann",
+        "orcid": "https://orcid.org/0000-0003-0810-7091"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210086037",
+          "display_name": "Max Planck Innovation",
+          "ror": "https://ror.org/00d0v0049",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I149899117",
+            "https://openalex.org/I4210086037"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I149899117",
+          "display_name": "Max Planck Society",
+          "ror": "https://ror.org/01hhn8329",
+          "country_code": "DE",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I149899117"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Lutz Bornmann",
+      "raw_affiliation_strings": [
+        "Division for Science and Innovation Studies, Administrative Headquarters of the Max Planck Society, Hofgartenstr. 8, 80539, Munich, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division for Science and Innovation Studies, Administrative Headquarters of the Max Planck Society, Hofgartenstr. 8, 80539, Munich, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210086037",
+            "https://openalex.org/I149899117"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5064632341",
+        "display_name": "Julian N. Marewski",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I97565354",
+          "display_name": "University of Lausanne",
+          "ror": "https://ror.org/019whta54",
+          "country_code": "CH",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julian N. Marewski",
+      "raw_affiliation_strings": [
+        "Faculty of Business and Economics, Université de Lausanne, Quartier UNIL-Dorigny, Bâtiment Internef, 1015, Lausanne, Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Business and Economics, Université de Lausanne, Quartier UNIL-Dorigny, Bâtiment Internef, 1015, Lausanne, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5027052270"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210086037",
+    "https://openalex.org/I149899117"
+  ],
+  "apc_list": {
+    "value": 2290,
+    "currency": "EUR",
+    "value_usd": 2890
+  },
+  "apc_paid": {
+    "value": 2290,
+    "currency": "EUR",
+    "value_usd": 2890
+  },
+  "fwci": 7.634,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 27,
+  "citation_normalized_percentile": {
+    "value": 0.922795,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 93,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "120",
+    "issue": "2",
+    "first_page": "419",
+    "last_page": "459"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10646",
+    "display_name": "Experimental Behavioral Economics Studies",
+    "score": 0.991,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3311",
+      "display_name": "Safety Research"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10646",
+      "display_name": "Experimental Behavioral Economics Studies",
+      "score": 0.991,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10315",
+      "display_name": "Decision-Making and Behavioral Economics",
+      "score": 0.988,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1800",
+        "display_name": "General Decision Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/heuristics",
+      "display_name": "Heuristics",
+      "score": 0.9289988
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C127705205",
+      "wikidata": "https://www.wikidata.org/wiki/Q5748245",
+      "display_name": "Heuristics",
+      "level": 2,
+      "score": 0.9289988
+    },
+    {
+      "id": "https://openalex.org/C178315738",
+      "wikidata": "https://www.wikidata.org/wiki/Q603441",
+      "display_name": "Bibliometrics",
+      "level": 2,
+      "score": 0.7859775
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7030432
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.5777829
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.5484142
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.4774226
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.22512206
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s11192-019-03018-x",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11192-019-03018-x.pdf",
+      "source": {
+        "id": "https://openalex.org/S148561398",
+        "display_name": "Scientometrics",
+        "issn_l": "0138-9130",
+        "issn": [
+          "0138-9130",
+          "1588-2861"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320108",
+        "host_organization_name": "Springer Nature (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965",
+          "https://openalex.org/P4310320108"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature",
+          "Springer Nature (Netherlands)"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/1807.05115",
+      "pdf_url": "http://arxiv.org/pdf/1807.05115",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [
+          "Cornell University"
+        ],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    },
+    {
+      "is_oa": false,
+      "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.1807.05115",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4393179698",
+        "display_name": "DataCite API",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210145204",
+        "host_organization_name": "DataCite",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210145204"
+        ],
+        "host_organization_lineage_names": [
+          "DataCite"
+        ],
+        "type": "metadata"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s11192-019-03018-x",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11192-019-03018-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S148561398",
+      "display_name": "Scientometrics",
+      "issn_l": "0138-9130",
+      "issn": [
+        "0138-9130",
+        "1588-2861"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320108",
+      "host_organization_name": "Springer Nature (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965",
+        "https://openalex.org/P4310320108"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature",
+        "Springer Nature (Netherlands)"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.79,
+      "display_name": "Peace, justice, and strong institutions",
+      "id": "https://metadata.un.org/sdg/16"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [
+    "https://openalex.org/W2883709920",
+    "https://openalex.org/W3099348159"
+  ],
+  "referenced_works_count": 205,
+  "referenced_works": [
+    "https://openalex.org/W100772080",
+    "https://openalex.org/W1038774319",
+    "https://openalex.org/W1043101226",
+    "https://openalex.org/W1049360213",
+    "https://openalex.org/W117375586",
+    "https://openalex.org/W1483277659",
+    "https://openalex.org/W1493556510",
+    "https://openalex.org/W1507908907",
+    "https://openalex.org/W1518291102",
+    "https://openalex.org/W1542200596",
+    "https://openalex.org/W1546460521",
+    "https://openalex.org/W1559646899",
+    "https://openalex.org/W1567839236",
+    "https://openalex.org/W1572748501",
+    "https://openalex.org/W1586980550",
+    "https://openalex.org/W159586738",
+    "https://openalex.org/W1598171267",
+    "https://openalex.org/W1603142542",
+    "https://openalex.org/W1603147783",
+    "https://openalex.org/W1604342699",
+    "https://openalex.org/W1604801388",
+    "https://openalex.org/W1632701906",
+    "https://openalex.org/W1640247171",
+    "https://openalex.org/W1662711610",
+    "https://openalex.org/W1728460582",
+    "https://openalex.org/W1792586875",
+    "https://openalex.org/W1845434773",
+    "https://openalex.org/W1892144023",
+    "https://openalex.org/W1893095061",
+    "https://openalex.org/W1895366050",
+    "https://openalex.org/W1904256407",
+    "https://openalex.org/W1910782894",
+    "https://openalex.org/W1940825712",
+    "https://openalex.org/W1954988134",
+    "https://openalex.org/W1968026755",
+    "https://openalex.org/W1969865637",
+    "https://openalex.org/W1977862340",
+    "https://openalex.org/W1979117318",
+    "https://openalex.org/W1982662941",
+    "https://openalex.org/W1984650685",
+    "https://openalex.org/W1985564398",
+    "https://openalex.org/W1985876015",
+    "https://openalex.org/W1986025230",
+    "https://openalex.org/W1987341880",
+    "https://openalex.org/W1988243093",
+    "https://openalex.org/W1989388297",
+    "https://openalex.org/W1990627282",
+    "https://openalex.org/W1991098395",
+    "https://openalex.org/W2000021217",
+    "https://openalex.org/W200144809",
+    "https://openalex.org/W2004434228",
+    "https://openalex.org/W2005247412",
+    "https://openalex.org/W2007256882",
+    "https://openalex.org/W2014089538",
+    "https://openalex.org/W2014410878",
+    "https://openalex.org/W2016603061",
+    "https://openalex.org/W2019753053",
+    "https://openalex.org/W2021046258",
+    "https://openalex.org/W2023979716",
+    "https://openalex.org/W2041660482",
+    "https://openalex.org/W2045401720",
+    "https://openalex.org/W2048276059",
+    "https://openalex.org/W2050592278",
+    "https://openalex.org/W2051980553",
+    "https://openalex.org/W2055508728",
+    "https://openalex.org/W2056418346",
+    "https://openalex.org/W2058730894",
+    "https://openalex.org/W2059135017",
+    "https://openalex.org/W2059372149",
+    "https://openalex.org/W2063743914",
+    "https://openalex.org/W2064140723",
+    "https://openalex.org/W2067050796",
+    "https://openalex.org/W2068452509",
+    "https://openalex.org/W2071096576",
+    "https://openalex.org/W2072020930",
+    "https://openalex.org/W2075716891",
+    "https://openalex.org/W207618939",
+    "https://openalex.org/W2084641232",
+    "https://openalex.org/W2087172517",
+    "https://openalex.org/W2088918387",
+    "https://openalex.org/W2090933055",
+    "https://openalex.org/W2093507294",
+    "https://openalex.org/W2096016260",
+    "https://openalex.org/W2096110176",
+    "https://openalex.org/W2099549054",
+    "https://openalex.org/W2103254008",
+    "https://openalex.org/W2105911655",
+    "https://openalex.org/W2106980709",
+    "https://openalex.org/W2107426741",
+    "https://openalex.org/W2108286413",
+    "https://openalex.org/W2115281393",
+    "https://openalex.org/W2116305422",
+    "https://openalex.org/W2118070418",
+    "https://openalex.org/W2118411866",
+    "https://openalex.org/W2119232430",
+    "https://openalex.org/W2128438887",
+    "https://openalex.org/W2128498260",
+    "https://openalex.org/W2131272406",
+    "https://openalex.org/W2132415562",
+    "https://openalex.org/W2133208030",
+    "https://openalex.org/W2134895693",
+    "https://openalex.org/W2135477755",
+    "https://openalex.org/W2136518234",
+    "https://openalex.org/W2136762929",
+    "https://openalex.org/W2140705559",
+    "https://openalex.org/W2143524807",
+    "https://openalex.org/W2144846366",
+    "https://openalex.org/W2148962857",
+    "https://openalex.org/W2155436615",
+    "https://openalex.org/W2156049655",
+    "https://openalex.org/W2157581667",
+    "https://openalex.org/W2159071801",
+    "https://openalex.org/W2159292941",
+    "https://openalex.org/W2162286168",
+    "https://openalex.org/W2169049172",
+    "https://openalex.org/W2170702398",
+    "https://openalex.org/W2171789734",
+    "https://openalex.org/W2172149135",
+    "https://openalex.org/W2178752668",
+    "https://openalex.org/W2199748993",
+    "https://openalex.org/W2235214564",
+    "https://openalex.org/W2265835134",
+    "https://openalex.org/W2277805675",
+    "https://openalex.org/W2309067248",
+    "https://openalex.org/W2315404267",
+    "https://openalex.org/W2315742253",
+    "https://openalex.org/W2316169995",
+    "https://openalex.org/W2328418989",
+    "https://openalex.org/W2397186354",
+    "https://openalex.org/W2397283877",
+    "https://openalex.org/W2410402467",
+    "https://openalex.org/W2415279374",
+    "https://openalex.org/W2462702941",
+    "https://openalex.org/W2476372407",
+    "https://openalex.org/W2523550674",
+    "https://openalex.org/W253774770",
+    "https://openalex.org/W2554259153",
+    "https://openalex.org/W2569535793",
+    "https://openalex.org/W2592186958",
+    "https://openalex.org/W2599781508",
+    "https://openalex.org/W2605253077",
+    "https://openalex.org/W2609027112",
+    "https://openalex.org/W2615242537",
+    "https://openalex.org/W2618930450",
+    "https://openalex.org/W2626812202",
+    "https://openalex.org/W2744304370",
+    "https://openalex.org/W2753968569",
+    "https://openalex.org/W2769543753",
+    "https://openalex.org/W2778363463",
+    "https://openalex.org/W2779163398",
+    "https://openalex.org/W2789915514",
+    "https://openalex.org/W2791432550",
+    "https://openalex.org/W2799856321",
+    "https://openalex.org/W2801384353",
+    "https://openalex.org/W2804711044",
+    "https://openalex.org/W2808432859",
+    "https://openalex.org/W2808703721",
+    "https://openalex.org/W282661172",
+    "https://openalex.org/W284299944",
+    "https://openalex.org/W284513564",
+    "https://openalex.org/W2886446017",
+    "https://openalex.org/W2891328485",
+    "https://openalex.org/W2892321119",
+    "https://openalex.org/W2900115071",
+    "https://openalex.org/W2912659123",
+    "https://openalex.org/W2962954441",
+    "https://openalex.org/W2963709150",
+    "https://openalex.org/W3027820740",
+    "https://openalex.org/W3037055661",
+    "https://openalex.org/W3103874031",
+    "https://openalex.org/W3123331292",
+    "https://openalex.org/W3123464343",
+    "https://openalex.org/W3125306911",
+    "https://openalex.org/W3126079462",
+    "https://openalex.org/W3144900023",
+    "https://openalex.org/W3149402921",
+    "https://openalex.org/W3216501131",
+    "https://openalex.org/W41320236",
+    "https://openalex.org/W4211177367",
+    "https://openalex.org/W4211240286",
+    "https://openalex.org/W4232648054",
+    "https://openalex.org/W4232856227",
+    "https://openalex.org/W4238568919",
+    "https://openalex.org/W4239084780",
+    "https://openalex.org/W4240809722",
+    "https://openalex.org/W4241045026",
+    "https://openalex.org/W4242717215",
+    "https://openalex.org/W4243479823",
+    "https://openalex.org/W4245994031",
+    "https://openalex.org/W4246001888",
+    "https://openalex.org/W4246336130",
+    "https://openalex.org/W4253249934",
+    "https://openalex.org/W4254573089",
+    "https://openalex.org/W4290182923",
+    "https://openalex.org/W4293876852",
+    "https://openalex.org/W4301467036",
+    "https://openalex.org/W4301958211",
+    "https://openalex.org/W4313429365",
+    "https://openalex.org/W4388257882",
+    "https://openalex.org/W582220661",
+    "https://openalex.org/W767067438",
+    "https://openalex.org/W789451374",
+    "https://openalex.org/W79066186",
+    "https://openalex.org/W815352875",
+    "https://openalex.org/W942274081"
+  ],
+  "related_works": [
+    "https://openalex.org/W4386031268",
+    "https://openalex.org/W4252555497",
+    "https://openalex.org/W3143197806",
+    "https://openalex.org/W3121175838",
+    "https://openalex.org/W3016293053",
+    "https://openalex.org/W2784269775",
+    "https://openalex.org/W2401723157",
+    "https://openalex.org/W2280422768",
+    "https://openalex.org/W2065055572",
+    "https://openalex.org/W1690653314"
+  ],
+  "abstract_inverted_index": {
+    "While": [
+      0
+    ],
+    "bibliometrics": [
+      1,
+      60
+    ],
+    "are": [
+      2,
+      102,
+      105
+    ],
+    "widely": [
+      3
+    ],
+    "used": [
+      4
+    ],
+    "for": [
+      5,
+      13,
+      53,
+      196
+    ],
+    "research": [
+      6,
+      36,
+      62,
+      174
+    ],
+    "evaluation": [
+      7
+    ],
+    "purposes,": [
+      8
+    ],
+    "a": [
+      9,
+      31,
+      157,
+      204
+    ],
+    "common": [
+      10
+    ],
+    "theoretical": [
+      11
+    ],
+    "framework": [
+      12
+    ],
+    "conceptually": [
+      14
+    ],
+    "understanding,": [
+      15
+    ],
+    "empirically": [
+      16
+    ],
+    "studying,": [
+      17
+    ],
+    "and": [
+      18,
+      46,
+      55,
+      79,
+      96,
+      166,
+      202
+    ],
+    "effectively": [
+      19
+    ],
+    "teaching": [
+      20
+    ],
+    "its": [
+      21
+    ],
+    "usage": [
+      22,
+      58,
+      199
+    ],
+    "is": [
+      23,
+      154
+    ],
+    "lacking.": [
+      24
+    ],
+    "In": [
+      25,
+      88
+    ],
+    "this": [
+      26
+    ],
+    "paper,": [
+      27
+    ],
+    "we": [
+      28
+    ],
+    "outline": [
+      29,
+      170
+    ],
+    "such": [
+      30
+    ],
+    "framework:": [
+      32
+    ],
+    "the": [
+      33,
+      41,
+      44,
+      57,
+      111,
+      171,
+      185,
+      198
+    ],
+    "fast-and-frugal": [
+      34,
+      172
+    ],
+    "heuristics": [
+      35,
+      124,
+      136,
+      153,
+      173,
+      183,
+      191
+    ],
+    "program,": [
+      37,
+      175
+    ],
+    "proposed": [
+      38
+    ],
+    "originally": [
+      39
+    ],
+    "in": [
+      40,
+      61,
+      70,
+      145,
+      156
+    ],
+    "context": [
+      42
+    ],
+    "of": [
+      43,
+      59,
+      83,
+      91,
+      99,
+      113,
+      152,
+      178,
+      187,
+      200
+    ],
+    "cognitive": [
+      45
+    ],
+    "decision": [
+      47,
+      147
+    ],
+    "sciences,": [
+      48
+    ],
+    "lends": [
+      49
+    ],
+    "itself": [
+      50
+    ],
+    "particularly": [
+      51
+    ],
+    "well": [
+      52
+    ],
+    "understanding": [
+      54
+    ],
+    "investigating": [
+      56
+    ],
+    "evaluations.": [
+      63
+    ],
+    "Such": [
+      64
+    ],
+    "evaluations": [
+      65
+    ],
+    "represent": [
+      66
+    ],
+    "judgments": [
+      67
+    ],
+    "under": [
+      68
+    ],
+    "uncertainty": [
+      69
+    ],
+    "which": [
+      71
+    ],
+    "typically": [
+      72
+    ],
+    "not": [
+      73,
+      126
+    ],
+    "all": [
+      74
+    ],
+    "possible": [
+      75
+    ],
+    "options,": [
+      76
+    ],
+    "their": [
+      77
+    ],
+    "consequences,": [
+      78
+    ],
+    "those": [
+      80
+    ],
+    "consequences'": [
+      81
+    ],
+    "probabilities": [
+      82
+    ],
+    "occurring": [
+      84
+    ],
+    "may": [
+      85,
+      192
+    ],
+    "be": [
+      86,
+      193
+    ],
+    "known.": [
+      87
+    ],
+    "these": [
+      89
+    ],
+    "situations": [
+      90
+    ],
+    "incomplete": [
+      92
+    ],
+    "information,": [
+      93
+    ],
+    "candidate": [
+      94
+    ],
+    "descriptive": [
+      95
+    ],
+    "prescriptive": [
+      97,
+      150
+    ],
+    "models": [
+      98
+    ],
+    "human": [
+      100
+    ],
+    "behavior": [
+      101
+    ],
+    "heuristics.": [
+      103
+    ],
+    "Heuristics": [
+      104
+    ],
+    "simple": [
+      106
+    ],
+    "strategies": [
+      107
+    ],
+    "that,": [
+      108
+    ],
+    "by": [
+      109
+    ],
+    "exploiting": [
+      110
+    ],
+    "structure": [
+      112
+    ],
+    "environments,": [
+      114
+    ],
+    "can": [
+      115,
+      137
+    ],
+    "aid": [
+      116
+    ],
+    "people": [
+      117
+    ],
+    "to": [
+      118
+    ],
+    "make": [
+      119
+    ],
+    "smart": [
+      120
+    ],
+    "decisions.": [
+      121
+    ],
+    "Relying": [
+      122
+    ],
+    "on": [
+      123,
+      182
+    ],
+    "does": [
+      125
+    ],
+    "mean": [
+      127
+    ],
+    "trading": [
+      128
+    ],
+    "off": [
+      129
+    ],
+    "accuracy": [
+      130
+    ],
+    "against": [
+      131
+    ],
+    "effort:": [
+      132
+    ],
+    "while": [
+      133
+    ],
+    "reducing": [
+      134
+    ],
+    "complexity,": [
+      135
+    ],
+    "yield": [
+      138
+    ],
+    "better": [
+      139
+    ],
+    "decisions": [
+      140
+    ],
+    "than": [
+      141
+    ],
+    "more": [
+      142
+    ],
+    "information-greedy": [
+      143
+    ],
+    "procedures": [
+      144
+    ],
+    "many": [
+      146
+    ],
+    "environments.": [
+      148
+    ],
+    "The": [
+      149
+    ],
+    "power": [
+      151
+    ],
+    "documented": [
+      155
+    ],
+    "cross-disciplinary": [
+      158
+    ],
+    "literature,": [
+      159
+    ],
+    "cutting": [
+      160
+    ],
+    "across": [
+      161
+    ],
+    "medicine,": [
+      162
+    ],
+    "crime,": [
+      163
+    ],
+    "business,": [
+      164
+    ],
+    "sports,": [
+      165
+    ],
+    "other": [
+      167
+    ],
+    "domains.": [
+      168
+    ],
+    "We": [
+      169
+    ],
+    "provide": [
+      176
+    ],
+    "examples": [
+      177
+    ],
+    "past": [
+      179
+    ],
+    "empirical": [
+      180
+    ],
+    "work": [
+      181
+    ],
+    "outside": [
+      184
+    ],
+    "field": [
+      186
+    ],
+    "bibliometrics,": [
+      188,
+      201
+    ],
+    "explain": [
+      189
+    ],
+    "why": [
+      190
+    ],
+    "especially": [
+      194
+    ],
+    "suitable": [
+      195
+    ],
+    "studying": [
+      197
+    ],
+    "propose": [
+      203
+    ],
+    "corresponding": [
+      205
+    ],
+    "conceptual": [
+      206
+    ],
+    "framework.": [
+      207
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2883709920",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-08-15T17:51:53.393616",
+  "created_date": "2018-08-03"
+}

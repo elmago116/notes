@@ -1,0 +1,744 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2025-03-27T19:53:25Z",
+    "timestamp": 1743105205617,
+    "version": "3.40.3"
+  },
+  "publisher-location": "Cham",
+  "reference-count": 41,
+  "publisher": "Springer Nature Switzerland",
+  "isbn-type": [
+    {
+      "type": "print",
+      "value": "9783031472428"
+    },
+    {
+      "type": "electronic",
+      "value": "9783031472435"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2023-01-01T00:00:00Z",
+        "timestamp": 1672531200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2023-01-01T00:00:00Z",
+        "timestamp": 1672531200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "DOI": "10.1007/978-3-031-47243-5_24",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2023-11-01T07:02:30Z",
+    "timestamp": 1698822150000
+  },
+  "page": "435-452",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "The World Literature Knowledge Graph"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-9337-7250",
+      "authenticated-orcid": false,
+      "given": "Marco Antonio",
+      "family": "Stranisci",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3142-3084",
+      "authenticated-orcid": false,
+      "given": "Eleonora",
+      "family": "Bernasconi",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5991-370X",
+      "authenticated-orcid": false,
+      "given": "Viviana",
+      "family": "Patti",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1118-0601",
+      "authenticated-orcid": false,
+      "given": "Stefano",
+      "family": "Ferilli",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5074-2112",
+      "authenticated-orcid": false,
+      "given": "Miguel",
+      "family": "Ceriani",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9866-2843",
+      "authenticated-orcid": false,
+      "given": "Rossana",
+      "family": "Damiano",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        27
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "24_CR1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Adams, J., Brückner, H., Naslund, C.: Who counts as a notable sociologist on Wikipedia? Gender, race, and the “professor test.” Socius 5, 2378023118823946 (2019)",
+      "DOI": "10.1177/2378023118823946"
+    },
+    {
+      "key": "24_CR2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Benwell, B., Procter, J., Robinson, G.: Postcolonial Audiences: Readers, Viewers and Reception. Routledge, New York (2012)",
+      "DOI": "10.4324/9780203126165"
+    },
+    {
+      "key": "24_CR3",
+      "unstructured": "Bernasconi, E., Ceriani, M., Mecella, M.: Linked data interfaces: a survey. In: Falcon, A., Ferilli, S., Bardi, A., Marchesin, S., Redavid, D. (eds.) Proceedings of the XIX Italian Research Conference on Digital Libraries - Information and Research Science connecting to Digital and Library Science (IRCDL2023). vol. 3365, p. 16. Central Europe (CEUR) Workshop Proceedings, Bari, Italy (2023)"
+    },
+    {
+      "issue": "1",
+      "key": "24_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s00799-022-00343-0",
+      "volume": "24",
+      "author": "E Bernasconi",
+      "year": "2023",
+      "unstructured": "Bernasconi, E., Ceriani, M., Mecella, M., Catarci, T.: Design, realization, and user evaluation of the ARCA system for exploring a digital library. Int. J. Digit. Libr. 24(1), 1–22 (2023)",
+      "journal-title": "Int. J. Digit. Libr."
+    },
+    {
+      "key": "24_CR5",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Bernasconi, E., Ceriani, M., Mecella, M., Morvillo, A.: Automatic knowledge extraction from a digital library and collaborative validation. In: Silvello, G., et al. Linking Theory and Practice of Digital Libraries. TPDL 2022. LNCS, vol. 13541. Springer, Cham (2022). https://doi.org/10.1007/978-3-031-16802-4_49",
+      "DOI": "10.1007/978-3-031-16802-4_49"
+    },
+    {
+      "key": "24_CR6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bolina, M.: Yewno Discover. Nord. J. Inf. Literacy High. Educ. 11(1) (2019)",
+      "DOI": "10.15845/noril.v11i1.2772"
+    },
+    {
+      "key": "24_CR7",
+      "unstructured": "Boter, B., Rensen, M., Scott-Smith, G.: Unhinging the National Framework: Perspectives on Transnational Life Writing. Sidestone Press (2020)"
+    },
+    {
+      "key": "24_CR8",
+      "series-title": "Lecture Notes in Computer Science",
+      "doi-asserted-by": "publisher",
+      "first-page": "23",
+      "DOI": "10.1007/978-3-319-31676-5_2",
+      "volume-title": "Semantic Technology",
+      "author": "R Chawuthai",
+      "year": "2016",
+      "unstructured": "Chawuthai, R., Takeda, H.: RDF graph visualization by interpreting linked data as knowledge. In: Qi, G., Kozaki, K., Pan, J.Z., Yu, S. (eds.) JIST 2015. LNCS, vol. 9544, pp. 23–39. Springer, Cham (2016). https://doi.org/10.1007/978-3-319-31676-5_2"
+    },
+    {
+      "key": "24_CR9",
+      "unstructured": "Crenshaw, K.W.: On intersectionality: Essential writings. The New Press (2017)"
+    },
+    {
+      "key": "24_CR10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Damrosch, D.: What is world literature?, vol. 5. Princeton University Press (2003)",
+      "DOI": "10.1515/9780691188645"
+    },
+    {
+      "key": "24_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "258",
+      "DOI": "10.1016/j.future.2020.05.038",
+      "volume": "112",
+      "author": "F Desimoni",
+      "year": "2020",
+      "unstructured": "Desimoni, F., Po, L.: Empirical evaluation of linked data visualization tools. Futur. Gener. Comput. Syst. 112, 258–282 (2020). https://doi.org/10.1016/j.future.2020.05.038",
+      "journal-title": "Futur. Gener. Comput. Syst."
+    },
+    {
+      "key": "24_CR12",
+      "unstructured": "Fenlon, K., Kariuki, B., Welberry, A.: Researchspace: A platform for digital cultural heritage data management and linked data publication. J. Digital Humanit. 6(1) (2017)"
+    },
+    {
+      "key": "24_CR13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Field, A., Park, C.Y., Lin, K.Z., Tsvetkov, Y.: Controlled analyses of social biases in Wikipedia bios. In: Proceedings of the ACM Web Conference 2022, pp. 2624–2635 (2022)",
+      "DOI": "10.1145/3485447.3512134"
+    },
+    {
+      "key": "24_CR14",
+      "first-page": "5",
+      "volume": "2019",
+      "author": "F Fischer",
+      "year": "2019",
+      "unstructured": "Fischer, F., et al.: Programmable corpora: introducing DraCor, an infrastructure for the research on European drama. Digit. Humanit. 2019, 5 (2019)",
+      "journal-title": "Digit. Humanit."
+    },
+    {
+      "key": "24_CR15",
+      "series-title": "Lecture Notes in Computer Science (Lecture Notes in Artificial Intelligence)",
+      "doi-asserted-by": "publisher",
+      "first-page": "166",
+      "DOI": "10.1007/3-540-45810-7_18",
+      "volume-title": "Knowledge Engineering and Knowledge Management: Ontologies and the Semantic Web",
+      "author": "A Gangemi",
+      "year": "2002",
+      "unstructured": "Gangemi, A., Guarino, N., Masolo, C., Oltramari, A., Schneider, L.: Sweetening ontologies with DOLCE. In: Gómez-Pérez, A., Benjamins, V.R. (eds.) EKAW 2002. LNCS (LNAI), vol. 2473, pp. 166–181. Springer, Heidelberg (2002). https://doi.org/10.1007/3-540-45810-7_18"
+    },
+    {
+      "key": "24_CR16",
+      "series-title": "Lecture Notes in Computer Science",
+      "doi-asserted-by": "publisher",
+      "first-page": "387",
+      "DOI": "10.1007/978-3-319-25639-9_51",
+      "volume-title": "The Semantic Web: ESWC 2015 Satellite Events",
+      "author": "F Haag",
+      "year": "2015",
+      "unstructured": "Haag, F., Lohmann, S., Siek, S., Ertl, T.: QueryVOWL: a visual query notation for linked data. In: Gandon, F., Guéret, C., Villata, S., Breslin, J., Faron-Zucker, C., Zimmermann, A. (eds.) ESWC 2015. LNCS, vol. 9341, pp. 387–402. Springer, Cham (2015). https://doi.org/10.1007/978-3-319-25639-9_51"
+    },
+    {
+      "key": "24_CR17",
+      "series-title": "Lecture Notes in Computer Science",
+      "doi-asserted-by": "publisher",
+      "first-page": "303",
+      "DOI": "10.1007/978-3-642-13486-9_21",
+      "volume-title": "The Semantic Web: Research and Applications",
+      "author": "P Heim",
+      "year": "2010",
+      "unstructured": "Heim, P., Lohmann, S., Stegemann, T.: Interactive relationship discovery via the semantic web. In: Aroyo, L., et al. (eds.) ESWC 2010. LNCS, vol. 6088, pp. 303–317. Springer, Heidelberg (2010). https://doi.org/10.1007/978-3-642-13486-9_21"
+    },
+    {
+      "key": "24_CR18",
+      "unstructured": "Hube, C., Fischer, F., Jäschke, R., Lauer, G., Thomsen, M.R.: World literature according to wikipedia: Introduction to a DBpedia-based framework. arXiv preprint arXiv:1701.00991 (2017)"
+    },
+    {
+      "issue": "1",
+      "key": "24_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "7",
+      "DOI": "10.2307/468585",
+      "volume": "2",
+      "author": "HR Jauss",
+      "year": "1970",
+      "unstructured": "Jauss, H.R., Benzinger, E.: Literary history as a challenge to literary theory. N. Literary Hist. 2(1), 7–37 (1970)",
+      "journal-title": "N. Literary Hist."
+    },
+    {
+      "key": "24_CR20",
+      "unstructured": "Lebo, T., et al.: PROV-O: The PROV ontology. W3C Recommendation, World Wide Web Consortium, United States (2013)"
+    },
+    {
+      "key": "24_CR21",
+      "series-title": "Lecture Notes in Computer Science (Lecture Notes in Artificial Intelligence)",
+      "doi-asserted-by": "publisher",
+      "first-page": "154",
+      "DOI": "10.1007/978-3-319-17966-7_21",
+      "volume-title": "Knowledge Engineering and Knowledge Management",
+      "author": "S Lohmann",
+      "year": "2015",
+      "unstructured": "Lohmann, S., Link, V., Marbach, E., Negru, S.: WebVOWL: web-based visualization of ontologies. In: Lambrix, P., et al. (eds.) EKAW 2014. LNCS (LNAI), vol. 8982, pp. 154–158. Springer, Cham (2015). https://doi.org/10.1007/978-3-319-17966-7_21"
+    },
+    {
+      "key": "24_CR22",
+      "first-page": "54",
+      "volume": "1",
+      "author": "F Moretti",
+      "year": "2000",
+      "unstructured": "Moretti, F.: Conjectures on world literature. N. Left Rev. 1, 54 (2000)",
+      "journal-title": "N. Left Rev."
+    },
+    {
+      "key": "24_CR23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Nakamura, L.: “Words with friends”: socially networked reading on Goodreads. PMLA 128(1), 238–243 (2013)",
+      "DOI": "10.1632/pmla.2013.128.1.238"
+    },
+    {
+      "key": "24_CR24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "O’Donnell, D.P., Walter, K.L., Gil, A., Fraistat, N.: Only connect: the globalization of the digital humanities. In: A New Companion to Digital Humanities, pp. 493–510 (2015)",
+      "DOI": "10.1002/9781118680605.ch34"
+    },
+    {
+      "key": "24_CR25",
+      "unstructured": "Pfeffer, M., Roth, M.: Japanese visual media graph: providing researchers with data from enthusiast communities. In: International Conference on Dublin Core and Metadata Applications, pp. 136–141 (2019)"
+    },
+    {
+      "key": "24_CR26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Po, L., Bikakis, A., Desimoni, F., Papastefanatos, G.: Linked Data Visualization: Techniques, Tools, and Big Data, vol. 10. Morgan & Claypool Publishers (2020)",
+      "DOI": "10.1007/978-3-031-79490-2"
+    },
+    {
+      "key": "24_CR27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Polley, S., Ghosh, S., Thiel, M., Kotzyba, M., Nürnberger, A.: SIMFIC: an explainable book search companion. In: 2020 IEEE International Conference on Human-Machine Systems (ICHMS), pp. 1–6. IEEE (2020)",
+      "DOI": "10.1109/ICHMS49158.2020.9209581"
+    },
+    {
+      "issue": "11",
+      "key": "24_CR28",
+      "first-page": "314",
+      "volume": "1",
+      "author": "S Rajpurkar",
+      "year": "2015",
+      "unstructured": "Rajpurkar, S., Bhatt, D., Malhotra, P., Rajpurkar, M., Bhatt, M.: Book recommendation system. Int. J. Innovative Res. Sci. Technol. 1(11), 314–316 (2015)",
+      "journal-title": "Int. J. Innovative Res. Sci. Technol."
+    },
+    {
+      "issue": "7",
+      "key": "24_CR29",
+      "first-page": "46",
+      "volume": "13",
+      "author": "JW Ratcliff",
+      "year": "1988",
+      "unstructured": "Ratcliff, J.W., Metzener, D., et al.: Pattern matching: the gestalt approach. Dr. Dobb’s J. 13(7), 46 (1988)",
+      "journal-title": "Dr. Dobb’s J."
+    },
+    {
+      "key": "24_CR30",
+      "unstructured": "Schöch, C., et al.: Distant reading for European literary history. a cost action. Proceedings of DH2018 (2018)"
+    },
+    {
+      "key": "24_CR31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Simpson, J., Brown, S.: From XML to RDF in the Orlando project. In: 2013 International Conference on Culture and Computing, pp. 194–195. IEEE (2013)",
+      "DOI": "10.1109/CultureComputing.2013.61"
+    },
+    {
+      "issue": "27",
+      "key": "24_CR32",
+      "first-page": "42",
+      "volume": "14",
+      "author": "GC Spivak",
+      "year": "2003",
+      "unstructured": "Spivak, G.C.: Can the subaltern speak? Die Philosophin 14(27), 42–58 (2003)",
+      "journal-title": "Die Philosophin"
+    },
+    {
+      "key": "24_CR33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Stranisci, M.A., Damiano, R., Mensa, E., Patti, V., Radicioni, D., Caselli, T.: WikiBio: a semantic resource for the intersectional analysis of biographical events. In: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 12370–12384. Association for Computational Linguistics, Toronto, Canada (2023). https://aclanthology.org/2023.acl-long.691",
+      "DOI": "10.18653/v1/2023.acl-long.691"
+    },
+    {
+      "key": "24_CR34",
+      "unstructured": "Stranisci, M.A., Patti, V., Damiano, R.: User-generated world literatures: a comparison between two social networks of readers. In: Proceedings of IRCDL 2023. vol. 3365, pp. 38–46 (2023)"
+    },
+    {
+      "key": "24_CR35",
+      "unstructured": "Stranisci, M.A., Patti, V., Damiano, R., et al.: Representing the under-represented: a dataset of post-colonial, and migrant writers. In: Proceedings of the 3rd Conference on Language, Data and Knowledge (LDK 2021), Open Access Series in Informatics, vol. 93, pp. 1–14 (2021)"
+    },
+    {
+      "issue": "3–4",
+      "key": "24_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "197",
+      "DOI": "10.1300/J104v39n03_12",
+      "volume": "39",
+      "author": "BB Tillett",
+      "year": "2005",
+      "unstructured": "Tillett, B.B.: FRBR and cataloging for the future. Cataloging Classif. Q. 39(3–4), 197–205 (2005)",
+      "journal-title": "Cataloging Classif. Q."
+    },
+    {
+      "key": "24_CR37",
+      "series-title": "Lecture Notes in Computer Science",
+      "doi-asserted-by": "publisher",
+      "first-page": "119",
+      "DOI": "10.1007/978-3-319-18818-8_8",
+      "volume-title": "The Semantic Web. Latest Advances and New Domains",
+      "author": "G Troullinou",
+      "year": "2015",
+      "unstructured": "Troullinou, G., Kondylakis, H., Daskalaki, E., Plexousakis, D.: RDF digest: efficient summarization of RDF/S KBs. In: Gandon, F., Sabou, M., Sack, H., d’Amato, C., Cudré-Mauroux, P., Zimmermann, A. (eds.) ESWC 2015. LNCS, vol. 9088, pp. 119–134. Springer, Cham (2015). https://doi.org/10.1007/978-3-319-18818-8_8"
+    },
+    {
+      "issue": "1",
+      "key": "24_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.21825/jeps.v6i1.20637",
+      "volume": "6",
+      "author": "M Van Remoortel",
+      "year": "2021",
+      "unstructured": "Van Remoortel, M., Birkholz, J.M., Alesina, M., Bezari, C., D’Eer, C., Forestier, E.: Women editors in Europe. J. Eur. Periodical Stud. 6(1), 1–6 (2021)",
+      "journal-title": "J. Eur. Periodical Stud."
+    },
+    {
+      "key": "24_CR39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Viola, F., Roffia, L., Antoniazzi, F., D’Elia, A., Aguzzi, C., Salmon Cinotti, T.: Interactive 3D exploration of RDF graphs through semantic planes. Future Internet 10(8), 81 (2018)",
+      "DOI": "10.3390/fi10080081"
+    },
+    {
+      "issue": "10",
+      "key": "24_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "78",
+      "DOI": "10.1145/2629489",
+      "volume": "57",
+      "author": "D Vrandečić",
+      "year": "2014",
+      "unstructured": "Vrandečić, D., Krötzsch, M.: Wikidata: a free collaborative knowledgebase. Commun. ACM 57(10), 78–85 (2014)",
+      "journal-title": "Commun. ACM"
+    },
+    {
+      "issue": "2",
+      "key": "24_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "48",
+      "DOI": "10.1145/245129.245134",
+      "volume": "4",
+      "author": "LE Wood",
+      "year": "1997",
+      "unstructured": "Wood, L.E.: Semi-structured interviewing for user-centered design. Interactions 4(2), 48–61 (1997)",
+      "journal-title": "Interactions"
+    }
+  ],
+  "container-title": [
+    "Lecture Notes in Computer Science",
+    "The Semantic Web – ISWC 2023"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-47243-5_24",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2023-11-01T07:07:26Z",
+    "timestamp": 1698822446000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-3-031-47243-5_24"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "ISBN": [
+    "9783031472428",
+    "9783031472435"
+  ],
+  "references-count": 41,
+  "URL": "https://doi.org/10.1007/978-3-031-47243-5_24",
+  "relation": {},
+  "ISSN": [
+    "0302-9743",
+    "1611-3349"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0302-9743"
+    },
+    {
+      "type": "electronic",
+      "value": "1611-3349"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "27 October 2023",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ChapterHistory",
+        "label": "Chapter History"
+      }
+    },
+    {
+      "value": "ISWC",
+      "order": 1,
+      "name": "conference_acronym",
+      "label": "Conference Acronym",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "International Semantic Web Conference",
+      "order": 2,
+      "name": "conference_name",
+      "label": "Conference Name",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Athens",
+      "order": 3,
+      "name": "conference_city",
+      "label": "Conference City",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Greece",
+      "order": 4,
+      "name": "conference_country",
+      "label": "Conference Country",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "2023",
+      "order": 5,
+      "name": "conference_year",
+      "label": "Conference Year",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "6 November 2023",
+      "order": 7,
+      "name": "conference_start_date",
+      "label": "Conference Start Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "10 November 2023",
+      "order": 8,
+      "name": "conference_end_date",
+      "label": "Conference End Date",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "22",
+      "order": 9,
+      "name": "conference_number",
+      "label": "Conference Number",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "semweb2023",
+      "order": 10,
+      "name": "conference_id",
+      "label": "Conference ID",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "https://iswc2023.semanticweb.org/",
+      "order": 11,
+      "name": "conference_url",
+      "label": "Conference URL",
+      "group": {
+        "name": "ConferenceInfo",
+        "label": "Conference Information"
+      }
+    },
+    {
+      "value": "Double-blind",
+      "order": 1,
+      "name": "type",
+      "label": "Type",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "Easy Chair",
+      "order": 2,
+      "name": "conference_management_system",
+      "label": "Conference Management System",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "248",
+      "order": 3,
+      "name": "number_of_submissions_sent_for_review",
+      "label": "Number of Submissions Sent for Review",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "58",
+      "order": 4,
+      "name": "number_of_full_papers_accepted",
+      "label": "Number of Full Papers Accepted",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "0",
+      "order": 5,
+      "name": "number_of_short_papers_accepted",
+      "label": "Number of Short Papers Accepted",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "23% - The value is computed by the equation \"Number of Full Papers Accepted / Number of Submissions Sent for Review * 100\" and then rounded to a whole number.",
+      "order": 6,
+      "name": "acceptance_rate_of_full_papers",
+      "label": "Acceptance Rate of Full Papers",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "3",
+      "order": 7,
+      "name": "average_number_of_reviews_per_paper",
+      "label": "Average Number of Reviews per Paper",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "1",
+      "order": 8,
+      "name": "average_number_of_papers_per_reviewer",
+      "label": "Average Number of Papers per Reviewer",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    },
+    {
+      "value": "Yes",
+      "order": 9,
+      "name": "external_reviewers_involved",
+      "label": "External Reviewers Involved",
+      "group": {
+        "name": "ConfEventPeerReviewInformation",
+        "label": "Peer Review Information (provided by the conference organizers)"
+      }
+    }
+  ]
+}

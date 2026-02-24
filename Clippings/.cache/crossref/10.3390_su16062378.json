@@ -1,0 +1,614 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        21
+      ]
+    ],
+    "date-time": "2025-02-21T16:30:20Z",
+    "timestamp": 1740155420689,
+    "version": "3.37.3"
+  },
+  "reference-count": 40,
+  "publisher": "MDPI AG",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            13
+          ]
+        ],
+        "date-time": "2024-03-13T00:00:00Z",
+        "timestamp": 1710288000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100012456",
+      "name": "National Social Science Foundation of China",
+      "doi-asserted-by": "crossref",
+      "award": [
+        "21BSH016",
+        "22BXW048"
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012456",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    },
+    {
+      "name": "Ministry of Education of Humanities and Social Science Project of China",
+      "award": [
+        "20YJA880023"
+      ]
+    },
+    {
+      "name": "Sichuan Philosophy and Social Science Foundation Program",
+      "award": [
+        "SCJJ23ND306"
+      ]
+    },
+    {
+      "name": "“Double Major” cultivation projects of Sichuan Normal University",
+      "award": [
+        "2021-SZPY-04"
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sustainability"
+  ],
+  "abstract": "<jats:p>Currently, as human society develops, environmental issues have become one of the significant challenges faced by humanity. Consequently, environmental education has emerged in response to this need. Environmental education aims to cultivate citizens with knowledge about the environment, which is crucial in addressing global challenges, fostering human–nature sustainability knowledge, and cultivating resilient individuals and communities. A comprehensive analysis of the current state of environmental education and exploring how environmental education can enhance the sustainability of interactions between humans and nature is one of the focal points of contemporary research. This systematic review employs CiteSpace to visually analyze the advancements of environmental education research, aiming to uncover the current status, predominant themes, evolutionary trajectories, and emerging trends. The Web of Science core collection database was examined to retrieve environmental education research papers published from 2013 to 2022. A total of 1851 papers were included in the final analysis. CiteSpace was utilized for visualizing and analyzing environmental education researchers, keyword co-occurrences, and keyword clustering, and Timeview was employed to generate relevant maps. The analysis identified five major hotspots in environmental education research: environmental awareness and literacy, theories in environmental education, delivery modes and methods, developments and implementation of environmental education, and the intersection of climate change and environmental justice. Emerging research directions include environmental justice, climate change education, critical environmental education, and environmental citizenship education. The results show that environmental education is gradually transcending the natural realm currently and integrating into a holistic framework encompassing societal, economic, and political dimensions. Environmental citizenship education is increasingly attracting the attention of scholars. Solving environmental problems requires interdisciplinary dialogue.</jats:p>",
+  "DOI": "10.3390/su16062378",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        13
+      ]
+    ],
+    "date-time": "2024-03-13T17:08:43Z",
+    "timestamp": 1710349723000
+  },
+  "page": "2378",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Analysis of Knowledge Graph: Hotspots and Future Trends in Environmental Education Research"
+  ],
+  "prefix": "10.3390",
+  "volume": "16",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0002-2876-6211",
+      "authenticated-orcid": false,
+      "given": "Yongli",
+      "family": "Tian",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5273-2954",
+      "authenticated-orcid": false,
+      "given": "Yuchang",
+      "family": "Jin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0003-7784-1588",
+      "authenticated-orcid": false,
+      "given": "Yadi",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0000-5010-4084",
+      "authenticated-orcid": false,
+      "given": "Yifan",
+      "family": "Du",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0007-6976-7137",
+      "authenticated-orcid": false,
+      "given": "Sicen",
+      "family": "Shen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Psychology, Sichuan Normal University, Chengdu 610066, China"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4533-0164",
+      "authenticated-orcid": false,
+      "given": "Junxiu",
+      "family": "An",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Software Engineering, Chengdu University of Information Technology, Chengdu 610225, China"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        13
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "153",
+      "DOI": "10.1016/j.resconrec.2017.07.019",
+      "article-title": "Natural resources utilization efficiency under the influence of green technological innovation",
+      "volume": "126",
+      "author": "Miao",
+      "year": "2017",
+      "journal-title": "Resour. Conserv. Recycl."
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "22",
+      "DOI": "10.1080/00958960903209975",
+      "article-title": "Environmental education for the 21st century: Where do we go now?",
+      "volume": "41",
+      "author": "Potter",
+      "year": "2009",
+      "journal-title": "J. Environ. Educ."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "648458",
+      "DOI": "10.3389/fpsyg.2021.648458",
+      "article-title": "The effects of contact with nature during outdoor environmental education on students’ wellbeing, connectedness to nature and pro-sociality",
+      "volume": "12",
+      "author": "Pirchio",
+      "year": "2021",
+      "journal-title": "Front. Psychol."
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ardoin, N.M., Bowers, A.W., and Gaillard, E. (2020). Environmental education outcomes for conservation: A systematic review. Biol. Conserv., 241.",
+      "DOI": "10.1016/j.biocon.2019.108224"
+    },
+    {
+      "key": "ref_5",
+      "unstructured": "Monroe, M.C., and Krasny, M.E. (2016). Across the Spectrum: Resources for Environmental Education, North American Association for Environmental Education. [3rd ed.]."
+    },
+    {
+      "key": "ref_6",
+      "unstructured": "Wheaton, M., Kannan, A., and Ardoin, N.M. (2018). Environmental Literacy: Setting the Stage (Environmental Literacy Brief), Social Ecology Lab, Stanford University."
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Leal Filho, W., Mifsud, M., and Pace, P. (2018). Handbook of Lifelong Learning for Sustainable Development, Springer International Publishing.",
+      "DOI": "10.1007/978-3-319-63534-7"
+    },
+    {
+      "key": "ref_8",
+      "first-page": "353",
+      "article-title": "The Effect of Environmental Education on Students’ environmental care Attitude: A Meta-Analysis Study",
+      "volume": "8",
+      "author": "Rohayati",
+      "year": "2021",
+      "journal-title": "Int. J. Multicult. Multireligious Underst."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "101782",
+      "DOI": "10.1016/j.jenvp.2022.101782",
+      "article-title": "Does environmental education benefit environmental outcomes in children and adolescents? A meta-analysis",
+      "volume": "81",
+      "author": "Leijten",
+      "year": "2022",
+      "journal-title": "J. Environ. Psychol."
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "055004",
+      "DOI": "10.1088/2515-7620/ac637f",
+      "article-title": "Visualization of energy-environment-economy system research characteristics and hotspots evolution trends based on CiteSpace",
+      "volume": "4",
+      "author": "Kao",
+      "year": "2022",
+      "journal-title": "Environ. Res. Commun."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "385",
+      "DOI": "10.1016/j.joim.2023.06.006",
+      "article-title": "Phytochemical interventions for post-traumatic stress disorder: A cluster co-occurrence network analysis using CiteSpace",
+      "volume": "21",
+      "author": "Gao",
+      "year": "2023",
+      "journal-title": "J. Integr. Med."
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "593",
+      "DOI": "10.1517/14712598.2012.674507",
+      "article-title": "Emerging trends in regenerative medicine: A scientometric analysis inCiteSpace",
+      "volume": "12",
+      "author": "Chen",
+      "year": "2012",
+      "journal-title": "Expert Opin. Biol. Ther."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "1809",
+      "DOI": "10.1007/s11192-015-1645-z",
+      "article-title": "The bibliometric analysis of scholarly production: How great is the impact?",
+      "volume": "105",
+      "author": "Ellegaard",
+      "year": "2015",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Han, Y., and Liang, Y. (2023). Scientific Knowledge Map Study of Therapeutic Landscapes and Community Open Spaces: Visual Analysis with CiteSpace. Sustainability, 15.",
+      "DOI": "10.3390/su152015066"
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tao, Y., and Tao, Y. (2024). Integrating Aesthetic Education in Quality Education: A Bibliometric Analysis of Sustainable Development Perspectives. Sustainability, 16.",
+      "DOI": "10.3390/su16020855"
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Junjia, Y., Alias, A.H., Haron, N.A., and Bakar, N.A. (2023). A bibliometric review on Safety Risk assessment of construction based on CiteSpace software and WOS database. Sustainability, 15.",
+      "DOI": "10.3390/su151511803"
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cebrián, G., Junyent, M., and Mulà, I. (2020). Competencies in Education for Sustainable Development: Emerging Teaching and Research Developments. Sustainability, 12.",
+      "DOI": "10.3390/su12020579"
+    },
+    {
+      "key": "ref_18",
+      "first-page": "236",
+      "article-title": "Research trends and prospects of green innovation in China: An analysis based on bibliometrics and knowledge graph",
+      "volume": "16",
+      "author": "Bian",
+      "year": "2020",
+      "journal-title": "Sci. Technol. Manag. Res."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "100149",
+      "DOI": "10.1016/j.dibe.2023.100149",
+      "article-title": "Visualizing the intellectual landscape and evolution of transportation system resilience: A bibliometric analysis in CiteSpace",
+      "volume": "14",
+      "author": "Li",
+      "year": "2023",
+      "journal-title": "Dev. Built Environ."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/j.scijus.2022.10.005",
+      "article-title": "Mapping the knowledge of traffic collision Reconstruction: A scientometric analysis in CiteSpace, VOSviewer, and SciMAT",
+      "volume": "63",
+      "author": "Shen",
+      "year": "2023",
+      "journal-title": "Sci. Justice"
+    },
+    {
+      "key": "ref_21",
+      "unstructured": "Roth, C.E. (1992). Environmental Literacy: Its Roots, Evolution, and Directions in the 1990s, ERIC Clearinghouse for Science, Mathematics and Environmental Education."
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "731",
+      "DOI": "10.1080/09500690600823532",
+      "article-title": "Korean Year 3 Children’s Environmental Literacy: A prerequisite for a Korean environmental education curriculum",
+      "volume": "29",
+      "author": "Chu",
+      "year": "2007",
+      "journal-title": "Int. J. Sci. Educ."
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "1276",
+      "DOI": "10.1080/13504622.2022.2107618",
+      "article-title": "The perceived effect of environmental and sustainability education on environmental literacy of Czech teenagers",
+      "volume": "29",
+      "author": "Kroufek",
+      "year": "2023",
+      "journal-title": "Environ. Educ. Res."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.1080/13504622.2019.1677859",
+      "article-title": "Beyond the ‘green bling’: Identifying contradictions encountered in school sustainability programmes and teachers’ responses to them",
+      "volume": "2",
+      "author": "Vare",
+      "year": "2020",
+      "journal-title": "Environ. Educ. Res."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Albareda-Tiana, S., Vidal-Raméntol, S., Pujol-Valls, M., and Fernández-Morilla, M. (2018). Holistic Approaches to Develop Sustainability and Research Competencies in Pre-Service Teacher Training. Sustainability, 10.",
+      "DOI": "10.20944/preprints201809.0001.v1"
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Albareda-Tiana, S., García-González, E., Jiménez-Fontana, R., and Solís-Espallargas, C. (2019). Implementing Pedagogical Approaches for ESD in Initial Teacher Training at Spanish Universities. Sustainability, 11.",
+      "DOI": "10.3390/su11184927"
+    },
+    {
+      "key": "ref_27",
+      "first-page": "10",
+      "article-title": "Preparing Teachers for Place-Based Teaching",
+      "volume": "2015",
+      "author": "Vinlove",
+      "year": "2015",
+      "journal-title": "Occas. Pap. Ser."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "991",
+      "DOI": "10.1007/s11422-020-09981-9",
+      "article-title": "Toward a place-based learning progression for haze pollution in the northern region of Thailand",
+      "volume": "15",
+      "author": "Ladachart",
+      "year": "2020",
+      "journal-title": "Cult. Stud. Sci. Educ."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "2081",
+      "DOI": "10.1007/s11165-018-9764-1",
+      "article-title": "Students’ Emotive Reasoning Through Place-Based Environmental Socioscientific Issues",
+      "volume": "50",
+      "author": "Herman",
+      "year": "2020",
+      "journal-title": "Res. Sci. Educ."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "15693",
+      "DOI": "10.3390/su71115693",
+      "article-title": "The Effectiveness of Education for Sustainable Development",
+      "volume": "7",
+      "author": "Pauw",
+      "year": "2015",
+      "journal-title": "Sustainability"
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Glavič, P. (2020). Identifying Key Issues of Education for Sustainable Development. Sustainability, 12.",
+      "DOI": "10.3390/su12166500"
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Waltner, E., Scharenberg, K., Hörsch, C., and Riess, W. (2020). What Teachers Think and Know about Education for Sustainable Development and How They Implement it in Class. Sustainability, 12.",
+      "DOI": "10.3390/su12041690"
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "526",
+      "DOI": "10.1080/13504622.2013.833584",
+      "article-title": "Subject- and experience-bound differences in teachers’ conceptual understanding of sustainable development",
+      "volume": "20",
+      "author": "Borg",
+      "year": "2014",
+      "journal-title": "Environ. Educ. Res."
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.1017/S0376892917000443",
+      "article-title": "How communication with teachers, family and friends contributes to predicting climate change behaviour among adolescents",
+      "volume": "45",
+      "author": "Valdez",
+      "year": "2017",
+      "journal-title": "Environ. Conserv."
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "first-page": "511",
+      "DOI": "10.1080/13504622.2019.1607258",
+      "article-title": "Climate change education in the humanities classroom: A case study of the Lowell school curriculum pilot",
+      "volume": "26",
+      "author": "Siegner",
+      "year": "2020",
+      "journal-title": "Environ. Educ. Res."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tao, Y., and Lin, P. (2023). Analyses of Sustainable Development of Cultural and Creative Parks: A pilot study based on the approach of CiteSpace Knowledge Mapping. Sustainability, 15.",
+      "DOI": "10.3390/su151310489"
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "first-page": "58",
+      "DOI": "10.1016/j.stueduc.2013.09.010",
+      "article-title": "Seeking excellence for the land of paradise: Integrating cultural information into an environmental education program in a rural Hawai’ian community",
+      "volume": "41",
+      "author": "Thomas",
+      "year": "2014",
+      "journal-title": "Stud. Educ. Eval."
+    },
+    {
+      "key": "ref_38",
+      "doi-asserted-by": "crossref",
+      "first-page": "181",
+      "DOI": "10.1007/s11852-015-0380-1",
+      "article-title": "Linking place-based science to people through spatial narratives of coastal stewardship",
+      "volume": "19",
+      "author": "Silbernagel",
+      "year": "2015",
+      "journal-title": "J. Coast. Conserv."
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Telešienė, A., Pauw, J.B., Goldman, D., and Hansmann, R. (2021). Evaluating an Educational Intervention Designed to Foster Environmental Citizenship among Undergraduate University Students. Sustainability, 13.",
+      "DOI": "10.3390/su13158219"
+    },
+    {
+      "key": "ref_40",
+      "first-page": "269",
+      "article-title": "Experiential learning theory: The importance of outdoor classrooms in environmental education",
+      "volume": "7",
+      "author": "Jose",
+      "year": "2017",
+      "journal-title": "Int. J. Sci. Educ."
+    }
+  ],
+  "container-title": [
+    "Sustainability"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2071-1050/16/6/2378/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        15
+      ]
+    ],
+    "date-time": "2025-01-15T17:45:49Z",
+    "timestamp": 1736963149000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2071-1050/16/6/2378"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        13
+      ]
+    ]
+  },
+  "references-count": 40,
+  "journal-issue": {
+    "issue": "6",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "su16062378"
+  ],
+  "URL": "https://doi.org/10.3390/su16062378",
+  "relation": {},
+  "ISSN": [
+    "2071-1050"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2071-1050"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        13
+      ]
+    ]
+  }
+}

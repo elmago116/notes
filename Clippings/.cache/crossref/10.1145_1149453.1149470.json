@@ -1,0 +1,406 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        19
+      ]
+    ],
+    "date-time": "2025-06-19T04:43:38Z",
+    "timestamp": 1750308218170,
+    "version": "3.41.0"
+  },
+  "publisher-location": "New York, NY, USA",
+  "reference-count": 38,
+  "publisher": "ACM",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2006,
+            8,
+            21
+          ]
+        ],
+        "date-time": "2006-08-21T00:00:00Z",
+        "timestamp": 1156118400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "dl.acm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2006,
+        8,
+        21
+      ]
+    ]
+  },
+  "DOI": "10.1145/1149453.1149470",
+  "type": "proceedings-article",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        10,
+        18
+      ]
+    ],
+    "date-time": "2006-10-18T22:04:00Z",
+    "timestamp": 1161209040000
+  },
+  "page": "79-88",
+  "update-policy": "https://doi.org/10.1145/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "Towards Wikis as semantic hypermedia"
+  ],
+  "prefix": "10.1145",
+  "author": [
+    {
+      "given": "Robert",
+      "family": "Tolksdorf",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Free University of Berlin, Berlin, Germany"
+        }
+      ]
+    },
+    {
+      "given": "Elena Paslaru Bontas",
+      "family": "Simperl",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Free University of Berlin, Berlin, Germany"
+        }
+      ]
+    }
+  ],
+  "member": "320",
+  "published-online": {
+    "date-parts": [
+      [
+        2006,
+        8,
+        21
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_2_1_1_1",
+      "unstructured": "M. Altheim and S. McCarron. XHTML 1.1 - Module-based XHTML. W3C Recommendation 2001. http://www.w3.org/TR/xhtml11.  M. Altheim and S. McCarron. XHTML 1.1 - Module-based XHTML. W3C Recommendation 2001. http://www.w3.org/TR/xhtml11."
+    },
+    {
+      "key": "e_1_3_2_1_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0169-7552(95)00028-6"
+    },
+    {
+      "key": "e_1_3_2_1_3_1",
+      "volume-title": "Demo Session at the European Semantic Web Conference ESWC2005",
+      "author": "Aumüller D.",
+      "year": "2005",
+      "unstructured": "D. Aumüller . Semantic Authoring and Retrieval in a Wiki . In Demo Session at the European Semantic Web Conference ESWC2005 , 2005 . D. Aumüller. Semantic Authoring and Retrieval in a Wiki. In Demo Session at the European Semantic Web Conference ESWC2005, 2005."
+    },
+    {
+      "key": "e_1_3_2_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/ijhc.1997.0126"
+    },
+    {
+      "key": "e_1_3_2_1_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/scientificamerican0501-34"
+    },
+    {
+      "key": "e_1_3_2_1_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/ijhc.1997.0130"
+    },
+    {
+      "key": "e_1_3_2_1_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/345966.346028"
+    },
+    {
+      "key": "e_1_3_2_1_8_1",
+      "volume-title": "RDF Vocabulary Description Language 1.0: RDF Schema.",
+      "author": "Brickley D.",
+      "year": "2004",
+      "unstructured": "D. Brickley and R. V. Guha . RDF Vocabulary Description Language 1.0: RDF Schema. Available at http://www.w3.org/TR/rdf-schema/, 2004 . D. Brickley and R. V. Guha. RDF Vocabulary Description Language 1.0: RDF Schema. Available at http://www.w3.org/TR/rdf-schema/, 2004."
+    },
+    {
+      "key": "e_1_3_2_1_9_1",
+      "first-page": "101",
+      "article-title": "As we may think",
+      "volume": "176",
+      "author": "Bush V.",
+      "year": "1945",
+      "unstructured": "V. Bush . As we may think . Atlantic Monthly , 176 : 101 -- 108 , 1945 . V. Bush. As we may think. Atlantic Monthly, 176:101--108, 1945.",
+      "journal-title": "Atlantic Monthly"
+    },
+    {
+      "key": "e_1_3_2_1_10_1",
+      "volume-title": "Proceedings of the 1st International Workshop Wikis meet Semantics co-located with the ESWC2006 (to appear)",
+      "author": "Dello C.",
+      "year": "2006",
+      "unstructured": "C. Dello , E. Paslaru Bontas , and R. Tolksdorf . Creating and using semantic content with Makna . In Proceedings of the 1st International Workshop Wikis meet Semantics co-located with the ESWC2006 (to appear) , 2006 . C. Dello, E. Paslaru Bontas, and R. Tolksdorf. Creating and using semantic content with Makna. In Proceedings of the 1st International Workshop Wikis meet Semantics co-located with the ESWC2006 (to appear), 2006."
+    },
+    {
+      "key": "e_1_3_2_1_11_1",
+      "volume-title": "Proceedings of the 12th International World Wide Web Conference WWW2003",
+      "author": "Dolog P.",
+      "year": "2003",
+      "unstructured": "P. Dolog , R. Gavriloaie , W. Nejdl , and J. Brase . Integrating adaptive hypermedia techniques and open RDF-based environments . In Proceedings of the 12th International World Wide Web Conference WWW2003 , 2003 . P. Dolog, R. Gavriloaie, W. Nejdl, and J. Brase. Integrating adaptive hypermedia techniques and open RDF-based environments. In Proceedings of the 12th International World Wide Web Conference WWW2003, 2003."
+    },
+    {
+      "key": "e_1_3_2_1_12_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-3-662-04396-7",
+      "volume-title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic Commerce",
+      "author": "Fensel D.",
+      "year": "2001",
+      "unstructured": "D. Fensel . Ontologies: A Silver Bullet for Knowledge Management and Electronic Commerce . Springer Verlag , 2001 . D. Fensel. Ontologies: A Silver Bullet for Knowledge Management and Electronic Commerce. Springer Verlag, 2001."
+    },
+    {
+      "key": "e_1_3_2_1_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/514183.514185"
+    },
+    {
+      "key": "e_1_3_2_1_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5555/647458.728087"
+    },
+    {
+      "key": "e_1_3_2_1_15_1",
+      "unstructured": "J. Garrett. Ajax: A New Approach to Web Applications (white paper).  J. Garrett. Ajax: A New Approach to Web Applications (white paper)."
+    },
+    {
+      "key": "e_1_3_2_1_16_1",
+      "unstructured": "http://www.adaptivepath.com/publications/essays/archives/000385.php February 2005.  http://www.adaptivepath.com/publications/essays/archives/000385.php February 2005."
+    },
+    {
+      "key": "e_1_3_2_1_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5555/246554.246556"
+    },
+    {
+      "key": "e_1_3_2_1_18_1",
+      "unstructured": "P.\n      Hayes\n     and \n      B.\n      McBride\n    . \n      RDF\n      Semantics\n    .\n   Available at http://www.w3.org/TR/rdf-mt/ 2004\n  .  P. Hayes and B. McBride. RDF Semantics. Available at http://www.w3.org/TR/rdf-mt/ 2004."
+    },
+    {
+      "key": "e_1_3_2_1_19_1",
+      "volume-title": "SWRL: A Semantic Web Rule Language Combining OWL and RuleML.",
+      "author": "Horrocks I.",
+      "year": "2004",
+      "unstructured": "I. Horrocks , P. F. Patel-Schneider , H. Boley , S. Tabet , B. Grosof , and M. Dean . SWRL: A Semantic Web Rule Language Combining OWL and RuleML. Available at http://www.w3.org/Submission/SWRL/, 2004 . I. Horrocks, P. F. Patel-Schneider, H. Boley, S. Tabet, B. Grosof, and M. Dean. SWRL: A Semantic Web Rule Language Combining OWL and RuleML. Available at http://www.w3.org/Submission/SWRL/, 2004."
+    },
+    {
+      "volume-title": "Architecture of the World Wide Web",
+      "author": "Jacobs I.",
+      "key": "e_1_3_2_1_20_1",
+      "unstructured": "I. Jacobs and N. Walshauthor . Architecture of the World Wide Web , Volume One. W3C Recommendation, 2004 . http://www.w3.org/TR/webarch. I. Jacobs and N. Walshauthor. Architecture of the World Wide Web, Volume One. W3C Recommendation, 2004. http://www.w3.org/TR/webarch."
+    },
+    {
+      "key": "e_1_3_2_1_21_1",
+      "first-page": "14",
+      "article-title": "Transclusions in an HTML-Based Environment",
+      "author": "Kolbitsch J.",
+      "year": "2006",
+      "unstructured": "J. Kolbitsch and H. Maurer . Transclusions in an HTML-Based Environment . Journal of Computing and Information Technology , 14 , 2006 . to appear. J. Kolbitsch and H. Maurer. Transclusions in an HTML-Based Environment. Journal of Computing and Information Technology, 14, 2006. to appear.",
+      "journal-title": "Journal of Computing and Information Technology"
+    },
+    {
+      "key": "e_1_3_2_1_22_1",
+      "volume-title": "The Wiki Way: Quick Collaboration on the Web",
+      "author": "Leuf B.",
+      "year": "2001",
+      "unstructured": "B. Leuf and W. Cunningham . The Wiki Way: Quick Collaboration on the Web . Addison-Wesley , 2001 . B. Leuf and W. Cunningham. The Wiki Way: Quick Collaboration on the Web. Addison-Wesley, 2001."
+    },
+    {
+      "key": "e_1_3_2_1_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/208344.208353"
+    },
+    {
+      "key": "e_1_3_2_1_24_1",
+      "volume-title": "Hypertext and hypermedia",
+      "author": "Nielsen J.",
+      "year": "1990",
+      "unstructured": "J. Nielsen . Hypertext and hypermedia . Academic Press Professional, Inc. , San Diego, CA, USA , 1990 . J. Nielsen. Hypertext and hypermedia. Academic Press Professional, Inc., San Diego, CA, USA, 1990."
+    },
+    {
+      "key": "e_1_3_2_1_25_1",
+      "volume-title": "OWL Web Ontology Language Semantics and Abstract Syntax.",
+      "author": "Patel-Schneider P. F.",
+      "year": "2004",
+      "unstructured": "P. F. Patel-Schneider , P. Hayes , and I. Horrocks . OWL Web Ontology Language Semantics and Abstract Syntax. Available at http://www.w3.org/TR/owl-absyn/, 2004 . P. F. Patel-Schneider, P. Hayes, and I. Horrocks. OWL Web Ontology Language Semantics and Abstract Syntax. Available at http://www.w3.org/TR/owl-absyn/, 2004."
+    },
+    {
+      "key": "e_1_3_2_1_26_1",
+      "unstructured": "PmWiki. WikiGroup. http://www.pmwiki.org/wiki/PmWiki/WikiGroup.  PmWiki. WikiGroup. http://www.pmwiki.org/wiki/PmWiki/WikiGroup."
+    },
+    {
+      "key": "e_1_3_2_1_27_1",
+      "unstructured": "PmWiki. WikiTrails. http://pmwiki.org/wiki/PmWiki/WikiTrails.  PmWiki. WikiTrails. http://pmwiki.org/wiki/PmWiki/WikiTrails."
+    },
+    {
+      "key": "e_1_3_2_1_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/234828.234831"
+    },
+    {
+      "key": "e_1_3_2_1_29_1",
+      "volume-title": "Salzburg Research",
+      "author": "S. Schaffert. IkeWiki - A Semantic Wiki for Collaborative Knowledge Management.",
+      "year": "2006",
+      "unstructured": "S. Schaffert. IkeWiki - A Semantic Wiki for Collaborative Knowledge Management. Technical report , Salzburg Research , 2006 . S. Schaffert. IkeWiki - A Semantic Wiki for Collaborative Knowledge Management. Technical report, Salzburg Research, 2006."
+    },
+    {
+      "key": "e_1_3_2_1_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/MIS.2005.83"
+    },
+    {
+      "key": "e_1_3_2_1_31_1",
+      "volume-title": "International Handbooks on Information Systems",
+      "author": "Staab S.",
+      "year": "2004",
+      "unstructured": "S. Staab and R. Studer , editors . Handbook on Ontologies . International Handbooks on Information Systems . Springer Verlag , 2004 . S. Staab and R. Studer, editors. Handbook on Ontologies. International Handbooks on Information Systems. Springer Verlag, 2004."
+    },
+    {
+      "key": "e_1_3_2_1_32_1",
+      "volume-title": "Poster Session at the International Semantic Web Conference ISWC2004",
+      "author": "Tazzoli R.",
+      "year": "2004",
+      "unstructured": "R. Tazzoli and P. C. et al. Towards a Semantic Wiki Wiki Web . In Poster Session at the International Semantic Web Conference ISWC2004 , 2004 . R. Tazzoli and P. C. et al. Towards a Semantic Wiki Wiki Web. In Poster Session at the International Semantic Web Conference ISWC2004, 2004."
+    },
+    {
+      "key": "e_1_3_2_1_33_1",
+      "unstructured": "TWiki. ManagingWebs. http://twiki.org/cgi-bin/view/TWiki/ManagingWebs.  TWiki. ManagingWebs. http://twiki.org/cgi-bin/view/TWiki/ManagingWebs."
+    },
+    {
+      "key": "e_1_3_2_1_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/345966.346030"
+    },
+    {
+      "key": "e_1_3_2_1_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1135777.1135863"
+    },
+    {
+      "key": "e_1_3_2_1_36_1",
+      "unstructured": "Wikimedia. Help:Category. http://meta.wikimedia.org/wiki/Category.  Wikimedia. Help:Category. http://meta.wikimedia.org/wiki/Category."
+    },
+    {
+      "key": "e_1_3_2_1_37_1",
+      "unstructured": "Wikimedia. Help:Link. http://meta.wikimedia.org/wiki/Link.  Wikimedia. Help:Link. http://meta.wikimedia.org/wiki/Link."
+    },
+    {
+      "key": "e_1_3_2_1_38_1",
+      "unstructured": "Wikimedia. Help:Template. http://meta.wikimedia.org/wiki/Help:Templates.  Wikimedia. Help:Template. http://meta.wikimedia.org/wiki/Help:Templates."
+    }
+  ],
+  "event": {
+    "name": "HT06: 17th Conference on Hypertext and Hypermedia",
+    "sponsor": [
+      "SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web",
+      "ACM Association for Computing Machinery"
+    ],
+    "location": "Odense Denmark",
+    "acronym": "HT06"
+  },
+  "container-title": [
+    "Proceedings of the 2006 international symposium on Wikis"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://dl.acm.org/doi/10.1145/1149453.1149470",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://dl.acm.org/doi/pdf/10.1145/1149453.1149470",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        18
+      ]
+    ],
+    "date-time": "2025-06-18T16:31:13Z",
+    "timestamp": 1750264273000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dl.acm.org/doi/10.1145/1149453.1149470"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2006,
+        8,
+        21
+      ]
+    ]
+  },
+  "references-count": 38,
+  "alternative-id": [
+    "10.1145/1149453.1149470",
+    "10.1145/1149453"
+  ],
+  "URL": "https://doi.org/10.1145/1149453.1149470",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2006,
+        8,
+        21
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2006-08-21",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

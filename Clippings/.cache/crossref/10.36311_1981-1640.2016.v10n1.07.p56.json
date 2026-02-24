@@ -1,0 +1,147 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        14
+      ]
+    ],
+    "date-time": "2025-05-14T11:22:08Z",
+    "timestamp": 1747221728106,
+    "version": "3.40.5"
+  },
+  "reference-count": 0,
+  "publisher": "Faculdade de Filosofia e Ciências",
+  "issue": "1",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "BRAJIS"
+  ],
+  "abstract": "<jats:p>O presente artigo tem o objetivo de apresentar o modelo CIDOC CRM, um padrão capaz de integrar informação cultural de variadas fontes. Trata-se de uma ontologia formal de referência que busca atender a uma crescente demanda por pesquisa orientada, estudos comparativos, transferência de dados e migração de dados entre fontes heterogêneas de conteúdos culturais. Como a maioria dos aplicativos é\r\nexecutada em ambientes relativamente similares, a complexidade da aplicação se torna insignificante entre os sistemas. A pesquisa apoiou-se em uma investigação teórica, com revisão de literatura explorando representações conceituais e buscando compreender as potencialidades deste\r\nmodelo de padrão internacional (ISO 21127), multidisciplinar e que tem como um de seus objetivos corrigir o descompasso dos problemas que os cientistas da computação e os implementadores de sistemas têm para compreender a lógica dos conceitos culturais. Se conclui que ontologias não são\r\nespecíficas de apenas um domínio. Uma série de domínios e subdomínios diferentes utiliza os mesmos conceitos básicos. Entendemos estar diante de uma noção de método científico mostrando que este modelo é útil em vários domínios e tem sido capaz de fazê-lo com um conjunto muito pequeno de\r\nconceitos. Tal modelo proporciona grande capacidade de mover os dados entre diferentes grupos com riqueza semântica. O CRM mostra que a descrição dos problemas semânticos intrincados em linguagem comum não só é passível de erro, havendo ainda o risco de imprecisão e certo grau de ambiguidade, apesar de todo o esforço que se empreende para uma precisão da argumentação.</jats:p>",
+  "DOI": "10.36311/1981-1640.2016.v10n1.07.p56",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        7
+      ]
+    ],
+    "date-time": "2019-10-07T15:02:57Z",
+    "timestamp": 1570460577000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Modelo CIDOC CRM"
+  ],
+  "prefix": "10.36311",
+  "volume": "10",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1004-3058",
+      "authenticated-orcid": false,
+      "given": "Hercules Pimenta",
+      "family": "Santos",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "22151",
+  "published-online": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        1
+      ]
+    ]
+  },
+  "container-title": [
+    "Brazilian Journal of Information Science: research trends"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://revistas.marilia.unesp.br/index.php/bjis/article/download/5060/3975",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://revistas.marilia.unesp.br/index.php/bjis/article/download/5060/3975",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        4,
+        19
+      ]
+    ],
+    "date-time": "2021-04-19T11:41:03Z",
+    "timestamp": 1618832463000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://revistas.marilia.unesp.br/index.php/bjis/article/view/5060"
+    }
+  },
+  "subtitle": [
+    "interoperabilidade semântica de informações culturais"
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.36311/1981-1640.2016.v10n1.07.p56",
+  "relation": {},
+  "ISSN": [
+    "1981-1640"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "1981-1640"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        1
+      ]
+    ]
+  }
+}

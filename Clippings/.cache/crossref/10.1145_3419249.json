@@ -1,0 +1,119 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        25
+      ]
+    ],
+    "date-time": "2025-06-25T07:35:10Z",
+    "timestamp": 1750836910252
+  },
+  "publisher-location": "New York, NY, USA",
+  "reference-count": 0,
+  "publisher": "ACM",
+  "isbn-type": [
+    {
+      "value": "9781450375795",
+      "type": "print"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        25
+      ]
+    ]
+  },
+  "DOI": "10.1145/3419249",
+  "type": "proceedings",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        27
+      ]
+    ],
+    "date-time": "2020-10-27T01:00:52Z",
+    "timestamp": 1603760452000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society"
+  ],
+  "prefix": "10.1145",
+  "member": "320",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        26
+      ]
+    ]
+  },
+  "event": {
+    "name": "NordiCHI '20: Shaping Experiences, Shaping Society",
+    "location": "Tallinn Estonia",
+    "acronym": "NordiCHI '20"
+  },
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        14
+      ]
+    ],
+    "date-time": "2023-01-14T20:49:05Z",
+    "timestamp": 1673729345000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dl.acm.org/doi/proceedings/10.1145/3419249"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        25
+      ]
+    ]
+  },
+  "ISBN": [
+    "9781450375795"
+  ],
+  "references-count": 0,
+  "alternative-id": [
+    "10.1145/3419249"
+  ],
+  "URL": "https://doi.org/10.1145/3419249",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        25
+      ]
+    ]
+  }
+}

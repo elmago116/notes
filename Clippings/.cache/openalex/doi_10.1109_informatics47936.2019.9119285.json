@@ -1,0 +1,620 @@
+{
+  "id": "https://openalex.org/W3036958379",
+  "doi": "https://doi.org/10.1109/informatics47936.2019.9119285",
+  "title": "Logic and Semantic Technologies for Computer Science Education",
+  "display_name": "Logic and Semantic Technologies for Computer Science Education",
+  "publication_year": 2019,
+  "publication_date": "2019-11-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3036958379",
+    "doi": "https://doi.org/10.1109/informatics47936.2019.9119285",
+    "mag": "3036958379"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/informatics47936.2019.9119285",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "proceedings-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5043535857",
+        "display_name": "Wolfgang Schreiner",
+        "orcid": "https://orcid.org/0000-0001-9860-1557"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121883995",
+          "display_name": "Johannes Kepler University of Linz",
+          "ror": "https://ror.org/052r2xn60",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121883995"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Wolfgang Schreiner",
+      "raw_affiliation_strings": [
+        "Research Institute for Symbolic Computation (RISC), Johannes Kepler University, Linz, Austria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Research Institute for Symbolic Computation (RISC), Johannes Kepler University, Linz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I121883995"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5043535857"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I121883995"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.562,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.771508,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 78,
+    "max": 80
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "000415",
+    "last_page": "000420"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10126",
+    "display_name": "Logic, programming, and type systems",
+    "score": 0.9998,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10126",
+      "display_name": "Logic, programming, and type systems",
+      "score": 0.9998,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10142",
+      "display_name": "Formal Methods in Verification",
+      "score": 0.999,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11010",
+      "display_name": "Logic, Reasoning, and Knowledge",
+      "score": 0.9986,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/formal-science",
+      "display_name": "Formal science",
+      "score": 0.53852254
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C55439883",
+      "wikidata": "https://www.wikidata.org/wiki/Q360812",
+      "display_name": "Correctness",
+      "level": 2,
+      "score": 0.85594857
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7435406
+    },
+    {
+      "id": "https://openalex.org/C184337299",
+      "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+      "display_name": "Semantics (computer science)",
+      "level": 2,
+      "score": 0.56558347
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.5455177
+    },
+    {
+      "id": "https://openalex.org/C119026595",
+      "wikidata": "https://www.wikidata.org/wiki/Q816264",
+      "display_name": "Formal science",
+      "level": 2,
+      "score": 0.53852254
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.5262496
+    },
+    {
+      "id": "https://openalex.org/C75606506",
+      "wikidata": "https://www.wikidata.org/wiki/Q1049183",
+      "display_name": "Formal methods",
+      "level": 2,
+      "score": 0.5040137
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.4986391
+    },
+    {
+      "id": "https://openalex.org/C124047733",
+      "wikidata": "https://www.wikidata.org/wiki/Q5157327",
+      "display_name": "Computational logic",
+      "level": 3,
+      "score": 0.46578968
+    },
+    {
+      "id": "https://openalex.org/C110251889",
+      "wikidata": "https://www.wikidata.org/wiki/Q1569697",
+      "display_name": "Model checking",
+      "level": 2,
+      "score": 0.45019463
+    },
+    {
+      "id": "https://openalex.org/C80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "level": 1,
+      "score": 0.34723425
+    },
+    {
+      "id": "https://openalex.org/C102993220",
+      "wikidata": "https://www.wikidata.org/wiki/Q387196",
+      "display_name": "Description logic",
+      "level": 2,
+      "score": 0.3145436
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.12608257
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/informatics47936.2019.9119285",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.74,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 10,
+  "referenced_works": [
+    "https://openalex.org/W2089010774",
+    "https://openalex.org/W2106192381",
+    "https://openalex.org/W2130427425",
+    "https://openalex.org/W2240504239",
+    "https://openalex.org/W2538721342",
+    "https://openalex.org/W2794706607",
+    "https://openalex.org/W2806743817",
+    "https://openalex.org/W2922787213",
+    "https://openalex.org/W2948024212",
+    "https://openalex.org/W3104105531"
+  ],
+  "related_works": [
+    "https://openalex.org/W3092816032",
+    "https://openalex.org/W2368403951",
+    "https://openalex.org/W2367778417",
+    "https://openalex.org/W2190118153",
+    "https://openalex.org/W2103708577",
+    "https://openalex.org/W2076668473",
+    "https://openalex.org/W2037121848",
+    "https://openalex.org/W1677321822",
+    "https://openalex.org/W1542632923",
+    "https://openalex.org/W136399947"
+  ],
+  "abstract_inverted_index": {
+    "We": [
+      0
+    ],
+    "report": [
+      1
+    ],
+    "on": [
+      2,
+      98
+    ],
+    "some": [
+      3
+    ],
+    "projects": [
+      4
+    ],
+    "to": [
+      5,
+      16,
+      27
+    ],
+    "develop": [
+      6
+    ],
+    "software": [
+      7,
+      62
+    ],
+    "rooted": [
+      8
+    ],
+    "in": [
+      9,
+      14,
+      19,
+      95
+    ],
+    "formal": [
+      10,
+      100,
+      103
+    ],
+    "logic": [
+      11
+    ],
+    "and": [
+      12,
+      22,
+      67,
+      93,
+      102
+    ],
+    "semantics": [
+      13
+    ],
+    "order": [
+      15
+    ],
+    "enhance": [
+      17
+    ],
+    "education": [
+      18
+    ],
+    "computer": [
+      20
+    ],
+    "science": [
+      21
+    ],
+    "mathematics.": [
+      23
+    ],
+    "The": [
+      24
+    ],
+    "goal": [
+      25
+    ],
+    "is": [
+      26,
+      46,
+      53
+    ],
+    "let": [
+      28
+    ],
+    "students": [
+      29
+    ],
+    "actively": [
+      30
+    ],
+    "engage": [
+      31
+    ],
+    "with": [
+      32,
+      83
+    ],
+    "the": [
+      33,
+      41,
+      57,
+      61,
+      71,
+      74,
+      84
+    ],
+    "course": [
+      34
+    ],
+    "material": [
+      35
+    ],
+    "by": [
+      36
+    ],
+    "solving": [
+      37
+    ],
+    "concrete": [
+      38
+    ],
+    "problems": [
+      39
+    ],
+    "where": [
+      40
+    ],
+    "correctness": [
+      42
+    ],
+    "of": [
+      43
+    ],
+    "a": [
+      44,
+      51,
+      87
+    ],
+    "solution": [
+      45,
+      52
+    ],
+    "automatically": [
+      47
+    ],
+    "checked;": [
+      48
+    ],
+    "furthermore,": [
+      49
+    ],
+    "if": [
+      50
+    ],
+    "not": [
+      54
+    ],
+    "correct": [
+      55
+    ],
+    "or": [
+      56
+    ],
+    "student": [
+      58,
+      72
+    ],
+    "gets": [
+      59
+    ],
+    "stuck,": [
+      60
+    ],
+    "shall": [
+      63
+    ],
+    "provide": [
+      64
+    ],
+    "additional": [
+      65
+    ],
+    "insight": [
+      66
+    ],
+    "hints": [
+      68
+    ],
+    "that": [
+      69
+    ],
+    "aid": [
+      70
+    ],
+    "towards": [
+      73
+    ],
+    "desired": [
+      75
+    ],
+    "result.": [
+      76
+    ],
+    "In": [
+      77
+    ],
+    "particular,": [
+      78
+    ],
+    "we": [
+      79
+    ],
+    "describe": [
+      80
+    ],
+    "our": [
+      81
+    ],
+    "experience": [
+      82
+    ],
+    "RISCAL": [
+      85
+    ],
+    "software,": [
+      86
+    ],
+    "model": [
+      88
+    ],
+    "checker": [
+      89
+    ],
+    "for": [
+      90
+    ],
+    "mathematical": [
+      91
+    ],
+    "theories": [
+      92
+    ],
+    "algorithms,": [
+      94
+    ],
+    "university": [
+      96
+    ],
+    "courses": [
+      97
+    ],
+    "logic,": [
+      99
+    ],
+    "methods,": [
+      101
+    ],
+    "modeling.": [
+      104
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3036958379",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-08-18T21:59:22.514415",
+  "created_date": "2020-06-25"
+}

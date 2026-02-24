@@ -1,0 +1,1981 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2024-04-29T09:34:01Z",
+      "timestamp": 1714383241969
+    },
+    "reference-count": 0,
+    "publisher": "Chapman and Hall/CRC",
+    "isbn-type": [
+      {
+        "value": "9781584889335",
+        "type": "print"
+      },
+      {
+        "value": "9781584889342",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          14
+        ]
+      ]
+    },
+    "DOI": "10.1201/9781584889342.ch9",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2010-02-19T22:37:02Z",
+      "timestamp": 1266619022000
+    },
+    "page": "173-185",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Mark Up Your Web Document, Please!"
+    ],
+    "prefix": "10.1201",
+    "author": [
+      {
+        "given": "Liyang",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          21
+        ]
+      ]
+    },
+    "container-title": [
+      "Introduction to the Semantic Web and Semantic Web Services"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.crcnetbase.com/doi/pdf/10.1201/9781584889342.ch9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2016-09-09T00:35:56Z",
+      "timestamp": 1473381356000
+    },
+    "score": 29.746515,
+    "resource": {
+      "primary": {
+        "URL": "http://www.crcnetbase.com/doi/10.1201/9781584889342.ch9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          14
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781584889335",
+      "9781584889342"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.1201/9781584889342.ch9",
+      "10.1201/9781584889342"
+    ],
+    "URL": "https://doi.org/10.1201/9781584889342.ch9",
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T16:33:58Z",
+      "timestamp": 1649090038811
+    },
+    "reference-count": 28,
+    "publisher": "Elsevier BV",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SSRN Journal"
+    ],
+    "DOI": "10.2139/ssrn.2854529",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2016-10-26T11:01:04Z",
+      "timestamp": 1477479664000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      ":                                   (Document   Book   Semantic Web: Old Science Documentation's Contribution)"
+    ],
+    "prefix": "10.2139",
+    "author": [
+      {
+        "given": "Milena",
+        "family": "Tsvetkova",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "ref1",
+        "author": "Pol Otle",
+        "year": "1931",
+        "journal-title": "Rukovodstvo k administrirovaniyu. 2. izd. -Moskva-Leningrad: Tekhnika upravleniya, 1931. -80 s. (????, ????. ??????????? ? ?????????????????. 2. ???. -M?????-?????????: ??????? ??????????"
+      },
+      {
+        "key": "ref2",
+        "volume": "139",
+        "author": "Ronald E Day",
+        "year": "2001",
+        "journal-title": "The Modern Invention of Information: Discourse, History, and"
+      },
+      {
+        "key": "ref3",
+        "first-page": "105",
+        "article-title": "Comm�moration du XXe anniversaire de la section INFODOC",
+        "author": "J.-F. Le F�eg",
+        "year": "1998",
+        "journal-title": "Information et documentation: du r�el au virtuel"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ww/9780199540884.013.u189892",
+        "author": "Walter Gardner",
+        "year": "1911",
+        "journal-title": "Speakers Give Sound Advice. // Syracuse Post Standard"
+      },
+      {
+        "key": "ref5",
+        "volume": "542",
+        "author": "Walter Isaacson",
+        "year": "2014",
+        "journal-title": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution"
+      },
+      {
+        "key": "ref6",
+        "author": "Le Mundaneum Dans La Presse Internationale. // Le Mundaneum",
+        "year": "2015",
+        "journal-title": "Archive Centre of the French Community of Wallonia-Brussels and Temporary Exhibition Space"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "author": "Le Mus�e",
+        "journal-title": "deuxi�me ann�e, 7e et 8e fascicules, d�cembre 1908, Bruxelles. SCIENTIFIC ENQUIRY IN THE CONTEMPORARY WORLD: THEORETICAL BASI?S AND INNOVATIVE APPROACH ? 7",
+        "DOI": "10.15350/l_26/4_3"
+      },
+      {
+        "key": "ref8",
+        "author": "Fran�oise Levie",
+        "year": "2006",
+        "journal-title": "Bruxelles: Les Impressions nouvelles"
+      },
+      {
+        "key": "ref9",
+        "author": "L&apos;homme Qui Voulait Classer Le Monde",
+        "journal-title": "The Man Who Wanted to Classify the World: From the Index Card to the Internet = De Man Die De Wereld in Kaart Wou Brengen. A film by Franc oise Levie; Original script Franc oise Levie"
+      },
+      {
+        "key": "ref10",
+        "article-title": "Belgium: Sofidoc, Wild Heart Productions, RTBF (Belgian Television); Distributed by Memento Productions",
+        "year": "2003",
+        "journal-title": "DVD-video: 1 videodisc: 60 min"
+      },
+      {
+        "key": "ref11",
+        "author": "Paul Otlet",
+        "year": "1929",
+        "journal-title": "Atlas de la civilisation universelle: conception, organisation, m�thodes de la pr�paration du mat�riel didactique en coop�ration internationale par Paul Otlet et Anne Oderfeld"
+      },
+      {
+        "key": "ref12",
+        "first-page": "87",
+        "author": "Paul Otlet",
+        "year": "1906",
+        "journal-title": "International Organisation and Dissemination of Knowledge: Selected Essays of Paul Otlet. FID 684"
+      },
+      {
+        "key": "ref13",
+        "first-page": "204",
+        "author": "Paul Otlet",
+        "year": "1990",
+        "journal-title": "International Organisation and Dissemination of Knowledge: Selected Essays of Paul Otlet"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "first-page": "275",
+        "DOI": "10.3406/colan.1988.1075",
+        "volume": "16",
+        "author": "Paul Otlet",
+        "year": "1911",
+        "journal-title": "Bulletin"
+      },
+      {
+        "key": "ref15",
+        "article-title": "La function et les transformations du Livre. R�sum� de la conf�rence faite � la Maison du Livre",
+        "author": "Paul Otlet",
+        "year": "1908",
+        "journal-title": "Brussels: Mus�e du Livre"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "first-page": "379",
+        "DOI": "10.3406/colan.1988.1075",
+        "author": "Paul Otlet",
+        "year": "1913",
+        "journal-title": "Le livre dans les sciences: Conf�rence faite � la maison du Livre par M. Paul Otlet. -Bruxelles: Mus�e du Livre"
+      },
+      {
+        "key": "ref17",
+        "author": "Paul Otlet",
+        "year": "1901",
+        "journal-title": "Les aspects du livre: conf�rence inaugurale de l'exposition du livre belge d'art et de litt�rature organis�e � Ostend par le Mus�e du livre"
+      },
+      {
+        "key": "ref18",
+        "author": "?8 Publication",
+        "year": "1906",
+        "journal-title": "Mus�e du Livre"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3406/colan.1988.1075",
+        "author": "Paul Otlet",
+        "year": "1934",
+        "journal-title": "Th�orie et Pratique. -Bruxelles: Editiones Mundaneum"
+      },
+      {
+        "key": "ref20",
+        "author": "Paul Otlet",
+        "journal-title": "Un peu de bibliographie"
+      },
+      {
+        "key": "ref21",
+        "first-page": "11",
+        "author": "Palais",
+        "year": "1990",
+        "journal-title": "International Organisation and Dissemination of Knowledge: Selected Essays of Paul Otlet. FID 684"
+      },
+      {
+        "key": "ref22",
+        "first-page": "259",
+        "article-title": "The Mundaneum and the digital culture",
+        "volume": "43",
+        "author": "G R�zsa",
+        "year": "1996",
+        "journal-title": "Tudom�nyos �s m�szaki t�j�koztat�s"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "first-page": "2313",
+        "DOI": "10.1002/asi.21607",
+        "article-title": "Facing Interfaces: Paul Otlet's Visualizations of Data Integration",
+        "volume": "62",
+        "author": "Charles Van Den Heuvel",
+        "year": "2011",
+        "journal-title": "Journal of the American Society for Information Science and Technology"
+      },
+      {
+        "key": "ref24",
+        "first-page": "16",
+        "author": "Van Den Heuvel",
+        "year": "2003",
+        "journal-title": "Une recherche sur le Mundaneum et les pr�curseurs europ�ens de l'Internet. // Transnational associations = Associations transnationales"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "first-page": "141",
+        "DOI": "10.4324/9781315580951-8",
+        "article-title": "Building society, constructing knowledge, weaving the web: Otlet's visualizations of a global information society and his concept of a universal civilization",
+        "author": "Charles Van Den Heuvel",
+        "year": "2008",
+        "journal-title": "European Modernism and the Information Society: Informing the Present"
+      },
+      {
+        "key": "ref26",
+        "volume": "360",
+        "author": "Alex Wright",
+        "year": "2014",
+        "journal-title": "Cataloging the World: Paul Otlet and the Birth of the Information Age"
+      },
+      {
+        "key": "ref27",
+        "volume": "286",
+        "author": "Alex Wright",
+        "year": "2007",
+        "journal-title": "Glut: Mastering Information Through the Ages"
+      },
+      {
+        "key": "ref28",
+        "author": "Alex Wright",
+        "year": "2008",
+        "journal-title": "The Web Time Forgot. // The New York Times"
+      }
+    ],
+    "container-title": [
+      "SSRN Electronic Journal"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2019-05-01T06:43:27Z",
+      "timestamp": 1556693007000
+    },
+    "score": 29.702202,
+    "resource": {
+      "primary": {
+        "URL": "http://www.ssrn.com/abstract=2854529"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "references-count": 28,
+    "URL": "https://doi.org/10.2139/ssrn.2854529",
+    "ISSN": [
+      "1556-5068"
+    ],
+    "issn-type": [
+      {
+        "value": "1556-5068",
+        "type": "electronic"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T04:40:45Z",
+      "timestamp": 1750308045329,
+      "version": "3.41.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 0,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              10,
+              10
+            ]
+          ],
+          "date-time": "2006-10-10T00:00:00Z",
+          "timestamp": 1160438400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          10,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1145/3245611",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2023-01-07T05:53:11Z",
+      "timestamp": 1673070791000
+    },
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Session details: Document editing for the web"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "D. F.",
+        "family": "Brailsford",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Nottingham"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2006,
+          10,
+          10
+        ]
+      ]
+    },
+    "event": {
+      "name": "DocEng06: ACM Symposium on Document Engineering",
+      "sponsor": [
+        "SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web",
+        "ACM Association for Computing Machinery"
+      ],
+      "location": "Amsterdam The Netherlands",
+      "acronym": "DocEng06"
+    },
+    "container-title": [
+      "Proceedings of the 2006 ACM symposium on Document engineering"
+    ],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3245611",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T15:14:30Z",
+      "timestamp": 1750259670000
+    },
+    "score": 29.004543,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3245611"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          10,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "10.1145/3245611",
+      "10.1145/1166160"
+    ],
+    "URL": "https://doi.org/10.1145/3245611",
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          10,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2006-10-10",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2023-09-26T05:45:55Z",
+      "timestamp": 1695707155336
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "group-title": "SSRN",
+    "reference-count": 22,
+    "publisher": "Elsevier BV",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2139/ssrn.4583282",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2023-09-25T19:17:20Z",
+      "timestamp": 1695669440000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "An Explorative Study on Document Type Assignment Of Review Articles In Web of Science, Scopus and Journals' Website"
+    ],
+    "prefix": "10.2139",
+    "author": [
+      {
+        "given": "Manman",
+        "family": "Zhu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xinyue",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fuyou",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liying",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhesi",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.3152/147154403781776645",
+        "article-title": "Characteristics of highly cited papers",
+        "volume": "12",
+        "author": "D W Aksnes",
+        "year": "2003",
+        "journal-title": "RESEARCH EVALUATION"
+      },
+      {
+        "key": "ref2",
+        "author": "R Baeza-Yates",
+        "year": "1999",
+        "journal-title": "Modern Information Retrieval"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "711",
+        "DOI": "10.1007/s11192-020-03431-7",
+        "article-title": "Studying review articles in scientometrics and beyond: a research agenda",
+        "volume": "124",
+        "author": "C Bl�mel",
+        "year": "2020",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "ref4",
+        "first-page": "2072",
+        "author": "R Colebunders",
+        "year": "2013",
+        "journal-title": "On the Definition of a Review, and Does It Matter?"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1145/1143844.1143874",
+        "article-title": "The relationship between Precision-Recall and ROC curves",
+        "author": "J J Davis",
+        "year": "2006",
+        "journal-title": "Proceedings of the 23rd International Conference on Machine Learning"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1007/s11192-017-2483-y",
+        "article-title": "Document type assignment accuracy in the journal citation index data of Web of Science",
+        "volume": "113",
+        "author": "P Donner",
+        "year": "2017",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "ref7",
+        "first-page": "117",
+        "author": "E Garfield",
+        "year": "1987",
+        "journal-title": "Reviewing Review Literature. Part 2. The Place of Reviews in the Scientific Literature, Current Comments"
+      },
+      {
+        "key": "ref8",
+        "first-page": "3",
+        "author": "E Garfield",
+        "year": "1994",
+        "journal-title": "The Impact Factor, Current Contents"
+      },
+      {
+        "key": "ref9",
+        "first-page": "12",
+        "article-title": "An old proposal for a new profession: Scientific reviewing",
+        "volume": "10",
+        "author": "E Garfield",
+        "year": "1996",
+        "journal-title": "The Scientist"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1007/s11192-012-0738-1",
+        "article-title": "Document categories in the ISI Web of Knowledge: Misunderstanding the Social Sciences?",
+        "volume": "94",
+        "author": "A W Harzing",
+        "year": "2013",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "ref11",
+        "first-page": "1905",
+        "article-title": "Comprehensiveness and accuracy of document types: Comparison in web of science and scopus against publisher's definition",
+        "author": "K Hayashi",
+        "year": "2013",
+        "journal-title": "14th International Society of Scientometrics and Informetrics Conference"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1007/s11192-016-2158-0",
+        "article-title": "To include or not: the role of review papers in citation-based analysis",
+        "volume": "110",
+        "author": "M H C Ho",
+        "year": "2017",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1174",
+        "DOI": "10.1038/labinvest.3700688",
+        "article-title": "The impact of review articles",
+        "volume": "87",
+        "author": "C M Ketcham",
+        "year": "2007",
+        "journal-title": "Laboratory Investigation"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1501",
+        "DOI": "10.1002/asi.23166",
+        "article-title": "The Kiss of Death? The Effect of Being Cited in a Review on Subsequent Citations",
+        "volume": "65",
+        "author": "C Lachance",
+        "year": "2014",
+        "journal-title": "JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1697",
+        "DOI": "10.1007/s11192-019-03338-y",
+        "article-title": "Should highly cited items be excluded in impact factor calculation? The effect of review articles on journal impact factor",
+        "volume": "122",
+        "author": "L Lei",
+        "year": "2020",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "ref16",
+        "author": "R Mccullough",
+        "year": "2023",
+        "journal-title": "The Scopus Content Coverage Guide: A complete overview of the content coverage in Scopus and corresponding policies"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1015",
+        "DOI": "10.1016/j.joi.2018.08.006",
+        "article-title": "Overcitation and overrepresentation of review papers in the most cited papers",
+        "volume": "12",
+        "author": "R Miranda",
+        "year": "2018",
+        "journal-title": "JOURNAL OF INFORMETRICS"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.1016/j.joi.2010.01.002",
+        "article-title": "Measuring contextual citation impact of scientific journals",
+        "volume": "4",
+        "author": "H F Moed",
+        "year": "2010",
+        "journal-title": "JOURNAL OF INFORMETRICS"
+      },
+      {
+        "key": "ref19",
+        "volume": "8",
+        "author": "M C Teixeira",
+        "year": "2013",
+        "journal-title": "Incorrect Citations Give Unfair Credit to Review Authors in Ecology Journals"
+      },
+      {
+        "key": "ref20",
+        "article-title": "Web of Science All Databases Help-Document Types",
+        "author": "Wos",
+        "year": "2023",
+        "journal-title": "Clarivate Analytics"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1909",
+        "DOI": "10.18520/cs/v116/i11/1909-1914",
+        "article-title": "Comparison between Scopus, Web of Science, PubMed and publishers for mislabelled review papers",
+        "volume": "116",
+        "author": "A W Yeung",
+        "year": "2019",
+        "journal-title": "CURRENT SCIENCE"
+      },
+      {
+        "key": "ref22",
+        "first-page": "59",
+        "article-title": "The Influence of Review's Document Type Marking on the Results of Research Evaluation",
+        "volume": "17",
+        "author": "M M Zhu",
+        "year": "2022",
+        "journal-title": "Science Focus"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2023-09-25T22:25:02Z",
+      "timestamp": 1695680702000
+    },
+    "score": 28.619972,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ssrn.com/abstract=4583282"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "references-count": 22,
+    "URL": "https://doi.org/10.2139/ssrn.4583282",
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          6
+        ]
+      ],
+      "date-time": "2025-08-06T13:26:36Z",
+      "timestamp": 1754486796619
+    },
+    "reference-count": 0,
+    "publisher": "Univ. of Malaya",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "MJLIS"
+    ],
+    "abstract": "<jats:p>Document type (DT) assignment is an important feature from literature databases. This work evaluated how the literature databases and the publisher websites labeled “Top 100” (T100) papers, a recurring act for which researchers identify and analyze the 100 most cited entities (e.g. articles) within a pre-defined literature set. T100 papers concurrently indexed in the Web of Science (WoS), Scopus and PubMed databses were identified. Among the 248 T100 papers analyzed, no general consensus or consistent pattern was found for labeling T100 papers by the three data sources and the publishers’ websites. All four sources labeled between 30–40% of the T100 papers as reviews. However, PubMed mostly did not give DT labels to the rest of the papers whereas WOS, Scopus, and publisher websites labeled them as articles. The inter-rater agreement was only fair; the decision seemed to be influenced by whether the authors mentioned the word “review” suggestive of the publication/document type in the title, abstract or keywords.</jats:p>",
+    "DOI": "10.22452/mjlis.vol26no3.5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          5
+        ]
+      ],
+      "date-time": "2022-07-05T03:23:06Z",
+      "timestamp": 1656991386000
+    },
+    "page": "97-103",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Document type assignment by Web of Science, Scopus, PubMed, and publishers to “Top 100” papers"
+    ],
+    "prefix": "10.22452",
+    "volume": "26",
+    "author": [
+      {
+        "given": "Andy Wai",
+        "family": "Kan Yeung",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "9745",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          1
+        ]
+      ]
+    },
+    "container-title": [
+      "Malaysian Journal of Library &amp; Information Science"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          5
+        ]
+      ],
+      "date-time": "2022-07-05T03:23:13Z",
+      "timestamp": 1656991393000
+    },
+    "score": 28.513443,
+    "resource": {
+      "primary": {
+        "URL": "https://mjlis.um.edu.my/index.php/MJLIS/article/view/30560"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            12,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.22452/mjlis.vol26no3.5",
+    "ISSN": [
+      "1394-6234"
+    ],
+    "issn-type": [
+      {
+        "value": "1394-6234",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2025-04-29T04:03:17Z",
+      "timestamp": 1745899397364,
+      "version": "3.40.4"
+    },
+    "reference-count": 0,
+    "publisher": "Sciendo",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9788395669675"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.2478/9788395669675-003",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T09:00:45Z",
+      "timestamp": 1582189245000
+    },
+    "page": "16-131",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "CHAPTER 1. ACCOUNTING JOURNALS IN SCOPUS"
+    ],
+    "prefix": "10.2478",
+    "member": "374",
+    "container-title": [
+      "Accounting Journals: Scopus, Web of Science, SCImago"
+    ],
+    "link": [
+      {
+        "URL": "https://content.sciendo.com/view/book/9788395669675/10.2478/9788395669675-003.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.sciendo.com/chapterpdf/9788395669675/10.2478/9788395669675-003",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2025-04-28T11:56:38Z",
+      "timestamp": 1745841398000
+    },
+    "score": 28.254965,
+    "resource": {
+      "primary": {
+        "URL": "https://www.sciendo.com/chapter/9788395669675/10.2478/9788395669675-003"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          31
+        ]
+      ]
+    },
+    "ISBN": [
+      "9788395669675"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.2478/9788395669675-003",
+      "10.2478/9788395669675"
+    ],
+    "URL": "https://doi.org/10.2478/9788395669675-003",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          31
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2025-06-25T13:50:43Z",
+      "timestamp": 1750859443832,
+      "version": "3.37.3"
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 12,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783540261247"
+      },
+      {
+        "type": "electronic",
+        "value": "9783540315476"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "DOI": "10.1007/11431053_42",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2010-07-14T04:48:34Z",
+      "timestamp": 1279082914000
+    },
+    "page": "623-632",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Semantic Web-Based Document: Editing and Browsing in AktiveDoc"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Vitaveska",
+        "family": "Lanfranchi",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Fabio",
+        "family": "Ciravegna",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Daniela",
+        "family": "Petrelli",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "42_CR1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carr, L., Miles-Board, T., Woukeu, A., Wills, G., Hall, W.: The Case for Explicit Knowl-edge in Documents. In: Proceedings of ACM Symposium on Document Engineering, Milwaukee, Wisconsin, pp. 90–98",
+        "DOI": "10.1145/1030397.1030417"
+      },
+      {
+        "key": "42_CR2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ciravegna, F., Chapman, S., Dingli, A., Wilks, Y.: Learning to Harvest Informa-tion for the Semantic Web. In: Proceedings of the 1st European Semantic Web Symposium, Heraklion, Greece, May 10-12 (2004)",
+        "DOI": "10.1007/978-3-540-25956-5_22"
+      },
+      {
+        "key": "42_CR3",
+        "series-title": "Lecture Notes in Artificial Intelligence",
+        "doi-asserted-by": "publisher",
+        "first-page": "122",
+        "DOI": "10.1007/3-540-45810-7_15",
+        "volume-title": "Knowledge Engineering and Knowledge Management. Ontologies and the Semantic Web",
+        "author": "F. Ciravegna",
+        "year": "2002",
+        "unstructured": "Ciravegna, F., Dingli, A., Petrelli, D., Wilks, Y.: User-System Cooperation in Document Annotation based on Information Extraction. In: Gómez-Pérez, A., Benjamins, V.R. (eds.) EKAW 2002. LNCS (LNAI), vol. 2473, p. 122. Springer, Heidelberg (2002)"
+      },
+      {
+        "key": "42_CR4",
+        "series-title": "Frontiers in Artificial Intelligence and Applications",
+        "volume-title": "Annotation for the Seman-tic Web",
+        "author": "F. Ciravegna",
+        "year": "2003",
+        "unstructured": "Ciravegna, F., Wilks, Y.: Designing Adaptive Information Extraction for the Semantic Web in Amilcare. In: Handschuh, S., Staab, S. (eds.) Annotation for the Seman-tic Web. Frontiers in Artificial Intelligence and Applications. IOS Press, Amsterdam (2003)"
+      },
+      {
+        "key": "42_CR5",
+        "series-title": "Lecture Notes in Computer Science",
+        "doi-asserted-by": "publisher",
+        "first-page": "690",
+        "DOI": "10.1007/978-3-540-39718-2_44",
+        "volume-title": "The Semantic Web - ISWC 2003",
+        "author": "M. Dzbor",
+        "year": "2003",
+        "unstructured": "Dzbor, M., Domingue, J., Motta, E.: Magpie: Towards a Semantic Web Browser. In: Fensel, D., Sycara, K., Mylopoulos, J. (eds.) ISWC 2003. LNCS, vol. 2870, pp. 690–705. Springer, Heidelberg (2003)"
+      },
+      {
+        "key": "42_CR6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Glaser, H., Alani, H., Carr, L., Chapman, S., Ciravegna, F., Dingli, A., Gibbins, N., Harris, S., Schraefel, M.C., Shadbolt, N.: CS AKTiveSpace: Building a Semantic Web Application. In: Proceedings of the 1st European Semantic Web Symposium, Heraklion, Greece, May 10-12 (2004)",
+        "DOI": "10.1007/978-3-540-25956-5_29"
+      },
+      {
+        "key": "42_CR7",
+        "unstructured": "Goble, C.A., Bechhofer, S., Carr, L., De Roure, D., Hall, W.: Conceptual Open Hypermedia = The Semantic Web? In: Proc. of The Second International Workshop on the Semantic Web, Hong Kong (2001)"
+      },
+      {
+        "key": "42_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "579",
+        "DOI": "10.1016/S1389-1286(03)00226-3",
+        "volume": "42",
+        "author": "S. Handschuh",
+        "year": "2003",
+        "unstructured": "Handschuh, S., Staab, S.: CREAM - CREAting Metadata for the Semantic Web. Computer Networks 42, 579–598 (2003)",
+        "journal-title": "Computer Networks"
+      },
+      {
+        "key": "42_CR9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kahan, J., Koivunen, M., Prud’Hommeaux, E., Swick, R.: Annotea: An Open RDF Infrastructure for Shared Web Annotations. In: Proc. of the WWW10 International Conference, Hong Kong (2001)",
+        "DOI": "10.1145/371920.372166"
+      },
+      {
+        "key": "42_CR10",
+        "unstructured": "Norton, B., Chapman, S., Ciravegna, F.: Developing a Service-Oriented Archi-tecture to Harvest Information for the Semantic Web. In: Proc. of 1st AKT Workshop on Semantic Web Services (2004)"
+      },
+      {
+        "key": "42_CR11",
+        "series-title": "Lecture Notes in Artificial Intelligence",
+        "doi-asserted-by": "publisher",
+        "first-page": "379",
+        "DOI": "10.1007/3-540-45810-7_34",
+        "volume-title": "Knowledge Engineering and Knowledge Management. Ontologies and the Semantic Web",
+        "author": "M. Vargas-Vera",
+        "year": "2002",
+        "unstructured": "Vargas-Vera, M., Motta, E., Domingue, J., Lanzoni, M., Stutt, A., Ciravegna, F.: MnM: Ontology Driven Semi-Automatic and Automatic Support for Semantic Markup. In: Gómez-Pérez, A., Benjamins, V.R. (eds.) EKAW 2002. LNCS (LNAI), vol. 2473, p. 379. Springer, Heidelberg (2002)"
+      },
+      {
+        "key": "42_CR12",
+        "series-title": "Lecture Notes in Artificial Intelligence",
+        "doi-asserted-by": "publisher",
+        "first-page": "518",
+        "DOI": "10.1007/11590019_59",
+        "volume-title": "Professional Knowledge Management",
+        "author": "J. Zhu",
+        "year": "2005",
+        "unstructured": "Zhu, J., Uren, V., Motta, E.: ESpotter: Adaptive Named Entity Recognition for Web Browsing. In: Althoff, K.-D., Dengel, A.R., Bergmann, R., Nick, M., Roth-Berghofer, T.R. (eds.) WM 2005. LNCS (LNAI), vol. 3782, pp. 518–529. Springer, Heidelberg (2005) (to appear)"
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "The Semantic Web: Research and Applications"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/11431053_42.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2025-02-22T22:08:27Z",
+      "timestamp": 1740262107000
+    },
+    "score": 28.00932,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/11431053_42"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783540261247",
+      "9783540315476"
+    ],
+    "references-count": 12,
+    "URL": "https://doi.org/10.1007/11431053_42",
+    "ISSN": [
+      "0302-9743",
+      "1611-3349"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-9743"
+      },
+      {
+        "type": "electronic",
+        "value": "1611-3349"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2025-03-19T13:02:47Z",
+      "timestamp": 1742389367819
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 15,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783540261247"
+      },
+      {
+        "type": "electronic",
+        "value": "9783540315476"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "DOI": "10.1007/11431053_44",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2010-07-14T04:48:34Z",
+      "timestamp": 1279082914000
+    },
+    "page": "649-663",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Orchestration of Semantic Web Services for Large-Scale Document Annotation"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Barry",
+        "family": "Norton",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Sam",
+        "family": "Chapman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fabio",
+        "family": "Ciravegna",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "issue": "5",
+        "key": "44_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "35",
+        "DOI": "10.1038/scientificamerican0501-34",
+        "volume": "284",
+        "author": "T. Berners-Lee",
+        "year": "2001",
+        "unstructured": "Berners-Lee, T., Hendler, J., Lassila, O.: The semantic web. Scientific American 284(5), 35–43 (2001)",
+        "journal-title": "Scientific American"
+      },
+      {
+        "key": "44_CR2",
+        "volume-title": "The Unified Modeling Language user guide",
+        "author": "G. Booch",
+        "year": "1999",
+        "unstructured": "Booch, G., Rumbaugh, J., Jacobson, I.: The Unified Modeling Language user guide. Addison Wesley Longman, Amsterdam (1999)"
+      },
+      {
+        "key": "44_CR3",
+        "unstructured": "Chapman, S.: SimMetrics, \n                    \n                      http://sourceforge.net/projects/simmetrics/"
+      },
+      {
+        "key": "44_CR4",
+        "series-title": "Lecture Notes in Computer Science",
+        "doi-asserted-by": "publisher",
+        "first-page": "312",
+        "DOI": "10.1007/978-3-540-25956-5_22",
+        "volume-title": "The Semantic Web: Research and Applications",
+        "author": "F. Ciravegna",
+        "year": "2004",
+        "unstructured": "Ciravegna, F., Chapman, S., Dingli, A., Wilks, Y.: Learning to harvest information for the semantic web. In: Bussler, C.J., Davies, J., Fensel, D., Studer, R. (eds.) ESWS 2004. LNCS, vol. 3053, pp. 312–326. Springer, Heidelberg (2004)"
+      },
+      {
+        "key": "44_CR5",
+        "series-title": "Frontiers in Artificial Intelligence and Applications",
+        "volume-title": "Annotation for the Semantic Web",
+        "author": "F. Ciravegna",
+        "year": "2003",
+        "unstructured": "Ciravegna, F., Wilks, Y.: Annotation for the Semantic Web. Frontiers in Artificial Intelligence and Applications. IOS Press, Amsterdam (2003)"
+      },
+      {
+        "key": "44_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "178",
+        "DOI": "10.1145/775152.775178",
+        "volume-title": "WWW 2003: Proceedings of the twelfth international conference on World Wide Web",
+        "author": "S. Dill",
+        "year": "2003",
+        "unstructured": "Dill, S., Eiron, N., Gibson, D., Gruhl, D., Guha, R., Jhingran, A., Kanungo, T., Rajagopalan, S., Tomkins, A., Tomlin, J.A., Zien, J.Y.: Semtag and seeker: bootstrapping the semantic web via automated semantic annotation. In: WWW 2003: Proceedings of the twelfth international conference on World Wide Web, pp. 178–186. ACM Press, New York (2003)"
+      },
+      {
+        "key": "44_CR7",
+        "series-title": "Lecture Notes in Computer Science",
+        "doi-asserted-by": "publisher",
+        "first-page": "348",
+        "DOI": "10.1007/3-540-48005-6_27",
+        "volume-title": "The Semantic Web - ISWC 2002",
+        "author": "A. Ankolekar",
+        "year": "2002",
+        "unstructured": "Ankolekar, A., et al.: DAML-S: Web service description for the semantic web. In: Horrocks, I., Hendler, J. (eds.) ISWC 2002. LNCS, vol. 2342, p. 348. Springer, Heidelberg (2002)"
+      },
+      {
+        "key": "44_CR8",
+        "unstructured": "IBM, et al.: Business process execution language for web services version 1.1 (2003), \n                    \n                      http://www-128.ibm.com/developerworks/library/ws-bpel"
+      },
+      {
+        "key": "44_CR9",
+        "unstructured": "Etzioni, O.: Moving up the information food chain: Deploying softbots on the world wide web. In: Proceedings of the Thirteenth National Conference on Artificial Intelligence and the Eighth Innovative Applications of Artificial Intelligence Conference, Menlo Park, pp. 1322–1326. AAAI Press / MIT Press (1996)"
+      },
+      {
+        "key": "44_CR10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Glaser, H., Alani, H., Carr, L., Chapman, S., Ciravegna, F., Dingli, A., Gibbins, N., Harris, S., Schraefel, M.M.C., Shadbolt, N.: CS AKTiveSpace: Building a semantic web application. In: Proc. 1st European Semantic Web Symposium, pp. 417–432 (2004)",
+        "DOI": "10.1007/978-3-540-25956-5_29"
+      },
+      {
+        "key": "44_CR11",
+        "unstructured": "Kogut, P., Holmes, W.: AeroDAML: Applying information extraction to generate DAML annotations from web pages. In: First International Conference on Knowledge Capture, K-CAP 2001 (2001)"
+      },
+      {
+        "key": "44_CR12",
+        "series-title": "Lecture Notes in Computer Science",
+        "doi-asserted-by": "publisher",
+        "first-page": "227",
+        "DOI": "10.1007/978-3-540-39718-2_15",
+        "volume-title": "The Semantic Web - ISWC 2003",
+        "author": "D.J. Mandell",
+        "year": "2003",
+        "unstructured": "Mandell, D.J., McIlraith, S.A.: Adapting BPEL4WS for the Semantic Web: The bottom-up approach to web service interoperation. In: Fensel, D., Sycara, K., Mylopoulos, J. (eds.) ISWC 2003. LNCS, vol. 2870, pp. 227–241. Springer, Heidelberg (2003)"
+      },
+      {
+        "key": "44_CR13",
+        "unstructured": "Norton, B.: Eclipse as a development platform for semantic web services. Eclipse Technology Exchange (eTX04). In: 18th European Conference on Object-Oriented Programming (ECOOP 2004) (2004), \n                    \n                      http://www.dcs.shef.ac.uk/~barry/CASheW-s/Norton04.pdf"
+      },
+      {
+        "key": "44_CR14",
+        "unstructured": "Srinivasan, N., Paolucci, M., Sycara, K.: Adding OWL-S to UDDI: implementation and throughput. In: Proc. 1st Intl. Workshop on Semantic Web Services and Web Process Composition (SWSWPC 2004), pp. 6–9 (2004)"
+      },
+      {
+        "key": "44_CR15",
+        "unstructured": "W3C. OWL web ontology language overview (2004), \n                    \n                      http://www.w3c.org/TR/owlfeatures"
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "The Semantic Web: Research and Applications"
+    ],
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/11431053_44.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          27
+        ]
+      ],
+      "date-time": "2021-04-27T06:37:08Z",
+      "timestamp": 1619505428000
+    },
+    "score": 27.933172,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/11431053_44"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783540261247",
+      "9783540315476"
+    ],
+    "references-count": 15,
+    "URL": "https://doi.org/10.1007/11431053_44",
+    "ISSN": [
+      "0302-9743",
+      "1611-3349"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-9743"
+      },
+      {
+        "type": "electronic",
+        "value": "1611-3349"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T04:45:16Z",
+      "timestamp": 1750308316075,
+      "version": "3.41.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 0,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2002,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2002-05-07T00:00:00Z",
+          "timestamp": 1020729600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2002,
+          5,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1145/3250351",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2023-01-06T08:30:19Z",
+      "timestamp": 1672993819000
+    },
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Session details: Semantic Web Services"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Steffen",
+        "family": "Staab",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Karisruhe"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2002,
+          5,
+          7
+        ]
+      ]
+    },
+    "event": {
+      "sponsor": [
+        "ACM Association for Computing Machinery",
+        "WWW'02"
+      ],
+      "acronym": "WWW02",
+      "name": "WWW02: Hypermedia Track of the Eleventh International World-Wide Web Conference",
+      "location": "Honolulu Hawaii USA"
+    },
+    "container-title": [
+      "Proceedings of the 11th international conference on World Wide Web"
+    ],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3250351",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T17:38:59Z",
+      "timestamp": 1750268339000
+    },
+    "score": 27.891014,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3250351"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          5,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "10.1145/3250351",
+      "10.1145/511446"
+    ],
+    "URL": "https://doi.org/10.1145/3250351",
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          5,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2002-05-07",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T04:28:30Z",
+      "timestamp": 1750307310875,
+      "version": "3.41.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 0,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2004,
+              5,
+              17
+            ]
+          ],
+          "date-time": "2004-05-17T00:00:00Z",
+          "timestamp": 1084752000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2004,
+          5,
+          17
+        ]
+      ]
+    },
+    "DOI": "10.1145/3249256",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          11
+        ]
+      ],
+      "date-time": "2023-01-11T09:44:19Z",
+      "timestamp": 1673430259000
+    },
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Session details: Semantic web services"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Steffen",
+        "family": "Staab",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Karlsruhe"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2004,
+          5,
+          17
+        ]
+      ]
+    },
+    "event": {
+      "name": "WWW04: The 2004 World Wide Web Conference ( in conjunction with ACM Conference on Electronic Commerce [EC'04])",
+      "sponsor": [
+        "ACM Association for Computing Machinery"
+      ],
+      "location": "New York NY USA",
+      "acronym": "WWW04"
+    },
+    "container-title": [
+      "Proceedings of the 13th international conference on World Wide Web"
+    ],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3249256",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T11:00:06Z",
+      "timestamp": 1750244406000
+    },
+    "score": 27.863111,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3249256"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          5,
+          17
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "10.1145/3249256",
+      "10.1145/988672"
+    ],
+    "URL": "https://doi.org/10.1145/3249256",
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          5,
+          17
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2004-05-17",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+]

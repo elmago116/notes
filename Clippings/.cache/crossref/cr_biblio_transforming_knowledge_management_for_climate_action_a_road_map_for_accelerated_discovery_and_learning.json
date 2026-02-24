@@ -1,0 +1,1078 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2022-04-26T11:40:42Z",
+      "timestamp": 1650973242121
+    },
+    "publisher-location": "2590 Conejo Spectrum, Thousand Oaks California 91320 United States ",
+    "reference-count": 0,
+    "publisher": "Corwin Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.4135/9781483387499.n10",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2014-12-22T05:11:17Z",
+      "timestamp": 1419225077000
+    },
+    "page": "145-150",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Road Ahead: Transforming School Climate and\n                    Learning"
+    ],
+    "prefix": "10.4135",
+    "member": "179",
+    "container-title": [
+      "Transforming School Climate and Learning: Beyond Bullying and\n                    Compliance"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2022-04-26T11:19:12Z",
+      "timestamp": 1650971952000
+    },
+    "score": 35.12474,
+    "resource": {
+      "primary": {
+        "URL": "https://sk.sagepub.com/books/transforming-school-climate-and-learning/n10.xml"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "10.4135/9781483387499"
+    ],
+    "URL": "https://doi.org/10.4135/9781483387499.n10",
+    "published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Koninklijke Brill NV",
+        "acronym": [
+          "BRILL"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2025-03-06T23:56:36Z",
+      "timestamp": 1741305396623,
+      "version": "3.38.0"
+    },
+    "reference-count": 0,
+    "publisher": "Walter de Gruyter GmbH",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1163/9789004322714_cclc_2016-0028-035",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2018-02-27T12:47:06Z",
+      "timestamp": 1519735626000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A road map for global action on methane"
+    ],
+    "prefix": "10.1163",
+    "member": "374",
+    "container-title": [
+      "Climate Change and Law Collection"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2022-12-15T17:33:59Z",
+      "timestamp": 1671125639000
+    },
+    "score": 33.609608,
+    "resource": {
+      "primary": {
+        "URL": "https://primarysources.brillonline.com/browse/climate-change-and-law-collection/a-road-map-for-global-action-on-methane;cccc002820160028035"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1163/9789004322714_cclc_2016-0028-035"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          11
+        ]
+      ],
+      "date-time": "2024-12-11T05:30:19Z",
+      "timestamp": 1733895019526,
+      "version": "3.30.1"
+    },
+    "reference-count": 0,
+    "publisher": "SCITEPRESS - Science and Technology Publications",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.5220/0012945200003838",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2024-11-22T02:08:53Z",
+      "timestamp": 1732241333000
+    },
+    "page": "48-59",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Knowledge Map Mining-Based Personalized Learning Path Recommendation Solution for English Learning"
+    ],
+    "prefix": "10.5220",
+    "author": [
+      {
+        "given": "Duong",
+        "family": "Nguyen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam, --- Select a Country ---"
+          },
+          {
+            "name": "Viet Nam National University, Ho Chi Minh City, Vietnam, --- Select a Country ---"
+          }
+        ]
+      },
+      {
+        "given": "Thu",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam, --- Select a Country ---"
+          },
+          {
+            "name": "Viet Nam National University, Ho Chi Minh City, Vietnam, --- Select a Country ---"
+          }
+        ]
+      }
+    ],
+    "member": "3171",
+    "event": {
+      "name": "16th International Conference on Knowledge Discovery and Information Retrieval",
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            17
+          ]
+        ]
+      },
+      "location": "Porto, Portugal",
+      "end": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            19
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "Proceedings of the 16th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management"
+    ],
+    "original-title": [
+      "A Knowledge Map Mining-Based Personalized Learning Path Recommendation Solution for English Learning"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          10
+        ]
+      ],
+      "date-time": "2024-12-10T10:36:05Z",
+      "timestamp": 1733826965000
+    },
+    "score": 32.720833,
+    "resource": {
+      "primary": {
+        "URL": "https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0012945200003838"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5220/0012945200003838",
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T01:39:14Z",
+      "timestamp": 1740101954038,
+      "version": "3.37.3"
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003370772"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781003370772-7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          10
+        ]
+      ],
+      "date-time": "2023-07-10T08:28:47Z",
+      "timestamp": 1688977727000
+    },
+    "page": "145-146",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Transforming Learning with Composting and the STEM Road Map Curriculum Series"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8757-1268",
+        "authenticated-orcid": false,
+        "given": "Carla C.",
+        "family": "Johnson",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Composting, Grade 5"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          10
+        ]
+      ],
+      "date-time": "2023-07-10T08:28:57Z",
+      "timestamp": 1688977737000
+    },
+    "score": 32.575893,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003370772/chapters/10.4324/9781003370772-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          10
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003370772"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781003370772-7",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T01:53:08Z",
+      "timestamp": 1740102788247,
+      "version": "3.37.3"
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781032618197"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          28
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781032618197-7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          28
+        ]
+      ],
+      "date-time": "2024-03-28T15:59:31Z",
+      "timestamp": 1711641571000
+    },
+    "page": "221-222",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Transforming Learning with Hydropower Efficiency and the STEM Road Map Curriculum Series"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8757-1268",
+        "authenticated-orcid": false,
+        "given": "Carla C.",
+        "family": "Johnson",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Hydropower Efficiency, Grade 4"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          28
+        ]
+      ],
+      "date-time": "2024-03-28T15:59:43Z",
+      "timestamp": 1711641583000
+    },
+    "score": 32.10616,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781032618197/chapters/10.4324/9781032618197-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          28
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781032618197"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781032618197-7",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T16:09:58Z",
+      "timestamp": 1726157398998
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003261742"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781003261742-7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2022-03-23T11:44:17Z",
+      "timestamp": 1648035857000
+    },
+    "page": "111-112",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Transforming Learning with Mineral Resources and the STEM Road Map Curriculum Series"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Carla C.",
+        "family": "Johnson",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Mineral Resources Grade 11"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2022-03-23T11:44:28Z",
+      "timestamp": 1648035868000
+    },
+    "score": 31.985985,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003261742/chapters/10.4324/9781003261742-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          23
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003261742"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781003261742-7",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T16:39:36Z",
+      "timestamp": 1726159176757
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003261735"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781003261735-7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T15:11:55Z",
+      "timestamp": 1649085115000
+    },
+    "page": "157-158",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Transforming Learning with Genetically Modified Organisms and the STEM Road Map Curriculum Series"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Carla C.",
+        "family": "Johnson",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Genetically Modified Organisms Grade 7"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T15:12:02Z",
+      "timestamp": 1649085122000
+    },
+    "score": 31.556797,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003261735/chapters/10.4324/9781003261735-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003261735"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781003261735-7",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T01:28:40Z",
+      "timestamp": 1740101320047,
+      "version": "3.37.3"
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003362371"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          20
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781003362371-9",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2023-01-20T15:31:37Z",
+      "timestamp": 1674228697000
+    },
+    "page": "113-114",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Transforming Learning with Creating Global Bonds and the STEM Road Map Curriculum Series"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8757-1268",
+        "authenticated-orcid": false,
+        "given": "Carla C.",
+        "family": "Johnson",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Creating Global Bonds, Grade 12"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2023-01-20T15:31:58Z",
+      "timestamp": 1674228718000
+    },
+    "score": 31.521072,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003362371/chapters/10.4324/9781003362371-9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          20
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003362371"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781003362371-9",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2024-09-13T04:50:17Z",
+      "timestamp": 1726203017578
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003370789"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781003370789-7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          13
+        ]
+      ],
+      "date-time": "2023-07-13T06:01:19Z",
+      "timestamp": 1689228079000
+    },
+    "page": "147-148",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Transforming Learning with Global Population Issues and the STEM Road Map Curriculum Series"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Carla C.",
+        "family": "Johnson",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Global Population Issues, Grade 7"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          13
+        ]
+      ],
+      "date-time": "2023-07-13T06:01:29Z",
+      "timestamp": 1689228089000
+    },
+    "score": 31.413492,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003370789/chapters/10.4324/9781003370789-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          13
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003370789"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781003370789-7",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T16:38:45Z",
+      "timestamp": 1726159125816
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003261728"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781003261728-7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T11:15:03Z",
+      "timestamp": 1648811703000
+    },
+    "page": "101-102",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Transforming Learning with our Changing Environment and The Stem Road Map Curriculum Series"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Carla C.",
+        "family": "Johnson",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Our Changing Environment Grade K"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T11:15:11Z",
+      "timestamp": 1648811711000
+    },
+    "score": 31.378807,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003261728/chapters/10.4324/9781003261728-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003261728"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781003261728-7",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,838 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T07:34:40Z",
+    "timestamp": 1755675280329,
+    "version": "3.40.5"
+  },
+  "reference-count": 67,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2024-08-01T00:00:00Z",
+        "timestamp": 1722470400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2024-08-01T00:00:00Z",
+        "timestamp": 1722470400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            4
+          ]
+        ],
+        "date-time": "2024-07-04T00:00:00Z",
+        "timestamp": 1720051200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Computer Languages"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.cola.2024.101287",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        8
+      ]
+    ],
+    "date-time": "2024-07-08T17:25:14Z",
+    "timestamp": 1720459514000
+  },
+  "page": "101287",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 20,
+  "special_numbering": "C",
+  "title": [
+    "Screening articles for systematic reviews with ChatGPT"
+  ],
+  "prefix": "10.1016",
+  "volume": "80",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6527-1651",
+      "authenticated-orcid": false,
+      "given": "Eugene",
+      "family": "Syriani",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Istvan",
+      "family": "David",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Gauransh",
+      "family": "Kumar",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "year": "2023",
+      "series-title": "Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews",
+      "author": "Syriani",
+      "key": "10.1016/j.cola.2024.101287_b1"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.cola.2024.101287_b2",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1136/bmjopen-2016-012545",
+      "article-title": "Analysis of the time and workers needed to conduct systematic reviews of medical interventions using data from the PROSPERO registry",
+      "volume": "7",
+      "author": "Borah",
+      "year": "2017",
+      "journal-title": "BMJ Open"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.cola.2024.101287_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1080/19439342.2012.711342",
+      "article-title": "The benefits and challenges of using systematic reviews in international development research",
+      "volume": "4",
+      "author": "Mallett",
+      "year": "2012",
+      "journal-title": "J. Dev. Eff."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b4",
+      "doi-asserted-by": "crossref",
+      "first-page": "72",
+      "DOI": "10.1016/j.infsof.2017.06.007",
+      "article-title": "Vision for SLR tooling infrastructure: Prioritizing value-added requirements",
+      "volume": "91",
+      "author": "Al-Zubidy",
+      "year": "2017",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "year": "2007",
+      "series-title": "Guidelines for performing Systematic Literature Reviews in Software Engineering",
+      "author": "Kitchenham",
+      "key": "10.1016/j.cola.2024.101287_b5"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b6",
+      "series-title": "Automating Systematic Literature Review",
+      "first-page": "327",
+      "author": "Felizardo",
+      "year": "2020"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cola.2024.101287_b7",
+      "doi-asserted-by": "crossref",
+      "first-page": "78",
+      "DOI": "10.1186/s13643-015-0066-7",
+      "article-title": "Automating data extraction in systematic reviews: a systematic review",
+      "volume": "4",
+      "author": "Jonnalagadda",
+      "year": "2015",
+      "journal-title": "Syst. Rev."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cola.2024.101287_b8",
+      "doi-asserted-by": "crossref",
+      "first-page": "74",
+      "DOI": "10.1186/2046-4053-3-74",
+      "article-title": "Systematic review automation technologies",
+      "volume": "3",
+      "author": "Tsafnat",
+      "year": "2014",
+      "journal-title": "Syst. Rev."
+    },
+    {
+      "issue": "163",
+      "key": "10.1016/j.cola.2024.101287_b9",
+      "first-page": "1",
+      "article-title": "Toward systematic review automation: a practical guide to using machine learning tools in research synthesis",
+      "volume": "8",
+      "author": "Marshall",
+      "year": "2019",
+      "journal-title": "Syst. Rev."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cola.2024.101287_b10",
+      "doi-asserted-by": "crossref",
+      "first-page": "681",
+      "DOI": "10.1007/s11023-020-09548-1",
+      "article-title": "GPT-3: Its nature, scope, limits, and consequences",
+      "volume": "30",
+      "author": "Floridi",
+      "year": "2020",
+      "journal-title": "Minds Mach."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.cola.2024.101287_b11",
+      "doi-asserted-by": "crossref",
+      "first-page": "868",
+      "DOI": "10.1007/s10439-023-03172-7",
+      "article-title": "Role of chat GPT in public health",
+      "volume": "51",
+      "author": "Biswas",
+      "year": "2023",
+      "journal-title": "Ann. Biomed. Eng."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b12",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/s10439-023-03171-8",
+      "article-title": "Potential use of chat GPT in global warming",
+      "author": "Biswas",
+      "year": "2023",
+      "journal-title": "Ann. Biomed. Eng."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b13",
+      "article-title": "What will the United States look like in 2050? A chatgpt short story",
+      "author": "McGee",
+      "year": "2023",
+      "journal-title": "SSRN Electron. J."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.cola.2024.101287_b14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3560815",
+      "article-title": "Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing",
+      "volume": "55",
+      "author": "Liu",
+      "year": "2023",
+      "journal-title": "ACM Comput. Surv."
+    },
+    {
+      "year": "2023",
+      "series-title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+      "author": "Wei",
+      "key": "10.1016/j.cola.2024.101287_b15"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b16",
+      "doi-asserted-by": "crossref",
+      "first-page": "439",
+      "DOI": "10.1016/j.jss.2018.06.078",
+      "article-title": "A systematic mapping study driven by the margin of error",
+      "volume": "144",
+      "author": "Kosar",
+      "year": "2018",
+      "journal-title": "J. Syst. Softw."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b17",
+      "series-title": "Advances in Computers",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1016/bs.adcom.2021.01.006",
+      "article-title": "Chapter three - the screening phase in systematic reviews: Can we speed up the process?",
+      "volume": "Vol. 123",
+      "author": "Rozanc",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b18",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.infsof.2021.106589",
+      "article-title": "Automation of systematic literature reviews: A systematic literature review",
+      "volume": "136",
+      "author": "van Dinter",
+      "year": "2021",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b19",
+      "series-title": "Machine Learning: ECML-98",
+      "first-page": "137",
+      "article-title": "Text categorization with support vector machines: Learning with many relevant features",
+      "volume": "vol. 1398",
+      "author": "Joachims",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b20",
+      "series-title": "Australasian Document Computing Symposium",
+      "first-page": "53",
+      "article-title": "Facilitating biomedical systematic reviews using ranked text retrieval and classification",
+      "author": "Martinez",
+      "year": "2008"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.cola.2024.101287_b21",
+      "doi-asserted-by": "crossref",
+      "first-page": "206",
+      "DOI": "10.1197/jamia.M1929",
+      "article-title": "Reducing workload in systematic review preparation using automated citation classification",
+      "volume": "13",
+      "author": "Cohen",
+      "year": "2006",
+      "journal-title": "J. Am. Med. Inform. Assoc."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cola.2024.101287_b22",
+      "doi-asserted-by": "crossref",
+      "first-page": "446",
+      "DOI": "10.1136/jamia.2010.004325",
+      "article-title": "A new algorithm for reducing the workload of experts in performing systematic reviews",
+      "volume": "17",
+      "author": "Matwin",
+      "year": "2010",
+      "journal-title": "J. Am. Med. Inform. Assoc."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b23",
+      "doi-asserted-by": "crossref",
+      "first-page": "33",
+      "DOI": "10.1016/j.jbi.2017.03.007",
+      "article-title": "Using ontology-based semantic similarity to facilitate the article screening process for systematic reviews",
+      "volume": "69",
+      "author": "Ji",
+      "year": "2017",
+      "journal-title": "J. Biomed. Inform."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b24",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.infsof.2020.106395",
+      "article-title": "Reducing efforts of software engineering systematic literature reviews updates using text classification",
+      "volume": "128",
+      "author": "Watanabe",
+      "year": "2020",
+      "journal-title": "Inf. Softw. Technol."
+    },
+    {
+      "year": "2009",
+      "series-title": "Active Learning Literature Survey",
+      "author": "Settles",
+      "key": "10.1016/j.cola.2024.101287_b25"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b26",
+      "series-title": "International Health Informatics Symposium",
+      "first-page": "819",
+      "article-title": "Deploying an interactive machine learning system in an evidence-based practice center: Abstrackr",
+      "author": "Wallace",
+      "year": "2012"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.cola.2024.101287_b27",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1038/s42256-020-00287-7",
+      "article-title": "An open source machine learning framework for efficient and transparent systematic reviews",
+      "volume": "3",
+      "author": "van de Schoot",
+      "year": "2021",
+      "journal-title": "Nat. Mach. Intell."
+    },
+    {
+      "year": "2019",
+      "series-title": "Sentence-BERT: Sentence embeddings using siamese BERT-networks",
+      "author": "Reimers",
+      "key": "10.1016/j.cola.2024.101287_b28"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b29",
+      "series-title": "International Conference on Machine Learning",
+      "first-page": "1188",
+      "article-title": "Distributed representations of sentences and documents",
+      "volume": "Vol. 32",
+      "author": "Le",
+      "year": "2014"
+    },
+    {
+      "year": "2020",
+      "series-title": "Active learning for screening prioritization in systematic reviews - A simulation study",
+      "author": "Ferdinands",
+      "key": "10.1016/j.cola.2024.101287_b30"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b31",
+      "doi-asserted-by": "crossref",
+      "first-page": "465",
+      "DOI": "10.1007/s10994-015-5535-7",
+      "article-title": "Learning to identify relevant studies for systematic reviews using random forest and external information",
+      "volume": "102",
+      "author": "Khabsa",
+      "year": "2016",
+      "journal-title": "Mach. Learn."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b32",
+      "doi-asserted-by": "crossref",
+      "first-page": "242",
+      "DOI": "10.1016/j.jbi.2014.06.005",
+      "article-title": "Reducing systematic review workload through certainty-based screening",
+      "volume": "51",
+      "author": "Miwa",
+      "year": "2014",
+      "journal-title": "J. Biomed. Inform."
+    },
+    {
+      "year": "2023",
+      "series-title": "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+      "author": "Zhou",
+      "key": "10.1016/j.cola.2024.101287_b33"
+    },
+    {
+      "year": "2023",
+      "series-title": "Instruction tuning for large language models: A survey",
+      "author": "Zhang",
+      "key": "10.1016/j.cola.2024.101287_b34"
+    },
+    {
+      "year": "2023",
+      "series-title": "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT",
+      "author": "White",
+      "key": "10.1016/j.cola.2024.101287_b35"
+    },
+    {
+      "year": "2023",
+      "series-title": "Can ChatGPT Write a Good Boolean Query for Systematic Review Literature Search?",
+      "author": "Wang",
+      "key": "10.1016/j.cola.2024.101287_b36"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b37",
+      "series-title": "Working Notes of CLEF 2018 - Conference and Labs of the Evaluation Forum, Avignon, France, September 10-14, 2018",
+      "article-title": "Retrieving and ranking studies for systematic reviews: University of sheffield’s approach to CLEF ehealth 2018 task 2",
+      "volume": "vol. 2125",
+      "author": "Alharbi",
+      "year": "2018"
+    },
+    {
+      "year": "2023",
+      "series-title": "Conducting systematic literature reviews with ChatGPT",
+      "author": "Waseem",
+      "key": "10.1016/j.cola.2024.101287_b38"
+    },
+    {
+      "year": "2023",
+      "series-title": "Automated title and abstract screening for scoping reviews using the GPT-4 large language model",
+      "author": "Wilkins",
+      "key": "10.1016/j.cola.2024.101287_b39"
+    },
+    {
+      "year": "2023",
+      "series-title": "Can Large Language Models Replace Humans in the Systematic Review Process? Evaluating GPT-4’s Efficacy in Screening and Extracting Data from Peer-Reviewed and Grey Literature in Multiple Languages",
+      "author": "Khraisha",
+      "key": "10.1016/j.cola.2024.101287_b40"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b41",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1136/bmjebm-2023-112597",
+      "article-title": "Integrating large language models in systematic reviews: a framework and case study using ROBINS-i for risk of bias assessment",
+      "author": "Hasan",
+      "year": "2024",
+      "journal-title": "BMJ Evid.-Based Med."
+    },
+    {
+      "year": "2021",
+      "series-title": "Empirical Standards for Software Engineering Research",
+      "author": "Ralph",
+      "key": "10.1016/j.cola.2024.101287_b42"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b43",
+      "series-title": "Model-Driven Engineering and Software Development",
+      "first-page": "552",
+      "article-title": "Modeling a tool for conducting systematic reviews iteratively",
+      "author": "Bigendako",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b44",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jss.2021.111081",
+      "article-title": "Multi-paradigm modeling for cyber-physical systems: A systematic mapping review",
+      "volume": "183",
+      "author": "Barišić",
+      "year": "2022",
+      "journal-title": "J. Syst. Softw."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cola.2024.101287_b45",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1007/s10270-021-00897-8",
+      "article-title": "Modelling on mobile devices",
+      "volume": "21",
+      "author": "Brunschwig",
+      "year": "2022",
+      "journal-title": "Softw. Syst. Model."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b46",
+      "series-title": "Model Driven Engineering Languages and Systems",
+      "first-page": "273",
+      "article-title": "Collaborative model-driven software engineering: A systematic update",
+      "author": "David",
+      "year": "2021"
+    },
+    {
+      "issue": "200193",
+      "key": "10.1016/j.cola.2024.101287_b47",
+      "article-title": "An analysis of work saved over sampling in the evaluation of automated citation screening in systematic literature reviews",
+      "volume": "18",
+      "author": "Kusa",
+      "year": "2023",
+      "journal-title": "Intell. Syst. Appl."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b48",
+      "series-title": "AI 2006: Advances in Artificial Intelligence",
+      "first-page": "1015",
+      "article-title": "Beyond accuracy, F-score and ROC: A family of discriminant measures for performance evaluation",
+      "volume": "vol. 4304",
+      "author": "Sokolova",
+      "year": "2006"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.cola.2024.101287_b49",
+      "first-page": "27",
+      "article-title": "Evaluation measures for models assessment over imbalanced data sets",
+      "volume": "13",
+      "author": "Bekkar",
+      "year": "2013",
+      "journal-title": "J. Inf. Eng. Appl."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cola.2024.101287_b50",
+      "article-title": "The matthews correlation coefficient (MCC) should replace the ROC AUC as the standard metric for assessing binary classification",
+      "volume": "16",
+      "author": "Chicco",
+      "year": "2023",
+      "journal-title": "BioData Min."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b51",
+      "series-title": "Evaluation and Assessment in Software Engineering",
+      "first-page": "93",
+      "article-title": "On the reliability of the area under the ROC curve in empirical software engineering",
+      "author": "Lavazza",
+      "year": "2023"
+    },
+    {
+      "issue": "18",
+      "key": "10.1016/j.cola.2024.101287_b52",
+      "doi-asserted-by": "crossref",
+      "first-page": "2395",
+      "DOI": "10.1161/CIRCULATIONAHA.106.682658",
+      "article-title": "Logistic regression",
+      "volume": "117",
+      "author": "LaValley",
+      "year": "2008",
+      "journal-title": "Circulation"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b53",
+      "series-title": "Advanced Multimedia and Ubiquitous Engineering",
+      "first-page": "347",
+      "article-title": "Bayesian multinomial Naïve Bayes classifier to text classification",
+      "volume": "vol. 352",
+      "author": "Xu",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b54",
+      "series-title": "Information and Knowledge Management",
+      "first-page": "1061",
+      "article-title": "A semantics aware random forest for text classification",
+      "author": "Islam",
+      "year": "2019"
+    },
+    {
+      "issue": "85",
+      "key": "10.1016/j.cola.2024.101287_b55",
+      "first-page": "2825",
+      "article-title": "Scikit-learn: Machine learning in python",
+      "volume": "12",
+      "author": "Pedregosa",
+      "year": "2011",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cola.2024.101287_b56",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1080/095281300146272",
+      "article-title": "Distribution-balanced stratified cross-validation for accuracy estimation",
+      "volume": "12",
+      "author": "Zeng",
+      "year": "2000",
+      "journal-title": "J. Exp. Theor. Artif. Intell."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.cola.2024.101287_b57",
+      "first-page": "281",
+      "article-title": "Random search for hyper-parameter optimization",
+      "volume": "13",
+      "author": "Bergstra",
+      "year": "2012",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b58",
+      "series-title": "Advances in Neural Information Processing Systems",
+      "article-title": "Distributed representations of words and phrases and their compositionality",
+      "volume": "Vol. 26",
+      "author": "Mikolov",
+      "year": "2013"
+    },
+    {
+      "year": "2023",
+      "series-title": "Towards Better Chain-of-Thought Prompting Strategies: A Survey",
+      "author": "Yu",
+      "key": "10.1016/j.cola.2024.101287_b59"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.cola.2024.101287_b60",
+      "doi-asserted-by": "crossref",
+      "first-page": "1739",
+      "DOI": "10.1007/s10270-022-01005-0",
+      "article-title": "PARMOREL: a framework for customizable model repair",
+      "volume": "21",
+      "author": "Barriga",
+      "year": "2022",
+      "journal-title": "Softw. Syst. Model."
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b61",
+      "series-title": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+      "first-page": "1",
+      "article-title": "PromptMaker: Prompt-based prototyping with large language models",
+      "author": "Jiang",
+      "year": "2022"
+    },
+    {
+      "year": "2023",
+      "series-title": "ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing",
+      "author": "Arawjo",
+      "key": "10.1016/j.cola.2024.101287_b62"
+    },
+    {
+      "issue": "160",
+      "key": "10.1016/j.cola.2024.101287_b63",
+      "article-title": "PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews",
+      "author": "Page",
+      "year": "2021",
+      "journal-title": "BMJ"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.cola.2024.101287_b64",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3390/publications5040023",
+      "article-title": "Computer science papers in web of science: A bibliometric analysis",
+      "volume": "5",
+      "author": "Fiala",
+      "year": "2017",
+      "journal-title": "Publications"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b65",
+      "series-title": "Fairness, Accountability, and Transparency",
+      "first-page": "610",
+      "article-title": "On the dangers of stochastic parrots: Can language models be too big?",
+      "author": "Bender",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.cola.2024.101287_b66",
+      "series-title": "Paving the Way for Mature Secondary Research: The Seven Types of Literature Review",
+      "first-page": "1632",
+      "author": "Ralph",
+      "year": "2022"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.cola.2024.101287_b67",
+      "doi-asserted-by": "crossref",
+      "first-page": "56",
+      "DOI": "10.1186/1748-5908-5-56",
+      "article-title": "Expediting systematic reviews: methods and implications of rapid reviews",
+      "volume": "5",
+      "author": "Ganann",
+      "year": "2010",
+      "journal-title": "Implement. Sci."
+    }
+  ],
+  "container-title": [
+    "Journal of Computer Languages"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2590118424000303?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2590118424000303?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        25
+      ]
+    ],
+    "date-time": "2024-08-25T06:55:04Z",
+    "timestamp": 1724568904000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2590118424000303"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8
+      ]
+    ]
+  },
+  "references-count": 67,
+  "alternative-id": [
+    "S2590118424000303"
+  ],
+  "URL": "https://doi.org/10.1016/j.cola.2024.101287",
+  "relation": {},
+  "ISSN": [
+    "2590-1184"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "2590-1184"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Screening articles for systematic reviews with ChatGPT",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Computer Languages",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.cola.2024.101287",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2024 The Author(s). Published by Elsevier Ltd.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "101287"
+}

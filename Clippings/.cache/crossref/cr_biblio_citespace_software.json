@@ -1,0 +1,1986 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T18:20:09Z",
+      "timestamp": 1648664409216
+    },
+    "reference-count": 0,
+    "publisher": "PeerJ",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.7717/peerj.7115/supp-7",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2019-06-07T07:04:05Z",
+      "timestamp": 1559891045000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Supplemental Information 7: Raw data that was imported into CiteSpace software."
+    ],
+    "prefix": "10.7717",
+    "member": "4443",
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2019-06-07T07:04:12Z",
+      "timestamp": 1559891052000
+    },
+    "score": 23.68205,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/7115/supp-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7717/peerj.7115/supp-7"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2022-07-01T07:47:13Z",
+      "timestamp": 1656661633376
+    },
+    "reference-count": 16,
+    "publisher": "Hans Publishers",
+    "issue": "03",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SA"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.12677/sa.2022.113074",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2022-07-01T07:26:28Z",
+      "timestamp": 1656660388000
+    },
+    "page": "694-702",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Visual Analysis on Biotechnology Prospect by CiteSpace Software"
+    ],
+    "prefix": "10.12677",
+    "volume": "11",
+    "author": [
+      {
+        "given": "本荣",
+        "family": "木",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4945",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "芮旭东, 刘维蓉, 胡奇志. 基于CiteSpace的案例教学研究文献的可视化分析[J]. 商丘职业技术学院学报, 2022, 21(1): 63-68+74.",
+        "DOI": "10.33142/jscs.v1i1.4426"
+      },
+      {
+        "key": "ref2",
+        "unstructured": "万之瑜, 张明山. 我国生物技术发展态势分析[J]. 科技进步与对策, 2009, 26(11): 59-61."
+      },
+      {
+        "key": "ref3",
+        "unstructured": "孙铭涛, 宋晓东. 高校网络舆情管理研究的计量分析与评价: 基于科学知识图谱的方法[J]. 湖南社会科学, 2019, 32(5): 104-110."
+      },
+      {
+        "key": "ref4",
+        "unstructured": "陈悦, 陈超美, 刘则渊, 等. CiteSpace知识图谱的方法论功能[J]. 科学学研究, 2015, 33(2): 242-253."
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13856/j.cn11-1097/s.2015.12.011"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "马亮亮, 杨涛, 姚静静, 梁爽, 周运峰. 基于文献计量学和CiteSpace可视化工具分析推拿在失眠中的应用[J]. 按摩与康复医学, 2022, 13(7): 65-70.",
+        "DOI": "10.26549/fm.v5i2.6547"
+      },
+      {
+        "key": "ref7",
+        "unstructured": "蒋道平, 李克龙, 杜斌. 未来15年生物技术发展趋势及伦理冲突与应对[J]. 西南科技大学学报(哲学社会科学版), 2021, 38(6): 84-91."
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.28534/n.cnki.nlnrb.2007.000889"
+      },
+      {
+        "key": "ref9",
+        "unstructured": "何继颖, 王跃, 李丹丹, 毛开云. 基于专利分析我国基因治疗技术发展研究[J]. 情报探索, 2021(6): 60-66."
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "高翠娟, 邵强, 林向义. 我国创新管理研究热点及演化可视化分析[J]. 科技与管理, 2019, 21(3): 103-108.",
+        "DOI": "10.32629/btr.v3i8.3297"
+      },
+      {
+        "key": "ref11",
+        "unstructured": "刘浩然. 我国发展新能源的意义[J]. 科技创新与应用, 2016(30): 82."
+      },
+      {
+        "key": "ref12",
+        "unstructured": "丁超. 我国生物能源产业的发展现状及方法分析[J]. 皮革制作与环保科技, 2021, 2(17): 140-141."
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "罗荩, 许泽港, 陈翚. 基于CiteSpace的国内乡村公共空间研究综述[J]. 南方建筑, 2022(2): 11-21.",
+        "DOI": "10.12677/GSER.2022.111012"
+      },
+      {
+        "key": "ref14",
+        "unstructured": "陈丽婷. 专利对物流运输技术创新能力影响研究[D]: [硕士学位论文]. 杭州: 杭州电子科技大学, 2020."
+      },
+      {
+        "key": "ref15",
+        "unstructured": "皱丕盛. 现代科学技术与军事[M]. 北京: 国防工业出版社, 1998: 47."
+      },
+      {
+        "key": "ref16",
+        "unstructured": "中共中央党史和文献研究院. 习近平关于防范风险、应对突发事件论述摘编[M]. 北京: 中央文献出版社, 2020: 108."
+      }
+    ],
+    "container-title": [
+      "Statistics and Application"
+    ],
+    "original-title": [
+      "基于CiteSpace的生物技术专业前景可视化分析"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2022-07-01T07:26:40Z",
+      "timestamp": 1656660400000
+    },
+    "score": 19.521666,
+    "resource": {
+      "primary": {
+        "URL": "https://www.HansPub.org/journal/doi.aspx?DOI=10.12677/SA.2022.113074"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "references-count": 16,
+    "journal-issue": {
+      "issue": "03",
+      "published-print": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.12677/sa.2022.113074",
+    "ISSN": [
+      "2325-2251",
+      "2325-226X"
+    ],
+    "issn-type": [
+      {
+        "value": "2325-2251",
+        "type": "print"
+      },
+      {
+        "value": "2325-226X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Science Data Bank",
+        "acronym": [
+          "ScienceDB"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ],
+      "date-time": "2022-07-19T02:10:53Z",
+      "timestamp": 1658196653727
+    },
+    "reference-count": 0,
+    "publisher": "Computer Network Information Center, Chinese Academy of Sciences",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.11922/sciencedb.01248",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ],
+      "date-time": "2022-07-19T01:42:45Z",
+      "timestamp": 1658194965000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "An Analyze Of Smart Learning Environment Based On CiteSpace Software"
+    ],
+    "prefix": "10.11922",
+    "author": [
+      {
+        "given": "xu xin fei",
+        "family": "xu xin fei",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "DENG Guomin",
+        "family": "DENG Guomin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "34659",
+    "container-title": [
+      "Science Data Bank Datasets"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ],
+      "date-time": "2022-07-19T01:57:43Z",
+      "timestamp": 1658195863000
+    },
+    "score": 19.009697,
+    "resource": {
+      "primary": {
+        "URL": "https://www.scidb.cn/en/detail?dataSetId=3b2668ae81554e969704a4c47dd87df0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.11922/sciencedb.01248"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T04:10:38Z",
+      "timestamp": 1750219838988,
+      "version": "3.41.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 10,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              25
+            ]
+          ],
+          "date-time": "2022-11-25T00:00:00Z",
+          "timestamp": 1669334400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          25
+        ]
+      ]
+    },
+    "DOI": "10.1145/3582084.3582093",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2023-04-15T00:14:23Z",
+      "timestamp": 1681517663000
+    },
+    "page": "47-51",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Visual Analysis of Su Shi Literature Database in Programming with R Language and Ucinet and Citespace Software"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1679-6106",
+        "authenticated-orcid": false,
+        "given": "Shu",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "College of Literature and Journalism of Sichuan University, China"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          14
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "03",
+        "key": "e_1_3_2_1_1_1",
+        "first-page": "5",
+        "article-title": "Review of Su Shi Studies.",
+        "volume": "00",
+        "author": "Zeng Z.Z.",
+        "year": "1999",
+        "unstructured": "Zeng , Z.Z. : Review of Su Shi Studies. Journal of Chinese Culture . 00 ( 03 ), 5 - 6 ( 1999 ). Zeng,Z.Z.:Review of Su Shi Studies.Journal of Chinese Culture.00(03),5-6(1999).",
+        "journal-title": "Journal of Chinese Culture"
+      },
+      {
+        "issue": "02",
+        "key": "e_1_3_2_1_2_1",
+        "first-page": "174",
+        "article-title": "Review and Reflection on Su Shi Calligraphy Studies in the Past Thirty Years.",
+        "volume": "00",
+        "author": "Han C.",
+        "year": "2020",
+        "unstructured": "Han , C. : Review and Reflection on Su Shi Calligraphy Studies in the Past Thirty Years. Chinese Calligraphy. 00 ( 02 ), 174 - 175 ( 2020 ). Han,C.:Review and Reflection on Su Shi Calligraphy Studies in the Past Thirty Years.Chinese Calligraphy. 00(02),174-175(2020).",
+        "journal-title": "Chinese Calligraphy."
+      },
+      {
+        "issue": "04",
+        "key": "e_1_3_2_1_3_1",
+        "first-page": "63",
+        "article-title": "Review of Su Shi Poetry Studies since the New Century.",
+        "volume": "38",
+        "author": "Zhu F.L.",
+        "year": "2019",
+        "unstructured": "Zhu , F.L. : Review of Su Shi Poetry Studies since the New Century. Journal of Chongqing University of Arts and Sciences . 38 ( 04 ), 63 - 75 ( 2019 ). Zhu,F.L.:Review of Su Shi Poetry Studies since the New Century.Journal of Chongqing University of Arts and Sciences.38(04),63-75(2019).",
+        "journal-title": "Journal of Chongqing University of Arts and Sciences"
+      },
+      {
+        "issue": "07",
+        "key": "e_1_3_2_1_4_1",
+        "first-page": "54",
+        "article-title": "Review of Su Shi and Huang Tingjian Calligraphy Studies.",
+        "volume": "00",
+        "author": "Chen D.T.",
+        "year": "2019",
+        "unstructured": "Chen , D.T. : Review of Su Shi and Huang Tingjian Calligraphy Studies. Art Education Research. 00 ( 07 ), 54 - 55 ( 2019 ) Chen,D.T.:Review of Su Shi and Huang Tingjian Calligraphy Studies.Art Education Research. 00(07),54-55(2019)",
+        "journal-title": "Art Education Research."
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alcalde C.A; Sáez M.F.;Ruiz P.:P.:Evolution of Research on Circular Economy and Related Trends and Topics: A Thirteen-year Review.Ecological Informatics. 70 (101716)2022.  Alcalde C.A; Sáez M.F.;Ruiz P.:P.:Evolution of Research on Circular Economy and Related Trends and Topics: A Thirteen-year Review.Ecological Informatics. 70 (101716)2022.",
+        "key": "e_1_3_2_1_5_1",
+        "DOI": "10.1016/j.ecoinf.2022.101716"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "Castellano G.; Digeno V.; Sansaro G.:Leveraging Knowledge Graphs and Deep Learning for automatic art analysis.Knowledge-Based Systems. 248 (108859)2022.  Castellano G.; Digeno V.; Sansaro G.:Leveraging Knowledge Graphs and Deep Learning for automatic art analysis.Knowledge-Based Systems. 248 (108859)2022.",
+        "key": "e_1_3_2_1_6_1",
+        "DOI": "10.1016/j.knosys.2022.108859"
+      },
+      {
+        "issue": "7",
+        "key": "e_1_3_2_1_7_1",
+        "first-page": "1497",
+        "article-title": "The Origin and Evolution of the Concept of Servitization",
+        "volume": "37",
+        "author": "María J.P.",
+        "year": "2022",
+        "unstructured": "María , J.P. ; Eloísa Díaz , G. ; María , L. : The Origin and Evolution of the Concept of Servitization : A Co-word and Network Analysis.Journal of Business & Industrial Marketing Volume 37 ( 7 ), 1497 - 1514 ( 2022 ). María,J.P.; Eloísa Díaz,G.; María,L.: The Origin and Evolution of the Concept of Servitization: A Co-word and Network Analysis.Journal of Business & Industrial MarketingVolume 37(7),1497-1514(2022).",
+        "journal-title": "A Co-word and Network Analysis.Journal of Business & Industrial Marketing"
+      },
+      {
+        "issue": "01",
+        "key": "e_1_3_2_1_8_1",
+        "first-page": "1",
+        "article-title": "Analysis on Research Hotspots and the Evolution Trend of Independent Innovation——Based on Co-Word Analysis.",
+        "volume": "00",
+        "author": "Huang M.",
+        "year": "2021",
+        "unstructured": "Huang , M. : Analysis on Research Hotspots and the Evolution Trend of Independent Innovation——Based on Co-Word Analysis. Journal of Tianjin University. 00 ( 01 ), 1 2( 2021 ). Huang,M.:Analysis on Research Hotspots and the Evolution Trend of Independent Innovation——Based on Co-Word Analysis.Journal of Tianjin University. 00(01),12(2021).",
+        "journal-title": "Journal of Tianjin University."
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "Battista F.; Otgaar H.:Research on the Effects of Lying on Memory: A Scientometric Analysis and a Call for New Studies.Frontiers in Psychology. 13 (837265)2022.  Battista F.; Otgaar H.:Research on the Effects of Lying on Memory: A Scientometric Analysis and a Call for New Studies.Frontiers in Psychology. 13 (837265)2022.",
+        "key": "e_1_3_2_1_9_1",
+        "DOI": "10.3389/fpsyg.2022.837265"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang K.; Wang L.; Yang G.B.:Research Hotspots and Trends in Nursing Education from 2014 to 2020: A Co-word Analysis based on Keywords.Journal of Advanced Nursing. 78(3) (787-798)2021.  Yang K.; Wang L.; Yang G.B.:Research Hotspots and Trends in Nursing Education from 2014 to 2020: A Co-word Analysis based on Keywords.Journal of Advanced Nursing. 78(3) (787-798)2021.",
+        "key": "e_1_3_2_1_10_1",
+        "DOI": "10.1111/jan.15010"
+      }
+    ],
+    "event": {
+      "acronym": "ICSED 2022",
+      "name": "ICSED 2022: 2022 4th International Conference on Software Engineering and Development",
+      "location": "Xiamen China"
+    },
+    "container-title": [
+      "Proceedings of the 2022 4th International Conference on Software Engineering and Development"
+    ],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3582084.3582093",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3582084.3582093",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2025-06-17T16:46:46Z",
+      "timestamp": 1750178806000
+    },
+    "score": 18.696941,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3582084.3582093"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          25
+        ]
+      ]
+    },
+    "references-count": 10,
+    "alternative-id": [
+      "10.1145/3582084.3582093",
+      "10.1145/3582084"
+    ],
+    "URL": "https://doi.org/10.1145/3582084.3582093",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-04-14",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2025-05-04T05:26:05Z",
+      "timestamp": 1746336365905
+    },
+    "reference-count": 0,
+    "publisher": "Francis Academic Press Ltd.",
+    "issue": "8",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "FER"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.25236/fer.2023.060805",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2023-05-13T03:23:43Z",
+      "timestamp": 1683948223000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Hot Spot and Development Trend of Adaptive Learning in China Based on CiteSpace Software"
+    ],
+    "prefix": "10.25236",
+    "volume": "6",
+    "member": "10869",
+    "published-online": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": [
+      "Frontiers in Educational Research"
+    ],
+    "link": [
+      {
+        "URL": "https://francis-press.com/uploads/papers/zEj0wYz5LPStjGv73mjQENrP8gy2Sy0YCm656KEt.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2023-05-13T03:23:50Z",
+      "timestamp": 1683948230000
+    },
+    "score": 18.67665,
+    "resource": {
+      "primary": {
+        "URL": "https://francis-press.com/papers/10190"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "8",
+      "published-online": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.25236/fer.2023.060805",
+    "ISSN": [
+      "2522-6398"
+    ],
+    "issn-type": [
+      {
+        "value": "2522-6398",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          15
+        ]
+      ],
+      "date-time": "2023-09-15T15:17:08Z",
+      "timestamp": 1694791028037
+    },
+    "reference-count": 14,
+    "publisher": "Hans Publishers",
+    "issue": "09",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "ML"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.12677/ml.2023.119517",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2023-09-14T14:54:54Z",
+      "timestamp": 1694703294000
+    },
+    "page": "3852-3860",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Oral English Studies in China(2000~2022)—A Visual Analysis Based on the CiteSpace Software"
+    ],
+    "prefix": "10.12677",
+    "volume": "11",
+    "author": [
+      {
+        "given": "若彤",
+        "family": "王",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4945",
+    "reference": [
+      {
+        "key": "ref1",
+        "unstructured": "路文军. 国内英语写作研究(2000-2019)——基于CiteSpace的可视化分析[J]. 西南交通大学学报(社会科学版), 2021, 22(5): 65-73."
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-4571(198605)37:3<97::AID-ASI1>3.0.CO;2-K"
+      },
+      {
+        "key": "ref3",
+        "unstructured": "毛伟. 教育政策与我国大学英语研究发展的关系——基于CiteSpace的知识图谱分析[J]. 外语学刊, 2022(3): 92-97."
+      },
+      {
+        "key": "ref4",
+        "unstructured": "高月琴. 语用能力的培养与英语口语能力的提高[J]. 外语电化教学, 2002(2): 6-9."
+      },
+      {
+        "key": "ref5",
+        "unstructured": "于冰. 交际策略与学生口语对话能力的关系研究[J]. 外语与外语教学, 2006(5): 26-27."
+      },
+      {
+        "key": "ref6",
+        "unstructured": "蔡莉. 建构主义学习理论指导下的商务英语口语教学[J]. 外语界, 2006(2): 30-34."
+      },
+      {
+        "key": "ref7",
+        "unstructured": "蔡基刚. 大学英语四、六级计算机口语测试效度、信度和可操作性研究[J]. 外语界, 2005(4): 66-75."
+      },
+      {
+        "key": "ref8",
+        "unstructured": "刘芹. 中国英语学习者口语能力分析性等级评分表效度研究初探[J]. 外语电化教学, 2004(4): 26-30."
+      },
+      {
+        "key": "ref9",
+        "unstructured": "吕长竑, 宋冰, 王焰, 刘文丽, 黎斌. 口语测试评分标准比较研究[J]. 外语教学与研究, 2008(6): 440-446."
+      },
+      {
+        "key": "ref10",
+        "unstructured": "黄永红. 英语专业四级口语测试的信度和效度[J]. 外语研究, 2006(3): 36-38."
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "王林海, 赵觅, 杨雯雯. CDIO理念下的大学英语口语翻转课堂教学模式实证研究[J]. 外语电化教学, 2018(2): 72-77.",
+        "DOI": "10.36012/sde.v1i2.195"
+      },
+      {
+        "key": "ref12",
+        "unstructured": "高频. 基于POA理论的大学英语翻转课堂教学模式实证研究——以听说教学为例[J]. 电化教育研究, 2018, 39(12): 102-107"
+      },
+      {
+        "key": "ref13",
+        "unstructured": "王天剑. 焦虑和效能感与口语和写作技能关系的SEM研究[J]. 外语与外语教学, 2010(1): 27-30."
+      },
+      {
+        "key": "ref14",
+        "unstructured": "陈悦, 陈超美, 胡志刚, 王贤文, 等. 引文空间分析原理与应用: CiteSpace 实用指南[M]. 北京: 科学出版社, 2014."
+      }
+    ],
+    "container-title": [
+      "Modern Linguistics"
+    ],
+    "original-title": [
+      "国内英语口语研究(2000~2022)——基于CiteSpace的可视化分析"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2023-09-14T14:55:18Z",
+      "timestamp": 1694703318000
+    },
+    "score": 18.576197,
+    "resource": {
+      "primary": {
+        "URL": "https://www.HansPub.org/journal/doi.aspx?DOI=10.12677/ML.2023.119517"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+      "issue": "09",
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.12677/ml.2023.119517",
+    "ISSN": [
+      "2330-1708",
+      "2330-1716"
+    ],
+    "issn-type": [
+      {
+        "value": "2330-1708",
+        "type": "print"
+      },
+      {
+        "value": "2330-1716",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2024-02-13T11:24:31Z",
+      "timestamp": 1707823471467
+    },
+    "reference-count": 43,
+    "publisher": "Hans Publishers",
+    "issue": "01",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SEA"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.12677/sea.2021.101001",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2021-02-09T06:57:14Z",
+      "timestamp": 1612853834000
+    },
+    "page": "1-9",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "The Visual Map Analysis of the Research on Pension Model in China Based on CiteSpace"
+    ],
+    "prefix": "10.12677",
+    "volume": "10",
+    "author": [
+      {
+        "given": "超超",
+        "family": "陆",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4945",
+    "reference": [
+      {
+        "key": "ref1",
+        "unstructured": "国家统计局. 中国统计年鉴[M]. 北京: 中国统计出版社, 2020."
+      },
+      {
+        "key": "ref2",
+        "unstructured": "新华社. 中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议[EB/OL]. http://www.gov.cn/zhengce/2020-11/03/content_5556991.htm, 2020-11-11"
+      },
+      {
+        "key": "ref3",
+        "unstructured": "尹惠茹, 袁华, 石晓群, 李文涛, 安力彬. 深度老龄化背景下中国养老机构发展困境与对策[J]. 中国老年学杂志, 2016, 36(13): 3345-3347. http://dx.chinadoi.cn/10.3969/j.issn.1005-9202.2016.13.122"
+      },
+      {
+        "key": "ref4",
+        "unstructured": "彭青云. 多元主体视角下社区居家养老服务路径探索[J]. 浙江工商大学学报, 2019(3): 101-108. http://dx.chinadoi.cn/10.14134/j.cnki.cn33-1337/c.2019.03.011"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "张文超, 杨华磊. 我国“时间银行”互助养老的发展现状、存在问题及对策建议[J]. 南方金融, 2019(3): 33-41. http://dx.chinadoi.cn/10.3969/j.issn.1007-9041.2019.03.004",
+        "DOI": "10.32629/er.v2i11.2170"
+      },
+      {
+        "key": "ref6",
+        "unstructured": "丁继红, 王一凡, 刘晓敏. 养老模式对老年人主客观健康的影响[J]. 人口与发展, 2019, 25(5): 50-65."
+      },
+      {
+        "key": "ref7",
+        "unstructured": "唐莉, 程红梅, 雷彬, 米拉依, 胡莹. 不同养老模式下老年人社会支持现状[J]. 中国老年学杂志, 2020, 40(6): 1328-1331. http://dx.chinadoi.cn/10.3969/j.issn.1005-9202.2020.06.064"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "于长永. 农村老年人的互助养老意愿及其实现方式研究[J]. 华中科技大学学报(社会科学版), 2019, 33(2): 116-123. http://dx.chinadoi.cn/10.19648/j.cnki.jhustss1980.2019.02.14",
+        "DOI": "10.32629/ej.v2i5.236"
+      },
+      {
+        "key": "ref9",
+        "unstructured": "陈建梅, 武梦笛. 区域特色嵌入融合下城市老年人口养老服务体系优化路径研究——基于哈尔滨市城区512份调查数据[J]. 西北人口, 2020, 41(1): 32-42+52. http://dx.chinadoi.cn/10.15884/j.cnki.issn.1007-0672.2020.01.004"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "孙建娥, 张志雄. “互联网+”养老服务模式及其发展路径研究[J]. 湖南师范大学社会科学学报, 2019, 48(3): 46-53. http://dx.chinadoi.cn/10.19503/j.cnki.1000-2529.2019.03.007",
+        "DOI": "10.32629/er.v3i5.2703"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "睢党臣, 刘星辰. 人工智能居家养老模式构建[J]. 重庆社会科学, 2020(7): 6-19+2. http://dx.chinadoi.cn/10.19631/j.cnki.css.2020.007.001",
+        "DOI": "10.32629/jief.v2i10.2215"
+      },
+      {
+        "key": "ref12",
+        "unstructured": "范书南, 郭海岚, 董雪. 中国老年人养老模式的研究进展[J]. 中国老年学杂志, 2019, 39(4): 996-999. http://dx.chinadoi.cn/10.3969/j.issn.1005-9202.2019.04.073"
+      },
+      {
+        "key": "ref13",
+        "unstructured": "李丹, 毕红霞. 我国互助养老发展研究综述[J]. 老龄科学研究, 2020, 8(1): 44-53."
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.20317"
+      },
+      {
+        "key": "ref15",
+        "unstructured": "陈悦, 陈超美, 刘则渊, 胡志刚, 王贤文. CiteSpace知识图谱的方法论功能[J]. 科学学研究, 2015, 33(2): 242-253. http://dx.chinadoi.cn/10.3969/j.issn.1003-2053.2015.02.009"
+      },
+      {
+        "key": "ref16",
+        "unstructured": "朱海龙, 欧阳盼. 中国人养老观念的转变与思考[J]. 湖南师范大学社会科学学报, 2015, 44(1): 88-97."
+      },
+      {
+        "key": "ref17",
+        "unstructured": "贺广明, 刘毅. 新时期养老观念构建与革新[J]. 中国老年学杂志, 2020, 40(5): 1105-1109. http://dx.chinadoi.cn/10.3969/j.issn.1005-9202.2020.05.064"
+      },
+      {
+        "key": "ref18",
+        "unstructured": "贺薇. 居家养老服务供给结构的现状与优化[J]. 湖北大学学报(哲学社会科学版), 2020, 47(6): 155-165."
+      },
+      {
+        "key": "ref19",
+        "unstructured": "王雪辉, 彭聪. 农村社会养老服务供给水平研究[J]. 华南农业大学学报(社会科学版), 2020, 19(1): 117-128."
+      },
+      {
+        "key": "ref20",
+        "unstructured": "陈静. 新型城镇化背景下农村养老服务供给模式研究[J]. 农村经济, 2016(6): 101-106."
+      },
+      {
+        "key": "ref21",
+        "unstructured": "杜鹏, 孙鹃娟, 张文娟, 王雪辉. 中国老年人的养老需求及家庭和社会养老资源现状——基于2014年中国老年社会追踪调查的分析[J]. 人口研究, 2016, 40(6): 49-61."
+      },
+      {
+        "key": "ref22",
+        "unstructured": "陈志科, 马少珍. 老年人居家养老服务需求的影响因素研究——基于湖南省的社会调查[J]. 中南大学学报(社会科学版), 2012, 18(3): 26-30+74. http://dx.chinadoi.cn/10.3969/j.issn.1672-3104.2012.03.006"
+      },
+      {
+        "key": "ref23",
+        "unstructured": "张再云, 风笑天, 郭颖. 从需求到资源——城市老人入住养老机构的影响因素分析[J]. 人口与发展, 2018, 24(4): 107-119."
+      },
+      {
+        "key": "ref24",
+        "unstructured": "盛见. 社会养老服务有效需求不足的根源分析与破解路径[J]. 中州学刊, 2019(12): 28-34."
+      },
+      {
+        "key": "ref25",
+        "unstructured": "石金群. 中国当前家庭养老的困境与出路[J]. 中央民族大学学报(哲学社会科学版), 2013, 40(4): 62-67."
+      },
+      {
+        "key": "ref26",
+        "unstructured": "林宝. 养老模式转变的基本趋势及我国养老模式的选择[J]. 广西社会科学, 2010(5): 124-127. http://dx.chinadoi.cn/10.3969/j.issn.1004-6917.2010.05.030"
+      },
+      {
+        "key": "ref27",
+        "unstructured": "黄健元, 常亚轻. 家庭养老功能弱化了吗？——基于经济与服务的双重考察[J]. 社会保障评论, 2020, 4(2): 131-145."
+      },
+      {
+        "key": "ref28",
+        "unstructured": "李连友, 李磊, 邓依伊.中国家庭养老公共政策的重构——基于家庭养老功能变迁与发展的视角[J]. 中国行政管理, 2019(10): 112-119."
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "汪泳. 社会资本视域下支持家庭养老的政府行动逻辑及策略[J]. 理论探讨, 2020(4): 63-68.",
+        "DOI": "10.2478/admin-2020-0017"
+      },
+      {
+        "key": "ref30",
+        "unstructured": "韦艳, 张本波. “依亲而居”: 补齐家庭养老短板的国际经验与借鉴[J]. 宏观经济研究, 2019(12): 160-166."
+      },
+      {
+        "key": "ref31",
+        "unstructured": "武萍, 周卉, 赵越. 中国家庭养老方式的社会化机制研究——来自德国的启示[J]. 辽宁大学学报(哲学社会科学版), 2016, 44(2): 90-96."
+      },
+      {
+        "key": "ref32",
+        "unstructured": "王立剑, 凤言, 王程. 养老机构服务质量评价研究[J]. 人口与发展, 2017, 23(6): 96-102."
+      },
+      {
+        "key": "ref33",
+        "unstructured": "陈芳芳, 杨翠迎. 基于政府职责视角的养老机构公建民营模式研究——以上海市为例[J]. 社会保障研究, 2019(4): 10-18. http://dx.chinadoi.cn/10.3969/j.issn.1674-4802.2019.04.002"
+      },
+      {
+        "key": "ref34",
+        "unstructured": "曹飞廉, 王洁. 社区居家养老服务体系的建设思路[J]. 重庆社会科学, 2018(10): 103-112. http://dx.chinadoi.cn/10.19631/j.cnki.css.2018.010.011"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "陈为智. 当前社区居家养老服务中的关键问题反思及前瞻[J]. 西北人口, 2016, 37(3): 100-104. http://dx.chinadoi.cn/10.3969/j.issn.1007-0672.2016.03.018",
+        "DOI": "10.1055/s-0042-110171"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "王子飞. “互联网+养老服务”模式供需评估与发展对策[J]. 中州学刊, 2020(3): 81-86.",
+        "DOI": "10.26549/cjygl.v3i6.2488"
+      },
+      {
+        "key": "ref37",
+        "unstructured": "温海红, 王怡欢. 基于个体差异的“互联网+”居家社区养老服务需求分析[J]. 社会保障研究, 2019(2): 40-48. http://dx.chinadoi.cn/10.3969/j.issn.1674-4802.2019.02.005"
+      },
+      {
+        "key": "ref38",
+        "unstructured": "睢党臣, 彭庆超. 我国城市“互联网+社区居家养老”服务模式的构建基础分析[J]. 社会保障研究, 2017(3): 18-26. http://dx.chinadoi.cn/10.3969/j.issn.1674-4802.2017.03.003"
+      },
+      {
+        "key": "ref39",
+        "unstructured": "闾志俊. “互联网+”背景下智慧养老服务模式[J]. 中国老年学杂志, 2018, 38(17): 4321-4325. http://dx.chinadoi.cn/10.3969/j.issn.1005-9202.2018.17.083"
+      },
+      {
+        "key": "ref40",
+        "unstructured": "向运华, 姚虹. 养老服务体系创新: 智慧养老的地方实践与对策[J]. 西安财经学院学报, 2016, 29(6): 110-114. http://dx.chinadoi.cn/10.3969/j.issn.1672-2817.2016.06.020"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "丁文均, 丁日佳, 周幸窈, 欧阳赢. 推进我国智慧养老体系建设[J]. 宏观经济管理, 2019(5): 51-56.",
+        "DOI": "10.1055/a-0759-4810"
+      },
+      {
+        "key": "ref42",
+        "unstructured": "夏天慧, 范玲. 我国医养结合养老模式发展现状研究[J]. 护理研究, 2018, 32(11): 1691-1693. http://dx.chinadoi.cn/10.12102/j.issn.1009-6493.2018.11.009"
+      },
+      {
+        "key": "ref43",
+        "unstructured": "刘妮娜. 农村互助型社会养老: 中国特色与发展路径[J]. 华南农业大学学报(社会科学版), 2019, 18(1): 121-131."
+      }
+    ],
+    "container-title": [
+      "Software Engineering and Applications"
+    ],
+    "original-title": [
+      "基于CiteSpace的我国养老模式研究可视化图谱分析"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2022-12-15T21:56:13Z",
+      "timestamp": 1671141373000
+    },
+    "score": 18.483658,
+    "resource": {
+      "primary": {
+        "URL": "https://www.HansPub.org/journal/doi.aspx?DOI=10.12677/SEA.2021.101001"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "01",
+      "published-print": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.12677/sea.2021.101001",
+    "ISSN": [
+      "2325-2286",
+      "2325-2278"
+    ],
+    "issn-type": [
+      {
+        "value": "2325-2286",
+        "type": "print"
+      },
+      {
+        "value": "2325-2278",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T01:12:46Z",
+      "timestamp": 1740100366162,
+      "version": "3.37.3"
+    },
+    "reference-count": 31,
+    "publisher": "IEEE",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2021-07-01T00:00:00Z",
+          "timestamp": 1625097600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2021-07-01T00:00:00Z",
+          "timestamp": 1625097600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2021-07-01T00:00:00Z",
+          "timestamp": 1625097600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100015295",
+        "name": "Social Science Planning Program of Chongqing",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2016BS033"
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100015295",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004500",
+        "name": "Chongqing Technology and Business University",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "1655005"
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004500",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1109/icmsse53595.2021.00049",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          24
+        ]
+      ],
+      "date-time": "2021-11-24T20:40:34Z",
+      "timestamp": 1637786434000
+    },
+    "page": "196-199",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Literature Review of humor advertising in social media: Based on CiteSpace"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Sun",
+        "family": "Huihui",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5296/jmr.v8i1.8419"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13527260903090790"
+      },
+      {
+        "key": "ref10",
+        "first-page": "795",
+        "volume": "30",
+        "author": "van kuilenburg",
+        "year": "2011",
+        "journal-title": "That was funny but what was the brand again? International Journal of Advertising"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11002-010-9116-z"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02650487.2017.1335074"
+      },
+      {
+        "key": "ref13",
+        "first-page": "383",
+        "volume": "38",
+        "author": "hye",
+        "year": "2019",
+        "journal-title": "Gender differences in arousal priming effects on humor advertising International Journal of Advertising"
+      },
+      {
+        "key": "ref14",
+        "first-page": "55",
+        "volume": "36",
+        "author": "cline",
+        "year": "2007",
+        "journal-title": "The Influence of Humor Strength and Humor-Message Relatedenss on Ad Memorability Journal of Advertising"
+      },
+      {
+        "key": "ref15",
+        "first-page": "1",
+        "article-title": "Being funny is not enough: the influence of perceived humor and negative emotional reactions on brand attitudes",
+        "volume": "5",
+        "author": "warren",
+        "year": "2019",
+        "journal-title": "International Journal of Advertising"
+      },
+      {
+        "key": "ref16",
+        "first-page": "39",
+        "volume": "2",
+        "author": "warren",
+        "year": "2016",
+        "journal-title": "When does humorous marketing hurt brands? Journal of Marketing Behavior"
+      },
+      {
+        "journal-title": "Advertising and Promotion An Integrated Marketing Communications Perspective",
+        "year": "2014",
+        "author": "belch",
+        "key": "ref17"
+      },
+      {
+        "key": "ref18",
+        "first-page": "143",
+        "article-title": "Review and prospects of marketing information sharing based on emotional perspective",
+        "volume": "40",
+        "author": "li",
+        "year": "2018",
+        "journal-title": "Foreign Economics and Management"
+      },
+      {
+        "key": "ref19",
+        "first-page": "406",
+        "volume": "34",
+        "author": "das",
+        "year": "2015",
+        "journal-title": "Is sexy better than funny? Disentangling the persuasive effects of pleasure and arousal across sex and humor appeals International Journal of Advertising"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10496491.2016.1154920"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/678904"
+      },
+      {
+        "key": "ref27",
+        "first-page": "45",
+        "volume": "8",
+        "author": "tan",
+        "year": "2002",
+        "journal-title": "Can consumers' scepticism be mitigated by claim objectiveity and claim extremity? Journal of Marketing Communications"
+      },
+      {
+        "journal-title": "The psychology of humor An integrative approach",
+        "year": "2018",
+        "author": "martin",
+        "key": "ref3"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00913367.2003.10639134"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02650487.2019.1617544"
+      },
+      {
+        "key": "ref5",
+        "first-page": "92",
+        "article-title": "Types of humor in television and magazine advertising",
+        "volume": "22",
+        "author": "catanescu",
+        "year": "2001",
+        "journal-title": "Review of Business Jamaica"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10696679.2017.1389247"
+      },
+      {
+        "journal-title": "On Humor and Humor in Advertising",
+        "year": "1987",
+        "author": "surgi",
+        "key": "ref7"
+      },
+      {
+        "journal-title": "Modern humor linguistics",
+        "year": "2016",
+        "author": "liu",
+        "key": "ref2"
+      },
+      {
+        "key": "ref1",
+        "first-page": "144",
+        "article-title": "An experimental study on the intergenerational differences in the effect of humor persuasion on the medical We Chat public account",
+        "volume": "9",
+        "author": "mou",
+        "year": "2020",
+        "journal-title": "Modern Communication (Journal of Communication University of China)"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11747-008-0096-y"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/joc/jqx008"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11199-016-0605-2"
+      },
+      {
+        "key": "ref21",
+        "first-page": "649",
+        "volume": "55",
+        "author": "chan",
+        "year": "2021",
+        "journal-title": "Placing products in humorous scenes its impact on brand perceptions European Journal of Marketing"
+      },
+      {
+        "key": "ref24",
+        "first-page": "644",
+        "article-title": "The Use and Impact of Humor in Radio Advertising",
+        "volume": "31",
+        "author": "weinberger",
+        "year": "1991",
+        "journal-title": "Journal of Advertising Research"
+      },
+      {
+        "key": "ref23",
+        "first-page": "955",
+        "article-title": "Humor Advertising Appeal and Its Communication Effects",
+        "volume": "16",
+        "author": "zhou",
+        "year": "2008",
+        "journal-title": "Advances in Psychological Science"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/209557"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ijpor/edt005"
+      }
+    ],
+    "event": {
+      "name": "2021 International Conference on Management Science and Software Engineering (ICMSSE)",
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            9
+          ]
+        ]
+      },
+      "location": "Chengdu, China",
+      "end": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            11
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2021 International Conference on Management Science and Software Engineering (ICMSSE)"
+    ],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/9609235/9609246/09609268.pdf?arnumber=9609268",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          10
+        ]
+      ],
+      "date-time": "2022-05-10T16:51:52Z",
+      "timestamp": 1652201512000
+    },
+    "score": 18.185623,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/9609268/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "references-count": 31,
+    "URL": "https://doi.org/10.1109/icmsse53595.2021.00049",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2025-01-23T05:14:17Z",
+      "timestamp": 1737609257617,
+      "version": "3.33.0"
+    },
+    "reference-count": 11,
+    "publisher": "IEEE",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              16
+            ]
+          ],
+          "date-time": "2024-08-16T00:00:00Z",
+          "timestamp": 1723766400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              16
+            ]
+          ],
+          "date-time": "2024-08-16T00:00:00Z",
+          "timestamp": 1723766400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          16
+        ]
+      ]
+    },
+    "DOI": "10.1109/icste63875.2024.00034",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2025-01-21T18:23:06Z",
+      "timestamp": 1737483786000
+    },
+    "page": "154-158",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Visual Analysis of Tobacco Leaf Recognition Research Based on CiteSpace"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Yanting",
+        "family": "Dai",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Southwest Forestry University, College of Big Data and Intelligent Engineering,Kunming,China"
+          }
+        ]
+      },
+      {
+        "given": "Hua",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Southwest Forestry University, College of Big Data and Intelligent Engineering,Kunming,China"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ppa.13745"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00387010.2020.1824193"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42107-022-00526-9"
+      },
+      {
+        "volume-title": "Advances in Biomedical Engineering--Proceedings of 2011 International Conference on Agricultural and Biosystems Engineering (ICABE 2011)",
+        "key": "ref4",
+        "article-title": "43200 X U X A O C H L, Hubei,China. Image Recognition for Abnorm al Groups of Tobacco Leaves[C]"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/bdcc8060052"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.20317"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21309"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/dta-01-2022-0010"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0223994"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.35940/ijitee.E2509.039520"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0283801"
+      }
+    ],
+    "event": {
+      "name": "2024 14th International Conference on Software Technology and Engineering (ICSTE)",
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            16
+          ]
+        ]
+      },
+      "location": "Macau, China",
+      "end": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            18
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2024 14th International Conference on Software Technology and Engineering (ICSTE)"
+    ],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx8/10840337/10840327/10840356.pdf?arnumber=10840356",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2025-01-22T05:52:53Z",
+      "timestamp": 1737525173000
+    },
+    "score": 18.185623,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/10840356/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          16
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1109/icste63875.2024.00034",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2025-04-10T04:17:44Z",
+      "timestamp": 1744258664797,
+      "version": "3.40.4"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "group-title": "SSRN",
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2139/ssrn.5211042",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2025-04-09T11:41:03Z",
+      "timestamp": 1744198863000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Review and Future Prospects of Municipal Industry-Education Consortia in Domestic and International Research——Visualization and Analysis Based on Citespace Software"
+    ],
+    "prefix": "10.2139",
+    "author": [
+      {
+        "given": "Sen",
+        "family": "Yan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "jiahui",
+        "family": "Pan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2025-04-09T11:41:03Z",
+      "timestamp": 1744198863000
+    },
+    "score": 18.147018,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ssrn.com/abstract=5211042"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.2139/ssrn.5211042",
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+]

@@ -1,0 +1,2367 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2025-03-19T11:10:13Z",
+      "timestamp": 1742382613300
+    },
+    "reference-count": 0,
+    "publisher": "SciTePress - Science and and Technology Publications",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "DOI": "10.5220/0001269903910396",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2011-06-22T05:57:25Z",
+      "timestamp": 1308722245000
+    },
+    "page": "391-396",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "CREATING STRUCTURE FROM DISORDER - Using Folksonomies to Create Semantic Metadata"
+    ],
+    "prefix": "10.5220",
+    "member": "3171",
+    "event": {
+      "name": "3rd International Conference on Web Information Systems and Technologies",
+      "start": {
+        "date-parts": [
+          [
+            2007,
+            3,
+            3
+          ]
+        ]
+      },
+      "location": "Barcelona, Spain",
+      "end": {
+        "date-parts": [
+          [
+            2007,
+            3,
+            6
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "Proceedings of the Third International Conference on Web Information Systems and Technologies"
+    ],
+    "original-title": [
+      "english"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2011-06-22T05:59:31Z",
+      "timestamp": 1308722371000
+    },
+    "score": 32.386665,
+    "resource": {
+      "primary": {
+        "URL": "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0001269903910396"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5220/0001269903910396",
+    "published": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2025-03-19T12:56:20Z",
+      "timestamp": 1742388980018,
+      "version": "3.33.0"
+    },
+    "reference-count": 12,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1109/innovations.2006.301927",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2007-02-28T22:12:44Z",
+      "timestamp": 1172700764000
+    },
+    "page": "1-5",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "FolksAnnotation: A Semantic Metadata Tool for Annotating Learning Resources Using Folksonomies and Domain Ontologies"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Hend",
+        "family": "Al-khalifa",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Hugh",
+        "family": "Davis",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "article-title": "Folksonomies - Cooperative Classification and Communication Through Shared Metadata",
+        "year": "0",
+        "author": "mathes",
+        "key": "ref4"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1045/april2005-hammond"
+      },
+      {
+        "key": "ref10",
+        "article-title": "Information Retrieval in Folksonomies: Search and Ranking",
+        "author": "hotho",
+        "year": "2006",
+        "journal-title": "Proceedings of the 3rd European Semantic Web Conference"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/11574620_38",
+        "article-title": "Ontologies are us: A unified model of social networks and semantics",
+        "author": "mika",
+        "year": "2005",
+        "journal-title": "Proceedings of the Fourth International Semantic Web Conference (ISWC 2005)"
+      },
+      {
+        "key": "ref11",
+        "article-title": "FOLKSONOMIES VERSUS AUTOMATIC KEYWORD EXTRACTION: AN EMPIRICAL STUDY",
+        "author": "al-khalifa",
+        "year": "2006",
+        "journal-title": "Proceedings of IADIS Web Applications and Research 2006"
+      },
+      {
+        "key": "ref5",
+        "volume": "12",
+        "author": "guy",
+        "year": "2006",
+        "journal-title": "Folksonomies Tidying up Tags? D-Lib Magazine"
+      },
+      {
+        "key": "ref12",
+        "article-title": "Ontology Mappings Enable Interoperation of Knowledge Domain Taxonomies",
+        "author": "li",
+        "year": "2005",
+        "journal-title": "Paper presented at the 2nd LORNET international annual conference"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0165551506062337"
+      },
+      {
+        "key": "ref7",
+        "article-title": "A Proposal of Community-based Folksonomy with RDF Metadata",
+        "author": "ohmukai",
+        "year": "2005",
+        "journal-title": "Proc of 4th Intl Semantic Web Conference (ISWC2005)"
+      },
+      {
+        "key": "ref2",
+        "article-title": "Folksonomies: power to the people",
+        "author": "quintarelli",
+        "year": "2005",
+        "journal-title": "ISKO Italy-UniMIB meeting"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4018/jswis.2006010102"
+      },
+      {
+        "journal-title": "Ontology is Overrated Categories Links and Tags",
+        "year": "0",
+        "author": "shirky",
+        "key": "ref1"
+      }
+    ],
+    "event": {
+      "name": "2006 Innovations in Information Technology",
+      "start": {
+        "date-parts": [
+          [
+            2006,
+            11,
+            19
+          ]
+        ]
+      },
+      "location": "Dubai, United Arab Emirates",
+      "end": {
+        "date-parts": [
+          [
+            2006,
+            11,
+            21
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2006 Innovations in Information Technology"
+    ],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/4085390/4043134/04085442.pdf?arnumber=4085442",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2025-01-14T11:12:07Z",
+      "timestamp": 1736853127000
+    },
+    "score": 32.02791,
+    "resource": {
+      "primary": {
+        "URL": "http://ieeexplore.ieee.org/document/4085442/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          11
+        ]
+      ]
+    },
+    "references-count": 12,
+    "URL": "https://doi.org/10.1109/innovations.2006.301927",
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2025-03-19T14:51:33Z",
+      "timestamp": 1742395893581
+    },
+    "reference-count": 0,
+    "publisher": "IGI Global",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          1
+        ]
+      ]
+    },
+    "abstract": "<p>Finding good keywords to describe resources is an on-going problem. Typically, we select such words manually from a thesaurus of terms, or they are created using auto-matic keyword extraction techniques. Folksonomies are an increasingly well-populated source of unstructured tags describing Web resources. This article explores the value of the folksonomy tags as a potential source of keyword metadata by examining the relationship between folksonomies, community produced annotations, and keywords extracted by machines. The experiment has been carried out in two ways: subjectively, by asking two human indexers to evaluate the quality of the generated keywords from both systems; and automatically, by measuring the percentage of overlap between the folksonomy set and machine generated keywords set. The results of this experiment show that the folksonomy tags agree more closely with the human generated keywords than those automatically generated. The results also showed that the trained indexers pre-ferred the semantics of folksonomy tags compared to keywords extracted automatically. These results can be considered as evidence for the strong relationship of folksonomies to the human indexer’s mindset, demonstrating that folksonomies used in the del.icio.us bookmarking service are a potential source for generating semantic metadata to annotate Web resources.</p>",
+    "DOI": "10.4018/jswis.2007010102",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2011-02-15T19:02:37Z",
+      "timestamp": 1297796557000
+    },
+    "page": "12-38",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Exploring the Value of Folksonomies for Creating Semantic Metadata"
+    ],
+    "prefix": "10.4018",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Hend S.",
+        "family": "Al-Khalifa",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Southampton, UK"
+          }
+        ]
+      },
+      {
+        "given": "Hugh C.",
+        "family": "Davis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Southampton, UK"
+          }
+        ]
+      }
+    ],
+    "member": "2432",
+    "container-title": [
+      "International Journal on Semantic Web and Information Systems"
+    ],
+    "language": "ng",
+    "link": [
+      {
+        "URL": "https://www.igi-global.com/viewtitle.aspx?TitleId=2829",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2022-06-01T17:54:37Z",
+      "timestamp": 1654106077000
+    },
+    "score": 31.805813,
+    "resource": {
+      "primary": {
+        "URL": "https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jswis.2007010102"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4018/jswis.2007010102",
+    "ISSN": [
+      "1552-6283",
+      "1552-6291"
+    ],
+    "issn-type": [
+      {
+        "value": "1552-6283",
+        "type": "print"
+      },
+      {
+        "value": "1552-6291",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T04:36:58Z",
+      "timestamp": 1750307818840,
+      "version": "3.41.0"
+    },
+    "reference-count": 3,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "Autumn",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2008-09-01T00:00:00Z",
+          "timestamp": 1220227200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "SIGWEB Newsl."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Hend S. Al-Khalifa received her PhD from the School of Electronics and Computer Science, University of Southampton, United Kingdom. The title of her thesis is \"Automatic Document-Level Semantic Metadata Annotation Using Folksonomies and Domain Ontologies\". She currently works as an assistant professor in the Information Technology Department, College of Computer and Information Sciences, King Saud University, Saudi Arabia. Her research interests include web technologies (i.e. Semantic Web/Web 2.0), Technology Enhanced Learning (e.g. E-learning, Adaptive Hypermedia, etc.) and computer for people with special needs. (website: http://faculty.ksu.edu.sa/hend.alkhalifa)</jats:p>",
+    "DOI": "10.1145/1408940.1408944",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2008-10-07T12:48:29Z",
+      "timestamp": 1223383709000
+    },
+    "page": "1-3",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Automatic document-level semantic metadata annotation using folksonomies and domain ontologies"
+    ],
+    "prefix": "10.1145",
+    "volume": "2008",
+    "author": [
+      {
+        "given": "Hend S.",
+        "family": "Al-Khalifa",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "King Saud University, Riyadh, Saudi Arabia"
+          }
+        ]
+      },
+      {
+        "given": "Jessica",
+        "family": "Rubart",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Arvato Services, Germany"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_1_1",
+        "unstructured": "Barritt C. and F. Alderman (2004). Creating a Reusable Learning Objects Strategy. San Diego Pfeiffer.   Barritt C. and F. Alderman (2004). Creating a Reusable Learning Objects Strategy. San Diego Pfeiffer."
+      },
+      {
+        "key": "e_1_2_1_2_1",
+        "unstructured": "Guy M. A. Powell and M. Day (2004). \"Improving the Quality of Metadata in Eprint Archives.\" Ariadne January(38).  Guy M. A. Powell and M. Day (2004). \"Improving the Quality of Metadata in Eprint Archives.\" Ariadne January(38)."
+      },
+      {
+        "key": "e_1_2_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1045/november2006-peterson"
+      }
+    ],
+    "container-title": [
+      "ACM SIGWEB Newsletter"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/1408940.1408944",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/1408940.1408944",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T13:57:44Z",
+      "timestamp": 1750255064000
+    },
+    "score": 29.799994,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/1408940.1408944"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "references-count": 3,
+    "journal-issue": {
+      "issue": "Autumn",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/1408940.1408944"
+    ],
+    "URL": "https://doi.org/10.1145/1408940.1408944",
+    "ISSN": [
+      "1931-1745",
+      "1931-1435"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1931-1745"
+      },
+      {
+        "type": "electronic",
+        "value": "1931-1435"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2008-09-01",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2024-10-29T14:07:51Z",
+      "timestamp": 1730210871895,
+      "version": "3.28.0"
+    },
+    "reference-count": 27,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1109/cscwd.2015.7230969",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          3
+        ]
+      ],
+      "date-time": "2015-09-03T21:52:51Z",
+      "timestamp": 1441317171000
+    },
+    "page": "265-270",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Are folksonomies shared conceptualizations?"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Josiane M.",
+        "family": "Pinheiro",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Cesar A.",
+        "family": "Tacla",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Emerson Cabrera",
+        "family": "Paraiso",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref10",
+        "article-title": "Automated Tag Clustering: Improving search and exploration in the tag space",
+        "author": "begelman",
+        "year": "2006",
+        "journal-title": "Collaborative Web Tagging Workshop at WWW2006"
+      },
+      {
+        "key": "ref11",
+        "first-page": "293",
+        "article-title": "Deriving a Lightweight Corporate Ontology from a Folksonomy: a Methodology and its Possible Applications",
+        "volume": "9",
+        "author": "van damme",
+        "year": "2008",
+        "journal-title": "Scalable Comput Pract Exp - Sci Int J Parallel Distrib Comput"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2006.11.002"
+      },
+      {
+        "key": "ref13",
+        "article-title": "Inducing ontology from Flickr tags",
+        "author": "schmitz",
+        "year": "2006",
+        "journal-title": "Collaborative Web Tagging Workshop 15th WWW Conference"
+      },
+      {
+        "key": "ref14",
+        "first-page": "624",
+        "article-title": "Integrating Folksonomies with the Semantic Web",
+        "volume": "4519",
+        "author": "specia",
+        "year": "2007",
+        "journal-title": "4th European Semantic Web Conference"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1135777.1135839"
+      },
+      {
+        "article-title": "Collaborative creation of communal hierarchical taxonomies in social tagging systems",
+        "year": "2006",
+        "author": "heymann",
+        "key": "ref16"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/3-540-34416-0_28"
+      },
+      {
+        "key": "ref18",
+        "first-page": "654",
+        "article-title": "An Integrated Approach to Extracting Ontological Structures from Folksonomies",
+        "author": "lin",
+        "year": "2009",
+        "journal-title": "Proceedings of 6th European Semantic Web Conference ESWC 2009"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2012.07.004"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0165551506062337"
+      },
+      {
+        "article-title": "The Theory Underlying Concept Maps and How to Construct and Use Them",
+        "year": "2008",
+        "author": "novak",
+        "key": "ref27"
+      },
+      {
+        "article-title": "Folksonomy Coinage and Definition",
+        "year": "0",
+        "author": "vander wal",
+        "key": "ref3"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1594173.1594176"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1242572.1242602"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1149941.1149962"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2007.11.004"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2007.11.011"
+      },
+      {
+        "key": "ref9",
+        "first-page": "93",
+        "article-title": "Bridging the Gap Between Folksonomies and the Semantic Web: An Experience Report",
+        "author": "specia",
+        "year": "2007",
+        "journal-title": "Workshop Bridging the Gap between Semantic Web and Web 2 0 European Semantic Web Conference"
+      },
+      {
+        "key": "ref1",
+        "article-title": "Ontological Foundations for Structural Conceptual Models",
+        "author": "guizzardi",
+        "year": "2005",
+        "journal-title": "University of Twente Enschede"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1526709.1526796"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1835804.1835924"
+      },
+      {
+        "key": "ref21",
+        "first-page": "1",
+        "article-title": "Semantic Grounding of Tag Relatedness in Social Bookmarking Systems",
+        "author": "cattuto",
+        "year": "2008",
+        "journal-title": "7th Intl Semantic Web Conference ISWC"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.procs.2010.04.061"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2010.10.001"
+      },
+      {
+        "key": "ref26",
+        "first-page": "217",
+        "author": "smith",
+        "year": "2008",
+        "journal-title": "Tagging People-Powered Metadata for the Social Web"
+      },
+      {
+        "key": "ref25",
+        "first-page": "1",
+        "article-title": "Folksonomies - Cooperative Classification and Communication Through Shared Metadata",
+        "author": "mathes",
+        "year": "2004",
+        "journal-title": "Libr Inf Sci"
+      }
+    ],
+    "event": {
+      "name": "2015 IEEE 19th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            5,
+            6
+          ]
+        ]
+      },
+      "location": "Calabria, Italy",
+      "end": {
+        "date-parts": [
+          [
+            2015,
+            5,
+            8
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2015 IEEE 19th International Conference on Computer Supported Cooperative Work in Design (CSCWD)"
+    ],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/7194213/7230917/07230969.pdf?arnumber=7230969",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2020-10-14T14:52:23Z",
+      "timestamp": 1602687143000
+    },
+    "score": 29.4346,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/7230969"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          5
+        ]
+      ]
+    },
+    "references-count": 27,
+    "URL": "https://doi.org/10.1109/cscwd.2015.7230969",
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T04:33:06Z",
+      "timestamp": 1750307586792,
+      "version": "3.41.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 27,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              2,
+              4
+            ]
+          ],
+          "date-time": "2010-02-04T00:00:00Z",
+          "timestamp": 1265241600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1145/1718487.1718521",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          24
+        ]
+      ],
+      "date-time": "2010-08-24T13:16:50Z",
+      "timestamp": 1282655810000
+    },
+    "page": "271-280",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 108,
+    "title": [
+      "Folks in Folksonomies"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Rossano",
+        "family": "Schifanella",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Turin, Turin, Italy"
+          }
+        ]
+      },
+      {
+        "given": "Alain",
+        "family": "Barrat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CNRS, Marseille, France"
+          }
+        ]
+      },
+      {
+        "given": "Ciro",
+        "family": "Cattuto",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Scientific Interchange (ISI) Foundation, Turin, Italy"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin",
+        "family": "Markines",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Indiana University, Bloomington, IN, USA"
+          }
+        ]
+      },
+      {
+        "given": "Filippo",
+        "family": "Menczer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Indiana University, Bloomington, IN, USA"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-540-88564-1_39"
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0165551506062337"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_2_1_3_1",
+        "article-title": "Social Bookmarking Tools (I)",
+        "volume": "11",
+        "author": "Hammond T.",
+        "year": "2005",
+        "unstructured": "T. Hammond , T. Hannay , B. Lund , and J. Scott . Social Bookmarking Tools (I) : A General Review. D-Lib Magazine , 11 ( 4 ), April 2005 . T. Hammond, T. Hannay, B. Lund, and J. Scott. Social Bookmarking Tools (I): A General Review. D-Lib Magazine, 11(4), April 2005.",
+        "journal-title": "A General Review. D-Lib Magazine"
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1150402.1150476"
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "volume-title": "Proceedings of International Conference on Weblogs and Social Media (ICWSM)",
+        "author": "Lerman K.",
+        "year": "2007",
+        "unstructured": "K. Lerman and L. Jones . Social browsing on flickr . In Proceedings of International Conference on Weblogs and Social Media (ICWSM) , March 2007 . http://arxiv.org/abs/cs.HC/0612047. K. Lerman and L. Jones. Social browsing on flickr. In Proceedings of International Conference on Weblogs and Social Media (ICWSM), March 2007. http://arxiv.org/abs/cs.HC/0612047."
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1401890.1401948"
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1367497.1367589"
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/956863.956972"
+      },
+      {
+        "key": "e_1_3_2_1_9_1",
+        "first-page": "296",
+        "volume-title": "Proceedings of the Fifteenth International Conference on Machine Learning (ICML)",
+        "author": "Lin D.",
+        "year": "1998",
+        "unstructured": "D. Lin . An information-theoretic definition of similarity. In J.W. Shavlik, editor , Proceedings of the Fifteenth International Conference on Machine Learning (ICML) , pages 296 -- 304 . Morgan Kaufmann , 1998 . D. Lin. An information-theoretic definition of similarity. In J.W. Shavlik, editor, Proceedings of the Fifteenth International Conference on Machine Learning (ICML), pages 296--304. Morgan Kaufmann, 1998."
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1526709.1526796"
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1557914.1557982"
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1379092.1379122"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1149941.1149949"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "volume-title": "December",
+        "author": "Mathes A.",
+        "year": "2004",
+        "unstructured": "A. Mathes . Folksonomies -- Cooperative Classification and Communication Through Shared Metadata , December 2004 . http://www.adammathes.com/academic/computer-mediatedcommunication/folksonomies.html. A. Mathes. Folksonomies -- Cooperative Classification and Communication Through Shared Metadata, December 2004. http://www.adammathes.com/academic/computer-mediatedcommunication/folksonomies.html."
+      },
+      {
+        "key": "e_1_3_2_1_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.20081"
+      },
+      {
+        "key": "e_1_3_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2006.11.002"
+      },
+      {
+        "key": "e_1_3_2_1_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1397735.1397742"
+      },
+      {
+        "key": "e_1_3_2_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1298306.1298311"
+      },
+      {
+        "key": "e_1_3_2_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevE.67.026126"
+      },
+      {
+        "key": "e_1_3_2_1_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.87.258701"
+      },
+      {
+        "key": "e_1_3_2_1_22_1",
+        "volume-title": "the transformation, analysis, and retrieval of information by computer",
+        "author": "Salton G.",
+        "year": "1989",
+        "unstructured": "G. Salton . Automatic text processing : the transformation, analysis, and retrieval of information by computer . Addison-Wesley Longman Publishing Co., Inc. , Boston, MA, USA , 1989 . G. Salton. Automatic text processing: the transformation, analysis, and retrieval of information by computer. Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 1989."
+      },
+      {
+        "key": "e_1_3_2_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1557914.1557947"
+      },
+      {
+        "key": "e_1_3_2_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/5254.988491"
+      },
+      {
+        "key": "e_1_3_2_1_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MIS.2006.58"
+      },
+      {
+        "key": "e_1_3_2_1_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/WI.2007.60"
+      },
+      {
+        "key": "e_1_3_2_1_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevE.65.066130"
+      },
+      {
+        "key": "e_1_3_2_1_28_1",
+        "unstructured": "T.V. Wal. Explaining and showing broad and narrow folksonomies 2005. http://www.personalinfocloud.com/2005/02/explaining_and_.html.  T.V. Wal. Explaining and showing broad and narrow folksonomies 2005. http://www.personalinfocloud.com/2005/02/explaining_and_.html."
+      }
+    ],
+    "event": {
+      "name": "WSDM'10: Third ACM International Conference on Web Search and Data Mining",
+      "sponsor": [
+        "SIGMOD ACM Special Interest Group on Management of Data",
+        "SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web",
+        "SIGKDD ACM Special Interest Group on Knowledge Discovery in Data",
+        "SIGIR ACM Special Interest Group on Information Retrieval"
+      ],
+      "location": "New York New York USA",
+      "acronym": "WSDM'10"
+    },
+    "container-title": [
+      "Proceedings of the third ACM international conference on Web search and data mining"
+    ],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/1718487.1718521",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/1718487.1718521",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T12:41:24Z",
+      "timestamp": 1750250484000
+    },
+    "score": 29.3481,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/1718487.1718521"
+      }
+    },
+    "subtitle": [
+      "social link prediction from shared metadata"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 27,
+    "alternative-id": [
+      "10.1145/1718487.1718521",
+      "10.1145/1718487"
+    ],
+    "URL": "https://doi.org/10.1145/1718487.1718521",
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2010-02-04",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2025-08-02T18:09:19Z",
+      "timestamp": 1754158159389,
+      "version": "3.41.2"
+    },
+    "reference-count": 44,
+    "publisher": "Emerald",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              10
+            ]
+          ],
+          "date-time": "2010-08-10T00:00:00Z",
+          "timestamp": 1281398400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.emerald.com/insight/site-policies"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:sec><jats:title content-type=\"abstract-heading\">Purpose</jats:title><jats:p>The purpose of this research is to investigate some general features of folksonomies and user‐generated content with copyright issues, and to present semantic representation for folksonomies using a tag ontology that can be used to represent tagging data at a semantic level using Semantic Web technologies.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Design/methodology/approach</jats:title><jats:p>An exploratory study is described that features current social tagging methods and copyright metadata. In particular, a tag ontology is extended for representing copyright metadata across different platforms.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Findings</jats:title><jats:p>The main finding is that Social Semantic Cloud of Tags can improve the expressive knowledge representation of folksonomies and that this ontology can aid in describing copyright metadata using some extended properties.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Originality/value</jats:title><jats:p>The paper gives a valuable insight into representing folksonomies with Semantic Web technologies that enable the representation, exchange, and reuse of tagging data, and provides a way to reduce the risk of copyright infringements in the process of tag sharing in folksonomies.</jats:p></jats:sec>",
+    "DOI": "10.1108/14684521011073025",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          14
+        ]
+      ],
+      "date-time": "2010-08-14T07:08:43Z",
+      "timestamp": 1281769723000
+    },
+    "page": "626-641",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Semantic representation for copyright metadata of user‐generated content in folksonomies"
+    ],
+    "prefix": "10.1108",
+    "volume": "34",
+    "author": [
+      {
+        "given": "Haklae",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "John",
+        "family": "Breslin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jae",
+        "family": "Hwa Choi",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "140",
+    "reference": [
+      {
+        "key": "key2022020820013038800_b1",
+        "unstructured": "Abelson, H., Adida, B., Linksvayer, M. and Yergler, N. (2008), “ccREL: the Creative Commons Rights Expression Language”, available at: http://wiki.creativecommons.org/images/d/d6/Ccrel‐1.0.pdf (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b2",
+        "unstructured": "Bergman, M. (2008), “What is linked data?”, available at: www.mkbergman.com/?p=447 (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b3",
+        "unstructured": "Berners‐Lee, T. (2006a), “Linked data, world wide web design issues”, available at: www.w3.org/DesignIssues/LinkedData.html (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b4",
+        "unstructured": "Berners‐Lee, T. (2006b), “Semantic Web roadmap, world wide web design”, available at: www.w3.org/DesignIssues/Semantic.html (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Berners‐Lee, T., Hendler, J. and Lassila, O. (2001), “The Semantic Web”, Scientific American, Vol. 5 No. 284, pp. 34‐43, available at: www.sciam.com/article.cfm?id=the‐semantic‐web (accessed 23 February 2010).",
+        "DOI": "10.1038/scientificamerican0501-34"
+      },
+      {
+        "key": "key2022020820013038800_b6",
+        "unstructured": "Berners‐Lee, T., Hollenbach, J., Lu, K., Presbrey, J., Prud'hommeaux, E. and Schraefel, M. (2007), “Tabulator redux: writing into the Semantic Web”, available at: http://eprints.ecs.soton.ac.uk/14773/ (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b7",
+        "unstructured": "Biederman, C.J. and Andrews, D. (2008), “Applying copyright law to user‐generated content”, Los Angeles Lawyer, May, pp. 12‐18, available at: www.lacba.org/Files/LAL/Vol31No3/2483.pdf (accessed 3 May 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b8",
+        "unstructured": "Bizer, C. and Cyganiak, R. (2006), “D2R Server: publishing relational databases on the semantic web”, paper presented at the 5th International Semantic Web Conference, Athens, GA, 5‐9 November."
+      },
+      {
+        "key": "key2022020820013038800_b9",
+        "unstructured": "Bizer, C., Cyganiak, R. and Heath, T. (2007), “How to publish linked data on the web”, available at: www4.wiwiss.fu‐berlin.de/bizer/pub/LinkedDataTutorial (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b10",
+        "unstructured": "Blezquez, F.J. (2008), “User‐generated content services and copyright”, IRIS Plus, May, pp. 408‐17, available at: www.obs.coe.int/oea_publ/iris/iris_plus/iplus5_2008.pdf.en (accessed 3 May 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bojars, U., Breslin, J.G., Peristeras, V., Tummarello, G. and Decker, S. (2008), “Interlinking the Social Web with semantics”, IEEE Intelligent Systems, Vol. 23 No. 3, pp. 29‐40.",
+        "DOI": "10.1109/MIS.2008.50"
+      },
+      {
+        "key": "key2022020820013038800_b12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Breslin, J.G. and Decker, S. (2007), “The future of social networks on the internet: the need for semantics”, IEEE Internet Computing, Vol. 11 No. 6, pp. 86‐90.",
+        "DOI": "10.1109/MIC.2007.138"
+      },
+      {
+        "key": "key2022020820013038800_b13",
+        "unstructured": "Delgado, J., Gallego, I., Llorente, S. and García, R. (2003), “IPROnto: an ontology for digital rights management”, 16th Annual Conference on Legal Knowledge and Information Systems, JURIX 2003, Frontiers in Artificial Intelligence and Applications, Vol. 106, IOS Press, Amsterdam, pp. 111‐20."
+      },
+      {
+        "key": "key2022020820013038800_b14",
+        "unstructured": "Garcia, R., Delgado, J. and Rodriguez, E. (2005), “An ontological approach for the management of rights data dictionaries”, in Moens, M. and Spyns, P. (Eds), Proceedings of the 2005 Conference on Legal Knowledge and Information Systems: Frontiers in Artificial Intelligence and Applications, Vol. 134, IOS Press, Amsterdam, pp. 137‐46."
+      },
+      {
+        "key": "key2022020820013038800_b15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Garcia, R., Gil, R. and Delgado, J. (2007), “A web ontologies framework for digital rights management”, Artificial Intelligence Law, Vol. 15 No. 2, pp. 137‐54.",
+        "DOI": "10.1007/s10506-007-9032-6"
+      },
+      {
+        "key": "key2022020820013038800_b16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Golder, S. and Hubermann, B.A. (2006), “The structure of collaborative tagging systems”, Journal of Information Sciences, Vol. 32 No. 2, pp. 198‐208.",
+        "DOI": "10.1177/0165551506062337"
+      },
+      {
+        "key": "key2022020820013038800_b17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Graves, M., Constabaris, A. and Brickley, D. (2007), “FOAF: connecting people on the Semantic Web”, Cataloging Classification Quarterly, Vol. 43 No. 12, pp. 191‐202.",
+        "DOI": "10.1300/J104v43n03_10"
+      },
+      {
+        "key": "key2022020820013038800_b18",
+        "unstructured": "Gruber, T. (2005), “TagOntology – a way to agree on the semantics of tagging data”, presentation to Tag Camp, available at: http://tomgruber.org/writing/tagontology‐tagcamp‐talk.pdf (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gruber, T. (2007), “Ontology of folksonomy: a mash‐up of apples and oranges”, International Journal on Semantic Web & Information Systems, Vol. 3 No. 2, pp. 1‐11.",
+        "DOI": "10.4018/jswis.2007010101"
+      },
+      {
+        "key": "key2022020820013038800_b20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gruber, T. (2008), “Collective knowledge systems: where the Social Web meets the Semantic Web”, Journal of Web Semantics, Vol. 6 No. 1, pp. 4‐13.",
+        "DOI": "10.1016/j.websem.2007.11.011"
+      },
+      {
+        "key": "key2022020820013038800_b21",
+        "unstructured": "Hammersley, B. (2002), “RDF site summary 1.0 modules: mod_cc”, available at: http://web.resource.org/rss/1.0/modules/cc/ (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b22",
+        "unstructured": "Iannella, R. (2002), “Open Digital Rights Language (ODRL) Version 1.1”, available at: www.w3.org/TR/odrl/ (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b23",
+        "unstructured": "ISO (2004), “Multimedia framework (MPEG‐21) – part 5: rights expression language”, technical report, ISO/IEC TR 21000‐5:2004, available at: http://mpeg.chiariglione.org/standards/mpeg‐21/mpeg‐21.htm#_Toc23297977 (accessed 3 May 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kim, H.L., Yang, S.K., Breslin, J.G. and Kim, H.G. (2007), “Simple algorithms for representing tag frequencies in the SCOT exporter”, IAT '07: Proceedings of the 2007 IEEE/WIC/ACM International Conference on Intelligent Agent Technology, IEEE Computer Society, Washington, DC, pp. 536‐9.",
+        "DOI": "10.1109/IAT.2007.101"
+      },
+      {
+        "key": "key2022020820013038800_b25",
+        "unstructured": "Kim, H.L., Yang, S.K., Breslin, J.G. and Kim, H.G. (2008a), “int.ere.st: building a tag sharing service with the SCOT ontology”, paper presented at American Association for Artificial Intelligence Spring Symposium on Social Information Processing, Stanford University, CA, 26‐28 March."
+      },
+      {
+        "key": "key2022020820013038800_b26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kim, H.L., Passant, A., Breslin, J.G., Scerri, S. and Decker, S. (2008b), “Review and alignment of tag ontologies for semantically‐linked data in collaborative tagging spaces”, Proceedings of the 2nd IEEE International Conference on Semantic Computing, IEEE Computer Society, Washington, DC, pp. 315‐22.",
+        "DOI": "10.1109/ICSC.2008.79"
+      },
+      {
+        "key": "key2022020820013038800_b27",
+        "unstructured": "Kim, H.L., Scerri, S., Breslin, J.G., Decker, S. and Kim, H.G. (2008c), “The state‐of‐the‐art in tag ontologies: a semantic model for tagging and folksonomies”, Proceedings of the International Conference on Dublin Core and Metadata Applications, Dublin Core Metadata Initiative, Berlin, pp. 128‐37."
+      },
+      {
+        "key": "key2022020820013038800_b28",
+        "unstructured": "Kim, H.L., Yang, S.K., Breslin, J.G., Scerri, S., Decker, S., Yang, S.K. and Kim, H.G. (2009), “SCOT ontology specification”, available at: http://scot‐project.org/scot/index.html (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b29",
+        "unstructured": "Kroski, E. (2005), “The hive mind: folksonomies and user‐based tagging”, available at: http://infotangle.blogsome.com/2005/12/07/the‐hive‐mind‐folksonomies‐and‐user‐based‐tagging/ (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lee, S.B., Choi, H.J. and Sim, S.G. (2008), “A multiple authorship model in user‐generated content”, Proceedings of the 2008 IEEE Consumer Communications and Networking Conference, IEEE Computer Society, Washington, DC, pp. 1070‐4.",
+        "DOI": "10.1109/ccnc08.2007.243"
+      },
+      {
+        "key": "key2022020820013038800_b31",
+        "unstructured": "Mathes, A. (2004), “Folksonomies – cooperative classification and communication through shared metadata”, available at: www.adammathes.com/academic/computer‐mediated‐communication/folksonomies.html (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b32",
+        "unstructured": "Miles, A. and Bechhofer, S. (2008), “SKOS simple knowledge organization system reference”, available at: www.w3.org/TR/skos‐reference (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b33",
+        "unstructured": "Newman, R., Ayers, D. and Russell, S. (2005), “Tag ontology”, available at: www.holygoat.co.uk/owl/redwood/0.1/tags/ (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b34",
+        "unstructured": "O'Reilly, T. (2005), “What is Web 2.0? Design patterns and business models for the next generation of software”, available at: www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what‐is‐web‐20.html (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b35",
+        "unstructured": "Quintarelli, E. (2005), “Folksonomies: power to the people”, available at: www.iskoi.org/doc/folksonomies.htm (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b36",
+        "unstructured": "Rosati, L., Resmini, A. and Quintarelli, E. (2006), “FaceTag: integrating bottom‐up and top‐down classification”, available at: www.facetag.org/download/facetag.pdf (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b37",
+        "unstructured": "Sawyer, M. (2009), “Filters, fair use, and feedback: user‐generated content principles and the DMCA”, Berkley Technology Law Journal, forthcoming, available at http://ssrn.com/abstract=1369665 (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b38",
+        "unstructured": "Seaborne, A. and Prud'hommeaux, E. (2008), “SPARQL Query Language for RDF”, available at: www.w3.org/TR/2008/REC‐rdf‐sparql‐query‐20080115/ (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b39",
+        "unstructured": "Spivack, N. (2008), “Folktologies – beyond the folksonomy vs ontology distinction”, available at: http://novaspivack.typepad.com/nova_spivacks_weblog/2005/01/whats_after_fol.html (accessed 24 September 2008)."
+      },
+      {
+        "key": "key2022020820013038800_b40",
+        "unstructured": "TagCommons Project (2007), “Functional requirements for sharing tag data”, available at: http://tagcommons.org/2007/02/28/functional‐requirements‐for‐sharing‐tag‐data/ (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b41",
+        "unstructured": "US Copyright Office (1998), The Digital Millennium Copyright Act of 1998, Pub. L. No. 105‐304, 112 Stat. 2860, US Copyright Office, Washington, DC."
+      },
+      {
+        "key": "key2022020820013038800_b42",
+        "unstructured": "Van der Wal, T. (2005), “Folksonomy definition and Wikipedia”, available at: www.vanderwal.net/random/entrysel.php?blog=1750 (accessed 23 February 2010)."
+      },
+      {
+        "key": "key2022020820013038800_b43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, X., DeMartini, T., Wragg, B., Paramasivam, M. and Barlas, C. (2005), “The MPEG‐21 rights expression language and rights data dictionary”, IEEE Transactions on Multimedia, Vol. 7 No. 3, pp. 408‐17.",
+        "DOI": "10.1109/TMM.2005.846788"
+      },
+      {
+        "key": "key2022020820013038800_b44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Weibel, S. (1998), “The Dublin Core: a simple content description model for electronic resources”, Bulletin of the American Society for Information Science and Technology, Vol. 24 No. 1, pp. 9‐11.",
+        "DOI": "10.1002/bult.70"
+      }
+    ],
+    "container-title": [
+      "Online Information Review"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.emeraldinsight.com/doi/full-xml/10.1108/14684521011073025",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.emerald.com/insight/content/doi/10.1108/14684521011073025/full/xml",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.emerald.com/insight/content/doi/10.1108/14684521011073025/full/html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2025-07-25T00:41:32Z",
+      "timestamp": 1753404092000
+    },
+    "score": 29.317137,
+    "resource": {
+      "primary": {
+        "URL": "http://www.emerald.com/oir/article/34/4/626-641/315419"
+      }
+    },
+    "editor": [
+      {
+        "given": "F J",
+        "family": "García‐Peñalvo",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          10
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            8,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1108/14684521011073025"
+    ],
+    "URL": "https://doi.org/10.1108/14684521011073025",
+    "ISSN": [
+      "1468-4527"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1468-4527"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2024-09-05T10:08:18Z",
+      "timestamp": 1725530898979
+    },
+    "reference-count": 11,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1109/cason.2011.6085944",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          12,
+          6
+        ]
+      ],
+      "date-time": "2011-12-06T21:00:31Z",
+      "timestamp": 1323205231000
+    },
+    "page": "201-206",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Semantic clustering of users based on shared conceptualizations in folksonomies"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Sana",
+        "family": "Hamdi",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Alda",
+        "family": "Gancarski",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Amel",
+        "family": "Bouzeghoub",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sadok",
+        "family": "Ben Yahia",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "3",
+        "article-title": "Enrichissement d'ontologie: Quand les motifs seacute;quentiels labellisent des relations",
+        "author": "di-jorio",
+        "year": "0",
+        "journal-title": "Acts of 23e?mes Journe?es Bases de Donne?es Avance?es BDA 2007 Marseille 23-26 2007"
+      },
+      {
+        "key": "2",
+        "first-page": "33",
+        "article-title": "Finding experts using wikipedia",
+        "author": "demartini",
+        "year": "2007",
+        "journal-title": "Proceedings of the 2nd International ISWC+ASWC Workshop on Finding Experts on the Web with Semantics Busan Korea"
+      },
+      {
+        "key": "10",
+        "first-page": "632",
+        "article-title": "Semantic modelling of user interests based on crossfolksonomy analysis",
+        "author": "szomszor",
+        "year": "2008",
+        "journal-title": "Proceedings of the International Semantic Web Conference"
+      },
+      {
+        "key": "1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2009.07.002"
+      },
+      {
+        "key": "7",
+        "article-title": "Construction et enrichissement automatique d'ontologie a? partir de ressources externes",
+        "author": "kergosien",
+        "year": "2010",
+        "journal-title": "CoRR"
+      },
+      {
+        "key": "6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2007.11.004"
+      },
+      {
+        "key": "5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MIC.2011.153"
+      },
+      {
+        "key": "4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1045/january2006-guy"
+      },
+      {
+        "key": "9",
+        "article-title": "Laublet p.: Meaning of a tag: A collaborative approach to bridge the gap between tagging and linked data",
+        "author": "passant",
+        "year": "2008",
+        "journal-title": "Proceedings of the Linked Data on the Web (LDOW2008) Workshop at WWW2008"
+      },
+      {
+        "key": "8",
+        "article-title": "Keyword extraction from the web for foaf metadata",
+        "author": "mori",
+        "year": "0",
+        "journal-title": "Proceedings of Workshop on Friend of A Friend Social Networking and the Semantic Web Galway Ireland 2004"
+      },
+      {
+        "key": "11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICDMW.2010.72"
+      }
+    ],
+    "event": {
+      "name": "2011 International Conference on Computational Aspects of Social Networks (CASoN 2011)",
+      "start": {
+        "date-parts": [
+          [
+            2011,
+            10,
+            19
+          ]
+        ]
+      },
+      "location": "Salamanca, Spain",
+      "end": {
+        "date-parts": [
+          [
+            2011,
+            10,
+            21
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2011 International Conference on Computational Aspects of Social Networks (CASoN)"
+    ],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/6082090/6085907/06085944.pdf?arnumber=6085944",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          21
+        ]
+      ],
+      "date-time": "2017-03-21T13:38:49Z",
+      "timestamp": 1490103529000
+    },
+    "score": 28.794498,
+    "resource": {
+      "primary": {
+        "URL": "http://ieeexplore.ieee.org/document/6085944/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1109/cason.2011.6085944",
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T04:28:50Z",
+      "timestamp": 1750307330567,
+      "version": "3.41.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 18,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2011-05-25T00:00:00Z",
+          "timestamp": 1306281600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          25
+        ]
+      ]
+    },
+    "DOI": "10.1145/1988688.1988731",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2011-06-06T11:53:52Z",
+      "timestamp": 1307361232000
+    },
+    "page": "1-8",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Improving search in tele-lecturing"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Franka",
+        "family": "Moritz",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Potsdam, Potsdam, Germany"
+          }
+        ]
+      },
+      {
+        "given": "Maria",
+        "family": "Siebert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Potsdam, Potsdam, Germany"
+          }
+        ]
+      },
+      {
+        "given": "Christoph",
+        "family": "Meinel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Potsdam, Potsdam, Germany"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "volume-title": "Proceedings of the Workshop on Tagging and Metadata for Social Information Organization (WWW'07)",
+        "year": "2007",
+        "author": "Bateman S.",
+        "key": "e_1_3_2_1_1_1"
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/scientificamerican0501-34"
+      },
+      {
+        "volume-title": "6th International Semantic Web Conference (ISWC 2007",
+        "year": "2007",
+        "author": "Bizer C.",
+        "key": "e_1_3_2_1_3_1"
+      },
+      {
+        "volume-title": "IOS Press",
+        "year": "2009",
+        "author": "Brooks C.",
+        "key": "e_1_3_2_1_4_1"
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0165551506062337"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.websem.2007.11.011"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_2_1_7_1",
+        "first-page": "1",
+        "article-title": "Ontology of Folksonomy: A Mash-up of Apples and Oranges. International Journal on Semantic Web &amp;",
+        "volume": "3",
+        "author": "Gruber T.",
+        "year": "2007",
+        "journal-title": "Information Systems"
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICIW.2010.83"
+      },
+      {
+        "volume-title": "Hasso-Plattner-Institut für Softwaresystemtechnik",
+        "year": "2010",
+        "author": "Noll M. G.",
+        "key": "e_1_3_2_1_9_1"
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "unstructured": "R. M. Palloff and K. Pratt. Building Learning Communities in Cyberspace: Effective Strategies for the Online Classroom (The Jossey-Bass Higher and Adult Education Series) Share your own customer images Search inside this book Building Learning Communities in Cyberspace: Effective St. Jossey-Bass 1 edition 1999.  R. M. Palloff and K. Pratt. Building Learning Communities in Cyberspace: Effective Strategies for the Online Classroom (The Jossey-Bass Higher and Adult Education Series) Share your own customer images Search inside this book Building Learning Communities in Cyberspace: Effective St. Jossey-Bass 1 edition 1999."
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "unstructured": "T. O. Reilly. What Is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications &amp; Strategies No. 1(65):17--37 2007.  T. O. Reilly. What Is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications &amp; Strategies No. 1(65):17--37 2007."
+      },
+      {
+        "volume-title": "McGraw-Hill",
+        "year": "2001",
+        "author": "Rosenberg M. J.",
+        "key": "e_1_3_2_1_12_1"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/588646.588673"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICIS.2010.117"
+      },
+      {
+        "volume-title": "2nd International Conference on Information and Multimedia Technology (to appear), Hong-Kong",
+        "year": "2010",
+        "author": "Siebert M.",
+        "key": "e_1_3_2_1_15_1"
+      },
+      {
+        "key": "e_1_3_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSC.2008.15"
+      },
+      {
+        "key": "e_1_3_2_1_17_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "S. Trahasch S. Linckels and W. Hürst. Vorlesungsaufzeichnungen - Anwendungen Erfahrungen und Forschungsperspektiven. Beobachtungen vom GI-Workshop \"eLectures 2009\". i-com 8(3 Social Semantic Web):62--64 2009.  S. Trahasch S. Linckels and W. Hürst. Vorlesungsaufzeichnungen - Anwendungen Erfahrungen und Forschungsperspektiven. Beobachtungen vom GI-Workshop \"eLectures 2009\". i-com 8(3 Social Semantic Web):62--64 2009.",
+        "DOI": "10.1524/icom.2009.0040"
+      },
+      {
+        "key": "e_1_3_2_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1863879.1863887"
+      }
+    ],
+    "event": {
+      "name": "WIMS '11: International Conference on Web Intelligence, Mining",
+      "acronym": "WIMS '11",
+      "location": "Sogndal Norway"
+    },
+    "container-title": [
+      "Proceedings of the International Conference on Web Intelligence, Mining and Semantics"
+    ],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/1988688.1988731",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/1988688.1988731",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T11:06:07Z",
+      "timestamp": 1750244767000
+    },
+    "score": 27.925035,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/1988688.1988731"
+      }
+    },
+    "subtitle": [
+      "using folksonomies as trigger to query semantic datasets to extract additional metadata"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          25
+        ]
+      ]
+    },
+    "references-count": 18,
+    "alternative-id": [
+      "10.1145/1988688.1988731",
+      "10.1145/1988688"
+    ],
+    "URL": "https://doi.org/10.1145/1988688.1988731",
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2011-05-25",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2024-09-05T20:21:36Z",
+      "timestamp": 1725567696329
+    },
+    "reference-count": 0,
+    "publisher": "SciTePress - Science and and Technology Publications",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "DOI": "10.5220/0002337600580066",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2011-02-21T12:38:39Z",
+      "timestamp": 1298291919000
+    },
+    "page": "58-66",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Automatic Image Annotation using Visual Content and Folksonomies"
+    ],
+    "prefix": "10.5220",
+    "member": "3171",
+    "event": {
+      "name": "International Workshop on Metadata Mining for Image Understanding",
+      "start": {
+        "date-parts": [
+          [
+            2008,
+            1,
+            22
+          ]
+        ]
+      },
+      "location": "Funchal, Madeira, Portugal",
+      "end": {
+        "date-parts": [
+          [
+            2008,
+            1,
+            25
+          ]
+        ]
+      },
+      "acronym": "MMIU"
+    },
+    "container-title": [
+      "Metadata Mining for Image Understanding"
+    ],
+    "original-title": [
+      "english"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2011-02-21T12:38:42Z",
+      "timestamp": 1298291922000
+    },
+    "score": 27.872688,
+    "resource": {
+      "primary": {
+        "URL": "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0002337600580066"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5220/0002337600580066",
+    "published": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,263 @@
+{
+  "id": "https://openalex.org/W4399583621",
+  "doi": "https://doi.org/10.32614/cran.package.enrichr",
+  "title": "enrichR: Provides an R Interface to 'Enrichr'",
+  "display_name": "enrichR: Provides an R Interface to 'Enrichr'",
+  "publication_year": 2017,
+  "publication_date": "2017-04-02",
+  "ids": {
+    "openalex": "https://openalex.org/W4399583621",
+    "doi": "https://doi.org/10.32614/cran.package.enrichr"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.32614/cran.package.enrichr",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "dataset",
+  "type_crossref": "dataset",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101377575",
+        "display_name": "Wajid Jawaid",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Wajid Jawaid",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5101377575"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 13,
+  "citation_normalized_percentile": {
+    "value": 0.991225,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 87,
+    "max": 88
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13702",
+    "display_name": "Machine Learning in Healthcare",
+    "score": 0.3351,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13702",
+      "display_name": "Machine Learning in Healthcare",
+      "score": 0.3351,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11490",
+      "display_name": "Hydrological Forecasting Using AI",
+      "score": 0.2902,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10136",
+      "display_name": "Statistical Methods and Inference",
+      "score": 0.2738,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2613",
+        "display_name": "Statistics and Probability"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/interface",
+      "display_name": "Interface (matter)",
+      "score": 0.7036302
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C113843644",
+      "wikidata": "https://www.wikidata.org/wiki/Q901882",
+      "display_name": "Interface (matter)",
+      "level": 4,
+      "score": 0.7036302
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.44941458
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.24967998
+    },
+    {
+      "id": "https://openalex.org/C157915830",
+      "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+      "display_name": "Bubble",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C129307140",
+      "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+      "display_name": "Maximum bubble pressure method",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.32614/cran.package.enrichr",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4396701345",
+    "https://openalex.org/W4396696052",
+    "https://openalex.org/W4395014643",
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2001405890"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4399583621",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-06-23T19:56:49.135304",
+  "created_date": "2024-06-13"
+}

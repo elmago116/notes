@@ -1,0 +1,543 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        2
+      ]
+    ],
+    "date-time": "2025-08-02T17:47:35Z",
+    "timestamp": 1754156855090,
+    "version": "3.41.2"
+  },
+  "reference-count": 42,
+  "publisher": "Emerald",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            8
+          ]
+        ],
+        "date-time": "2024-08-08T00:00:00Z",
+        "timestamp": 1723075200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.emerald.com/insight/site-policies"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "DTA"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        14
+      ]
+    ]
+  },
+  "abstract": "<jats:sec><jats:title content-type=\"abstract-subheading\">Purpose</jats:title><jats:p>To support digital humanities research more effectively and efficiently, this study develops a novel Knowledge Graph Analysis Tool of People and Organizations (KGAT-PO) for the Digital Humanities Research Platform for Biographies of Chinese Malaysian Personalities (DHRP-BCMP) based on artificial intelligence (AI) technology that would not only allow humanities scholars to look at the relationships between people but also has the potential for aiding digital humanities research by identifying latent relationships between people via relationships between people and organizations.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title><jats:p>To verify the effectiveness of KGAT-PO, a counterbalanced design was applied to compare research participants in two groups using DHRP-BCMP with and without KGAT-PO, respectively, to perform people relationship inquiry and to see if there were significant differences in the effectiveness and efficiency of exploring relationships between people, and the use of technology acceptance between the two groups. Interviews and Lag Sequential Analysis were also used to observe research participants’ perceptions and behaviors.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Findings</jats:title><jats:p>The results show that the DHRP-BCMP with KGAT-PO could help research participants improve the effectiveness of exploring relationships between people, and the research participants showed high technology acceptance towards using DHRP-BCMP with KGAT-PO. Moreover, the research participants who used DHRP-BCMP with KGAT-PO could identify helpful textual patterns to explore people’s relationships more quickly than DHRP-BCMP without KGAT-PO. The interviews revealed that most research participants agreed that the KGAT-PO is a good starting point for exploring relationships between people and improves the effectiveness and efficiency of exploring people’s relationship networks.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Research limitations/implications</jats:title><jats:p>The research’s limitations encompass challenges related to data quality, complex people relationships, and privacy and ethics concerns. Currently, the KGAT-PO is limited to recognizing eight types of person-to-person relationships, including couple, sibling, parent-child, friend, teacher-student, relative, work, and others. These factors should be carefully considered to ensure the tool’s accuracy, usability, and ethical application in enhancing digital humanities research.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Practical implications</jats:title><jats:p>The study’s practical implications encompass enhanced research efficiency, aiding humanities scholars in uncovering latent interpersonal relationships within historical texts with high technology acceptance. Additionally, the tool’s applications can extend to social sciences, business and marketing, educational settings, and innovative research directions, ultimately contributing to data-driven insights in the field of digital humanities.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Originality/value</jats:title><jats:p>The research’s originality lies in creating a Knowledge Graph Analysis Tool of People and Organizations (KGAT-PO) using AI, bridging the gap between digital humanities research and AI technology. Its value is evident in its potential to efficiently uncover hidden people relationships, aiding digital humanities scholars in gaining new insights and perspectives, ultimately enhancing the depth and effectiveness of their research.</jats:p></jats:sec>",
+  "DOI": "10.1108/dta-01-2024-0009",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        8
+      ]
+    ],
+    "date-time": "2024-08-08T01:24:55Z",
+    "timestamp": 1723080295000
+  },
+  "page": "82-110",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "A knowledge graph analysis tool of people and organizations to facilitate digital humanities research"
+  ],
+  "prefix": "10.1108",
+  "volume": "59",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7088-5516",
+      "authenticated-orcid": false,
+      "given": "Chih-Ming",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0002-6209-5749",
+      "authenticated-orcid": false,
+      "given": "Barbara",
+      "family": "Witt",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Chun-Yu",
+      "family": "Lin",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "140",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "key2025011207574558000_ref001",
+      "doi-asserted-by": "publisher",
+      "first-page": "7367",
+      "DOI": "10.1609/aaai.v34i05.6231",
+      "article-title": "End-to-end argumentation knowledge graph construction",
+      "year": "2020"
+    },
+    {
+      "issue": "5",
+      "key": "key2025011207574558000_ref002",
+      "doi-asserted-by": "publisher",
+      "first-page": "34",
+      "DOI": "10.1038/scientificamerican0501-34",
+      "article-title": "The semantic web: a new form of web content that is meaningful to computers will unleash a revolution of new possibilities",
+      "volume": "284",
+      "year": "2001",
+      "journal-title": "Scientific American"
+    },
+    {
+      "issue": "3",
+      "key": "key2025011207574558000_ref003",
+      "doi-asserted-by": "publisher",
+      "first-page": "271",
+      "DOI": "10.1093/llc/fqr020",
+      "article-title": "Social network visualization from TEI data",
+      "volume": "26",
+      "year": "2011",
+      "journal-title": "Literary and Linguistic Computing"
+    },
+    {
+      "issue": "4",
+      "key": "key2025011207574558000_ref004",
+      "doi-asserted-by": "publisher",
+      "first-page": "464",
+      "DOI": "10.1111/j.1937-5956.2003.tb00215.x",
+      "article-title": "Managing cyclic inventories",
+      "volume": "12",
+      "year": "2003",
+      "journal-title": "Production and Operations Management"
+    },
+    {
+      "year": "2014",
+      "key": "key2025011207574558000_ref005",
+      "article-title": "Complexity, selectivity and asymmetry in the conformation of the power phenomenon. Analysis of Chilean Society"
+    },
+    {
+      "issue": "2",
+      "key": "key2025011207574558000_ref006",
+      "doi-asserted-by": "publisher",
+      "first-page": "314",
+      "DOI": "10.1108/el-10-2018-0213",
+      "article-title": "A Chinese ancient book digital humanities research platform to support digital humanities research",
+      "volume": "37",
+      "year": "2019",
+      "journal-title": "The Electronic Library"
+    },
+    {
+      "issue": "3",
+      "key": "key2025011207574558000_ref007",
+      "doi-asserted-by": "publisher",
+      "first-page": "436",
+      "DOI": "10.1108/lht-10-2017-0219",
+      "article-title": "Development and evaluation of an automatic text annotation system for supporting digital humanities research",
+      "volume": "37",
+      "year": "2019",
+      "journal-title": "Library Hi Tech"
+    },
+    {
+      "issue": "2",
+      "key": "key2025011207574558000_ref008",
+      "doi-asserted-by": "publisher",
+      "first-page": "516",
+      "DOI": "10.1108/LHT-08-2020-0194",
+      "article-title": "A character social network relationship map tool to facilitate digital humanities research",
+      "volume": "41",
+      "year": "2021",
+      "journal-title": "Library Hi Tech"
+    },
+    {
+      "issue": "1",
+      "key": "key2025011207574558000_ref009",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1108/ajim-11-2021-0325",
+      "article-title": "A hierarchical topic analysis tool to facilitate digital humanities research",
+      "volume": "75",
+      "year": "2023",
+      "journal-title": "Aslib Journal of Information Management"
+    },
+    {
+      "first-page": "49",
+      "article-title": "On building a full-text digital library of historical documents",
+      "year": "2007",
+      "key": "key2025011207574558000_ref010"
+    },
+    {
+      "issue": "1",
+      "key": "key2025011207574558000_ref011",
+      "doi-asserted-by": "publisher",
+      "first-page": "435",
+      "DOI": "10.1002/pra2.474",
+      "article-title": "Perceived usability and experience with digital tools in the context of digital humanities research",
+      "volume": "58",
+      "year": "2021",
+      "journal-title": "Proceedings of the Association for Information Science and Technology"
+    },
+    {
+      "issue": "1",
+      "key": "key2025011207574558000_ref012",
+      "doi-asserted-by": "publisher",
+      "first-page": "25",
+      "DOI": "10.1080/19388071.2013.818175",
+      "article-title": "Student and teacher perspectives on a close reading protocol",
+      "volume": "53",
+      "year": "2012",
+      "journal-title": "Literacy Research and Instruction"
+    },
+    {
+      "issue": "1",
+      "key": "key2025011207574558000_ref013",
+      "first-page": "2",
+      "article-title": "Impact of relationship marketing on customer loyalty: evidence from Indian automobile industry",
+      "volume": "9",
+      "year": "2016",
+      "journal-title": "PURUSHARTHA-A Journal of Management, Ethics and Spirituality"
+    },
+    {
+      "key": "key2025011207574558000_ref014",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Haslhofer, B., Isaac, A. and Simon, R. (2018), “Knowledge graphs in the libraries and digital humanities domain”, in Sakr, S. and Zomaya, A. (Eds), Encyclopedia of Big Data Technologies, Springer, Cham, doi: 10.1007/978-3-319-63962-8_291-1.",
+      "DOI": "10.1007/978-3-319-63962-8_291-1"
+    },
+    {
+      "key": "key2025011207574558000_ref015",
+      "doi-asserted-by": "publisher",
+      "first-page": "22",
+      "DOI": "10.1109/BIGCOM.2019.00011",
+      "article-title": "The character relationship mining based on knowledge graph and deep learning",
+      "year": "2019"
+    },
+    {
+      "key": "key2025011207574558000_ref016",
+      "unstructured": "Hockey, S. (2004), “The history of humanities computing”, in Siemens, R. and Schreibman, S. (Eds), A Companion to Digital Humanities, available at: http://www.digitalhumanities.org/companion/"
+    },
+    {
+      "key": "key2025011207574558000_ref017",
+      "unstructured": "Hsiang, J. and Tu, F.E. (2011), “Introduction: what is digital humanities?”, in From Preservation to Knowledge Creation: the Way to Digital Humanities, National Taiwan University Press, Taipei, pp. 9-28."
+    },
+    {
+      "key": "key2025011207574558000_ref018",
+      "unstructured": "Huang, Z., Xu, W. and Yu, K. (2015), “Bidirectional LSTM-CRF models for sequence tagging”, available at: http://arxiv.org/abs/1508.01991"
+    },
+    {
+      "key": "key2025011207574558000_ref019",
+      "doi-asserted-by": "publisher",
+      "first-page": "121",
+      "DOI": "10.1016/j.compedu.2013.07.008",
+      "article-title": "A concept map-embedded educational computer game for improving students' learning performance in natural science courses",
+      "volume": "69",
+      "year": "2013",
+      "journal-title": "Computers and Education"
+    },
+    {
+      "key": "key2025011207574558000_ref020",
+      "first-page": "83",
+      "article-title": "On close and distant reading in digital humanities: a survey and future challenges",
+      "year": "2015",
+      "journal-title": "Eurographics Conference on Visualization"
+    },
+    {
+      "key": "key2025011207574558000_ref021",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kirschenbaum, M. (2012), “What is digital humanities and what's it doing in English departments?”, in Debates in the Digital Humanities, Vol. 3, pp. 3-11, doi: 10.5749/minnesota/9780816677948.003.0001.",
+      "DOI": "10.5749/minnesota/9780816677948.003.0001"
+    },
+    {
+      "year": "2022",
+      "key": "key2025011207574558000_ref022",
+      "article-title": "Digital humanities and military history: analyzing casualties of the WarSampo knowledge graph"
+    },
+    {
+      "issue": "3/4",
+      "key": "key2025011207574558000_ref023",
+      "doi-asserted-by": "publisher",
+      "first-page": "209",
+      "DOI": "10.1016/j.aci.2019.07.003",
+      "article-title": "Understanding trust on social networking sites among tertiary students: an empirical study in Ghana",
+      "volume": "19",
+      "year": "2023",
+      "journal-title": "Applied Computing and Informatics"
+    },
+    {
+      "volume-title": "The Malaysia Henghua Personalities",
+      "year": "2019",
+      "key": "key2025011207574558000_ref024"
+    },
+    {
+      "first-page": "373",
+      "article-title": "How to organize digital tools to help scholars in digital humanities research?",
+      "year": "2020",
+      "key": "key2025011207574558000_ref025"
+    },
+    {
+      "key": "key2025011207574558000_ref026",
+      "doi-asserted-by": "publisher",
+      "first-page": "37",
+      "DOI": "10.1016/j.neucom.2021.10.101",
+      "article-title": "Chinese named entity recognition: the state of the art",
+      "volume": "473",
+      "year": "2022",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "key": "key2025011207574558000_ref027",
+      "doi-asserted-by": "publisher",
+      "first-page": "100",
+      "DOI": "10.1016/j.knosys.2016.08.003",
+      "article-title": "ALCIDE: extracting and visualising content from large document collections to support humanities studies",
+      "volume": "111",
+      "year": "2016",
+      "journal-title": "Knowledge-Based Systems"
+    },
+    {
+      "key": "key2025011207574558000_ref028",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pujara, J., Miao, H., Getoor, L. and Cohen, W. (2013), “Knowledge graph identification”, The Semantic Web–ISWC 2013: 12th International Semantic Web Conference, Sydney, NSW, Australia, October 21-25, 2013, Proceedings, Part I 12, Springer Berlin Heidelberg, pp. 542-557.",
+      "DOI": "10.1007/978-3-642-41335-3_34"
+    },
+    {
+      "issue": "3",
+      "key": "key2025011207574558000_ref029",
+      "doi-asserted-by": "publisher",
+      "first-page": "735",
+      "DOI": "10.1086/529596",
+      "article-title": "Scarcity or abundance? Preserving the past in a digital era",
+      "volume": "108",
+      "year": "2003",
+      "journal-title": "The American Historical Review"
+    },
+    {
+      "key": "key2025011207574558000_ref030",
+      "unstructured": "Rustin, M. (2000), “Reflections on the biographical turn in social science”, in The Turn to Biographical Methods in Social Science: Comparative Issues and Examples, pp. 33-52."
+    },
+    {
+      "key": "key2025011207574558000_ref031",
+      "unstructured": "Schreibman, S., Siemens, R. and Unsworth, J. (2008), “A companion to digital humanities”, available at: http://www.digitalhumanities.org/companion/"
+    },
+    {
+      "issue": "11",
+      "key": "key2025011207574558000_ref032",
+      "doi-asserted-by": "publisher",
+      "first-page": "3607",
+      "DOI": "10.1109/TKDE.2020.2970044",
+      "article-title": "Modeling relation paths for knowledge graph completion",
+      "volume": "33",
+      "year": "2020",
+      "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "key": "key2025011207574558000_ref033",
+      "unstructured": "Singhal, A. (2012), “Introducing the knowledge graph: things, not string”, Official Blog (Of Google), available at: https://blog.google/products/search/introducing-knowledge-graph-things-not/"
+    },
+    {
+      "issue": "2",
+      "key": "key2025011207574558000_ref034",
+      "doi-asserted-by": "publisher",
+      "first-page": "268",
+      "DOI": "10.1002/asi.24544",
+      "article-title": "Text analysis using deep neural networks in digital humanities and information science",
+      "volume": "73",
+      "year": "2021",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    },
+    {
+      "key": "key2025011207574558000_ref035",
+      "doi-asserted-by": "publisher",
+      "first-page": "194",
+      "DOI": "10.1007/978-3-030-32381-3_16",
+      "article-title": "How to fine-tune BERT for text classification?",
+      "year": "2019",
+      "journal-title": "Chinese Computational Linguistics"
+    },
+    {
+      "issue": "2",
+      "key": "key2025011207574558000_ref036",
+      "doi-asserted-by": "publisher",
+      "first-page": "564",
+      "DOI": "10.1017/jch.2020.28",
+      "article-title": "DocuSky, a personal digital humanities platform for scholars",
+      "volume": "4",
+      "year": "2020",
+      "journal-title": "Journal of Chinese History"
+    },
+    {
+      "year": "2012",
+      "key": "key2025011207574558000_ref037",
+      "article-title": "Building a text analysis platform for Chinese Buddhist text -An example based on CBETA and Tripitaka Catalog projects"
+    },
+    {
+      "key": "key2025011207574558000_ref038",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/LHT-05-2022-0265",
+      "article-title": "A framework of genealogy knowledge reasoning and visualization based on a knowledge graph",
+      "year": "2023",
+      "journal-title": "Library Hi Tech"
+    },
+    {
+      "year": "2023",
+      "key": "key2025011207574558000_ref039",
+      "article-title": "Generative pre-trained transformer: a comprehensive review on enabling technologies, potential applications, emerging challenges, and future directions"
+    },
+    {
+      "issue": "5",
+      "key": "key2025011207574558000_ref040",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.heliyon.2023.e15851",
+      "article-title": "Current status of digital humanities research in Taiwan",
+      "volume": "9",
+      "year": "2023",
+      "journal-title": "Heliyon"
+    },
+    {
+      "key": "key2025011207574558000_ref041",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/LHT-11-2022-0538",
+      "article-title": "Knowledge mining and graph visualization of ancient Chinese scientific and technological documents bibliographic summaries based on digital humanities",
+      "year": "2023",
+      "journal-title": "Library Hi Tech"
+    },
+    {
+      "issue": "1",
+      "key": "key2025011207574558000_ref042",
+      "doi-asserted-by": "publisher",
+      "first-page": "46",
+      "DOI": "10.1186/s41239-023-00415-4",
+      "article-title": "Promoting knowledge elaboration, socially shared regulation, and group performance in collaborative learning: an automated assessment and feedback approach based on knowledge graphs",
+      "volume": "20",
+      "year": "2023",
+      "journal-title": "International Journal of Educational Technology in Higher Education"
+    }
+  ],
+  "container-title": [
+    "Data Technologies and Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.emerald.com/insight/content/doi/10.1108/DTA-01-2024-0009/full/xml",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.emerald.com/insight/content/doi/10.1108/DTA-01-2024-0009/full/html",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        24
+      ]
+    ],
+    "date-time": "2025-07-24T23:14:55Z",
+    "timestamp": 1753398895000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.emerald.com/dta/article/59/1/82-110/1239317"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        8
+      ]
+    ]
+  },
+  "references-count": 42,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          8
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          14
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1108/DTA-01-2024-0009"
+  ],
+  "URL": "https://doi.org/10.1108/dta-01-2024-0009",
+  "relation": {},
+  "ISSN": [
+    "2514-9288"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "2514-9288"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        8
+      ]
+    ]
+  }
+}

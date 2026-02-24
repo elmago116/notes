@@ -1,0 +1,501 @@
+{
+  "id": "https://openalex.org/W1708085422",
+  "doi": "https://doi.org/10.1007/s11192-015-1762-8",
+  "title": "Evolution of research subjects in library and information science based on keyword, bibliographical coupling, and co-citation analyses",
+  "display_name": "Evolution of research subjects in library and information science based on keyword, bibliographical coupling, and co-citation analyses",
+  "publication_year": 2015,
+  "publication_date": "2015-09-26",
+  "ids": {
+    "openalex": "https://openalex.org/W1708085422",
+    "doi": "https://doi.org/10.1007/s11192-015-1762-8",
+    "mag": "1708085422"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s11192-015-1762-8",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S148561398",
+      "display_name": "Scientometrics",
+      "issn_l": "0138-9130",
+      "issn": [
+        "0138-9130",
+        "1588-2861"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320108",
+      "host_organization_name": "Springer Nature (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965",
+        "https://openalex.org/P4310320108"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature",
+        "Springer Nature (Netherlands)"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101451000",
+        "display_name": "Yu‐Wei Chang",
+        "orcid": "https://orcid.org/0000-0002-6278-8273"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16733864",
+          "display_name": "National Taiwan University",
+          "ror": "https://ror.org/05bqach95",
+          "country_code": "TW",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I16733864"
+          ]
+        }
+      ],
+      "countries": [
+        "TW"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yu-Wei Chang",
+      "raw_affiliation_strings": [
+        "Department of Library and Information Science, National Taiwan University, Taipei, Taiwan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Library and Information Science, National Taiwan University, Taipei, Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I16733864"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108006606",
+        "display_name": "Mu‐Hsuan Huang",
+        "orcid": "https://orcid.org/0000-0002-2909-3090"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16733864",
+          "display_name": "National Taiwan University",
+          "ror": "https://ror.org/05bqach95",
+          "country_code": "TW",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I16733864"
+          ]
+        }
+      ],
+      "countries": [
+        "TW"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mu-Hsuan Huang",
+      "raw_affiliation_strings": [
+        "Department of Library and Information Science, National Taiwan University, Taipei, Taiwan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Library and Information Science, National Taiwan University, Taipei, Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I16733864"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5062755731",
+        "display_name": "Chiao‐Wen Lin",
+        "orcid": "https://orcid.org/0000-0001-9213-314X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I16733864",
+          "display_name": "National Taiwan University",
+          "ror": "https://ror.org/05bqach95",
+          "country_code": "TW",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I16733864"
+          ]
+        }
+      ],
+      "countries": [
+        "TW"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chiao-Wen Lin",
+      "raw_affiliation_strings": [
+        "Department of Library and Information Science, National Taiwan University, Taipei, Taiwan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Library and Information Science, National Taiwan University, Taipei, Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I16733864"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 2290,
+    "currency": "EUR",
+    "value_usd": 2890
+  },
+  "apc_paid": null,
+  "fwci": 4.69,
+  "has_fulltext": true,
+  "fulltext_origin": "ngrams",
+  "cited_by_count": 286,
+  "citation_normalized_percentile": {
+    "value": 0.939484,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "105",
+    "issue": "3",
+    "first_page": "2071",
+    "last_page": "2087"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10102",
+    "display_name": "scientometrics and bibliometrics research",
+    "score": 0.9992,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1804",
+      "display_name": "Statistics, Probability and Uncertainty"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/18",
+      "display_name": "Decision Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10102",
+      "display_name": "scientometrics and bibliometrics research",
+      "score": 0.9992,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13976",
+      "display_name": "Web visibility and informetrics",
+      "score": 0.9759,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10286",
+      "display_name": "Information Retrieval and Search Behavior",
+      "score": 0.9422,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/bibliographic-coupling",
+      "display_name": "Bibliographic coupling",
+      "score": 0.8444739
+    },
+    {
+      "id": "https://openalex.org/keywords/citation-analysis",
+      "display_name": "Citation analysis",
+      "score": 0.58725744
+    },
+    {
+      "id": "https://openalex.org/keywords/informetrics",
+      "display_name": "Informetrics",
+      "score": 0.41431832
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C178315738",
+      "wikidata": "https://www.wikidata.org/wiki/Q603441",
+      "display_name": "Bibliometrics",
+      "level": 2,
+      "score": 0.91701674
+    },
+    {
+      "id": "https://openalex.org/C2776822937",
+      "wikidata": "https://www.wikidata.org/wiki/Q856335",
+      "display_name": "Bibliographic coupling",
+      "level": 3,
+      "score": 0.8444739
+    },
+    {
+      "id": "https://openalex.org/C2778805511",
+      "wikidata": "https://www.wikidata.org/wiki/Q1713",
+      "display_name": "Citation",
+      "level": 2,
+      "score": 0.68419576
+    },
+    {
+      "id": "https://openalex.org/C105345328",
+      "wikidata": "https://www.wikidata.org/wiki/Q206276",
+      "display_name": "Citation analysis",
+      "level": 3,
+      "score": 0.58725744
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.53906286
+    },
+    {
+      "id": "https://openalex.org/C161191863",
+      "wikidata": "https://www.wikidata.org/wiki/Q199655",
+      "display_name": "Library science",
+      "level": 1,
+      "score": 0.5053911
+    },
+    {
+      "id": "https://openalex.org/C95831776",
+      "wikidata": "https://www.wikidata.org/wiki/Q16387",
+      "display_name": "Information science",
+      "level": 2,
+      "score": 0.44391376
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.43101367
+    },
+    {
+      "id": "https://openalex.org/C2780378607",
+      "wikidata": "https://www.wikidata.org/wiki/Q355654",
+      "display_name": "Informetrics",
+      "level": 3,
+      "score": 0.41431832
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.34694135
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s11192-015-1762-8",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S148561398",
+        "display_name": "Scientometrics",
+        "issn_l": "0138-9130",
+        "issn": [
+          "0138-9130",
+          "1588-2861"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320108",
+        "host_organization_name": "Springer Nature (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965",
+          "https://openalex.org/P4310320108"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature",
+          "Springer Nature (Netherlands)"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality education",
+      "score": 0.64,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 30,
+  "referenced_works": [
+    "https://openalex.org/W1501165555",
+    "https://openalex.org/W1530517025",
+    "https://openalex.org/W1593334067",
+    "https://openalex.org/W1966538856",
+    "https://openalex.org/W1970859146",
+    "https://openalex.org/W1975107573",
+    "https://openalex.org/W1991332210",
+    "https://openalex.org/W1992478940",
+    "https://openalex.org/W1995247875",
+    "https://openalex.org/W1998040366",
+    "https://openalex.org/W2005207065",
+    "https://openalex.org/W2005311637",
+    "https://openalex.org/W2018945020",
+    "https://openalex.org/W2021175767",
+    "https://openalex.org/W2030226296",
+    "https://openalex.org/W2037933327",
+    "https://openalex.org/W2049675550",
+    "https://openalex.org/W2065071828",
+    "https://openalex.org/W2070032609",
+    "https://openalex.org/W2072897447",
+    "https://openalex.org/W2103518672",
+    "https://openalex.org/W2116575643",
+    "https://openalex.org/W2135111130",
+    "https://openalex.org/W2145034503",
+    "https://openalex.org/W2157669664",
+    "https://openalex.org/W2904737192",
+    "https://openalex.org/W4236075453",
+    "https://openalex.org/W4243208282",
+    "https://openalex.org/W4255497883",
+    "https://openalex.org/W637241713"
+  ],
+  "related_works": [
+    "https://openalex.org/W4386253487",
+    "https://openalex.org/W4207059865",
+    "https://openalex.org/W3115068246",
+    "https://openalex.org/W2764137220",
+    "https://openalex.org/W2567122196",
+    "https://openalex.org/W2490357328",
+    "https://openalex.org/W2370115583",
+    "https://openalex.org/W2183887601",
+    "https://openalex.org/W2084540239",
+    "https://openalex.org/W1587867695"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1708085422",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 60
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 52
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 36
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2025-08-15T08:00:33.190767",
+  "created_date": "2016-06-24"
+}

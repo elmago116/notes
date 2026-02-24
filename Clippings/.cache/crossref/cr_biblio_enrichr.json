@@ -1,0 +1,4692 @@
+[
+  {
+    "institution": [
+      {
+        "name": "Comprehensive R Archive Network",
+        "acronym": [
+          "CRAN"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2025-02-03T02:40:02Z",
+      "timestamp": 1738550402500,
+      "version": "3.35.0"
+    },
+    "description": "Provides an R interface to all 'Enrichr' databases. 'Enrichr' is a web-based tool for analysing gene sets and returns any enrichment of common annotated biological features. Quoting from their website 'Enrichment analysis is a computational method for inferring knowledge about an input gene set by comparing it to annotated gene sets representing prior biological knowledge.' See <https://maayanlab.cloud/Enrichr/> for further details.",
+    "reference-count": 0,
+    "publisher": "The R Foundation",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "content-updated": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          2
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.32614/cran.package.enrichr",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ],
+      "date-time": "2024-06-12T11:16:41Z",
+      "timestamp": 1718191001000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "enrichR: Provides an R Interface to 'Enrichr'"
+    ],
+    "prefix": "10.32614",
+    "author": [
+      {
+        "given": "Wajid",
+        "family": "Jawaid",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "17266",
+    "content-created": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          2
+        ]
+      ]
+    },
+    "container-title": [
+      "CRAN: Contributed Packages"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2025-02-03T02:15:29Z",
+      "timestamp": 1738548929000
+    },
+    "score": 24.378853,
+    "resource": {
+      "primary": {
+        "URL": "https://CRAN.R-project.org/package=enrichR"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.32614/cran.package.enrichr",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2023-02-08T05:44:14Z",
+      "timestamp": 1675835054976
+    },
+    "reference-count": 0,
+    "publisher": "PeerJ",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.7717/peerj.14738/fig-5",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2023-02-07T09:54:12Z",
+      "timestamp": 1675763652000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Figure 5: Hub proteins identified by EnrichR."
+    ],
+    "prefix": "10.7717",
+    "member": "4443",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2023-02-07T09:54:24Z",
+      "timestamp": 1675763664000
+    },
+    "score": 22.52611,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/14738/fig-5"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7717/peerj.14738/fig-5"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          19
+        ]
+      ],
+      "date-time": "2024-09-19T04:09:26Z",
+      "timestamp": 1726718966456
+    },
+    "reference-count": 0,
+    "publisher": "PeerJ",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.7717/peerj.18090/fig-8",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2024-09-18T07:11:01Z",
+      "timestamp": 1726643461000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Figure 8: Functional enrichment analysis of up-and down-regulated proteins using enrichr-KG."
+    ],
+    "prefix": "10.7717",
+    "member": "4443",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2024-09-18T07:11:11Z",
+      "timestamp": 1726643471000
+    },
+    "score": 20.149233,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/18090/fig-8"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7717/peerj.18090/fig-8"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2023-02-28T05:39:00Z",
+      "timestamp": 1677562740918
+    },
+    "reference-count": 0,
+    "publisher": "PeerJ",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.7717/peerj.14927/table-1",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2023-02-27T08:05:51Z",
+      "timestamp": 1677485151000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Table 1: Gene-set libraries from Enrichr with the number of annotated gene sets and unique genes."
+    ],
+    "prefix": "10.7717",
+    "member": "4443",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2023-02-27T08:05:55Z",
+      "timestamp": 1677485155000
+    },
+    "score": 17.32369,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/14927/table-1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7717/peerj.14927/table-1"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T13:04:49Z",
+      "timestamp": 1649077489823
+    },
+    "reference-count": 0,
+    "publisher": "PeerJ",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.7717/peerj.6092/fig-3",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          7
+        ]
+      ],
+      "date-time": "2018-12-07T10:06:49Z",
+      "timestamp": 1544177209000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Figure 3: GO term and KEGG pathway enrichment analyses performed using Enrichr on DEGs identified from GC samples and normal samples."
+    ],
+    "prefix": "10.7717",
+    "member": "4443",
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          7
+        ]
+      ],
+      "date-time": "2018-12-07T10:06:53Z",
+      "timestamp": 1544177213000
+    },
+    "score": 16.210688,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/6092/fig-3"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7717/peerj.6092/fig-3"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2025-07-25T10:37:07Z",
+      "timestamp": 1753439827035
+    },
+    "reference-count": 82,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              2
+            ]
+          ],
+          "date-time": "2023-02-02T00:00:00Z",
+          "timestamp": 1675296000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              2
+            ]
+          ],
+          "date-time": "2023-02-02T00:00:00Z",
+          "timestamp": 1675296000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci Rep"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Systemic sclerosis (SSc) is a rheumatic disease characterised by vasculopathy, inflammation and fibrosis. Its aetiopathogenesis is still unknown, and the pathways/mechanisms of the disease are not clarified. This study aimed to perform in silico analysis of the already Mass Spectrometry (MS)-based discovered biomarkers of SSc to extract possible pathways/mechanisms implicated in the disease. We recorded all published candidate MS-based found biomarkers related to SSc. We then selected a number of the candidate biomarkers using specific criteria and performed pathway and cellular component analyses using Enrichr. We used PANTHER and STRING to assess the biological processes and the interactions of the recorded proteins, respectively. Pathway analysis extracted several pathways that are associated with the three different stages of SSc pathogenesis. Some of these pathways are also related to other diseases, including autoimmune diseases. We observe that these biomarkers are located in several cellular components and implicated in many biological processes. STRING analysis showed that some proteins interact, creating significant clusters, while others do not display any evidence of an interaction. All these data highlight the complexity of SSc, and further investigation of the extracted pathways/biological processes and interactions may help study the disease from a different angle.</jats:p>",
+    "DOI": "10.1038/s41598-023-29054-5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2023-02-02T16:08:32Z",
+      "timestamp": 1675354112000
+    },
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Enrichr in silico analysis of MS-based extracted candidate proteomic biomarkers highlights pathogenic pathways in systemic sclerosis"
+    ],
+    "prefix": "10.1038",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Paraskevi P.",
+        "family": "Chairta",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Paschalis",
+        "family": "Nicolaou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kyproula",
+        "family": "Christodoulou",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "29054_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "4569826",
+        "DOI": "10.1155/2019/4569826",
+        "volume": "2019",
+        "author": "A Sierra-Sepúlveda",
+        "year": "2019",
+        "unstructured": "Sierra-Sepúlveda, A. et al. Systemic sclerosis pathogenesis and emerging therapies, beyond the fibroblast. Biomed. Res. Int. 2019, 4569826 (2019).",
+        "journal-title": "Biomed. Res. Int."
+      },
+      {
+        "key": "29054_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "309",
+        "DOI": "10.1089/gtmb.2019.0255",
+        "volume": "24",
+        "author": "P Chairta",
+        "year": "2020",
+        "unstructured": "Chairta, P. et al. Genetic susceptibility to systemic sclerosis in the Greek-Cypriot population: A pilot study. Genet. Test Mol. Biomarkers 24, 309–317 (2020).",
+        "journal-title": "Genet. Test Mol. Biomarkers"
+      },
+      {
+        "key": "29054_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "596",
+        "DOI": "10.1038/s41584-021-00683-2",
+        "volume": "17",
+        "author": "P-S Tsou",
+        "year": "2021",
+        "unstructured": "Tsou, P.-S., Varga, J. & O’Reilly, S. Advances in epigenetics in systemic sclerosis: Molecular mechanisms and therapeutic potential. Nat. Rev. Rheumatol. 17, 596–607 (2021).",
+        "journal-title": "Nat. Rev. Rheumatol."
+      },
+      {
+        "key": "29054_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "3121",
+        "DOI": "10.1093/rheumatology/keab190",
+        "volume": "60",
+        "author": "M Bairkdar",
+        "year": "2021",
+        "unstructured": "Bairkdar, M. et al. Incidence and prevalence of systemic sclerosis globally: A comprehensive systematic review and meta-analysis. Rheumatology 60, 3121–3133 (2021).",
+        "journal-title": "Rheumatology"
+      },
+      {
+        "key": "29054_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "165",
+        "DOI": "10.1097/BOR.0b013e32834ff2e8",
+        "volume": "24",
+        "author": "J Barnes",
+        "year": "2012",
+        "unstructured": "Barnes, J. & Mayes, M. D. Epidemiology of systemic sclerosis: Incidence, prevalence, survival, risk factors, malignancy, and environmental triggers. Curr. Opin. Rheumatol. 24, 165–170 (2012).",
+        "journal-title": "Curr. Opin. Rheumatol."
+      },
+      {
+        "key": "29054_CR6",
+        "first-page": "283",
+        "volume": "11",
+        "author": "A Fischer",
+        "year": "2019",
+        "unstructured": "Fischer, A., Patel, N. M. & Volkmann, E. R. Interstitial lung disease in systemic sclerosis: Focus on early detection and intervention. Open Access Rheumatol. Res. Rev. 11, 283–307 (2019).",
+        "journal-title": "Open Access Rheumatol. Res. Rev."
+      },
+      {
+        "key": "29054_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1128/MMBR.66.1.39-63.2002",
+        "volume": "66",
+        "author": "PR Graves",
+        "year": "2002",
+        "unstructured": "Graves, P. R. & Haystead, T. A. J. Molecular biologist’s guide to proteomics. Microbiol. Mol. Biol. Rev. 66, 39–63 (2002).",
+        "journal-title": "Microbiol. Mol. Biol. Rev."
+      },
+      {
+        "key": "29054_CR8",
+        "first-page": "345",
+        "volume": "19",
+        "author": "P Bălănescu",
+        "year": "2014",
+        "unstructured": "Bălănescu, P., Lădaru, A., Bălănescu, E., Băicuş, C. & Dan, G. A. Systemic sclerosis biomarkers discovered using mass-spectrometry-based proteomics: A systematic review. Biomarkers Biochem. Indic Expo. Response Susceptibility Chem. 19, 345–355 (2014).",
+        "journal-title": "Biomarkers Biochem. Indic Expo. Response Susceptibility Chem."
+      },
+      {
+        "key": "29054_CR9",
+        "first-page": "15",
+        "volume": "129",
+        "author": "S-A You",
+        "year": "2006",
+        "unstructured": "You, S.-A. & Wang, Q. K. Proteomics with two-dimensional gel electrophoresis and mass spectrometry analysis in cardiovascular research. Methods Mol. Med. 129, 15–26 (2006).",
+        "journal-title": "Methods Mol. Med."
+      },
+      {
+        "key": "29054_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "107",
+        "DOI": "10.1186/s13075-020-02196-x",
+        "volume": "22",
+        "author": "P Chairta",
+        "year": "2020",
+        "unstructured": "Chairta, P. et al. Comparative analysis of affected and unaffected areas of systemic sclerosis skin biopsies by high-throughput proteomic approaches. Arthritis Res. Ther. 22, 107 (2020).",
+        "journal-title": "Arthritis Res. Ther."
+      },
+      {
+        "key": "29054_CR11",
+        "first-page": "101",
+        "volume": "59",
+        "author": "P Bălănescu",
+        "year": "2021",
+        "unstructured": "Bălănescu, P., Bălănescu, A., Bălănescu, E. & Băicuş, C. Candidate proteomic biomarkers in systemic sclerosis discovered using mass-spectrometry: An update of a systematic review (2014–2020). Rom. J. Intern. Med. 59, 101–111 (2021).",
+        "journal-title": "Rom. J. Intern. Med."
+      },
+      {
+        "key": "29054_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "46ps42",
+        "DOI": "10.1126/scitranslmed.3001249",
+        "volume": "2",
+        "author": "H Mischak",
+        "year": "2010",
+        "unstructured": "Mischak, H. et al. Recommendations for biomarker identification and qualification in clinical proteomics. Sci. Transl. Med. 2, 46ps42 (2010).",
+        "journal-title": "Sci. Transl. Med."
+      },
+      {
+        "key": "29054_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "W90",
+        "DOI": "10.1093/nar/gkw377",
+        "volume": "44",
+        "author": "MV Kuleshov",
+        "year": "2016",
+        "unstructured": "Kuleshov, M. V. et al. Enrichr: A comprehensive gene set enrichment analysis web server 2016 update. Nucleic Acids Res. 44, W90–W97 (2016).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "29054_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1947",
+        "DOI": "10.1002/pro.3715",
+        "volume": "28",
+        "author": "M Kanehisa",
+        "year": "2019",
+        "unstructured": "Kanehisa, M. Toward understanding the origin and evolution of cellular organisms. Protein Sci. 28, 1947–1951 (2019).",
+        "journal-title": "Protein Sci."
+      },
+      {
+        "key": "29054_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.1093/nar/28.1.27",
+        "volume": "28",
+        "author": "M Kanehisa",
+        "year": "2000",
+        "unstructured": "Kanehisa, M. & Goto, S. KEGG: Kyoto encyclopedia of genes and genomes. Nucleic Acids Res. 28, 27–30 (2000).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "29054_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "D545",
+        "DOI": "10.1093/nar/gkaa970",
+        "volume": "49",
+        "author": "M Kanehisa",
+        "year": "2021",
+        "unstructured": "Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M. & Tanabe, M. KEGG: Integrating viruses and cellular organisms. Nucleic Acids Res. 49, D545–D551 (2021).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "29054_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "D394",
+        "DOI": "10.1093/nar/gkaa1106",
+        "volume": "49",
+        "author": "H Mi",
+        "year": "2021",
+        "unstructured": "Mi, H. et al. PANTHER version 16: A revised family classification, tree-based classification tool, enhancer regions and extensive API. Nucleic Acids Res. 49, D394-403 (2021).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "29054_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "169",
+        "DOI": "10.1186/s12859-015-0611-3",
+        "volume": "16",
+        "author": "H Heberle",
+        "year": "2015",
+        "unstructured": "Heberle, H., Meirelles, G. V., da Silva, F. R., Telles, G. P. & Minghim, R. InteractiVenn: A web-based tool for the analysis of sets through Venn diagrams. BMC Bioinform. 16, 169 (2015).",
+        "journal-title": "BMC Bioinform."
+      },
+      {
+        "key": "29054_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "D605",
+        "DOI": "10.1093/nar/gkaa1074",
+        "volume": "49",
+        "author": "D Szklarczyk",
+        "year": "2021",
+        "unstructured": "Szklarczyk, D. et al. The STRING database in 2021: Customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets. Nucleic Acids Res. 49, D605–D612 (2021).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "29054_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1754",
+        "DOI": "10.1093/rheumatology/ken370",
+        "volume": "47",
+        "author": "N Aden",
+        "year": "2008",
+        "unstructured": "Aden, N. et al. Proteomic analysis of scleroderma lesional skin reveals activated wound healing phenotype of epidermal cell layer. Rheumatology (Oxford) 47, 1754–1760 (2008).",
+        "journal-title": "Rheumatology (Oxford)"
+      },
+      {
+        "key": "29054_CR21",
+        "first-page": "2063",
+        "volume": "34",
+        "author": "L Giusti",
+        "year": "2007",
+        "unstructured": "Giusti, L. et al. Specific proteins identified in whole saliva from patients with diffuse systemic sclerosis. J. Rheumatol. 34, 2063–2069 (2007).",
+        "journal-title": "J. Rheumatol."
+      },
+      {
+        "key": "29054_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "901",
+        "DOI": "10.1177/039463201002300326",
+        "volume": "23",
+        "author": "R Guerranti",
+        "year": "2010",
+        "unstructured": "Guerranti, R. et al. Serum proteome of patients with systemic sclerosis: Molecular analysis of expression and prevalence of haptoglobin alpha chain isoforms. Int. J. Immunopathol. Pharmacol. 23, 901–909 (2010).",
+        "journal-title": "Int. J. Immunopathol. Pharmacol."
+      },
+      {
+        "key": "29054_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "60",
+        "DOI": "10.1016/j.jprot.2013.03.006",
+        "volume": "83",
+        "author": "C Landi",
+        "year": "2013",
+        "unstructured": "Landi, C. et al. Towards a functional proteomics approach to the comprehension of idiopathic pulmonary fibrosis, sarcoidosis, systemic sclerosis and pulmonary Langerhans cell histiocytosis. J. Proteomics 83, 60–75 (2013).",
+        "journal-title": "J. Proteomics"
+      },
+      {
+        "key": "29054_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "11",
+        "DOI": "10.1186/1465-9921-7-11",
+        "volume": "7",
+        "author": "K Larsen",
+        "year": "2006",
+        "unstructured": "Larsen, K. et al. Functional and phenotypical comparison of myofibroblasts derived from biopsies and bronchoalveolar lavage in mild asthma and scleroderma. Respir. Res. 7, 11 (2006).",
+        "journal-title": "Respir. Res."
+      },
+      {
+        "key": "29054_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1423",
+        "DOI": "10.1002/pmic.200301007",
+        "volume": "5",
+        "author": "P Rottoli",
+        "year": "2005",
+        "unstructured": "Rottoli, P. et al. Cytokine profile and proteome analysis in bronchoalveolar lavage of patients with sarcoidosis, pulmonary fibrosis associated with systemic sclerosis and idiopathic pulmonary fibrosis. Proteomics 5, 1423–1430 (2005).",
+        "journal-title": "Proteomics"
+      },
+      {
+        "key": "29054_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "e12162",
+        "DOI": "10.1371/journal.pone.0012162",
+        "volume": "5",
+        "author": "C Scambi",
+        "year": "2010",
+        "unstructured": "Scambi, C. et al. Comparative proteomic analysis of serum from patients with systemic sclerosis and sclerodermatous GVHD. Evidence of defective function of factor H. PLoS ONE 5, e12162 (2010).",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "29054_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "409",
+        "DOI": "10.2332/allergolint.10-OA-0176",
+        "volume": "59",
+        "author": "R Shirahama",
+        "year": "2010",
+        "unstructured": "Shirahama, R., Miyazaki, Y., Okamoto, T., Inase, N. & Yoshizawa, Y. Proteome analysis of bronchoalveolar lavage fluid in lung fibrosis associated with systemic sclerosis. Allergol. Int. 59, 409–415 (2010).",
+        "journal-title": "Allergol. Int."
+      },
+      {
+        "key": "29054_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "1585",
+        "DOI": "10.1136/annrheumdis-2013-205013",
+        "volume": "73",
+        "author": "L van Bon",
+        "year": "2014",
+        "unstructured": "van Bon, L. et al. Proteomic analysis of plasma identifies the Toll-like receptor agonists S100A8/A9 as a novel possible marker for systemic sclerosis phenotype. Ann. Rheum Dis. 73, 1585–1589 (2014).",
+        "journal-title": "Ann. Rheum Dis."
+      },
+      {
+        "key": "29054_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "P67",
+        "DOI": "10.1186/1479-5876-8-S1-P67",
+        "volume": "8",
+        "author": "L van Bon",
+        "year": "2010",
+        "unstructured": "van Bon, L. et al. Proteomic analysis of Systemic Sclerosis serum identifies the toll-like receptor agonists S100A8/A9 as a novel possible pathogenic marker. J. Transl. Med. 8, P67 (2010).",
+        "journal-title": "J. Transl. Med."
+      },
+      {
+        "key": "29054_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "433",
+        "DOI": "10.1056/NEJMoa1114576",
+        "volume": "370",
+        "author": "L van Bon",
+        "year": "2014",
+        "unstructured": "van Bon, L. et al. Proteome-wide analysis and CXCL4 as a biomarker in systemic sclerosis. N Engl J Med. 370, 433–443 (2014).",
+        "journal-title": "N Engl J Med."
+      },
+      {
+        "key": "29054_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "R194",
+        "DOI": "10.1186/ar3523",
+        "volume": "13",
+        "author": "C Baldini",
+        "year": "2011",
+        "unstructured": "Baldini, C. et al. Proteomic analysis of saliva: A unique tool to distinguish primary Sjögren’s syndrome from secondary Sjögren’s syndrome and other sicca syndromes. Arthritis Res. Ther. 13, R194–R194 (2011).",
+        "journal-title": "Arthritis Res. Ther."
+      },
+      {
+        "key": "29054_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "2018",
+        "DOI": "10.1002/art.22645",
+        "volume": "56",
+        "author": "Y Xiang",
+        "year": "2007",
+        "unstructured": "Xiang, Y. et al. Comprehensive investigation of disease-specific short peptides in sera from patients with systemic sclerosis: Complement C3f-des-arginine, detected predominantly in systemic sclerosis sera, enhances proliferation of vascular endothelial cells. Arthritis Rheum. 56, 2018–2030 (2007).",
+        "journal-title": "Arthritis Rheum."
+      },
+      {
+        "key": "29054_CR33",
+        "unstructured": "TR, R., L, V.B., J, B. CXCL4, a novel marker for systemic sclerosis that clearly correlates with the clinical hallmarks and pathological events. Arthritis Rheum. 2010; 62."
+      },
+      {
+        "key": "29054_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1905",
+        "DOI": "10.1002/art.41418",
+        "volume": "72",
+        "author": "C Ryu",
+        "year": "2020",
+        "unstructured": "Ryu, C. et al. Bioactive plasma mitochondrial DNA is associated with disease progression in scleroderma-associated interstitial lung disease. Arthritis Rheumatol. 72, 1905–1915 (2020).",
+        "journal-title": "Arthritis Rheumatol."
+      },
+      {
+        "key": "29054_CR35",
+        "first-page": "165",
+        "volume": "58",
+        "author": "C Landi",
+        "year": "2019",
+        "unstructured": "Landi, C. et al. Bronchoalveolar lavage proteomic analysis in pulmonary fibrosis associated with systemic sclerosis: S100A6 and 14-3-3ε as potential biomarkers. Rheumatology (Oxford) 58, 165–178 (2019).",
+        "journal-title": "Rheumatology (Oxford)"
+      },
+      {
+        "key": "29054_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.3899/jrheum.160736",
+        "volume": "44",
+        "author": "C Corallo",
+        "year": "2017",
+        "unstructured": "Corallo, C. et al. Proteomic investigation of dermal fibroblasts isolated from affected and unaffected skin samples from patients with limited cutaneous systemic sclerosis: 2 distinct entities?. J. Rheumatol. 44, 40–48 (2017).",
+        "journal-title": "J. Rheumatol."
+      },
+      {
+        "key": "29054_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "588",
+        "DOI": "10.3390/genes9120588",
+        "volume": "9",
+        "author": "S Mullenbrock",
+        "year": "2018",
+        "unstructured": "Mullenbrock, S. et al. Systems analysis of transcriptomic and proteomic profiles identifies novel regulation of fibrotic programs by miRNAs in pulmonary fibrosis fibroblasts. Genes 9, 588 (2018).",
+        "journal-title": "Genes"
+      },
+      {
+        "key": "29054_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1800069",
+        "DOI": "10.1002/prca.201800069",
+        "volume": "13",
+        "author": "B Chaigne",
+        "year": "2019",
+        "unstructured": "Chaigne, B. et al. Proteomic analysis of human scleroderma fibroblasts response to transforming growth factor-ß. Proteomics Clin. Appl. 13, e1800069 (2019).",
+        "journal-title": "Proteomics Clin. Appl."
+      },
+      {
+        "key": "29054_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "2321",
+        "DOI": "10.1038/jid.2014.69",
+        "volume": "134",
+        "author": "VI Dumit",
+        "year": "2014",
+        "unstructured": "Dumit, V. I. et al. Altered MCM protein levels and autophagic flux in aged and systemic sclerosis dermal fibroblasts. J. Invest. Dermatol. 134, 2321–2330 (2014).",
+        "journal-title": "J. Invest. Dermatol."
+      },
+      {
+        "key": "29054_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1298",
+        "DOI": "10.1164/rccm.201611-2263OC",
+        "volume": "196",
+        "author": "HB Schiller",
+        "year": "2017",
+        "unstructured": "Schiller, H. B. et al. Deep proteome profiling reveals common prevalence of MZB1-positive plasma B cells in human lung and skin fibrosis. Am. J. Respir. Crit. Care Med. 196, 1298–1310 (2017).",
+        "journal-title": "Am. J. Respir. Crit. Care Med."
+      },
+      {
+        "key": "29054_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "351",
+        "DOI": "10.1007/s10753-008-9085-z",
+        "volume": "31",
+        "author": "E Bargagli",
+        "year": "2008",
+        "unstructured": "Bargagli, E. et al. Calgranulin B (S100A9) levels in bronchoalveolar lavage fluid of patients with interstitial lung diseases. Inflammation 31, 351–354 (2008).",
+        "journal-title": "Inflammation"
+      },
+      {
+        "key": "29054_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "L603",
+        "DOI": "10.1152/ajplung.00530.2007",
+        "volume": "295",
+        "author": "GS Bogatkevich",
+        "year": "2008",
+        "unstructured": "Bogatkevich, G. S., Ludwicka-Bradley, A., Singleton, C. B., Bethard, J. R. & Silver, R. M. Proteomic analysis of CTGF-activated lung fibroblasts: Identification of IQGAP1 as a key player in lung fibroblast migration. Am. J. Physiol. Lung Cell Mol. Physiol. 295, L603–L611 (2008).",
+        "journal-title": "Am. J. Physiol. Lung Cell Mol. Physiol."
+      },
+      {
+        "key": "29054_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "32",
+        "DOI": "10.1016/j.bbagen.2005.09.001",
+        "volume": "1760",
+        "author": "TM Chiang",
+        "year": "2006",
+        "unstructured": "Chiang, T. M. & Postlethwaite, A. E. Increase in phosphotidylinositide-3 kinase activity by nitrotyrosylation of lysates of platelets from patients with systemic sclerosis. Biochim. Biophys. Acta. 1760, 32–37 (2006).",
+        "journal-title": "Biochim. Biophys. Acta."
+      },
+      {
+        "key": "29054_CR44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5772/26585",
+        "volume-title": "Using proteomic analysis for studying the skin fibroblast protein profile in systemic sclerosis",
+        "author": "P Coral-Alvarado",
+        "year": "2012",
+        "unstructured": "Coral-Alvarado, P. et al. Using proteomic analysis for studying the skin fibroblast protein profile in systemic sclerosis (INTECH Open Access Publisher, London, 2012)."
+      },
+      {
+        "key": "29054_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.1186/1465-9921-12-22",
+        "volume": "12",
+        "author": "M De Santis",
+        "year": "2011",
+        "unstructured": "De Santis, M. et al. β-Thymosins and interstitial lung disease: Study of a scleroderma cohort with a one-year follow-up. Respir. Res. 12, 22 (2011).",
+        "journal-title": "Respir. Res."
+      },
+      {
+        "key": "29054_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "1638",
+        "DOI": "10.2353/ajpath.2010.091095",
+        "volume": "177",
+        "author": "F Del Galdo",
+        "year": "2010",
+        "unstructured": "Del Galdo, F., Shaw, M. A. & Jimenez, S. A. Proteomic analysis identification of a pattern of shared alterations in the secretome of dermal fibroblasts from systemic sclerosis and nephrogenic systemic fibrosis. Am. J. Pathol. 177, 1638–1646 (2010).",
+        "journal-title": "Am. J. Pathol."
+      },
+      {
+        "key": "29054_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "R160",
+        "DOI": "10.1186/ar2067",
+        "volume": "8",
+        "author": "A Fietta",
+        "year": "2006",
+        "unstructured": "Fietta, A. et al. Analysis of bronchoalveolar lavage fluid proteome from systemic sclerosis patients with or without functional, clinical and radiological signs of lung fibrosis. Arthritis Res. Ther. 8, R160 (2006).",
+        "journal-title": "Arthritis Res. Ther."
+      },
+      {
+        "key": "29054_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "272",
+        "DOI": "10.3389/fimmu.2015.00272",
+        "volume": "6",
+        "author": "D Pattanaik",
+        "year": "2015",
+        "unstructured": "Pattanaik, D., Brown, M., Postlethwaite, B. C. & Postlethwaite, A. E. Pathogenesis of systemic sclerosis. Front. Immunol. 6, 272 (2015).",
+        "journal-title": "Front. Immunol."
+      },
+      {
+        "key": "29054_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "S173",
+        "DOI": "10.5152/eurjrheum.2020.19192",
+        "volume": "7",
+        "author": "BK Mehta",
+        "year": "2020",
+        "unstructured": "Mehta, B. K., Espinoza, M. E., Hinchcliff, M. & Whitfield, M. L. Molecular “omic” signatures in systemic sclerosis. Eur. J. Rheumatol. 7, S173–S180 (2020).",
+        "journal-title": "Eur. J. Rheumatol."
+      },
+      {
+        "key": "29054_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "J276",
+        "DOI": "10.1016/j.jaut.2009.11.014",
+        "volume": "34",
+        "author": "M Chen",
+        "year": "2010",
+        "unstructured": "Chen, M., Daha, M. R. & Kallenberg, C. G. M. The complement system in systemic autoimmune disease. J. Autoimmun. 34, J276–J286 (2010).",
+        "journal-title": "J. Autoimmun."
+      },
+      {
+        "key": "29054_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "1262",
+        "DOI": "10.1002/anr.1780321011",
+        "volume": "32",
+        "author": "G Senaldi",
+        "year": "1989",
+        "unstructured": "Senaldi, G., Lupoli, S., Vergani, D. & Black, C. M. Activation of the complement system in systemic sclerosis relationship to clinical severity. Arthritis Rheum. 32, 1262–1267 (1989).",
+        "journal-title": "Arthritis Rheum."
+      },
+      {
+        "key": "29054_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "212",
+        "DOI": "10.1016/j.semarthrit.2010.10.002",
+        "volume": "41",
+        "author": "A Ludwicka-Bradley",
+        "year": "2011",
+        "unstructured": "Ludwicka-Bradley, A., Silver, R. M. & Bogatkevich, G. S. Coagulation and autoimmunity in scleroderma interstitial lung disease. Semin. Arthritis Rheum. 41, 212–222 (2011).",
+        "journal-title": "Semin. Arthritis Rheum."
+      },
+      {
+        "key": "29054_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "322",
+        "DOI": "10.3389/fimmu.2015.00322",
+        "volume": "6",
+        "author": "C Riedhammer",
+        "year": "2015",
+        "unstructured": "Riedhammer, C. & Weissert, R. Antigen presentation, autoantigens, and immune regulation in multiple sclerosis and other autoimmune diseases. Front. Immunol. 6, 322 (2015).",
+        "journal-title": "Front. Immunol."
+      },
+      {
+        "key": "29054_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "1040",
+        "DOI": "10.1136/annrheumdis-2021-219884",
+        "volume": "80",
+        "author": "M Acosta-Herrera",
+        "year": "2021",
+        "unstructured": "Acosta-Herrera, M. et al. Comprehensive analysis of the major histocompatibility complex in systemic sclerosis identifies differential HLA associations by clinical and serological subtypes. Ann. Rheum. Dis. 80, 1040–1047 (2021).",
+        "journal-title": "Ann. Rheum. Dis."
+      },
+      {
+        "key": "29054_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "731",
+        "DOI": "10.1038/s41584-019-0323-6",
+        "volume": "15",
+        "author": "Y Miyabe",
+        "year": "2019",
+        "unstructured": "Miyabe, Y., Lian, J., Miyabe, C. & Luster, A. D. Chemokines in rheumatic diseases: Pathogenic role and therapeutic implications. Nat. Rev. Rheumatol. 15, 731–746 (2019).",
+        "journal-title": "Nat. Rev. Rheumatol."
+      },
+      {
+        "key": "29054_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "3573",
+        "DOI": "10.4049/jimmunol.1100591",
+        "volume": "188",
+        "author": "T Nakashima",
+        "year": "2012",
+        "unstructured": "Nakashima, T. et al. Impaired IL-17 signaling pathway contributes to the increased collagen expression in scleroderma fibroblasts. J. Immunol. 188, 3573–3583 (2012).",
+        "journal-title": "J. Immunol."
+      },
+      {
+        "key": "29054_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "107",
+        "DOI": "10.4103/injr.injr_106_17",
+        "volume": "13",
+        "author": "A Wakhlu",
+        "year": "2018",
+        "unstructured": "Wakhlu, A. et al. Serum interleukin-6, interleukin-17A, and transforming growth factor beta are raised in systemic sclerosis with interstitial lung disease. Indian J. Rheumatol. 13, 107–112 (2018).",
+        "journal-title": "Indian J. Rheumatol."
+      },
+      {
+        "key": "29054_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "569",
+        "DOI": "10.1136/ard.2002.004838",
+        "volume": "63",
+        "author": "GH Stummvoll",
+        "year": "2004",
+        "unstructured": "Stummvoll, G. H. et al. Increased transendothelial migration of scleroderma lymphocytes. Ann. Rheum. Dis. 63, 569–574 (2004).",
+        "journal-title": "Ann. Rheum. Dis."
+      },
+      {
+        "key": "29054_CR59",
+        "first-page": "1083",
+        "volume": "8",
+        "author": "D Xu",
+        "year": "2021",
+        "unstructured": "Xu, D., Li, T., Wang, R. & Mu, R. Expression and pathogenic analysis of integrin family genes in systemic sclerosis. Front. Med. 8, 1083 (2021).",
+        "journal-title": "Front. Med."
+      },
+      {
+        "key": "29054_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "407",
+        "DOI": "10.1016/j.it.2017.03.006",
+        "volume": "38",
+        "author": "A-M Pauwels",
+        "year": "2017",
+        "unstructured": "Pauwels, A.-M., Trost, M., Beyaert, R. & Hoffmann, E. Patterns, receptors, and signals: Regulation of phagosome maturation. Trends Immunol. 38, 407–422 (2017).",
+        "journal-title": "Trends Immunol."
+      },
+      {
+        "key": "29054_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "9042851",
+        "DOI": "10.1155/2017/9042851",
+        "volume": "2017",
+        "author": "C Rosales",
+        "year": "2017",
+        "unstructured": "Rosales, C. & Uribe-Querol, E. Phagocytosis: A fundamental process in immunity. Biomed. Res. Int. 2017, 9042851 (2017).",
+        "journal-title": "Biomed. Res. Int."
+      },
+      {
+        "key": "29054_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "1645",
+        "DOI": "10.3389/fimmu.2018.01645",
+        "volume": "9",
+        "author": "F Abdolmaleki",
+        "year": "2018",
+        "unstructured": "Abdolmaleki, F. et al. The role of efferocytosis in autoimmune diseases. Front Immunol. 9, 1645 (2018).",
+        "journal-title": "Front Immunol."
+      },
+      {
+        "key": "29054_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "612",
+        "DOI": "10.1016/0190-9622(95)91280-0",
+        "volume": "33",
+        "author": "K Davis",
+        "year": "1995",
+        "unstructured": "Davis, K., Boros, P., Keltz, M., Unkeless, J. C. & Fleischmajer, R. Circulating Fcγ receptor-specific autoantibodies in localized and systemic scleroderma. J. Am. Acad. Dermatol. 33, 612–616 (1995).",
+        "journal-title": "J. Am. Acad. Dermatol."
+      },
+      {
+        "key": "29054_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "1009",
+        "DOI": "10.1111/1346-8138.12651",
+        "volume": "41",
+        "author": "T Kadono",
+        "year": "2014",
+        "unstructured": "Kadono, T., Tomita, M., Tamaki, Z., Sato, S. & Asano, Y. Serum levels of anti-Fcγ receptor IIB/C antibodies are increased in patients with systemic sclerosis. J. Dermatol. 41, 1009–1012 (2014).",
+        "journal-title": "J. Dermatol."
+      },
+      {
+        "key": "29054_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1008636",
+        "DOI": "10.1371/journal.ppat.1008636",
+        "volume": "16",
+        "author": "F Di Cara",
+        "year": "2020",
+        "unstructured": "Di Cara, F. Peroxisomes in host defense. PLos Pathog. 16, e1008636 (2020).",
+        "journal-title": "PLos Pathog."
+      },
+      {
+        "key": "29054_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "181",
+        "DOI": "10.1038/nrc3214",
+        "volume": "12",
+        "author": "JM Peters",
+        "year": "2012",
+        "unstructured": "Peters, J. M., Shah, Y. M. & Gonzalez, F. J. The role of peroxisome proliferator-activated receptors in carcinogenesis and chemoprevention. Nat. Rev. Cancer 12, 181–195 (2012).",
+        "journal-title": "Nat. Rev. Cancer"
+      },
+      {
+        "key": "29054_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "671",
+        "DOI": "10.1097/BOR.0b013e32833de1a7",
+        "volume": "22",
+        "author": "J Wei",
+        "year": "2010",
+        "unstructured": "Wei, J., Bhattacharyya, S. & Varga, J. Peroxisome proliferator-activated receptor γ: Innate protection from excessive fibrogenesis and potential therapeutic target in systemic sclerosis. Curr. Opin. Rheumatol. 22, 671–676 (2010).",
+        "journal-title": "Curr. Opin. Rheumatol."
+      },
+      {
+        "key": "29054_CR68",
+        "doi-asserted-by": "publisher",
+        "first-page": "259",
+        "DOI": "10.1093/rheumatology/kep371",
+        "volume": "49",
+        "author": "X Shi-wen",
+        "year": "2010",
+        "unstructured": "Shi-wen, X. et al. Rosiglitazone alleviates the persistent fibrotic phenotype of lesional skin scleroderma fibroblasts. Rheumatology (Oxford) 49, 259–263 (2010).",
+        "journal-title": "Rheumatology (Oxford)"
+      },
+      {
+        "key": "29054_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "128",
+        "DOI": "10.1186/s13075-015-0641-2",
+        "volume": "17",
+        "author": "RG Marangoni",
+        "year": "2015",
+        "unstructured": "Marangoni, R. G. et al. A candidate gene study reveals association between a variant of the peroxisome proliferator-activated receptor gamma (PPAR-γ) gene and systemic sclerosis. Arthritis Res. Ther. 17, 128 (2015).",
+        "journal-title": "Arthritis Res. Ther."
+      },
+      {
+        "key": "29054_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "e13778",
+        "DOI": "10.1371/journal.pone.0013778",
+        "volume": "5",
+        "author": "J Wei",
+        "year": "2010",
+        "unstructured": "Wei, J. et al. PPARγ downregulation by TGFß in fibroblast and impaired expression and function in systemic sclerosis: A novel mechanism for progressive fibrogenesis. PLoS ONE 5, e13778 (2010).",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "29054_CR71",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.7555/JBR.31.20170034",
+        "volume": "32",
+        "author": "NB Ayers",
+        "year": "2018",
+        "unstructured": "Ayers, N. B., Sun, C.-M. & Chen, S.-Y. Transforming growth factor-β signaling in systemic sclerosis. J Biomed Res. 32, 3–12 (2018).",
+        "journal-title": "J Biomed Res."
+      },
+      {
+        "key": "29054_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "6064830",
+        "DOI": "10.1155/2016/6064830",
+        "volume": "2016",
+        "author": "AT Dantas",
+        "year": "2016",
+        "unstructured": "Dantas, A. T. et al. Reassessing the role of the active TGF-β1 as a biomarker in systemic sclerosis: Association of serum levels with clinical manifestations. Dis. Markers 2016, 6064830 (2016).",
+        "journal-title": "Dis. Markers"
+      },
+      {
+        "key": "29054_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "4776",
+        "DOI": "10.3390/ijms21134776",
+        "volume": "21",
+        "author": "D Feng",
+        "year": "2020",
+        "unstructured": "Feng, D. & Gerarduzzi, C. Emerging roles of matricellular proteins in systemic sclerosis. Int. J. Mol. Sci. 21, 4776 (2020).",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "issue": "1",
+        "key": "29054_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "20",
+        "DOI": "10.4161/cam.5.1.13491",
+        "volume": "5",
+        "author": "G Ren",
+        "year": "2011",
+        "unstructured": "Ren, G., Roberts, A. I. & Shi, Y. Adhesion molecules: Key players in Mesenchymal stem cell-mediated immunosuppression. Cell Adh. Migr. 5(1), 20–22 (2011).",
+        "journal-title": "Cell Adh. Migr."
+      },
+      {
+        "key": "29054_CR75",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mackay, C.R., von Andrian, U.H. 2014 Chapter 22 - Adhesion Molecules and Chemoattractants in Autoimmunity. In Rose NR, Mackay (Eds.) IRBT-TAD (5th Edn). Boston: Academic Press; London, pp. 297–308.",
+        "DOI": "10.1016/B978-0-12-384929-8.00022-8"
+      },
+      {
+        "key": "29054_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "e88150",
+        "DOI": "10.1371/journal.pone.0088150",
+        "volume": "9",
+        "author": "M Hasegawa",
+        "year": "2014",
+        "unstructured": "Hasegawa, M. et al. Serum adhesion molecule levels as prognostic markers in patients with early systemic sclerosis: A multicentre, prospective, observational study. PLoS ONE 9, e88150 (2014).",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "29054_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "160",
+        "DOI": "10.3389/fimmu.2012.00160",
+        "volume": "3",
+        "author": "GA Ramirez",
+        "year": "2012",
+        "unstructured": "Ramirez, G. A. et al. The role of platelets in the pathogenesis of systemic sclerosis. Front Immunol. 3, 160 (2012).",
+        "journal-title": "Front Immunol."
+      },
+      {
+        "key": "29054_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "1177",
+        "DOI": "10.3389/fphys.2018.01177",
+        "volume": "9",
+        "author": "AE Abdulle",
+        "year": "2018",
+        "unstructured": "Abdulle, A. E., Diercks, G. F. H., Feelisch, M., Mulder, D. J. & van Goor, H. The role of oxidative stress in the development of systemic sclerosis related vasculopathy. Front. Physiol. 9, 1177 (2018).",
+        "journal-title": "Front. Physiol."
+      },
+      {
+        "key": "29054_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "101122",
+        "DOI": "10.1016/j.redox.2019.101122",
+        "volume": "25",
+        "author": "L Doridot",
+        "year": "2019",
+        "unstructured": "Doridot, L., Jeljeli, M., Chêne, C. & Batteux, F. Implication of oxidative stress in the pathogenesis of systemic sclerosis via inflammation, autoimmunity and fibrosis. Redox Biol. 25, 101122 (2019).",
+        "journal-title": "Redox Biol."
+      },
+      {
+        "key": "29054_CR80",
+        "first-page": "183",
+        "volume": "45",
+        "author": "I Agache",
+        "year": "2007",
+        "unstructured": "Agache, I., Rădoi, M. & Duca, L. Platelet activation in patients with systemic scleroderma–pattern and significance. Rom. J. Intern. Med. 45, 183–191 (2007).",
+        "journal-title": "Rom. J. Intern. Med."
+      },
+      {
+        "key": "29054_CR81",
+        "doi-asserted-by": "publisher",
+        "first-page": "68",
+        "DOI": "10.4161/org.4.2.5851",
+        "volume": "4",
+        "author": "Y Komiya",
+        "year": "2008",
+        "unstructured": "Komiya, Y. & Habas, R. Wnt signal transduction pathways. Organogenesis 4, 68–75 (2008).",
+        "journal-title": "Organogenesis"
+      },
+      {
+        "key": "29054_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "2734",
+        "DOI": "10.1002/art.34424",
+        "volume": "64",
+        "author": "J Wei",
+        "year": "2012",
+        "unstructured": "Wei, J. et al. Wnt/β-catenin signaling is hyperactivated in systemic sclerosis and induces Smad-dependent fibrotic responses in mesenchymal cells. Arthritis Rheum. 64, 2734–2745 (2012).",
+        "journal-title": "Arthritis Rheum."
+      }
+    ],
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-023-29054-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-023-29054-5",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-023-29054-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2023-03-23T20:02:30Z",
+      "timestamp": 1679601750000
+    },
+    "score": 15.382584,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-023-29054-5"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 82,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "29054"
+    ],
+    "URL": "https://doi.org/10.1038/s41598-023-29054-5",
+    "ISSN": [
+      "2045-2322"
+    ],
+    "issn-type": [
+      {
+        "value": "2045-2322",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "12 January 2022",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 January 2023",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "2 February 2023",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "1934"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2025-08-20T09:13:58Z",
+      "timestamp": 1755681238805,
+      "version": "3.37.3"
+    },
+    "reference-count": 105,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "W1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              11
+            ]
+          ],
+          "date-time": "2023-05-11T00:00:00Z",
+          "timestamp": 1683763200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "NIH",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U24CA264250",
+          "U24CA224260",
+          "R01DK131525",
+          "OT2OD030160",
+          "RC2DK131995",
+          "U24CA271114"
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Gene and protein set enrichment analysis is a critical step in the analysis of data collected from omics experiments. Enrichr is a popular gene set enrichment analysis web-server search engine that contains hundreds of thousands of annotated gene sets. While Enrichr has been useful in providing enrichment analysis with many gene set libraries from different categories, integrating enrichment results across libraries and domains of knowledge can further hypothesis generation. To this end, Enrichr-KG is a knowledge graph database and a web-server application that combines selected gene set libraries from Enrichr for integrative enrichment analysis and visualization. The enrichment results are presented as subgraphs made of nodes and links that connect genes to their enriched terms. In addition, users of Enrichr-KG can add gene-gene links, as well as predicted genes to the subgraphs. This graphical representation of cross-library results with enriched and predicted genes can illuminate hidden associations between genes and annotated enriched terms from across datasets and resources. Enrichr-KG currently serves 26 gene set libraries from different categories that include transcription, pathways, ontologies, diseases/drugs, and cell types. To demonstrate the utility of Enrichr-KG we provide several case studies. Enrichr-KG is freely available at: https://maayanlab.cloud/enrichr-kg.</jats:p>",
+    "DOI": "10.1093/nar/gkad393",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2023-05-11T15:50:27Z",
+      "timestamp": 1683820227000
+    },
+    "page": "W168-W179",
+    "source": "Crossref",
+    "is-referenced-by-count": 120,
+    "title": [
+      "Enrichr-KG: bridging enrichment analysis across multiple libraries"
+    ],
+    "prefix": "10.1093",
+    "volume": "51",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4836-0518",
+        "authenticated-orcid": false,
+        "given": "John Erol",
+        "family": "Evangelista",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai , NY , NY, USA"
+          }
+        ]
+      },
+      {
+        "given": "Zhuorui",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai , NY , NY, USA"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-9727-559X",
+        "authenticated-orcid": false,
+        "given": "Giacomo B",
+        "family": "Marino",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai , NY , NY, USA"
+          }
+        ]
+      },
+      {
+        "given": "Nhi",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai , NY , NY, USA"
+          }
+        ]
+      },
+      {
+        "given": "Daniel J B",
+        "family": "Clarke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai , NY , NY, USA"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6904-1017",
+        "authenticated-orcid": false,
+        "given": "Avi",
+        "family": "Ma’ayan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai , NY , NY, USA"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2023070505040621500_B1",
+        "doi-asserted-by": "crossref",
+        "first-page": "15545",
+        "DOI": "10.1073/pnas.0506580102",
+        "article-title": "Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles",
+        "volume": "102",
+        "author": "Subramanian",
+        "year": "2005",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "2023070505040621500_B2",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1186/1471-2105-14-128",
+        "article-title": "Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool",
+        "volume": "14",
+        "author": "Chen",
+        "year": "2013",
+        "journal-title": "BMC Bioinf."
+      },
+      {
+        "key": "2023070505040621500_B3",
+        "doi-asserted-by": "crossref",
+        "first-page": "W90",
+        "DOI": "10.1093/nar/gkw377",
+        "article-title": "Enrichr: a comprehensive gene set enrichment analysis web server 2016 update",
+        "volume": "44",
+        "author": "Kuleshov",
+        "year": "2016",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B4",
+        "doi-asserted-by": "crossref",
+        "first-page": "e90",
+        "DOI": "10.1002/cpz1.90",
+        "article-title": "Gene set knowledge discovery with Enrichr",
+        "volume": "1",
+        "author": "Xie",
+        "year": "2021",
+        "journal-title": "Curr. Protoc."
+      },
+      {
+        "key": "2023070505040621500_B5",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1038/nrg1272",
+        "article-title": "Network biology: understanding the cell's functional organization",
+        "volume": "5",
+        "author": "Barabási",
+        "year": "2004",
+        "journal-title": "Nat. Rev. Genet."
+      },
+      {
+        "key": "2023070505040621500_B6",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1186/1756-0381-4-10",
+        "article-title": "Using graph theory to analyze biological networks",
+        "volume": "4",
+        "author": "Pavlopoulos",
+        "year": "2011",
+        "journal-title": "BioData Mining"
+      },
+      {
+        "key": "2023070505040621500_B7",
+        "doi-asserted-by": "crossref",
+        "first-page": "615",
+        "DOI": "10.1038/nrg.2016.87",
+        "article-title": "Network biology concepts in complex disease comorbidities",
+        "volume": "17",
+        "author": "Hu",
+        "year": "2016",
+        "journal-title": "Nat. Rev. Genet."
+      },
+      {
+        "key": "2023070505040621500_B8",
+        "doi-asserted-by": "crossref",
+        "first-page": "118",
+        "DOI": "10.1016/j.plrev.2017.11.003",
+        "article-title": "Network science of biological systems at different scales: a review",
+        "volume": "24",
+        "author": "Gosak",
+        "year": "2018",
+        "journal-title": "Phys Life Rev"
+      },
+      {
+        "key": "2023070505040621500_B9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1078",
+        "DOI": "10.1126/science.1108876",
+        "article-title": "Formation of regulatory patterns during signal propagation in a Mammalian cellular network",
+        "volume": "309",
+        "author": "Ma’ayan",
+        "year": "2005",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2023070505040621500_B10",
+        "doi-asserted-by": "crossref",
+        "first-page": "5451",
+        "DOI": "10.1074/jbc.R800056200",
+        "article-title": "Insights into the organization of biochemical regulatory networks using graph theory analyses",
+        "volume": "284",
+        "author": "Ma’ayan",
+        "year": "2009",
+        "journal-title": "J. Biol. Chem."
+      },
+      {
+        "key": "2023070505040621500_B11",
+        "doi-asserted-by": "crossref",
+        "first-page": "D605",
+        "DOI": "10.1093/nar/gkaa1074",
+        "article-title": "The STRING database in 2021: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets",
+        "volume": "49",
+        "author": "Szklarczyk",
+        "year": "2021",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B12",
+        "doi-asserted-by": "crossref",
+        "first-page": "372",
+        "DOI": "10.1186/1471-2105-8-372",
+        "article-title": "Genes2Networks: connecting lists of gene symbols using mammalian protein interactions databases",
+        "volume": "8",
+        "author": "Berger",
+        "year": "2007",
+        "journal-title": "BMC Bioinf."
+      },
+      {
+        "key": "2023070505040621500_B13",
+        "doi-asserted-by": "crossref",
+        "first-page": "W60",
+        "DOI": "10.1093/nar/gky311",
+        "article-title": "GeneMANIA update 2018",
+        "volume": "46",
+        "author": "Franz",
+        "year": "2018",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B14",
+        "doi-asserted-by": "crossref",
+        "first-page": "D632",
+        "DOI": "10.1093/nar/gkab1048",
+        "article-title": "HumanNet v3: an improved database of human gene networks for disease research",
+        "volume": "50",
+        "author": "Kim",
+        "year": "2022",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B15",
+        "doi-asserted-by": "crossref",
+        "first-page": "2960",
+        "DOI": "10.1016/j.csbj.2021.05.015",
+        "article-title": "The DisGeNET cytoscape app: exploring and visualizing disease genomics data",
+        "volume": "19",
+        "author": "Piñero",
+        "year": "2021",
+        "journal-title": "Comput. Struct. Biotechnol. J."
+      },
+      {
+        "key": "2023070505040621500_B16",
+        "first-page": "17",
+        "article-title": "Knowledge graphs: introduction, history and, perspectives",
+        "volume": "43",
+        "author": "Chaudhri",
+        "year": "2022",
+        "journal-title": "AI Mag."
+      },
+      {
+        "key": "2023070505040621500_B17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1679",
+        "DOI": "10.1093/bib/bbaa012",
+        "article-title": "Biological applications of knowledge graph embedding models",
+        "volume": "22",
+        "author": "Mohamed",
+        "year": "2021",
+        "journal-title": "Briefings Bioinf."
+      },
+      {
+        "key": "2023070505040621500_B18",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1101/2022.09.15.508198",
+        "article-title": "ReproTox-KG: toxicology knowledge graph for structural birth defects",
+        "author": "Evangelista",
+        "year": "2022"
+      },
+      {
+        "key": "2023070505040621500_B19",
+        "doi-asserted-by": "crossref",
+        "first-page": "W153",
+        "DOI": "10.1093/nar/gkab449",
+        "article-title": "DGLinker: flexible knowledge-graph prediction of disease-gene associations",
+        "volume": "49",
+        "author": "Hu",
+        "year": "2021",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B20",
+        "doi-asserted-by": "crossref",
+        "first-page": "114",
+        "DOI": "10.1016/j.sbi.2021.09.003",
+        "article-title": "Toward better drug discovery with knowledge graph",
+        "volume": "72",
+        "author": "Zeng",
+        "year": "2022",
+        "journal-title": "Curr. Opin. Struct. Biol."
+      },
+      {
+        "key": "2023070505040621500_B21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1057",
+        "DOI": "10.1080/17460441.2021.1910673",
+        "article-title": "Knowledge graphs and their applications in drug discovery",
+        "volume": "16",
+        "author": "MacLean",
+        "year": "2021",
+        "journal-title": "Expert Opin. Drug Discov."
+      },
+      {
+        "key": "2023070505040621500_B22",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1038/s41597-020-0543-2",
+        "article-title": "Building a PubMed knowledge graph",
+        "volume": "7",
+        "author": "Xu",
+        "year": "2020",
+        "journal-title": "Sci Data"
+      },
+      {
+        "key": "2023070505040621500_B23",
+        "doi-asserted-by": "crossref",
+        "first-page": "btad080",
+        "DOI": "10.1093/bioinformatics/btad080",
+        "article-title": "The scalable precision medicine open knowledge engine (SPOKE): a massive knowledge graph of biomedical information",
+        "volume": "39",
+        "author": "Morris",
+        "year": "2023",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2023070505040621500_B24",
+        "doi-asserted-by": "crossref",
+        "first-page": "W216",
+        "DOI": "10.1093/nar/gkac194",
+        "article-title": "DAVID: a web server for functional enrichment analysis and functional annotation of gene lists (2021 update)",
+        "volume": "50",
+        "author": "Sherman",
+        "year": "2022",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B25",
+        "doi-asserted-by": "crossref",
+        "first-page": "W191",
+        "DOI": "10.1093/nar/gkz369",
+        "article-title": "g:profiler: a web server for functional enrichment analysis and conversions of gene lists (2019 update)",
+        "volume": "47",
+        "author": "Raudvere",
+        "year": "2019",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B26",
+        "doi-asserted-by": "crossref",
+        "first-page": "W199",
+        "DOI": "10.1093/nar/gkz401",
+        "article-title": "WebGestalt 2019: gene set analysis toolkit with revamped uis and apis",
+        "volume": "47",
+        "author": "Liao",
+        "year": "2019",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B27",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1016/j.cels.2015.12.004",
+        "article-title": "The Molecular Signatures Database (MSigDB) hallmark gene set collection",
+        "volume": "1",
+        "author": "Liberzon",
+        "year": "2015",
+        "journal-title": "Cell Syst."
+      },
+      {
+        "key": "2023070505040621500_B28",
+        "doi-asserted-by": "crossref",
+        "first-page": "482",
+        "DOI": "10.1038/s41596-018-0103-9",
+        "article-title": "Pathway enrichment analysis and visualization of omics data using g:profiler, GSEA, Cytoscape and EnrichmentMap",
+        "volume": "14",
+        "author": "Reimand",
+        "year": "2019",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "2023070505040621500_B29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1366",
+        "DOI": "10.1038/s41467-018-03751-6",
+        "article-title": "Massive mining of publicly available RNA-seq data from human and mouse",
+        "volume": "9",
+        "author": "Lachmann",
+        "year": "2018",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "2023070505040621500_B30",
+        "doi-asserted-by": "crossref",
+        "first-page": "W212",
+        "DOI": "10.1093/nar/gkz446",
+        "article-title": "ChEA3: transcription factor enrichment analysis by orthogonal omics integration",
+        "volume": "47",
+        "author": "Keenan",
+        "year": "2019",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B31",
+        "doi-asserted-by": "crossref",
+        "first-page": "D892",
+        "DOI": "10.1093/nar/gkaa1054",
+        "article-title": "FANTOM enters 20th year: expansion of transcriptomic atlases and functional annotation of non-coding rnas",
+        "volume": "49",
+        "author": "Abugessaisa",
+        "year": "2021",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B32",
+        "doi-asserted-by": "crossref",
+        "first-page": "D380",
+        "DOI": "10.1093/nar/gkx1013",
+        "article-title": "TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions",
+        "volume": "46",
+        "author": "Han",
+        "year": "2018",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B33",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1093/nar/28.1.27",
+        "article-title": "KEGG: kyoto encyclopedia of genes and genomes",
+        "volume": "28",
+        "author": "Kanehisa",
+        "year": "2000",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1947",
+        "DOI": "10.1002/pro.3715",
+        "article-title": "Toward understanding the origin and evolution of cellular organisms",
+        "volume": "28",
+        "author": "Kanehisa",
+        "year": "2019",
+        "journal-title": "Protein Sci."
+      },
+      {
+        "key": "2023070505040621500_B35",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1186/s13059-020-02181-2",
+        "article-title": "Pathway information extracted from 25 years of pathway figures",
+        "volume": "21",
+        "author": "Hanspers",
+        "year": "2020",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "2023070505040621500_B36",
+        "doi-asserted-by": "crossref",
+        "first-page": "D687",
+        "DOI": "10.1093/nar/gkab1028",
+        "article-title": "The reactome pathway knowledgebase 2022",
+        "volume": "50",
+        "author": "Gillespie",
+        "year": "2022",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B37",
+        "doi-asserted-by": "crossref",
+        "first-page": "759",
+        "DOI": "10.1038/s41586-022-05575-3",
+        "article-title": "An atlas of substrate specificities for the human serine/threonine kinome",
+        "volume": "613",
+        "author": "Johnson",
+        "year": "2023",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2023070505040621500_B38",
+        "doi-asserted-by": "crossref",
+        "first-page": "D613",
+        "DOI": "10.1093/nar/gkaa1024",
+        "article-title": "WikiPathways: connecting communities",
+        "volume": "49",
+        "author": "Martens",
+        "year": "2021",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B39",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1038/75556",
+        "article-title": "Gene ontology: tool for the unification of biology. The Gene Ontology Consortium",
+        "volume": "25",
+        "author": "Ashburner",
+        "year": "2000",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "key": "2023070505040621500_B40",
+        "doi-asserted-by": "crossref",
+        "first-page": "D325",
+        "DOI": "10.1093/nar/gkaa1113",
+        "article-title": "The Gene ontology resource: enriching a GOld mine",
+        "volume": "49",
+        "year": "2021",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B41",
+        "doi-asserted-by": "crossref",
+        "first-page": "D1207",
+        "DOI": "10.1093/nar/gkaa1043",
+        "article-title": "The Human phenotype ontology in 2021",
+        "volume": "49",
+        "author": "Köhler",
+        "year": "2021",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B42",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/j.ymeth.2014.11.020",
+        "article-title": "DISEASES: text mining and data integration of disease-gene associations",
+        "volume": "74",
+        "author": "Pletscher-Frankild",
+        "year": "2015",
+        "journal-title": "Methods"
+      },
+      {
+        "key": "2023070505040621500_B43",
+        "doi-asserted-by": "crossref",
+        "first-page": "390",
+        "DOI": "10.1002/wsbm.44",
+        "article-title": "The mammalian phenotype ontology: enabling robust annotation and comparative analysis",
+        "volume": "1",
+        "author": "Smith",
+        "year": "2009",
+        "journal-title": "Wiley Interdiscip. Rev. Syst. Biol. Med."
+      },
+      {
+        "key": "2023070505040621500_B44",
+        "doi-asserted-by": "crossref",
+        "first-page": "564",
+        "DOI": "10.1016/j.cell.2017.06.010",
+        "article-title": "Defining a cancer dependency map",
+        "volume": "170",
+        "author": "Tsherniak",
+        "year": "2017",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "2023070505040621500_B45",
+        "doi-asserted-by": "crossref",
+        "first-page": "W697",
+        "DOI": "10.1093/nar/gkac328",
+        "article-title": "SigCom LINCS: data and metadata search engine for a million gene expression signatures",
+        "volume": "50",
+        "author": "Evangelista",
+        "year": "2022",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B46",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41587-022-01539-0",
+        "article-title": "A proteome-wide atlas of drug mechanism of action",
+        "author": "Mitchell",
+        "year": "2023",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "2023070505040621500_B47",
+        "doi-asserted-by": "crossref",
+        "first-page": "387",
+        "DOI": "10.1016/j.cell.2019.12.023",
+        "article-title": "Quantitative proteomics of the cancer Cell Line encyclopedia",
+        "volume": "180",
+        "author": "Nusinow",
+        "year": "2020",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "2023070505040621500_B48",
+        "doi-asserted-by": "crossref",
+        "first-page": "eaba7721",
+        "DOI": "10.1126/science.aba7721",
+        "article-title": "A human cell atlas of fetal gene expression",
+        "volume": "370",
+        "author": "Cao",
+        "year": "2020",
+        "journal-title": "Science (New York, N.Y.)"
+      },
+      {
+        "key": "2023070505040621500_B49",
+        "doi-asserted-by": "crossref",
+        "first-page": "6062",
+        "DOI": "10.1073/pnas.0400782101",
+        "article-title": "A gene atlas of the mouse and human protein-encoding transcriptomes",
+        "volume": "101",
+        "author": "Su",
+        "year": "2004",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "2023070505040621500_B50",
+        "doi-asserted-by": "crossref",
+        "first-page": "590",
+        "DOI": "10.1038/s41586-020-2496-1",
+        "article-title": "A single-cell transcriptomic atlas characterizes ageing tissues in the mouse",
+        "volume": "583",
+        "year": "2020",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2023070505040621500_B51",
+        "doi-asserted-by": "crossref",
+        "first-page": "eabl4896",
+        "DOI": "10.1126/science.abl4896",
+        "article-title": "The Tabula Sapiens: a multiple-organ, single-cell transcriptomic atlas of humans",
+        "volume": "376",
+        "author": "Jones",
+        "year": "2022",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2023070505040621500_B52",
+        "doi-asserted-by": "crossref",
+        "first-page": "D222",
+        "DOI": "10.1093/nar/gkt1223",
+        "article-title": "Pfam: the protein families database",
+        "volume": "42",
+        "author": "Finn",
+        "year": "2014",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B53",
+        "doi-asserted-by": "crossref",
+        "first-page": "D52",
+        "DOI": "10.1093/nar/gkq1237",
+        "article-title": "Entrez Gene: gene-centered information at NCBI",
+        "volume": "39",
+        "author": "Maglott",
+        "year": "2011",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B54",
+        "doi-asserted-by": "crossref",
+        "first-page": "R5",
+        "DOI": "10.1186/gb-2012-13-1-r5",
+        "article-title": "Uberon, an integrative multi-species anatomy ontology",
+        "volume": "13",
+        "author": "Mungall",
+        "year": "2012",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "2023070505040621500_B55",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1186/s13326-016-0088-7",
+        "article-title": "The Cell Ontology 2016: enhanced content, modularization, and ontology interoperability",
+        "volume": "7",
+        "author": "Diehl",
+        "year": "2016",
+        "journal-title": "J. Biomed. Semantics"
+      },
+      {
+        "key": "2023070505040621500_B56",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.7171/jbt.18-2902-002",
+        "article-title": "The Cellosaurus, a cell-line knowledge resource",
+        "volume": "29",
+        "author": "Bairoch",
+        "year": "2018",
+        "journal-title": "J. Biomol. Tech."
+      },
+      {
+        "key": "2023070505040621500_B57",
+        "doi-asserted-by": "crossref",
+        "first-page": "D1388",
+        "DOI": "10.1093/nar/gkaa971",
+        "article-title": "PubChem in 2021: new data content and improved web interfaces",
+        "volume": "49",
+        "author": "Kim",
+        "year": "2021",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "volume-title": "Full Stack GraphQL Applications: With React, Node.Js, and Neo4j",
+        "year": "2022",
+        "author": "Lyon",
+        "key": "2023070505040621500_B58"
+      },
+      {
+        "key": "2023070505040621500_B59",
+        "doi-asserted-by": "crossref",
+        "first-page": "1433",
+        "DOI": "10.1145/3183713.3190657",
+        "article-title": "Cypher: an evolving query language for property graphs",
+        "volume-title": "Proceedings of the 2018 international conference on management of data",
+        "author": "Francis",
+        "year": "2018"
+      },
+      {
+        "key": "2023070505040621500_B60",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1093/bioinformatics/btv557",
+        "article-title": "Cytoscape.Js: a graph theory library for visualisation and analysis",
+        "volume": "32",
+        "author": "Franz",
+        "year": "2016",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2023070505040621500_B61",
+        "doi-asserted-by": "crossref",
+        "first-page": "W571",
+        "DOI": "10.1093/nar/gkz393",
+        "article-title": "Geneshot: search engine for ranking genes from arbitrary text queries",
+        "volume": "47",
+        "author": "Lachmann",
+        "year": "2019",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B62",
+        "doi-asserted-by": "crossref",
+        "first-page": "501",
+        "DOI": "10.1038/s41582-019-0228-7",
+        "article-title": "Apolipoprotein E and Alzheimer disease: pathobiology and targeting strategies",
+        "volume": "15",
+        "author": "Yamazaki",
+        "year": "2019",
+        "journal-title": "Nat. Rev. Neurol."
+      },
+      {
+        "key": "2023070505040621500_B63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1452",
+        "DOI": "10.1038/ng.2802",
+        "article-title": "Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",
+        "volume": "45",
+        "author": "Lambert",
+        "year": "2013",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "key": "2023070505040621500_B64",
+        "doi-asserted-by": "crossref",
+        "first-page": "921",
+        "DOI": "10.1126/science.8346443",
+        "article-title": "Gene dose of apolipoprotein E type 4 allele and the risk of Alzheimer's disease in late onset families",
+        "volume": "261",
+        "author": "Corder",
+        "year": "1993",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2023070505040621500_B65",
+        "doi-asserted-by": "crossref",
+        "first-page": "1977",
+        "DOI": "10.1073/pnas.90.5.1977",
+        "article-title": "Apolipoprotein E: high-avidity binding to beta-amyloid and increased frequency of type 4 allele in late-onset familial Alzheimer disease",
+        "volume": "90",
+        "author": "Strittmatter",
+        "year": "1993",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "2023070505040621500_B66",
+        "doi-asserted-by": "crossref",
+        "first-page": "769",
+        "DOI": "10.1038/s41586-022-05439-w",
+        "article-title": "APOE4 impairs myelination via cholesterol dysregulation in oligodendrocytes",
+        "volume": "611",
+        "author": "Blanchard",
+        "year": "2022",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2023070505040621500_B67",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/j.molmed.2010.06.004",
+        "article-title": "The emerging genetics of type 2 diabetes",
+        "volume": "16",
+        "author": "Bonnefond",
+        "year": "2010",
+        "journal-title": "Trends Mol. Med."
+      },
+      {
+        "key": "2023070505040621500_B68",
+        "first-page": "575",
+        "article-title": "Inflammation as a central mechanism in Alzheimer's disease",
+        "volume": "4",
+        "author": "Kinney",
+        "year": "2018",
+        "journal-title": "Alzheimers Dementia"
+      },
+      {
+        "key": "2023070505040621500_B69",
+        "doi-asserted-by": "crossref",
+        "first-page": "A7",
+        "DOI": "10.1053/j.ajkd.2013.11.001",
+        "article-title": "US Renal Data System 2013 annual data report",
+        "volume": "63",
+        "author": "Collins",
+        "year": "2014",
+        "journal-title": "Am. J. Kidney Dis."
+      },
+      {
+        "key": "2023070505040621500_B70",
+        "doi-asserted-by": "crossref",
+        "first-page": "2301",
+        "DOI": "10.2337/db19-0204",
+        "article-title": "Comparison of kidney transcriptomic profiles of early and advanced diabetic nephropathy reveals potential new mechanisms for disease progression",
+        "volume": "68",
+        "author": "Fan",
+        "year": "2019",
+        "journal-title": "Diabetes"
+      },
+      {
+        "key": "2023070505040621500_B71",
+        "doi-asserted-by": "crossref",
+        "first-page": "2993",
+        "DOI": "10.2337/db06-0477",
+        "article-title": "Modular activation of nuclear factor-kappaB transcriptional programs in human diabetic nephropathy",
+        "volume": "55",
+        "author": "Schmid",
+        "year": "2006",
+        "journal-title": "Diabetes"
+      },
+      {
+        "key": "2023070505040621500_B72",
+        "doi-asserted-by": "crossref",
+        "first-page": "1765",
+        "DOI": "10.1681/ASN.2006121304",
+        "article-title": "Interstitial vascular rarefaction and reduced VEGF-A expression in human diabetic nephropathy",
+        "volume": "18",
+        "author": "Lindenmeyer",
+        "year": "2007",
+        "journal-title": "J. Am. Soc. Nephrol."
+      },
+      {
+        "key": "2023070505040621500_B73",
+        "doi-asserted-by": "crossref",
+        "first-page": "469",
+        "DOI": "10.2337/db08-1328",
+        "article-title": "Enhanced expression of Janus kinase-signal transducer and activator of transcription pathway members in human diabetic nephropathy",
+        "volume": "58",
+        "author": "Berthier",
+        "year": "2009",
+        "journal-title": "Diabetes"
+      },
+      {
+        "key": "2023070505040621500_B74",
+        "doi-asserted-by": "crossref",
+        "first-page": "2354",
+        "DOI": "10.2337/db10-1181",
+        "article-title": "Transcriptome analysis of human diabetic kidney disease",
+        "volume": "60",
+        "author": "Woroniecka",
+        "year": "2011",
+        "journal-title": "Diabetes"
+      },
+      {
+        "key": "2023070505040621500_B75",
+        "doi-asserted-by": "crossref",
+        "first-page": "3831",
+        "DOI": "10.2147/DMSO.S330741",
+        "article-title": "The Association of aspartate aminotransferase/alanine aminotransferase ratio with diabetic nephropathy in patients with type 2 diabetes",
+        "volume": "14",
+        "author": "Xu",
+        "year": "2021",
+        "journal-title": "Diabetes Metab. Syndr. Obes."
+      },
+      {
+        "key": "2023070505040621500_B76",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1111/jdi.12707",
+        "article-title": "Tryptophan as a surrogate prognostic marker for diabetic nephropathy",
+        "volume": "9",
+        "author": "Chou",
+        "year": "2018",
+        "journal-title": "J. Diabetes Investig."
+      },
+      {
+        "key": "2023070505040621500_B77",
+        "doi-asserted-by": "crossref",
+        "first-page": "111170",
+        "DOI": "10.1016/j.mce.2021.111170",
+        "article-title": "Impairment of renal steroidogenesis at the onset of diabetes",
+        "volume": "524",
+        "author": "Pagotto",
+        "year": "2021",
+        "journal-title": "Mol. Cell. Endocrinol."
+      },
+      {
+        "key": "2023070505040621500_B78",
+        "doi-asserted-by": "crossref",
+        "first-page": "1944",
+        "DOI": "10.1038/sj.bjp.0703523",
+        "article-title": "Insulin-like effect of pinitol",
+        "volume": "130",
+        "author": "Bates",
+        "year": "2000",
+        "journal-title": "Br. J. Pharmacol."
+      },
+      {
+        "key": "2023070505040621500_B79",
+        "doi-asserted-by": "crossref",
+        "first-page": "173130",
+        "DOI": "10.1016/j.ejphar.2020.173130",
+        "article-title": "Renal protective effect of pinitol in experimental diabetes",
+        "volume": "880",
+        "author": "Sousa",
+        "year": "2020",
+        "journal-title": "Eur. J. Pharmacol."
+      },
+      {
+        "key": "2023070505040621500_B80",
+        "doi-asserted-by": "crossref",
+        "first-page": "D1214",
+        "DOI": "10.1093/nar/gkv1031",
+        "article-title": "ChEBI in 2016: improved services and an expanding collection of metabolites",
+        "volume": "44",
+        "author": "Hastings",
+        "year": "2016",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B81",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1016/S0367-326X(99)00117-3",
+        "article-title": "In vitro cell-toxicity of Peganum harmala alkaloids on cancerous cell-lines",
+        "volume": "71",
+        "author": "Lamchouri",
+        "year": "2000",
+        "journal-title": "Fitoterapia"
+      },
+      {
+        "key": "2023070505040621500_B82",
+        "doi-asserted-by": "crossref",
+        "first-page": "100863",
+        "DOI": "10.1016/j.genrep.2020.100863",
+        "article-title": "Harmine, a natural β-carboline alkaloid, ameliorates apoptosis by decreasing the expression of caspase-3 in the kidney of diabetic male Wistar rats",
+        "volume": "21",
+        "author": "Kajbaf",
+        "year": "2020",
+        "journal-title": "Gene Rep."
+      },
+      {
+        "key": "2023070505040621500_B83",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.3390/healthcare8010040",
+        "article-title": "Glycemia after betamethasone in pregnant women without diabetes-impact of marginal values in the 75-g OGTT",
+        "volume": "8",
+        "author": "Kakoulidis",
+        "year": "2020",
+        "journal-title": "Healthcare"
+      },
+      {
+        "key": "2023070505040621500_B84",
+        "doi-asserted-by": "crossref",
+        "first-page": "815",
+        "DOI": "10.2215/CJN.12991117",
+        "article-title": "Glucocorticoids in the treatment of glomerular diseases: pitfalls and pearls",
+        "volume": "13",
+        "author": "Ponticelli",
+        "year": "2018",
+        "journal-title": "Clin. J. Am. Soc. Nephrol"
+      },
+      {
+        "key": "2023070505040621500_B85",
+        "doi-asserted-by": "crossref",
+        "first-page": "6275",
+        "DOI": "10.3390/ijms21176275",
+        "article-title": "Pathophysiology of type 2 diabetes mellitus",
+        "volume": "21",
+        "author": "Galicia-Garcia",
+        "year": "2020",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "key": "2023070505040621500_B86",
+        "doi-asserted-by": "crossref",
+        "first-page": "D1062",
+        "DOI": "10.1093/nar/gkx1153",
+        "article-title": "ClinVar: improving access to variant interpretations and supporting evidence",
+        "volume": "46",
+        "author": "Landrum",
+        "year": "2018",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B87",
+        "doi-asserted-by": "crossref",
+        "first-page": "900",
+        "DOI": "10.1038/36116",
+        "article-title": "Disruption of IRS-2 causes type 2 diabetes in mice",
+        "volume": "391",
+        "author": "Withers",
+        "year": "1998",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2023070505040621500_B88",
+        "doi-asserted-by": "crossref",
+        "first-page": "886",
+        "DOI": "10.1172/JCI23108",
+        "article-title": "IRS2 takes center stage in the development of type 2 diabetes",
+        "volume": "114",
+        "author": "Brady",
+        "year": "2004",
+        "journal-title": "J. Clin. Invest."
+      },
+      {
+        "key": "2023070505040621500_B89",
+        "doi-asserted-by": "crossref",
+        "first-page": "630",
+        "DOI": "10.1016/j.molmet.2014.06.004",
+        "article-title": "Acute mTOR inhibition induces insulin resistance and alters substrate utilization in vivo",
+        "volume": "3",
+        "author": "Kleinert",
+        "year": "2014",
+        "journal-title": "Mol. Metab."
+      },
+      {
+        "key": "2023070505040621500_B90",
+        "doi-asserted-by": "crossref",
+        "first-page": "1130058",
+        "DOI": "10.3389/fcell.2023.1130058",
+        "article-title": "The Usher syndrome 1C protein harmonin regulates canonical wnt signaling",
+        "volume": "11",
+        "author": "Schäfer",
+        "year": "2023",
+        "journal-title": "Front. Cell Dev. Biol."
+      },
+      {
+        "key": "2023070505040621500_B91",
+        "doi-asserted-by": "crossref",
+        "first-page": "729",
+        "DOI": "10.1038/nrm2233",
+        "article-title": "Cellular senescence: when bad things happen to good cells",
+        "volume": "8",
+        "author": "Campisi",
+        "year": "2007",
+        "journal-title": "Nat. Rev. Mol. Cell Biol."
+      },
+      {
+        "key": "2023070505040621500_B92",
+        "doi-asserted-by": "crossref",
+        "first-page": "1424",
+        "DOI": "10.1038/nm.4000",
+        "article-title": "Cellular senescence in aging and age-related disease: from mechanisms to therapy",
+        "volume": "21",
+        "author": "Childs",
+        "year": "2015",
+        "journal-title": "Nat. Med."
+      },
+      {
+        "key": "2023070505040621500_B93",
+        "doi-asserted-by": "crossref",
+        "first-page": "439",
+        "DOI": "10.1038/nature13193",
+        "article-title": "The role of senescent cells in ageing",
+        "volume": "509",
+        "author": "van Deursen",
+        "year": "2014",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2023070505040621500_B94",
+        "doi-asserted-by": "crossref",
+        "first-page": "e13809",
+        "DOI": "10.1111/acel.13809",
+        "article-title": "Computational screen to identify potential targets for immunotherapeutic identification and removal of senescence cells",
+        "author": "Deng",
+        "year": "2023",
+        "journal-title": "Aging Cell"
+      },
+      {
+        "key": "2023070505040621500_B95",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1046/j.1365-2133.1999.02975.x",
+        "article-title": "Topical maxacalcitol for the treatment of psoriasis vulgaris: a placebo-controlled, double-blind, dose-finding study with active comparator",
+        "volume": "141",
+        "author": "Barker",
+        "year": "1999",
+        "journal-title": "Br. J. Dermatol."
+      },
+      {
+        "key": "2023070505040621500_B96",
+        "doi-asserted-by": "crossref",
+        "first-page": "4921",
+        "DOI": "10.3390/ijms23094921",
+        "article-title": "Effects of hypocalcemic vitamin D analogs in the expression of DNA damage induced in minilungs from hESCs: implications for lung fibrosis",
+        "volume": "23",
+        "author": "Magro-Lopez",
+        "year": "2022",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "key": "2023070505040621500_B97",
+        "doi-asserted-by": "crossref",
+        "first-page": "767070",
+        "DOI": "10.3389/fimmu.2021.767070",
+        "article-title": "Single-cell transcriptome analysis reveals RGS1 as a new marker and promoting factor for T-cell exhaustion in multiple cancers",
+        "volume": "12",
+        "author": "Bai",
+        "year": "2021",
+        "journal-title": "Front. Immunol."
+      },
+      {
+        "key": "2023070505040621500_B98",
+        "doi-asserted-by": "crossref",
+        "first-page": "334",
+        "DOI": "10.1186/s12967-022-03526-0",
+        "article-title": "RGS1 and related genes as potential targets for immunotherapy in cervical cancer: computational biology and experimental validation",
+        "volume": "20",
+        "author": "Zhang",
+        "year": "2022",
+        "journal-title": "J. Transl. Med."
+      },
+      {
+        "key": "2023070505040621500_B99",
+        "doi-asserted-by": "crossref",
+        "first-page": "434",
+        "DOI": "10.18632/aging.101404",
+        "article-title": "Induction, regulation and roles of neural adhesion molecule L1CAM in cellular senescence",
+        "volume": "10",
+        "author": "Mrazkova",
+        "year": "2018",
+        "journal-title": "Aging"
+      },
+      {
+        "key": "2023070505040621500_B100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1118",
+        "DOI": "10.1073/pnas.0905778107",
+        "article-title": "G protein-coupled receptor kinase 2 (GRK2) modulation and cell cycle progression",
+        "volume": "107",
+        "author": "Penela",
+        "year": "2010",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "2023070505040621500_B101",
+        "doi-asserted-by": "crossref",
+        "first-page": "2371",
+        "DOI": "10.1002/jcp.22972",
+        "article-title": "Growth inhibition of human hepatocellular carcinoma cells by overexpression of G-protein-coupled receptor kinase 2",
+        "volume": "227",
+        "author": "Wei",
+        "year": "2012",
+        "journal-title": "J. Cell. Physiol."
+      },
+      {
+        "key": "2023070505040621500_B102",
+        "doi-asserted-by": "crossref",
+        "first-page": "5002",
+        "DOI": "10.3390/ijms20205002",
+        "article-title": "TGF-β signaling in cellular senescence and aging-related pathology",
+        "volume": "20",
+        "author": "Tominaga",
+        "year": "2019",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "key": "2023070505040621500_B103",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1038/s41586-019-1629-x",
+        "article-title": "The human body at cellular resolution: the NIH Human Biomolecular Atlas Program",
+        "volume": "574",
+        "year": "2019",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2023070505040621500_B104",
+        "first-page": "D845",
+        "article-title": "The DisGeNET knowledge platform for disease genomics: 2019 update",
+        "volume": "48",
+        "author": "Piñero",
+        "year": "2020",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "2023070505040621500_B105",
+        "doi-asserted-by": "crossref",
+        "first-page": "D977",
+        "DOI": "10.1093/nar/gkac1010",
+        "article-title": "The NHGRI-EBI GWAS Catalog: knowledgebase and deposition resource",
+        "volume": "51",
+        "author": "Sollis",
+        "year": "2023",
+        "journal-title": "Nucleic Acids Res."
+      }
+    ],
+    "container-title": [
+      "Nucleic Acids Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/nar/article-pdf/51/W1/W168/50737162/gkad393.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/nar/article-pdf/51/W1/W168/50737162/gkad393.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          5
+        ]
+      ],
+      "date-time": "2023-07-05T12:23:55Z",
+      "timestamp": 1688559835000
+    },
+    "score": 13.332483,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/nar/article/51/W1/W168/7160192"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          11
+        ]
+      ]
+    },
+    "references-count": 105,
+    "journal-issue": {
+      "issue": "W1",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            11
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            5
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/nar/gkad393",
+    "ISSN": [
+      "0305-1048",
+      "1362-4962"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0305-1048"
+      },
+      {
+        "type": "electronic",
+        "value": "1362-4962"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          5
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2025-08-20T09:39:10Z",
+      "timestamp": 1755682750012
+    },
+    "reference-count": 54,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Bioinformatics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>System-wide profiling of genes and proteins in mammalian cells produce lists of differentially expressed genes/proteins that need to be further analyzed for their collective functions in order to extract new knowledge. Once unbiased lists of genes or proteins are generated from such experiments, these lists are used as input for computing enrichment with existing lists created from prior knowledge organized into gene-set libraries. While many enrichment analysis tools and gene-set libraries databases have been developed, there is still room for improvement.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>Here, we present Enrichr, an integrative web-based and mobile software application that includes new gene-set libraries, an alternative approach to rank enriched terms, and various interactive visualization approaches to display enrichment results using the JavaScript library, Data Driven Documents (D3). The software can also be embedded into any tool that performs gene list analysis. We applied Enrichr to analyze nine cancer cell lines by comparing their enrichment signatures to the enrichment signatures of matched normal tissues. We observed a common pattern of up regulation of the polycomb group PRC2 and enrichment for the histone mark H3K27me3 in many cancer cell lines, as well as alterations in Toll-like receptor and interlukin signaling in K562 cells when compared with normal myeloid CD33+ cells. Such analyses provide global visualization of critical differences between normal tissues and cancer cell lines but can be applied to many other scenarios.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions</jats:title>\n            <jats:p>Enrichr is an easy to use intuitive enrichment analysis web-based tool providing various types of visualization summaries of collective functions of gene lists. Enrichr is open source and freely available online at: <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"http://amp.pharm.mssm.edu/Enrichr\" ext-link-type=\"uri\">http://amp.pharm.mssm.edu/Enrichr</jats:ext-link>.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1186/1471-2105-14-128",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2013-04-15T14:43:00Z",
+      "timestamp": 1366036980000
+    },
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6225,
+    "title": [
+      "Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool"
+    ],
+    "prefix": "10.1186",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Edward Y",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Christopher M",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Kou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiaonan",
+        "family": "Duan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zichen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gabriela Vaz",
+        "family": "Meirelles",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Neil R",
+        "family": "Clark",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Avi",
+        "family": "Ma’ayan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "5841_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1093/nar/gkn923",
+        "volume": "37",
+        "author": "DW Huang",
+        "year": "2009",
+        "unstructured": "Huang DW, Sherman BT, Lempicki RA: Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic Acids Res. 2009, 37: 1-13. 10.1093/nar/gkn923.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "15545",
+        "DOI": "10.1073/pnas.0506580102",
+        "volume": "102",
+        "author": "A Subramanian",
+        "year": "2005",
+        "unstructured": "Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL: Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc Natl Acad Sci U S A. 2005, 102: 15545-15550. 10.1073/pnas.0506580102.",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "5841_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "3251",
+        "DOI": "10.1093/bioinformatics/btm369",
+        "volume": "23",
+        "author": "A Subramanian",
+        "year": "2007",
+        "unstructured": "Subramanian A, Kuehn H, Gould J, Tamayo P, Mesirov JP: GSEA-P: a desktop application for Gene Set Enrichment Analysis. Bioinformatics. 2007, 23: 3251-3253. 10.1093/bioinformatics/btm369.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5841_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.1214/aoms/1177730256",
+        "volume": "19",
+        "author": "N Smirnov",
+        "year": "1948",
+        "unstructured": "Smirnov N: Tables for estimating the goodness of fit of empirical distributions. Ann Math Stat. 1948, 19: 279-281. 10.1214/aoms/1177730256.",
+        "journal-title": "Ann Math Stat"
+      },
+      {
+        "key": "5841_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1739",
+        "DOI": "10.1093/bioinformatics/btr260",
+        "volume": "27",
+        "author": "A Liberzon",
+        "year": "2011",
+        "unstructured": "Liberzon A, Subramanian A, Pinchback R, Thorvaldsdóttir H, Tamayo P: Molecular signatures database (MSigDB) 3.0. Bioinformatics. 2011, 27: 1739-1740. 10.1093/bioinformatics/btr260.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5841_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1038/75556",
+        "volume": "25",
+        "author": "M Ashburner",
+        "year": "2000",
+        "unstructured": "Ashburner M, Ball CA, Blake JA, Botstein D, Butler H: Gene ontology: tool for the unification of biology. Nat Genet. 2000, 25: 25-10.1038/75556.",
+        "journal-title": "Nat Genet"
+      },
+      {
+        "key": "5841_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.2307/2340521",
+        "volume": "85",
+        "author": "RA Fisher",
+        "year": "1922",
+        "unstructured": "Fisher RA: On the interpretation of χ2 from contingency tables, and the calculation of P. J R Stat Soc. 1922, 85: 87-94. 10.2307/2340521.",
+        "journal-title": "J R Stat Soc"
+      },
+      {
+        "key": "5841_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "156",
+        "DOI": "10.1186/1471-2105-13-156",
+        "volume": "13",
+        "author": "R Dannenfelser",
+        "year": "2012",
+        "unstructured": "Dannenfelser R, Clark N, Ma'ayan A: Genes2FANs: connecting genes through functional association networks. BMC Bioinforma. 2012, 13: 156-10.1186/1471-2105-13-156.",
+        "journal-title": "BMC Bioinforma"
+      },
+      {
+        "key": "5841_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1186/1752-0509-6-89",
+        "volume": "6",
+        "author": "N Clark",
+        "year": "2012",
+        "unstructured": "Clark N, Dannenfelser R, Tan C, Komosinski M, Ma'ayan A: Sets2Networks: network inference from repeated observations of sets. BMC Syst Biol. 2012, 6: 89-10.1186/1752-0509-6-89.",
+        "journal-title": "BMC Syst Biol"
+      },
+      {
+        "key": "5841_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "2438",
+        "DOI": "10.1093/bioinformatics/btq466",
+        "volume": "26",
+        "author": "A Lachmann",
+        "year": "2010",
+        "unstructured": "Lachmann A, Xu H, Krishnan J, Berger SI, Mazloom AR: ChEA: transcription factor regulation inferred from integrating genome-wide ChIP-X experiments. Bioinformatics. 2010, 26: 2438-2444. 10.1093/bioinformatics/btq466.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5841_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "D108",
+        "DOI": "10.1093/nar/gkj143",
+        "volume": "34",
+        "author": "V Matys",
+        "year": "2006",
+        "unstructured": "Matys V, Kel-Margoulis OV, Fricke E, Liebich I, Land S: TRANSFAC and its module TRANSCompel: transcriptional gene regulation in eukaryotes. Nucleic Acids Res. 2006, 34: D108-D110. 10.1093/nar/gkj143.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "D105",
+        "DOI": "10.1093/nar/gkp950",
+        "volume": "38",
+        "author": "E Portales-Casamar",
+        "year": "2010",
+        "unstructured": "Portales-Casamar E, Thongjuea S, Kwon AT, Arenillas D, Zhao X: JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles. Nucleic Acids Res. 2010, 38: D105-D110. 10.1093/nar/gkp950.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "D668",
+        "DOI": "10.1093/nar/gkl928",
+        "volume": "35",
+        "author": "RM Kuhn",
+        "year": "2007",
+        "unstructured": "Kuhn RM, Karolchik D, Zweig AS, Trumbower H, Thomas DJ: The UCSC genome browser database: update 2007. Nucleic Acids Res. 2007, 35: D668-D673. 10.1093/nar/gkl928.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "D912",
+        "DOI": "10.1093/nar/gkr1012",
+        "volume": "40",
+        "author": "KR Rosenbloom",
+        "year": "2012",
+        "unstructured": "Rosenbloom KR, Dreszer TR, Long JC, Malladi VS, Sloan CA: ENCODE whole-genome data in the UCSC Genome Browser: update 2012. Nucleic Acids Res. 2012, 40: D912-D917. 10.1093/nar/gkr1012.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1038/nature11247",
+        "volume": "489",
+        "author": "Consortium TEP",
+        "year": "2012",
+        "unstructured": "Consortium TEP: An integrated encyclopedia of DNA elements in the human genome. Nature. 2012, 489: 57-74. 10.1038/nature11247.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "5841_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "317",
+        "DOI": "10.2217/epi.12.18",
+        "volume": "4",
+        "author": "LH Chadwick",
+        "year": "2012",
+        "unstructured": "Chadwick LH: The NIH roadmap epigenomics program data resource. Epigenomics. 2012, 4: 317-324. 10.2217/epi.12.18.",
+        "journal-title": "Epigenomics"
+      },
+      {
+        "key": "5841_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1016/j.cell.2004.12.035",
+        "volume": "120",
+        "author": "BP Lewis",
+        "year": "2005",
+        "unstructured": "Lewis BP, Burge CB, Bartel DP: Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are MicroRNA targets. Cell. 2005, 120: 15-20. 10.1016/j.cell.2004.12.035.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "5841_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "DOI": "10.1093/bioinformatics/btr625",
+        "volume": "28",
+        "author": "EY Chen",
+        "year": "2012",
+        "unstructured": "Chen EY, Xu H, Gordonov S, Lim MP, Perkins MH: Expression2Kinases: mRNA profiling linked to multiple upstream regulatory layers. Bioinformatics. 2012, 28: 105-111. 10.1093/bioinformatics/btr625.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5841_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "R137",
+        "DOI": "10.1186/gb-2008-9-9-r137",
+        "volume": "9",
+        "author": "Y Zhang",
+        "year": "2008",
+        "unstructured": "Zhang Y, Liu T, Meyer CA, Eeckhoute J, Johnson DS: Model-based analysis of ChIP-Seq (MACS). Genome Biol. 2008, 9: R137-10.1186/gb-2008-9-9-r137.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "5841_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1045",
+        "DOI": "10.1038/nbt1010-1045",
+        "volume": "28",
+        "author": "BE Bernstein",
+        "year": "2010",
+        "unstructured": "Bernstein BE, Stamatoyannopoulos JA, Costello JF, Ren B, Milosavljevic A: The NIH roadmap epigenomics mapping consortium. Nat Biotechnol. 2010, 28: 1045-1048. 10.1038/nbt1010-1045.",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "5841_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "1952",
+        "DOI": "10.1093/bioinformatics/btp340",
+        "volume": "25",
+        "author": "C Zang",
+        "year": "2009",
+        "unstructured": "Zang C, Schones DE, Zeng C, Cui K, Zhao K: A clustering approach for identification of enriched domains from histone modification ChIP-Seq data. Bioinformatics. 2009, 25: 1952-1958. 10.1093/bioinformatics/btp340.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5841_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "S22",
+        "DOI": "10.1038/nmeth.1371",
+        "volume": "6",
+        "author": "S Pepke",
+        "year": "2009",
+        "unstructured": "Pepke S, Wold B, Mortazavi A: Computation for ChIP-seq and RNA-seq studies. Nat Methods. 2009, 6: S22-S32. 10.1038/nmeth.1371.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "5841_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "787",
+        "DOI": "10.1016/S0092-8674(03)01018-3",
+        "volume": "115",
+        "author": "BP Lewis",
+        "year": "2003",
+        "unstructured": "Lewis BP, Shih I, Jones-Rhoades MW, Bartel DP, Burge CB: Prediction of mammalian microRNA targets. Cell. 2003, 115: 787-798. 10.1016/S0092-8674(03)01018-3.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "5841_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1186/1471-2105-11-87",
+        "volume": "11",
+        "author": "A Lachmann",
+        "year": "2010",
+        "unstructured": "Lachmann A, Ma'ayan A: Lists2Networks: integrated analysis of gene/protein lists. BMC Bioinforma. 2010, 11: 87-10.1186/1471-2105-11-87.",
+        "journal-title": "BMC Bioinforma"
+      },
+      {
+        "key": "5841_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "e184",
+        "DOI": "10.1371/journal.pbio.0060184",
+        "volume": "6",
+        "author": "AR Pico",
+        "year": "2008",
+        "unstructured": "Pico AR, Kelder T, Van Iersel MP, Hanspers K, Conklin BR: WikiPathways: pathway editing for the people. PLoS Biol. 2008, 6: e184-10.1371/journal.pbio.0060184.",
+        "journal-title": "PLoS Biol"
+      },
+      {
+        "key": "5841_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "119",
+        "DOI": "10.1016/S0303-2647(98)00017-3",
+        "volume": "47",
+        "author": "H Ogata",
+        "year": "1998",
+        "unstructured": "Ogata H, Goto S, Fujibuchi W, Kanehisa M: Computation with the KEGG pathway database. Biosystems. 1998, 47: 119-128. 10.1016/S0303-2647(98)00017-3.",
+        "journal-title": "Biosystems"
+      },
+      {
+        "key": "5841_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "D428",
+        "DOI": "10.1093/nar/gki072",
+        "volume": "33",
+        "author": "G Joshi-Tope",
+        "year": "2005",
+        "unstructured": "Joshi-Tope G, Gillespie M, Vastrik I, D'Eustachio P, Schmidt E: Reactome: a knowledgebase of biological pathways. Nucleic Acids Res. 2005, 33: D428-D432.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "684",
+        "DOI": "10.1093/bioinformatics/btp026",
+        "volume": "25",
+        "author": "A Lachmann",
+        "year": "2009",
+        "unstructured": "Lachmann A, Ma'ayan A: KEA: kinase enrichment analysis. Bioinformatics. 2009, 25: 684-686. 10.1093/bioinformatics/btp026.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5841_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "D646",
+        "DOI": "10.1093/nar/gkm936",
+        "volume": "36",
+        "author": "A Ruepp",
+        "year": "2008",
+        "unstructured": "Ruepp A, Brauner B, Dunger-Kaltenbach I, Frishman G, Montrone C: CORUM: the comprehensive resource of mammalian protein complexes. Nucleic Acids Res. 2008, 36: D646-D650.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "787",
+        "DOI": "10.1016/j.cell.2011.05.006",
+        "volume": "145",
+        "author": "A Malovannaya",
+        "year": "2011",
+        "unstructured": "Malovannaya A, Lanz RB, Jung SY, Bulynko Y, Le NT: Analysis of the human endogenous coregulator complexome. Cell. 2011, 145: 787-799. 10.1016/j.cell.2011.05.006.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "5841_CR31",
+        "first-page": "107",
+        "volume-title": "SILAC for Global Phosphoproteomic Analysis",
+        "author": "M Graauw",
+        "year": "2009",
+        "unstructured": "Graauw M, Pimienta G, Chaerkady R, Pandey A: SILAC for Global Phosphoproteomic Analysis. 2009, Phospho-Proteomics: Humana Press, 107-116."
+      },
+      {
+        "key": "5841_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "D767",
+        "DOI": "10.1093/nar/gkn892",
+        "volume": "37",
+        "author": "TSK Prasad",
+        "year": "2009",
+        "unstructured": "Prasad TSK, Goel R, Kandasamy K, Keerthikumar S, Kumar S: Human protein reference databaseâ€”2009 update. Nucleic Acids Res. 2009, 37: D767-D772. 10.1093/nar/gkn892.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "1551",
+        "DOI": "10.1002/pmic.200300772",
+        "volume": "4",
+        "author": "PV Hornbeck",
+        "year": "2004",
+        "unstructured": "Hornbeck PV, Chabra I, Kornhauser JM, Skrzypek E, Zhang B: PhosphoSite: A bioinformatics resource dedicated to physiological protein phosphorylation. Proteomics. 2004, 4: 1551-1561. 10.1002/pmic.200300772.",
+        "journal-title": "Proteomics"
+      },
+      {
+        "key": "5841_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "i14",
+        "DOI": "10.1093/bioinformatics/btn297",
+        "volume": "24",
+        "author": "CY Yang",
+        "year": "2008",
+        "unstructured": "Yang CY, Chang CH, Yu YL, Lin TCE, Lee SA: PhosphoPOINT: a comprehensive human kinase interactome and phospho-protein database. Bioinformatics. 2008, 24: i14-i20. 10.1093/bioinformatics/btn297.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "5841_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "79",
+        "DOI": "10.1186/1471-2105-5-79",
+        "volume": "5",
+        "author": "F Diella",
+        "year": "2004",
+        "unstructured": "Diella F, Cameron S, GemÃ¼nd C, Linding R, Via A: Phospho. ELM: a database of experimentally verified phosphorylation sites in eukaryotic proteins. BMC Bioinforma. 2004, 5: 79-10.1186/1471-2105-5-79.",
+        "journal-title": "BMC Bioinforma"
+      },
+      {
+        "key": "5841_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "D695",
+        "DOI": "10.1093/nar/gkm902",
+        "volume": "36",
+        "author": "R Linding",
+        "year": "2008",
+        "unstructured": "Linding R, Jensen LJ, Pasculescu A, Olhovsky M, Colwill K: NetworKIN: a resource for exploring cellular phosphorylation networks. Nucleic Acids Res. 2008, 36: D695-D699.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.1016/S0014-5793(01)03293-8",
+        "volume": "513",
+        "author": "A Zanzoni",
+        "year": "2002",
+        "unstructured": "Zanzoni A, Montecchi-Palazzi L, Quondam M, Ausiello G, Helmer-Citterich M: MINT: a Molecular INTeraction database. FEBS Lett. 2002, 513: 135-140. 10.1016/S0014-5793(01)03293-8.",
+        "journal-title": "FEBS Lett"
+      },
+      {
+        "key": "5841_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "D712",
+        "DOI": "10.1093/nar/gkn886",
+        "volume": "37",
+        "author": "JA Blake",
+        "year": "2009",
+        "unstructured": "Blake JA, Bult CJ, Eppig JT, Kadin JA, Richardson JE: The mouse genome database genotypes: phenotypes. Nucleic Acids Res. 2009, 37: D712-D719. 10.1093/nar/gkn886.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR39",
+        "first-page": "1929",
+        "volume": "313",
+        "author": "J Lamb",
+        "year": "2006",
+        "unstructured": "Lamb J, Crawford ED, Peck D, Modell JW, Blat IC: The connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease. Science Signalling. 2006, 313: 1929-",
+        "journal-title": "Science Signalling"
+      },
+      {
+        "key": "5841_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "D716",
+        "DOI": "10.1093/nar/gkp1015",
+        "volume": "38",
+        "author": "AC Culhane",
+        "year": "2010",
+        "unstructured": "Culhane AC, Schwarzl T, Sultana R, Picard KC, Picard SC: GeneSigDBâ€”a curated database of gene expression signatures. Nucleic Acids Res. 2010, 38: D716-D725. 10.1093/nar/gkp1015.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1002/(SICI)1098-1004(200001)15:1<57::AID-HUMU12>3.0.CO;2-G",
+        "volume": "15",
+        "author": "A Hamosh",
+        "year": "1999",
+        "unstructured": "Hamosh A, Scott AF, Amberger J, Valle D, McKusick VA: Online Mendelian inheritance in man (OMIM). Hum Mutat. 1999, 15: 57-61.",
+        "journal-title": "Hum Mutat"
+      },
+      {
+        "key": "5841_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "D669",
+        "DOI": "10.1093/nar/gkn739",
+        "volume": "37",
+        "author": "A Chatr-aryamontri",
+        "year": "2009",
+        "unstructured": "Chatr-aryamontri A, Ceol A, Peluso D, Nardozza A, Panni S: VirusMINT: a viral protein interaction database. Nucleic Acids Res. 2009, 37: D669-D673. 10.1093/nar/gkn739.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "372",
+        "DOI": "10.1186/1471-2105-8-372",
+        "volume": "8",
+        "author": "SI Berger",
+        "year": "2007",
+        "unstructured": "Berger SI, Posner JM, Ma'ayan A: Genes2Networks: connecting lists of gene symbols using mammalian protein interactions databases. BMC Bioinforma. 2007, 8: 372-10.1186/1471-2105-8-372.",
+        "journal-title": "BMC Bioinforma"
+      },
+      {
+        "key": "5841_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "6062",
+        "DOI": "10.1073/pnas.0400782101",
+        "volume": "101",
+        "author": "AI Su",
+        "year": "2004",
+        "unstructured": "Su AI, Wiltshire T, Batalov S, Lapp H, Ching KA: A gene atlas of the mouse and human protein-encoding transcriptomes. Proc Natl Acad Sci U S A. 2004, 101: 6062-6067. 10.1073/pnas.0400782101.",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "5841_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1038/nature11003",
+        "volume": "483",
+        "author": "J Barretina",
+        "year": "2012",
+        "unstructured": "Barretina J, Caponigro G, Stransky N, Venkatesan K, Margolin AA: The cancer cell line encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature. 2012, 483: 603-607. 10.1038/nature11003.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "5841_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "2601",
+        "DOI": "10.1158/1535-7163.MCT-06-0640",
+        "volume": "5",
+        "author": "JN Weinstein",
+        "year": "2006",
+        "unstructured": "Weinstein JN: Spotlight on molecular profiling:â€œintegromicâ€ analysis of the NCI-60 cancer cell lines. Mol Cancer Ther. 2006, 5: 2601-2605. 10.1158/1535-7163.MCT-06-0640.",
+        "journal-title": "Mol Cancer Ther"
+      },
+      {
+        "key": "5841_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "D521",
+        "DOI": "10.1093/nar/gkl923",
+        "volume": "35",
+        "author": "DS Wishart",
+        "year": "2007",
+        "unstructured": "Wishart DS, Tzur D, Knox C, Eisner R, Guo AC: HMDB: the human metabolome database. Nucleic Acids Res. 2007, 35: D521-D526. 10.1093/nar/gkl923.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "D138",
+        "DOI": "10.1093/nar/gkh121",
+        "volume": "32",
+        "author": "A Bateman",
+        "year": "2004",
+        "unstructured": "Bateman A, Coin L, Durbin R, Finn RD, Hollich V: The Pfam protein families database. Nucleic Acids Res. 2004, 32: D138-D141. 10.1093/nar/gkh121.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1093/nar/29.1.37",
+        "volume": "29",
+        "author": "R Apweiler",
+        "year": "2001",
+        "unstructured": "Apweiler R, Attwood TK, Bairoch A, Birney E, Biswas M: The InterPro database, an integrated documentation resource for protein families, domains and functional sites. Nucleic Acids Res. 2001, 29: 37-40. 10.1093/nar/29.1.37.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "5841_CR50",
+        "first-page": "346",
+        "volume": "39",
+        "author": "J Skellam",
+        "year": "1952",
+        "unstructured": "Skellam J: Studies in statistical ecology: I Spatial pattern. Biometrika. 1952, 39: 346-362.",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "5841_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "445",
+        "DOI": "10.2307/1931034",
+        "volume": "35",
+        "author": "PJ Clark",
+        "year": "1954",
+        "unstructured": "Clark PJ, Evans FC: Distance to nearest neighbor as a measure of spatial relationships in populations. Ecology. 1954, 35: 445-453. 10.2307/1931034.",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "5841_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "2301",
+        "DOI": "10.1109/TVCG.2011.185",
+        "volume": "17",
+        "author": "M Bostock",
+        "year": "2011",
+        "unstructured": "Bostock M, Ogievetsky V, Heer J: D3 Data-Driven Documents. IEEE T Vis Comput Gr. 2011, 17: 2301-2309.",
+        "journal-title": "IEEE T Vis Comput Gr"
+      },
+      {
+        "key": "5841_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "511",
+        "DOI": "10.1038/nbt.1621",
+        "volume": "28",
+        "author": "C Trapnell",
+        "year": "2010",
+        "unstructured": "Trapnell C, Williams BA, Pertea G, Mortazavi A, Kwan G: Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation. Nat Biotech. 2010, 28: 511-515. 10.1038/nbt.1621.",
+        "journal-title": "Nat Biotech"
+      },
+      {
+        "key": "5841_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "1039",
+        "DOI": "10.1126/science.1076997",
+        "volume": "298",
+        "author": "R Cao",
+        "year": "2002",
+        "unstructured": "Cao R, Wang L, Wang H, Xia L, Erdjument-Bromage H: Role of histone H3 lysine 27 methylation in Polycomb-group silencing. Science. 2002, 298: 1039-1043. 10.1126/science.1076997.",
+        "journal-title": "Science"
+      }
+    ],
+    "container-title": [
+      "BMC Bioinformatics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/1471-2105-14-128.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          1
+        ]
+      ],
+      "date-time": "2021-09-01T23:03:54Z",
+      "timestamp": 1630537434000
+    },
+    "score": 12.769767,
+    "resource": {
+      "primary": {
+        "URL": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-128"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          15
+        ]
+      ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "5841"
+    ],
+    "URL": "https://doi.org/10.1186/1471-2105-14-128",
+    "ISSN": [
+      "1471-2105"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2105",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          15
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "17 January 2013",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "28 March 2013",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "15 April 2013",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ],
+    "article-number": "128"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2025-08-20T09:44:00Z",
+      "timestamp": 1755683040354,
+      "version": "3.41.2"
+    },
+    "reference-count": 35,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              29
+            ]
+          ],
+          "date-time": "2021-03-29T00:00:00Z",
+          "timestamp": 1616976000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 28,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U24CA224260",
+          "U54HL127624"
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Current Protocols"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Profiling samples from patients, tissues, and cells with genomics, transcriptomics, epigenomics, proteomics, and metabolomics ultimately produces lists of genes and proteins that need to be further analyzed and integrated in the context of known biology. Enrichr (Chen et al., 2013; Kuleshov et al., 2016) is a gene set search engine that enables the querying of hundreds of thousands of annotated gene sets. Enrichr uniquely integrates knowledge from many high‐profile projects to provide synthesized information about mammalian genes and gene sets. The platform provides various methods to compute gene set enrichment, and the results are visualized in several interactive ways. This protocol provides a summary of the key features of Enrichr, which include using Enrichr programmatically and embedding an Enrichr button on any website. © 2021 Wiley Periodicals LLC.</jats:p><jats:p><jats:bold>Basic Protocol 1</jats:bold>: Analyzing lists of differentially expressed genes from transcriptomics, proteomics and phosphoproteomics, GWAS studies, or other experimental studies</jats:p><jats:p><jats:bold>Basic Protocol 2</jats:bold>: Searching Enrichr by a single gene or key search term</jats:p><jats:p><jats:bold>Basic Protocol 3</jats:bold>: Preparing raw or processed RNA‐seq data through BioJupies in preparation for Enrichr analysis</jats:p><jats:p><jats:bold>Basic Protocol 4</jats:bold>: Analyzing gene sets for model organisms using modEnrichr</jats:p><jats:p><jats:bold>Basic Protocol 5</jats:bold>: Using Enrichr in Geneshot</jats:p><jats:p><jats:bold>Basic Protocol 6</jats:bold>: Using Enrichr in ARCHS4</jats:p><jats:p><jats:bold>Basic Protocol 7</jats:bold>: Using the enrichment analysis visualization Appyter to visualize Enrichr results</jats:p><jats:p><jats:bold>Basic Protocol 8</jats:bold>: Using the Enrichr API</jats:p><jats:p><jats:bold>Basic Protocol 9</jats:bold>: Adding an Enrichr button to a website</jats:p>",
+    "DOI": "10.1002/cpz1.90",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2021-03-29T13:12:05Z",
+      "timestamp": 1617023525000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2582,
+    "title": [
+      "Gene Set Knowledge Discovery with Enrichr"
+    ],
+    "prefix": "10.1002",
+    "volume": "1",
+    "author": [
+      {
+        "given": "Zhuorui",
+        "family": "Xie",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Allison",
+        "family": "Bailey",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Maxim V.",
+        "family": "Kuleshov",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Daniel J. B.",
+        "family": "Clarke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "John E.",
+        "family": "Evangelista",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Sherry L.",
+        "family": "Jenkins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Alexander",
+        "family": "Lachmann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Megan L.",
+        "family": "Wojciechowicz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Eryk",
+        "family": "Kropiwnicki",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Kathleen M.",
+        "family": "Jagodnik",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Minji",
+        "family": "Jeon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      },
+      {
+        "given": "Avi",
+        "family": "Ma'ayan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacological Sciences Mount Sinai Center for Bioinformatics Icahn School of Medicine at Mount Sinai  New York New York"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_1_1",
+        "DOI": "10.1093/nar/gkl172"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_2_1",
+        "DOI": "10.1038/nrg3969"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_3_1",
+        "DOI": "10.1109/TVCG.2011.185"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_4_1",
+        "DOI": "10.1186/1471‐2105‐14‐128"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_5_1",
+        "DOI": "10.1093/nar/gkp427"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_6_1",
+        "DOI": "10.1186/1471‐2105‐10‐48"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_7_1",
+        "DOI": "10.1093/nar/30.1.207"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_8_1",
+        "DOI": "10.1038/sdata.2017.151"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_2_9_1",
+        "first-page": "39",
+        "article-title": "The gene ontology resource: 20 years and still GOing strong",
+        "volume": "47",
+        "author": "The Gene Ontology",
+        "year": "2019",
+        "journal-title": "Nucleic Acids Research"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_10_1",
+        "DOI": "10.1093/bioinformatics/btv297"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_11_1",
+        "DOI": "10.1093/nar/gks1055"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_12_1",
+        "DOI": "10.1093/nar/gky1105"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_13_1",
+        "DOI": "10.1093/nar/gkz347"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_14_1",
+        "DOI": "10.1093/nar/gkw377"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_15_1",
+        "DOI": "10.1093/nar/gkz393"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_16_1",
+        "DOI": "10.1038/s41467‐018‐03751‐6"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_17_1",
+        "DOI": "10.1038/nprot.2013.092"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_18_1",
+        "DOI": "10.1093/nar/gkw199"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_19_1",
+        "DOI": "10.1093/database/baw100"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_20_1",
+        "DOI": "10.1038/nprot.2008.211"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_21_1",
+        "DOI": "10.1093/bioinformatics/btm369"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_22_1",
+        "DOI": "10.1073/pnas.0506580102"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_23_1",
+        "DOI": "10.1093/bioinformatics/btt319"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_24_1",
+        "DOI": "10.1016/j.cels.2018.10.007"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_25_1",
+        "DOI": "10.1038/ncomms12846"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_26_1",
+        "DOI": "10.1038/s41467‐020‐17489‐7"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_27_1",
+        "DOI": "10.1093/nar/gki475"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_2_28_1",
+        "DOI": "10.1038/s41467-019-10897-4"
+      },
+      {
+        "unstructured": "Chenet al. 2013. See above.",
+        "key": "e_1_2_13_3_2_1"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_13_3_4_1",
+        "DOI": "10.1016/j.patter.2021.100213"
+      },
+      {
+        "unstructured": "Kuleshovet al. 2019.",
+        "key": "e_1_2_13_3_6_1"
+      },
+      {
+        "unstructured": "Kuleshovet al. 2016.",
+        "key": "e_1_2_13_3_8_1"
+      },
+      {
+        "unstructured": "Lachmannet al. 2019. See above.",
+        "key": "e_1_2_13_3_10_1"
+      },
+      {
+        "unstructured": "Lachmannet al. 2018. See above.",
+        "key": "e_1_2_13_3_12_1"
+      },
+      {
+        "unstructured": "Torre Lachmann &Ma'ayan 2018. See above.",
+        "key": "e_1_2_13_3_14_1"
+      }
+    ],
+    "container-title": [
+      "Current Protocols"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpz1.90",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/cpz1.90",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://currentprotocols.onlinelibrary.wiley.com/doi/pdf/10.1002/cpz1.90",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2023-08-21T11:58:09Z",
+      "timestamp": 1692619089000
+    },
+    "score": 11.805946,
+    "resource": {
+      "primary": {
+        "URL": "https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.90"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/cpz1.90"
+    ],
+    "URL": "https://doi.org/10.1002/cpz1.90",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "2691-1299",
+      "2691-1299"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2691-1299"
+      },
+      {
+        "type": "electronic",
+        "value": "2691-1299"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "article-number": "e90"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2025-08-20T09:26:37Z",
+      "timestamp": 1755681997059
+    },
+    "reference-count": 43,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "W1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              11,
+              14
+            ]
+          ],
+          "date-time": "2016-11-14T00:00:00Z",
+          "timestamp": 1479081600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 195,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nucleic Acids Res"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1093/nar/gkw377",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          3
+        ]
+      ],
+      "date-time": "2016-05-03T23:28:49Z",
+      "timestamp": 1462318129000
+    },
+    "page": "W90-W97",
+    "source": "Crossref",
+    "is-referenced-by-count": 8755,
+    "title": [
+      "Enrichr: a comprehensive gene set enrichment analysis web server 2016 update"
+    ],
+    "prefix": "10.1093",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Maxim V.",
+        "family": "Kuleshov",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Matthew R.",
+        "family": "Jones",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew D.",
+        "family": "Rouillard",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nicolas F.",
+        "family": "Fernandez",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiaonan",
+        "family": "Duan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zichen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Simon",
+        "family": "Koplev",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sherry L.",
+        "family": "Jenkins",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kathleen M.",
+        "family": "Jagodnik",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Alexander",
+        "family": "Lachmann",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael G.",
+        "family": "McDermott",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Caroline D.",
+        "family": "Monteiro",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gregory W.",
+        "family": "Gundersen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Avi",
+        "family": "Ma'ayan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2016070423372342000_44.W1.W90.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/75556"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btg455"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bti551"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bth456"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/28.1.27"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btr260"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkn923"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1093/bib/bbr049",
+        "article-title": "Gene set enrichment analysis: performance evaluation and usage guidelines",
+        "volume": "13",
+        "author": "Hung",
+        "year": "2011",
+        "journal-title": "Brief. Bioinform."
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-6-144"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkp427"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkm323"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gki475"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/gb-2003-4-5-p3"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-14-128"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Romero P. The Handbook of Metabolomics. NY: Humana Press; 2012. p. 419-438.",
+        "DOI": "10.1007/978-1-61779-618-0_13"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nbt.1666"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkn653"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2011.05.006"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gks1118"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku1009"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkt1026"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku1055"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkv1160"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gks1042"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1262110"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature13319"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature13302"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sdata.2014.35"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gks1193"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv297"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-15-79"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btq466"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nbt.1630"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.34",
+        "first-page": "2",
+        "article-title": "Docker: lightweight linux containers for consistent development and deployment",
+        "volume": "239",
+        "author": "Merkel",
+        "year": "2014",
+        "journal-title": "Linux J."
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.35",
+        "first-page": "22",
+        "article-title": "Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center",
+        "volume": "11",
+        "author": "Hindman",
+        "year": "2011",
+        "journal-title": "NSDI"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1952",
+        "DOI": "10.1002/cpe.3708",
+        "article-title": "Integrating Apache Airavata with Docker, Marathon, and Mesos",
+        "volume": "28",
+        "author": "Saha",
+        "year": "2015",
+        "journal-title": "Concurrency and Computation: Practice and Experience"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.37",
+        "unstructured": "Ma'ayan A. Clark N.R. Large collection of diverse gene set search queries recapitulate known protein-protein interactions and gene-gene functional associations. 2016. arXiv:."
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bts366"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkt516"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0506580102"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Clark N.R. Szymkiewicz M. Wang Z. Monteiro C.D. Jones M.R. Ma'ayan A. Principle Angle Enrichment Analysis (PAEA): Dimensionally reduced multivariate gene set enrichment analysis tool. 2015 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) IEEE 2015:256-262.",
+        "DOI": "10.1109/BIBM.2015.7359689"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv536"
+      },
+      {
+        "key": "2016070423372342000_44.W1.W90.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep13044"
+      }
+    ],
+    "container-title": [
+      "Nucleic Acids Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/nar/article-pdf/44/W1/W90/18788036/gkw377.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2018-04-02T10:40:19Z",
+      "timestamp": 1522665619000
+    },
+    "score": 10.215074,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw377"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          3
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "W1",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            7,
+            4
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            7,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1093/nar/gkw377"
+    ],
+    "URL": "https://doi.org/10.1093/nar/gkw377",
+    "ISSN": [
+      "0305-1048",
+      "1362-4962"
+    ],
+    "issn-type": [
+      {
+        "value": "0305-1048",
+        "type": "print"
+      },
+      {
+        "value": "1362-4962",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          3
+        ]
+      ]
+    }
+  }
+]

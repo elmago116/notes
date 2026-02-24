@@ -1,0 +1,802 @@
+{
+  "id": "https://openalex.org/W2127137268",
+  "doi": "https://doi.org/10.31219/osf.io/4gkjv_v1",
+  "title": "What Climate Change Can Do about Tort Law",
+  "display_name": "What Climate Change Can Do about Tort Law",
+  "publication_year": 2025,
+  "publication_date": "2025-02-24",
+  "ids": {
+    "openalex": "https://openalex.org/W2127137268",
+    "doi": "https://doi.org/10.31219/osf.io/4gkjv_v1",
+    "mag": "2127137268"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.31219/osf.io/4gkjv_v1",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "posted-content",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": "https://doi.org/10.31219/osf.io/4gkjv_v1",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5051427308",
+        "display_name": "Douglas A. Kysar",
+        "orcid": "https://orcid.org/0000-0002-7154-7981"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Douglas A. Kysar",
+      "raw_affiliation_strings": [
+        "Yale University - Law School"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Yale University - Law School",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5051427308"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I32971472"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 35,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12895",
+    "display_name": "Environmental law and policy",
+    "score": 0.9752,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3308",
+      "display_name": "Law"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12895",
+      "display_name": "Environmental law and policy",
+      "score": 0.9752,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13408",
+      "display_name": "Corporate Law and Human Rights",
+      "score": 0.9396,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12339",
+      "display_name": "Medical Malpractice and Liability Issues",
+      "score": 0.9184,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3611",
+        "display_name": "Pharmacy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C200635333",
+      "wikidata": "https://www.wikidata.org/wiki/Q158970",
+      "display_name": "Tort",
+      "level": 3,
+      "score": 0.8244326
+    },
+    {
+      "id": "https://openalex.org/C132651083",
+      "wikidata": "https://www.wikidata.org/wiki/Q7942",
+      "display_name": "Climate change",
+      "level": 2,
+      "score": 0.5731722
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.5100296
+    },
+    {
+      "id": "https://openalex.org/C190253527",
+      "wikidata": "https://www.wikidata.org/wiki/Q295354",
+      "display_name": "Law and economics",
+      "level": 1,
+      "score": 0.38398573
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.38131136
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.30546623
+    },
+    {
+      "id": "https://openalex.org/C2777834853",
+      "wikidata": "https://www.wikidata.org/wiki/Q96776939",
+      "display_name": "Liability",
+      "level": 2,
+      "score": 0.16178182
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.09194374
+    },
+    {
+      "id": "https://openalex.org/C111368507",
+      "wikidata": "https://www.wikidata.org/wiki/Q43518",
+      "display_name": "Oceanography",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.31219/osf.io/4gkjv_v1",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.31219/osf.io/4gkjv_v1",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/13",
+      "score": 0.54,
+      "display_name": "Climate action"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W4248997843",
+    "https://openalex.org/W4200496596",
+    "https://openalex.org/W3125586453",
+    "https://openalex.org/W3121498695",
+    "https://openalex.org/W2392356435",
+    "https://openalex.org/W2360535264",
+    "https://openalex.org/W2328467690",
+    "https://openalex.org/W2166994687",
+    "https://openalex.org/W1921493624"
+  ],
+  "abstract_inverted_index": {
+    "To": [
+      0
+    ],
+    "date,": [
+      1
+    ],
+    "scholars": [
+      2,
+      53
+    ],
+    "exploring": [
+      3
+    ],
+    "the": [
+      4,
+      17,
+      49,
+      78,
+      98,
+      110,
+      118,
+      135,
+      146,
+      161,
+      174,
+      183
+    ],
+    "connection": [
+      5
+    ],
+    "between": [
+      6
+    ],
+    "climate": [
+      7,
+      43,
+      68,
+      184
+    ],
+    "change": [
+      8,
+      44,
+      69
+    ],
+    "and": [
+      9,
+      46,
+      62,
+      93,
+      102,
+      150,
+      178
+    ],
+    "tort": [
+      10,
+      72,
+      162
+    ],
+    "law": [
+      11
+    ],
+    "have": [
+      12,
+      29
+    ],
+    "tended": [
+      13
+    ],
+    "to": [
+      14,
+      87,
+      108,
+      141,
+      143,
+      158,
+      169
+    ],
+    "ask": [
+      15
+    ],
+    "what": [
+      16,
+      66,
+      113
+    ],
+    "latter": [
+      18
+    ],
+    "can": [
+      19,
+      67
+    ],
+    "do": [
+      20,
+      70
+    ],
+    "aboutthe": [
+      21
+    ],
+    "former.": [
+      22
+    ],
+    "With": [
+      23
+    ],
+    "a": [
+      24,
+      37,
+      82,
+      128
+    ],
+    "few": [
+      25
+    ],
+    "notable": [
+      26
+    ],
+    "exceptions,": [
+      27
+    ],
+    "they": [
+      28
+    ],
+    "answered,": [
+      30
+    ],
+    "“Not": [
+      31
+    ],
+    "much.”": [
+      32
+    ],
+    "This": [
+      33
+    ],
+    "Article": [
+      34,
+      57
+    ],
+    "first": [
+      35
+    ],
+    "reviews": [
+      36
+    ],
+    "series": [
+      38
+    ],
+    "of": [
+      39,
+      51,
+      90,
+      100,
+      120,
+      154
+    ],
+    "doctrinal": [
+      40
+    ],
+    "hurdles": [
+      41
+    ],
+    "facing": [
+      42
+    ],
+    "plaintiffs": [
+      45
+    ],
+    "concludes": [
+      47
+    ],
+    "that": [
+      48,
+      95
+    ],
+    "pessimism": [
+      50
+    ],
+    "legal": [
+      52
+    ],
+    "is": [
+      54,
+      138,
+      185
+    ],
+    "justified.": [
+      55
+    ],
+    "The": [
+      56
+    ],
+    "then": [
+      58
+    ],
+    "poses": [
+      59
+    ],
+    "an": [
+      60
+    ],
+    "inverse": [
+      61
+    ],
+    "previously": [
+      63
+    ],
+    "unexplored": [
+      64
+    ],
+    "question:": [
+      65
+    ],
+    "about": [
+      71
+    ],
+    "law?": [
+      73
+    ],
+    "As": [
+      74
+    ],
+    "it": [
+      75,
+      124
+    ],
+    "turns": [
+      76
+    ],
+    "out,": [
+      77
+    ],
+    "answer": [
+      79
+    ],
+    "is,": [
+      80
+    ],
+    "“Quite": [
+      81
+    ],
+    "bit.”": [
+      83
+    ],
+    "By": [
+      84
+    ],
+    "forcing": [
+      85
+    ],
+    "courts": [
+      86
+    ],
+    "confront": [
+      88
+    ],
+    "questions": [
+      89
+    ],
+    "harm,": [
+      91
+    ],
+    "causation,": [
+      92
+    ],
+    "responsibility": [
+      94
+    ],
+    "lie": [
+      96
+    ],
+    "at": [
+      97
+    ],
+    "frontiers": [
+      99
+    ],
+    "science": [
+      101
+    ],
+    "ethics,": [
+      103
+    ],
+    "climatechange": [
+      104
+    ],
+    "lawsuits": [
+      105
+    ],
+    "hold": [
+      106
+    ],
+    "potential": [
+      107
+    ],
+    "move": [
+      109
+    ],
+    "bar": [
+      111
+    ],
+    "for": [
+      112
+    ],
+    "counts": [
+      114
+    ],
+    "as": [
+      115,
+      134,
+      173
+    ],
+    "exotic": [
+      116
+    ],
+    "in": [
+      117,
+      167
+    ],
+    "domain": [
+      119
+    ],
+    "tort.": [
+      121
+    ],
+    "Radical": [
+      122
+    ],
+    "though": [
+      123
+    ],
+    "may": [
+      125
+    ],
+    "seem,": [
+      126
+    ],
+    "such": [
+      127
+    ],
+    "recalibration": [
+      129
+    ],
+    "should": [
+      130
+    ],
+    "be": [
+      131
+    ],
+    "welcomed:": [
+      132
+    ],
+    "just": [
+      133
+    ],
+    "administrative": [
+      136,
+      175
+    ],
+    "state": [
+      137
+    ],
+    "being": [
+      139
+    ],
+    "forced": [
+      140
+    ],
+    "adapt": [
+      142
+    ],
+    "grapple": [
+      144
+    ],
+    "with": [
+      145
+    ],
+    "global,": [
+      147
+    ],
+    "complex,": [
+      148
+    ],
+    "uncertain,": [
+      149
+    ],
+    "potentially": [
+      151
+    ],
+    "catastrophic": [
+      152
+    ],
+    "nature": [
+      153
+    ],
+    "twenty-first": [
+      155
+    ],
+    "century": [
+      156
+    ],
+    "threats": [
+      157
+    ],
+    "social": [
+      159
+    ],
+    "welfare,": [
+      160
+    ],
+    "system": [
+      163
+    ],
+    "also": [
+      164
+    ],
+    "must": [
+      165
+    ],
+    "shift": [
+      166
+    ],
+    "order": [
+      168
+    ],
+    "serve": [
+      170
+    ],
+    "its": [
+      171
+    ],
+    "role": [
+      172
+    ],
+    "state’s": [
+      176
+    ],
+    "traditional": [
+      177
+    ],
+    "necessary": [
+      179
+    ],
+    "backdrop.": [
+      180
+    ],
+    "Not": [
+      181
+    ],
+    "only": [
+      182
+    ],
+    "changing.": [
+      186
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2127137268",
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-03-17T16:44:27.104126",
+  "created_date": "2016-06-24"
+}

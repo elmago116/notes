@@ -1,0 +1,351 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T07:05:37Z",
+    "timestamp": 1755673537992,
+    "version": "3.40.3"
+  },
+  "reference-count": 10,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7548",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            4,
+            22
+          ]
+        ],
+        "date-time": "2015-04-22T00:00:00Z",
+        "timestamp": 1429660800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            4,
+            22
+          ]
+        ],
+        "date-time": "2015-04-22T00:00:00Z",
+        "timestamp": 1429660800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        23
+      ]
+    ]
+  },
+  "DOI": "10.1038/520429a",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        17
+      ]
+    ],
+    "date-time": "2015-04-17T14:20:30Z",
+    "timestamp": 1429280430000
+  },
+  "page": "429-431",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1678,
+  "title": [
+    "Bibliometrics: The Leiden Manifesto for research metrics"
+  ],
+  "prefix": "10.1038",
+  "volume": "520",
+  "author": [
+    {
+      "given": "Diana",
+      "family": "Hicks",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Paul",
+      "family": "Wouters",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Ludo",
+      "family": "Waltman",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Sarah",
+      "family": "de Rijcke",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Ismael",
+      "family": "Rafols",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BF520429a_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.7551/mitpress/9445.003.0006",
+      "volume-title": "Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact",
+      "author": "P Wouters",
+      "year": "2014",
+      "unstructured": "Wouters, P. in Beyond Bibliometrics: Harnessing Multidimensional Indicators of Scholarly Impact (eds Cronin, B. &amp; Sugimoto, C.) 47–66 (MIT Press, 2014)."
+    },
+    {
+      "key": "BF520429a_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "95",
+      "DOI": "10.1087/20110203",
+      "volume": "24",
+      "author": "J Shao",
+      "year": "2011",
+      "unstructured": "Shao, J. &amp; Shen, H. Learned Publ. 24, 95–97 (2011).",
+      "journal-title": "Learned Publ."
+    },
+    {
+      "key": "BF520429a_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "498",
+      "DOI": "10.1136/bmj.314.7079.497",
+      "volume": "314",
+      "author": "PO Seglen",
+      "year": "1997",
+      "unstructured": "Seglen, P. O. Br. Med. J. 314, 498–502 (1997).",
+      "journal-title": "Br. Med. J."
+    },
+    {
+      "key": "BF520429a_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "90",
+      "DOI": "10.1001/jama.295.1.90",
+      "volume": "295",
+      "author": "E Garfield",
+      "year": "2006",
+      "unstructured": "Garfield, E. J. Am. Med. Assoc. 295, 90–93 (2006).",
+      "journal-title": "J. Am. Med. Assoc."
+    },
+    {
+      "key": "BF520429a_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "78",
+      "DOI": "10.1093/reseval/rvu030",
+      "volume": "24",
+      "author": "C López Piñeiro",
+      "year": "2015",
+      "unstructured": "López Piñeiro, C. &amp; Hicks, D. Res. Eval. 24, 78–89 (2015).",
+      "journal-title": "Res. Eval."
+    },
+    {
+      "key": "BF520429a_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "431",
+      "DOI": "10.1016/j.joi.2010.03.008",
+      "volume": "4",
+      "author": "AFJ van Raan",
+      "year": "2010",
+      "unstructured": "van Raan, A. F. J., van Leeuwen, T. N., Visser, M. S., van Eck, N. J. &amp; Waltman, L. J. Informetrics 4, 431–435 (2010).",
+      "journal-title": "J. Informetrics"
+    },
+    {
+      "key": "BF520429a_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "2419",
+      "DOI": "10.1002/asi.22708",
+      "volume": "63",
+      "author": "L Waltman",
+      "year": "2012",
+      "unstructured": "Waltman, L. et al. J. Am. Soc. Inf. Sci. Technol. 63, 2419–2432 (2012).",
+      "journal-title": "J. Am. Soc. Inf. Sci. Technol."
+    },
+    {
+      "key": "BF520429a_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "16569",
+      "DOI": "10.1073/pnas.0507655102",
+      "volume": "102",
+      "author": "JE Hirsch",
+      "year": "2005",
+      "unstructured": "Hirsch, J. E. Proc. Natl Acad. Sci. USA 102, 16569–16572 (2005).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BF520429a_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "257",
+      "DOI": "10.1007/s11192-008-0216-y",
+      "volume": "74",
+      "author": "J Bar-Ilan",
+      "year": "2008",
+      "unstructured": "Bar-Ilan, J. Scientometrics 74, 257–271 (2008).",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "BF520429a_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "143",
+      "DOI": "10.1016/S0048-7333(02)00007-0",
+      "volume": "32",
+      "author": "L Butler",
+      "year": "2003",
+      "unstructured": "Butler, L. Res. Policy 32, 143–155 (2003).",
+      "journal-title": "Res. Policy"
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/520429a.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/520429a",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/520429a.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        3
+      ]
+    ],
+    "date-time": "2025-04-03T13:45:25Z",
+    "timestamp": 1743687925000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/520429a"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        22
+      ]
+    ]
+  },
+  "references-count": 10,
+  "journal-issue": {
+    "issue": "7548",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          23
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BF520429a"
+  ],
+  "URL": "https://doi.org/10.1038/520429a",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "0028-0836"
+    },
+    {
+      "type": "electronic",
+      "value": "1476-4687"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        4,
+        22
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "22 April 2015",
+      "order": 1,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    }
+  ]
+}

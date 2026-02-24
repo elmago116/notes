@@ -1,0 +1,538 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T06:59:25Z",
+    "timestamp": 1755673165190
+  },
+  "reference-count": 31,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2015-09-26T00:00:00Z",
+        "timestamp": 1443225600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Scientometrics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        12
+      ]
+    ]
+  },
+  "DOI": "10.1007/s11192-015-1762-8",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        26
+      ]
+    ],
+    "date-time": "2015-09-26T12:28:32Z",
+    "timestamp": 1443270512000
+  },
+  "page": "2071-2087",
+  "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 246,
+  "title": [
+    "Evolution of research subjects in library and information science based on keyword, bibliographical coupling, and co-citation analyses"
+  ],
+  "prefix": "10.1007",
+  "volume": "105",
+  "author": [
+    {
+      "given": "Yu-Wei",
+      "family": "Chang",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Mu-Hsuan",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Chiao-Wen",
+      "family": "Lin",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        26
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "1762_CR1",
+      "first-page": "185",
+      "volume-title": "Emerging frameworks and methods: Processings of the fourth international conference on conceptions of library and information science (CoLIS4)",
+      "author": "F Åström",
+      "year": "2002",
+      "unstructured": "Åström, F. (2002). Visualizing library and information science concept spaces through keyword and citation based maps and clusters. In H. Bruce, R. Fidel, P. Ingwersen, & P. Vakkari (Eds.), Emerging frameworks and methods: Processings of the fourth international conference on conceptions of library and information science (CoLIS4) (pp. 185–197). Westport, CT: Libraries Unlimited."
+    },
+    {
+      "issue": "7",
+      "key": "1762_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "947",
+      "DOI": "10.1002/asi.20567",
+      "volume": "58",
+      "author": "F Åström",
+      "year": "2007",
+      "unstructured": "Åström, F. (2007). Changes in the LIS research front: Time-sliced co-citation analyses of LIS journal articles, 1990–2004. Journal of the American Society for Information Science and Technology, 58(7), 947–957.",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "4",
+      "key": "1762_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1002/asi.4630310408",
+      "volume": "31",
+      "author": "J Bichteler",
+      "year": "1980",
+      "unstructured": "Bichteler, J., & Eaton, E. A. (1980). The combined use of bibliographic coupling and co-citation for document retrieval. Journal of the American Society for Information Science, 31(4), 278–282.",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "12",
+      "key": "1762_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "2389",
+      "DOI": "10.1002/asi.21419",
+      "volume": "61",
+      "author": "KW Boyack",
+      "year": "2010",
+      "unstructured": "Boyack, K. W., & Klavans, R. (2010). Co-citation analysis, bibliographic coupling, and direct citation: Which citation approach represents the research front most accurately? Journal of the American Society for Information Science and Technology, 61(12), 2389–2404.",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "3",
+      "key": "1762_CR5",
+      "first-page": "76",
+      "volume": "8",
+      "author": "HW Chang",
+      "year": "2004",
+      "unstructured": "Chang, H. W. (2004). An analysis of the research areas of articles published in university library journal and college and research libraries between 1998 and 2002. University Library Journal, 8(3), 76–83.",
+      "journal-title": "University Library Journal"
+    },
+    {
+      "issue": "3",
+      "key": "1762_CR6",
+      "first-page": "347",
+      "volume": "48",
+      "author": "YW Chang",
+      "year": "2011",
+      "unstructured": "Chang, Y. W. (2011). A comparative study of research literature on information needs and information seeking: A bibliometric and social network analysis. Journal of Educational Media and Library Science, 48(3), 347–380.",
+      "journal-title": "Journal of Educational Media and Library Science"
+    },
+    {
+      "issue": "2",
+      "key": "1762_CR7",
+      "first-page": "31",
+      "volume": "2",
+      "author": "KH Chen",
+      "year": "2004",
+      "unstructured": "Chen, K. H., & Liang, C. F. (2004). Disciplinary interflow of library and information science in Taiwan. Journal of Library and Information Studies, 2(2), 31–55.",
+      "journal-title": "Journal of Library and Information Studies"
+    },
+    {
+      "issue": "1",
+      "key": "1762_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1007/s11192-005-1523-1",
+      "volume": "73",
+      "author": "WT Chiu",
+      "year": "2007",
+      "unstructured": "Chiu, W. T., & Ho, Y. S. (2007). Bibliometric analysis of tsunami research. Scientometrics, 73(1), 3–17.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "1762_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1007/BF02458357",
+      "volume": "42",
+      "author": "F De-Moya-Anegon",
+      "year": "1998",
+      "unstructured": "De-Moya-Anegon, F., Jimenez-Contreras, E., & De La Moneda Corrochano, M. (1998). Research fronts in library and information science in Spain. Scientometrics, 42(2), 229–246.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "1762_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "55",
+      "DOI": "10.1023/A:1005665709109",
+      "volume": "47",
+      "author": "Y Ding",
+      "year": "2000",
+      "unstructured": "Ding, Y., Chowdhury, G. G., & Foo, S. (2000). Journal as markers of intellectual space: Journal co-citation analysis of information retrieval area, 1987-1997. Scientometrics, 47(1), 55–73.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "1762_CR11",
+      "unstructured": "Garfield, E. (1992–1993). New SCI and SSCI CD-ROM editions include abstracts, Keywords plus, and monthly updates. In Essays of an information scientist (Vol. 15, pp. 238–247). Philadelphia: ISI Press."
+    },
+    {
+      "issue": "3",
+      "key": "1762_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "657",
+      "DOI": "10.1007/s11192-010-0313-6",
+      "volume": "86",
+      "author": "CP Hu",
+      "year": "2011",
+      "unstructured": "Hu, C. P., Hu, J. M., Gao, Y., & Zhang, Y. K. (2011). A journal co-citation analysis of library and information science in China. Scientometrics, 86(3), 657–670.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "1762_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1007/s11192-005-0270-7",
+      "volume": "65",
+      "author": "B Jarneving",
+      "year": "2005",
+      "unstructured": "Jarneving, B. (2005). A comparison of two bibliometric methods for mapping of the research front. Scientometrics, 65(2), 245–263.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "1762_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.1016/0306-4573(93)90028-C",
+      "volume": "29",
+      "author": "K Järvelin",
+      "year": "1993",
+      "unstructured": "Järvelin, K., & Vakkari, P. (1993). The evolution of library and information science 1965–1985: A content analysis of journal articles. Information Processing and Management, 29(1), 129–144.",
+      "journal-title": "Information Processing and Management"
+    },
+    {
+      "key": "1762_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "10",
+      "DOI": "10.1002/asi.5090140103",
+      "volume": "14",
+      "author": "M Kessler",
+      "year": "1963",
+      "unstructured": "Kessler, M. (1963). Bibliographic coupling between scientific papers. Journal of American Documentation, 14, 10–25.",
+      "journal-title": "Journal of American Documentation"
+    },
+    {
+      "issue": "3",
+      "key": "1762_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "227",
+      "DOI": "10.1177/0165551504044668",
+      "volume": "30",
+      "author": "D Koufogiannakis",
+      "year": "2004",
+      "unstructured": "Koufogiannakis, D., Slater, L., & Crumley, E. (2004). A content analysis of librarianship research. Journal of Information Science, 30(3), 227–239.",
+      "journal-title": "Journal of Information Science"
+    },
+    {
+      "key": "1762_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "532",
+      "DOI": "10.1016/j.joi.2012.04.006",
+      "volume": "6",
+      "author": "R Ma",
+      "year": "2012",
+      "unstructured": "Ma, R. (2012). Author bibliographic coupling analysis: A test based on a Chinese academic database. Journal of Informetrics, 6, 532–542.",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "1",
+      "key": "1762_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "33",
+      "DOI": "10.1007/s11192-009-2063-x",
+      "volume": "81",
+      "author": "R Ma",
+      "year": "2009",
+      "unstructured": "Ma, R., Dai, Q., Ni, C., & Li, X. (2009). An author co-citation analysis of information science in China with Chinese Google scholar search engine, 2004–2006. Scientometrics, 81(1), 33–46.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "2",
+      "key": "1762_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1345",
+      "DOI": "10.1007/s11192-014-1315-6",
+      "volume": "101",
+      "author": "JP Qiu",
+      "year": "2014",
+      "unstructured": "Qiu, J. P., Dong, K., & Yu, H. Q. (2014). Comparative study on structure and correlation among author co-occurrence networks in bibliometrics. Scientometrics, 101(2), 1345–1360.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1/2",
+      "key": "1762_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1007/BF02021804",
+      "volume": "15",
+      "author": "JT Sharabchiev",
+      "year": "1989",
+      "unstructured": "Sharabchiev, J. T. (1989). Cluster analysis of bibliographic references as a scientometrics method. Scientometrics, 15(1/2), 127–137.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "1762_CR21",
+      "volume-title": "The study of library science in Taiwan based on journal articles",
+      "author": "MY Shi",
+      "year": "2002",
+      "unstructured": "Shi, M. Y. (2002). The study of library science in Taiwan based on journal articles. Taipei: Han-Mei."
+    },
+    {
+      "issue": "4",
+      "key": "1762_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1002/asi.4630240406",
+      "volume": "24",
+      "author": "H Small",
+      "year": "1973",
+      "unstructured": "Small, H. (1973). Co-citation in the scientific literature: A new measure of the relationship between two documents. Journal of the American Society for Information Science, 24(4), 265–269.",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "2",
+      "key": "1762_CR23",
+      "first-page": "101",
+      "volume": "47",
+      "author": "CL Tsai",
+      "year": "2008",
+      "unstructured": "Tsai, C. L., Wang, M. H., & Ho, Y. S. (2008). Bibliometric analysis of cataract research from 1991 through 2006, analyzed with the science citation index. Acta Societatis Ophthalmologicae Sinicae, 47(2), 101–111.",
+      "journal-title": "Acta Societatis Ophthalmologicae Sinicae"
+    },
+    {
+      "issue": "3",
+      "key": "1762_CR24",
+      "first-page": "17",
+      "volume": "1",
+      "author": "MY Tsay",
+      "year": "2009",
+      "unstructured": "Tsay, M. Y., & Hsu, Y. T. (2009). An analysis of subjects and citations in core Journals of library and information science in Taiwan and China from 1997 to 2006. Journal of Librarianship and Information Studies, 1(3), 17–37.",
+      "journal-title": "Journal of Librarianship and Information Studies"
+    },
+    {
+      "issue": "2",
+      "key": "1762_CR25",
+      "first-page": "1",
+      "volume": "1",
+      "author": "MY Tsay",
+      "year": "2007",
+      "unstructured": "Tsay, M. Y., & Lai, C. H. (2007). Comparison of literature scattering and subject changes between citing and cited literature on information science: 1985–2005. Journal of Library and Information Science Research, 1(2), 1–32.",
+      "journal-title": "Journal of Library and Information Science Research"
+    },
+    {
+      "issue": "3",
+      "key": "1762_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1002/asi.4630320302",
+      "volume": "32",
+      "author": "HD White",
+      "year": "1981",
+      "unstructured": "White, H. D., & Griffith, B. C. (1981). Author co-citation: A literature measure of intellectual structure. Journal of the American Society for Information Science, 32(3), 163–171.",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "4",
+      "key": "1762_CR27",
+      "first-page": "327",
+      "volume": "49",
+      "author": "HD White",
+      "year": "1998",
+      "unstructured": "White, H. D., & McCain, K. W. (1998). Visualizing a discipline: An author co-citation analysis of information science, 1972–1995. Journal of the American Society for Information Science, 49(4), 327–355.",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "7",
+      "key": "1762_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "1313",
+      "DOI": "10.1002/asi.22680",
+      "volume": "63",
+      "author": "E Yan",
+      "year": "2012",
+      "unstructured": "Yan, E., & Ding, Y. (2012). Scholarly network similaries: How bibliometric coupling networks, citation networks, citation networks, co-citation networks, topical networks, co-authorship networks, and co-word networks relate to each other. Journal of the American Society for Information Science and Technology, 63(7), 1313–1326.",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "1",
+      "key": "1762_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "67",
+      "DOI": "10.1007/s11192-007-1849-y",
+      "volume": "75",
+      "author": "H Yi",
+      "year": "2008",
+      "unstructured": "Yi, H., Ao, X., & Ho, Y. (2008). Use of citation per publication as an indicator to evaluate pentachlorophenol research. Scientometrics, 75(1), 67–80.",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "13",
+      "key": "1762_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "2070",
+      "DOI": "10.1002/asi.20910",
+      "volume": "59",
+      "author": "D Zhao",
+      "year": "2008",
+      "unstructured": "Zhao, D., & Strotmann, A. (2008). Evolution of research activities and intellectual influences in information science 1996–2005: Introducing author bibliographic coupling analysis. Journal of the American Society for Information Science and Technology, 59(13), 2070–2086.",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "5",
+      "key": "1762_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "995",
+      "DOI": "10.1002/asi.23027",
+      "volume": "65",
+      "author": "D Zhao",
+      "year": "2014",
+      "unstructured": "Zhao, D., & Strotmann, A. (2014). The knowledge base and research front of information science 2006–2010: An author co-citation and bibliographic coupling analysis. Journal of the Association for Information Science and Technology, 65(5), 995–1006.",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    }
+  ],
+  "container-title": [
+    "Scientometrics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s11192-015-1762-8.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/s11192-015-1762-8/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s11192-015-1762-8",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        3
+      ]
+    ],
+    "date-time": "2019-06-03T14:13:23Z",
+    "timestamp": 1559571203000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/s11192-015-1762-8"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        26
+      ]
+    ]
+  },
+  "references-count": 31,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "1762"
+  ],
+  "URL": "https://doi.org/10.1007/s11192-015-1762-8",
+  "relation": {},
+  "ISSN": [
+    "0138-9130",
+    "1588-2861"
+  ],
+  "issn-type": [
+    {
+      "value": "0138-9130",
+      "type": "print"
+    },
+    {
+      "value": "1588-2861",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        9,
+        26
+      ]
+    ]
+  }
+}

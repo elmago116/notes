@@ -1,0 +1,134 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2022-10-05T12:18:07Z",
+    "timestamp": 1664972287748
+  },
+  "reference-count": 0,
+  "publisher": "Universidad de Navarra",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Anuario de Historia de la Iglesia"
+  ],
+  "DOI": "10.15581/007.5.24871",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2022-10-05T11:46:49Z",
+    "timestamp": 1664970409000
+  },
+  "page": "509-512",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Publicació del Diplomatari de la Catedral de Barcelona i del fons documental de l'Arxiu capitular d'Urgell"
+  ],
+  "prefix": "10.15581",
+  "volume": "5",
+  "author": [
+    {
+      "given": "Enric",
+      "family": "Moliné",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "6226",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        14
+      ]
+    ]
+  },
+  "container-title": [
+    "Anuario de Historia de la Iglesia"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2022-10-05T11:46:49Z",
+    "timestamp": 1664970409000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/view/24871"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        14
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.15581/007.5.24871",
+  "relation": {},
+  "ISSN": [
+    "2174-0887",
+    "1133-0104"
+  ],
+  "issn-type": [
+    {
+      "value": "2174-0887",
+      "type": "electronic"
+    },
+    {
+      "value": "1133-0104",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        14
+      ]
+    ]
+  }
+}

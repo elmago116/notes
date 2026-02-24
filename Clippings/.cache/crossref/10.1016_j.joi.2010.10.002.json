@@ -1,0 +1,756 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2025-08-20T07:33:56Z",
+    "timestamp": 1755675236698
+  },
+  "reference-count": 56,
+  "publisher": "Elsevier BV",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2011,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2011-01-01T00:00:00Z",
+        "timestamp": 1293840000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Journal of Informetrics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2011,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.joi.2010.10.002",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2010,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2010-11-04T08:41:55Z",
+    "timestamp": 1288860115000
+  },
+  "page": "146-166",
+  "source": "Crossref",
+  "is-referenced-by-count": 1814,
+  "title": [
+    "An approach for detecting, quantifying, and visualizing the evolution of a research field: A practical application to the Fuzzy Sets Theory field"
+  ],
+  "prefix": "10.1016",
+  "volume": "5",
+  "author": [
+    {
+      "given": "M.J.",
+      "family": "Cobo",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "A.G.",
+      "family": "López-Herrera",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "E.",
+      "family": "Herrera-Viedma",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "F.",
+      "family": "Herrera",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1016/j.joi.2009.04.001",
+      "article-title": "h-Index: A review focused in its variants, computation and standardization for different scientific fields",
+      "volume": "3",
+      "author": "Alonso",
+      "year": "2009",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "259",
+      "DOI": "10.1007/s11192-005-0212-4",
+      "article-title": "Analysis of the scientific field of physical chemistry of surfactants with the unified scienctometric model. Fit of relational and activity indicators",
+      "volume": "63",
+      "author": "Bailón-Moreno",
+      "year": "2005",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "949",
+      "DOI": "10.1002/asi.20362",
+      "article-title": "The scientific network of surfactants: Structural analysis",
+      "volume": "57",
+      "author": "Bailón-Moreno",
+      "year": "2006",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1002/aris.1440370106",
+      "article-title": "Visualizing knowledge domains",
+      "volume": "37",
+      "author": "Börner",
+      "year": "2003",
+      "journal-title": "Annual Review of Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "252",
+      "DOI": "10.1002/(SICI)1097-4571(199105)42:4<252::AID-ASI2>3.0.CO;2-G",
+      "article-title": "Mapping of science by combined co-citation and word analysis. II: Dynamical aspects",
+      "volume": "42",
+      "author": "Braam",
+      "year": "1991",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/j.joi.2009.06.005",
+      "article-title": "q2-Index: Quantitative and qualitative evaluation based on the number and impact of papers in the hirsch core",
+      "volume": "4",
+      "author": "Cabrerizo",
+      "year": "2010",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "373",
+      "DOI": "10.1023/A:1010581421990",
+      "article-title": "Comparison of the maps of science",
+      "volume": "49",
+      "author": "Cahlik",
+      "year": "2000",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "272",
+      "DOI": "10.1016/j.joi.2008.09.005",
+      "article-title": "Combining mapping and citation network analysis for a better understanding of the scientific development: The case of the absorptive capacity field",
+      "volume": "2",
+      "author": "Calero-Medina",
+      "year": "2008",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "191",
+      "DOI": "10.1177/053901883022002003",
+      "article-title": "From translations to problematic networks: An introduction to co-word analysis",
+      "volume": "22",
+      "author": "Callon",
+      "year": "1983",
+      "journal-title": "Social Science Information"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1007/BF02019280",
+      "article-title": "Co-word analysis as a tool for describing the network of interactions between basic and technological research—the case of polymer chemistry",
+      "volume": "22",
+      "author": "Callon",
+      "year": "1991",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "5303",
+      "DOI": "10.1073/pnas.0307513100",
+      "article-title": "Searching for intellectual turning points: Progressive knowledge domain visualization",
+      "volume": "101",
+      "author": "Chen",
+      "year": "2004",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1016/j.joi.2010.01.001",
+      "article-title": "Community structure of the physical review citation network",
+      "volume": "4",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "1386",
+      "DOI": "10.1002/asi.21309",
+      "article-title": "The structure and dynamics of cocitation clusters: A multiple-perspective cocitation analysis",
+      "volume": "61",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0070",
+      "series-title": "Research group Evaluación de la Ciencia y la Comunicación Cientfica",
+      "author": "CoPalRed",
+      "year": "2005"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "1206",
+      "DOI": "10.1002/(SICI)1097-4571(1998)49:13<1206::AID-ASI7>3.0.CO;2-F",
+      "article-title": "Software engineering as seen through its research literature: A study in co-word analysis",
+      "volume": "49",
+      "author": "Coulter",
+      "year": "1998",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1007/BF02130469",
+      "article-title": "A mathematical model of development in a research field",
+      "volume": "19",
+      "author": "Courtial",
+      "year": "1990",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "251",
+      "DOI": "10.1007/BF02016875",
+      "article-title": "A coword analysis of scientometrics",
+      "volume": "31",
+      "author": "Courtial",
+      "year": "1994",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "817",
+      "DOI": "10.1016/S0306-4573(00)00051-0",
+      "article-title": "Bibliometric cartography of information retrieval research by using co-word analysis",
+      "volume": "37",
+      "author": "Ding",
+      "year": "2001",
+      "journal-title": "Information Processing and Management"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0095",
+      "first-page": "5",
+      "article-title": "Scientography: Mapping the tracks of science",
+      "volume": "7",
+      "author": "Garfield",
+      "year": "1994",
+      "journal-title": "Current Contents: Social & Behavioural Sciences"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0100",
+      "first-page": "133",
+      "article-title": "Knowledge discovery through co-word analysis",
+      "volume": "48",
+      "author": "He",
+      "year": "1999",
+      "journal-title": "Library Trends"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1108/10650740910967348",
+      "article-title": "The quantitative crunch: The impact of bibliometric research quality assessment exercises on academic development at small conferences",
+      "volume": "26",
+      "author": "Henderson",
+      "year": "2009",
+      "journal-title": "Campus-Wide Information Systems"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "16569",
+      "DOI": "10.1073/pnas.0507655102",
+      "article-title": "An index to quantify an individuals scientific research out-put",
+      "volume": "102",
+      "author": "Hirsch",
+      "year": "2005",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0115",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kandylas, V., Upham, S. P., & Ungar, L. H. (2010). Analyzing knowledge communities using foreground and background clusters. ACM Transactions on Knowledge Discovery from Data 4, art. no. 7.",
+      "DOI": "10.1145/1754428.1754430"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0120",
+      "series-title": "Software vulnerability analysis. Ph.D. thesis",
+      "author": "Krsul",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "348",
+      "DOI": "10.1002/asi.20967",
+      "article-title": "A global map of science based on the ISI subject categories",
+      "volume": "60",
+      "author": "Leydesdorff",
+      "year": "2009",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "1810",
+      "DOI": "10.1002/asi.20891",
+      "article-title": "Dynamic animations of journal maps: Indicators of structural changes and interdisciplinary developments",
+      "volume": "591",
+      "author": "Leydesdorff",
+      "year": "2008",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0135",
+      "unstructured": "López-Herrera, A. G., Cobo, M. J., Herrera-Viedma, E., Herrera, F., Bailón-Moreno, R., & Jimenez-Contreras, E. (2009). Visualization and evolution of the scientific structure of fuzzy sets research in spain. Information Research 14, paper 421. URL http://InformationR.net/ir/14-4/paper421.html."
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.3233/HIS-2010-0102",
+      "article-title": "A bibliometric study about the research based on hybridating the fuzzy logic field and the other computational intelligent techniques: A visual approach",
+      "volume": "17",
+      "author": "López-Herrera",
+      "year": "2010",
+      "journal-title": "Internacional Journal of Hybrid Intelligent Systems"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0145",
+      "series-title": "L’analyse des associations. Ph.D. thesis",
+      "author": "Michelet",
+      "year": "1988"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "1520",
+      "DOI": "10.1016/j.ipm.2005.03.017",
+      "article-title": "Domain analysis and information retrieval through the construction of heliocentric maps based on ISI-JCR category cocitation",
+      "volume": "41",
+      "author": "Moya-Anegón",
+      "year": "2005",
+      "journal-title": "Information Processing and Management"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "2167",
+      "DOI": "10.1002/asi.20683",
+      "article-title": "Visualizing the marrow of science",
+      "volume": "58",
+      "author": "Moya-Anegón",
+      "year": "2007",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "29",
+      "DOI": "10.1002/asi.4630350105",
+      "article-title": "Co-citation analysis and the invisible college",
+      "volume": "35",
+      "author": "Noma",
+      "year": "1984",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1002/(SICI)1097-4571(1999)50:2<115::AID-ASI3>3.0.CO;2-J",
+      "article-title": "Combining mapping and citation analysis for evaluative bibliometric purposes: A bibliometric study",
+      "volume": "50",
+      "author": "Noyons",
+      "year": "1999",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "591",
+      "DOI": "10.1007/BF02459614",
+      "article-title": "Integrating research performance analysis and science mapping",
+      "volume": "46",
+      "author": "Noyons",
+      "year": "1999",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/0048-7333(93)90031-C",
+      "article-title": "Co-word-based science maps of chemical engineering. Part i: Representations by direct multidimensional scaling",
+      "volume": "22",
+      "author": "Peters",
+      "year": "1993",
+      "journal-title": "Research Policy"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1023/A:1010537316758",
+      "article-title": "Using artificial neural networks for mapping of science and technology: A multi-self-organizing-maps approach",
+      "volume": "51",
+      "author": "Polanco",
+      "year": "2001",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0185",
+      "first-page": "27",
+      "article-title": "Studies in scientometrics i: Transience and continuance in scientific authorship",
+      "volume": "4",
+      "author": "Price",
+      "year": "1975",
+      "journal-title": "Ci. Informatics Rio de Janeiro"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "981",
+      "DOI": "10.1002/smj.397",
+      "article-title": "Changes in the intellectual structure of strategic management research: A bibliometric study of the Strategic Management Journal, 1980–2000",
+      "volume": "25",
+      "author": "Ramos-Rodrguez",
+      "year": "2004",
+      "journal-title": "Strategic Management Journal"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "381",
+      "DOI": "10.1007/BF02025827",
+      "article-title": "Co-word maps of biotechnology: An example of cognitive scientometrics",
+      "volume": "6",
+      "author": "Rip",
+      "year": "1984",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "e8694",
+      "DOI": "10.1371/journal.pone.0008694",
+      "article-title": "Mapping change in large networks",
+      "volume": "5",
+      "author": "Rosvall",
+      "year": "2010",
+      "journal-title": "PLoS ONE"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.1016/j.joi.2009.03.002",
+      "article-title": "Discrete and continuous conceptualizations of science: Implications for knowledge domain visualization",
+      "volume": "3",
+      "author": "Skupin",
+      "year": "2009",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1002/asi.4630240406",
+      "article-title": "Co-citation in the scientific literature: A new measure of the relationship between two documents",
+      "volume": "24",
+      "author": "Small",
+      "year": "1973",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "139",
+      "DOI": "10.1177/030631277700700202",
+      "article-title": "A co-citation model of a scientific specialty: A longitudinal study of collagen research",
+      "volume": "7",
+      "author": "Small",
+      "year": "1977",
+      "journal-title": "Social Studies of Science"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "799",
+      "DOI": "10.1002/(SICI)1097-4571(1999)50:9<799::AID-ASI9>3.0.CO;2-G",
+      "article-title": "Visualizing science by citation mapping",
+      "volume": "50",
+      "author": "Small",
+      "year": "1999",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "394",
+      "DOI": "10.1002/asi.10225",
+      "article-title": "Paradigms, citations, and maps of science: A personal history",
+      "volume": "54",
+      "author": "Small",
+      "year": "2003",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "595",
+      "DOI": "10.1007/s11192-006-0132-y",
+      "article-title": "Tracking and predicting growth areas in science",
+      "volume": "68",
+      "author": "Small",
+      "year": "2006",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0235",
+      "doi-asserted-by": "crossref",
+      "first-page": "365",
+      "DOI": "10.1007/s11192-009-0424-0",
+      "article-title": "Citation structure of an emerging research area on the verge of application",
+      "volume": "79",
+      "author": "Small",
+      "year": "2009",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1007/s11192-007-1961-z",
+      "article-title": "Similarity measures for document mapping: A comparative study on the level of an individual scientist",
+      "volume": "78",
+      "author": "Sternitzke",
+      "year": "2009",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1007/s11192-009-0051-9",
+      "article-title": "Emerging research fronts in science and technology: Patterns of new knowledge development",
+      "volume": "83",
+      "author": "Upham",
+      "year": "2010",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "625",
+      "DOI": "10.1142/S0218488507004911",
+      "article-title": "Bibliometric mapping of the computational intelligence field",
+      "volume": "15",
+      "author": "van Eck",
+      "year": "2007",
+      "journal-title": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0255",
+      "doi-asserted-by": "crossref",
+      "first-page": "1635",
+      "DOI": "10.1002/asi.21075",
+      "article-title": "How to normalize cooccurrence data? An analysis of some well-known similarity measures",
+      "volume": "60",
+      "author": "van Eck",
+      "year": "2009",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0260",
+      "series-title": "Handbook of Quantitative Science and Technology Research. Chapter Measuring Science",
+      "author": "van Raan",
+      "year": "2005"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0265",
+      "first-page": "1",
+      "article-title": "Measurement of central aspects of scientific research: Performance, interdisciplinarity, structure",
+      "volume": "3",
+      "author": "van Raan",
+      "year": "2005",
+      "journal-title": "Measurement"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0270",
+      "doi-asserted-by": "crossref",
+      "first-page": "338",
+      "DOI": "10.1016/S0019-9958(65)90241-X",
+      "article-title": "Fuzzy sets",
+      "volume": "8",
+      "author": "Zadeh",
+      "year": "1965",
+      "journal-title": "Information and Control"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0275",
+      "doi-asserted-by": "crossref",
+      "first-page": "2751",
+      "DOI": "10.1016/j.ins.2008.02.012",
+      "article-title": "Is there a need for fuzzy logic?",
+      "volume": "178",
+      "author": "Zadeh",
+      "year": "2008",
+      "journal-title": "Information Sciences"
+    },
+    {
+      "key": "10.1016/j.joi.2010.10.002_bib0280",
+      "doi-asserted-by": "crossref",
+      "first-page": "627",
+      "DOI": "10.1023/A:1005632319799",
+      "article-title": "Shadows of the past in international cooperation: Collaboration profiles of the top five producers of science",
+      "volume": "47",
+      "author": "Zitt",
+      "year": "2000",
+      "journal-title": "Scientometrics"
+    }
+  ],
+  "container-title": [
+    "Journal of Informetrics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1751157710000891?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1751157710000891?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        6
+      ]
+    ],
+    "date-time": "2019-06-06T02:30:22Z",
+    "timestamp": 1559788222000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1751157710000891"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        1
+      ]
+    ]
+  },
+  "references-count": 56,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S1751157710000891"
+  ],
+  "URL": "https://doi.org/10.1016/j.joi.2010.10.002",
+  "relation": {},
+  "ISSN": [
+    "1751-1577"
+  ],
+  "issn-type": [
+    {
+      "value": "1751-1577",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2011,
+        1
+      ]
+    ]
+  }
+}

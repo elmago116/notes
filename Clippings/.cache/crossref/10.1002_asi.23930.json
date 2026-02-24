@@ -1,0 +1,367 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        16
+      ]
+    ],
+    "date-time": "2025-07-16T12:04:12Z",
+    "timestamp": 1752667452770
+  },
+  "reference-count": 33,
+  "publisher": "Wiley",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            9,
+            17
+          ]
+        ],
+        "date-time": "2017-09-17T00:00:00Z",
+        "timestamp": 1505606400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Asso for Info Science &amp; Tech"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        2
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Detecting emerging research topics is essential, not only for research agencies but also for individual researchers. Previous studies have created various bibliographic indicators for the identification of emerging research topics. However, as indicated by Rotolo et al. (Research Policy 44, 1827–1843, <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#asi23930-bib-0022\" />), the most serious problems are the lack of an acknowledged definition of emergence and incomplete elaboration of the linkages between the definitions that are used and the indicators that are created. With these issues in mind, this study first adjusts the definition of an emerging technology that Rotolo et al. (<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#asi23930-bib-0022\" />) have proposed to accommodate the analysis. Next, a set of criteria for the identification of emerging topics is proposed according to the adjusted definition and attributes of emergence. Using two sets of parameter values, several emerging research topics are identified. Finally, evaluation tests are conducted by demonstration of the proposed approach and comparison with previous studies. The strength of the present methodology lies in the fact that it is fully transparent, straightforward, and flexible.</jats:p>",
+  "DOI": "10.1002/asi.23930",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        9,
+        18
+      ]
+    ],
+    "date-time": "2017-09-18T14:57:37Z",
+    "timestamp": 1505746657000
+  },
+  "page": "290-304",
+  "source": "Crossref",
+  "is-referenced-by-count": 91,
+  "title": [
+    "A bibliometric model for identifying emerging research topics"
+  ],
+  "prefix": "10.1002",
+  "volume": "69",
+  "author": [
+    {
+      "given": "Qi",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Danish Centre for Studies in Research &amp; Research Policy, Aarhus University  Denmark"
+        },
+        {
+          "name": "INDEK, KTH‐Royal Institute of Technology  Sweden"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2017,
+        9,
+        17
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_9_2_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "473",
+      "DOI": "10.1023/B:SCIE.0000006875.61813.f6",
+      "article-title": "Critical and emerging technologies in Materials, Manufacturing, and Industrial Engineering: A study for priority setting",
+      "volume": "58",
+      "author": "Bengisu M.",
+      "year": "2003",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "e_1_2_9_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-007-1888-4"
+    },
+    {
+      "key": "e_1_2_9_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jengtecman.2013.07.001"
+    },
+    {
+      "key": "e_1_2_9_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/asi.20317"
+    },
+    {
+      "key": "e_1_2_9_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1517/14712598.2012.674507"
+    },
+    {
+      "key": "e_1_2_9_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09537321003647396"
+    },
+    {
+      "key": "e_1_2_9_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.techfore.2014.03.013"
+    },
+    {
+      "key": "e_1_2_9_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nmat1849"
+    },
+    {
+      "key": "e_1_2_9_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-011-0591-7"
+    },
+    {
+      "key": "e_1_2_9_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-011-0433-7"
+    },
+    {
+      "key": "e_1_2_9_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0507655102"
+    },
+    {
+      "key": "e_1_2_9_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.techfore.2008.04.007"
+    },
+    {
+      "key": "e_1_2_9_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.techfore.2007.05.005"
+    },
+    {
+      "key": "e_1_2_9_15_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "984",
+      "DOI": "10.1002/asi.23734",
+      "article-title": "Which type of citation analysis generates the most accurate taxonomy of scientific and technical knowledge?",
+      "volume": "68",
+      "author": "Klavans R.",
+      "year": "2015",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    },
+    {
+      "key": "e_1_2_9_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-015-1780-6"
+    },
+    {
+      "key": "e_1_2_9_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-007-1898-2"
+    },
+    {
+      "key": "e_1_2_9_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.joi.2013.01.003"
+    },
+    {
+      "key": "e_1_2_9_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/asi.10227"
+    },
+    {
+      "key": "e_1_2_9_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-010-0252-2"
+    },
+    {
+      "key": "e_1_2_9_21_1",
+      "volume-title": "ERACEP ‐ Emerging research topics and their coverage by ERC‐supported projects",
+      "author": "Reiss T.",
+      "year": "2013"
+    },
+    {
+      "key": "e_1_2_9_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.respol.2015.06.006"
+    },
+    {
+      "key": "e_1_2_9_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-009-0137-4"
+    },
+    {
+      "key": "e_1_2_9_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.technovation.2008.03.009"
+    },
+    {
+      "key": "e_1_2_9_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.techfore.2010.07.006"
+    },
+    {
+      "key": "e_1_2_9_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-006-0132-y"
+    },
+    {
+      "key": "e_1_2_9_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.respol.2014.02.005"
+    },
+    {
+      "key": "e_1_2_9_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11192-009-0051-9"
+    },
+    {
+      "key": "e_1_2_9_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1136/bmj.h6467"
+    },
+    {
+      "key": "e_1_2_9_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/asi.22748"
+    },
+    {
+      "key": "e_1_2_9_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/asi.21678"
+    },
+    {
+      "key": "e_1_2_9_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1140/epjb/e2013-40829-0"
+    },
+    {
+      "key": "e_1_2_9_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.joi.2013.10.010"
+    },
+    {
+      "key": "e_1_2_9_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.joi.2011.05.004"
+    }
+  ],
+  "container-title": [
+    "Journal of the Association for Information Science and Technology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fasi.23930",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23930",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        28
+      ]
+    ],
+    "date-time": "2023-09-28T20:14:56Z",
+    "timestamp": 1695932096000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23930"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        9,
+        17
+      ]
+    ]
+  },
+  "references-count": 33,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/asi.23930"
+  ],
+  "URL": "https://doi.org/10.1002/asi.23930",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "2330-1635",
+    "2330-1643"
+  ],
+  "issn-type": [
+    {
+      "value": "2330-1635",
+      "type": "print"
+    },
+    {
+      "value": "2330-1643",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017,
+        9,
+        17
+      ]
+    ]
+  }
+}

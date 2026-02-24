@@ -1,0 +1,339 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        2
+      ]
+    ],
+    "date-time": "2025-07-02T18:34:58Z",
+    "timestamp": 1751481298425
+  },
+  "reference-count": 19,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            12,
+            7
+          ]
+        ],
+        "date-time": "2012-12-07T00:00:00Z",
+        "timestamp": 1354838400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Qual Quant"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1007/s11135-012-9811-3",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        12,
+        6
+      ]
+    ],
+    "date-time": "2012-12-06T13:57:11Z",
+    "timestamp": 1354802231000
+  },
+  "page": "899-910",
+  "source": "Crossref",
+  "is-referenced-by-count": 15,
+  "title": [
+    "Language and ideology: quantitative thematic analysis of New Year speeches given by Czechoslovak and Czech presidents (1949–2011)"
+  ],
+  "prefix": "10.1007",
+  "volume": "48",
+  "author": [
+    {
+      "given": "Radek",
+      "family": "Čech",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2012,
+        12,
+        7
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "9811_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "301",
+      "DOI": "10.1177/1750481311427085",
+      "volume": "5",
+      "author": "G Al Ali",
+      "year": "2011",
+      "unstructured": "Al Ali, G.: Hero or terrorist? A comparative analysis of Arabic and Western media depictions of the execution of Saddam. Discour. Commun. 5, 301–335 (2011)",
+      "journal-title": "Discour. Commun."
+    },
+    {
+      "key": "9811_CR2",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.5040/9781350933996",
+      "volume-title": "Using Corpora in Discourse Analysis",
+      "author": "P Baker",
+      "year": "2006",
+      "unstructured": "Baker, P.: Using Corpora in Discourse Analysis. Continuum, London (2006)"
+    },
+    {
+      "key": "9811_CR3",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1057/9780230319899",
+      "volume-title": "Politicians and Rhetoric: The Persuasive Power of Metaphor",
+      "author": "J Charteris-Black",
+      "year": "2011",
+      "unstructured": "Charteris-Black, J.: Politicians and Rhetoric: The Persuasive Power of Metaphor, 2nd edn. Palgrave Macmillan, New York (2011)",
+      "edition": "2"
+    },
+    {
+      "key": "9811_CR4",
+      "volume-title": "Language and Power",
+      "author": "N Fairclough",
+      "year": "1989",
+      "unstructured": "Fairclough, N.: Language and Power. Longman, London (1989)"
+    },
+    {
+      "key": "9811_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "16569",
+      "DOI": "10.1073/pnas.0507655102",
+      "volume": "102/46",
+      "author": "JE Hirsch",
+      "year": "2005",
+      "unstructured": "Hirsch, J.E.: An index to quantify an individual’s scientific research output. Proc. Nat. Acad. Sci. USA 102/46, 16569–16572 (2005)",
+      "journal-title": "Proc. Nat. Acad. Sci. USA"
+    },
+    {
+      "key": "9811_CR6",
+      "volume-title": "LTI. Lingua Tertii Imperii. Die Sprache des Dritten Reiches",
+      "author": "V Klemperer",
+      "year": "1947",
+      "unstructured": "Klemperer, V.: LTI. Lingua Tertii Imperii. Die Sprache des Dritten Reiches. Reclam, Leipzig (1947)"
+    },
+    {
+      "key": "9811_CR7",
+      "first-page": "695",
+      "volume-title": "The Cambridge Encyclopedia of the Language Sciences",
+      "author": "R Köhler",
+      "year": "2011",
+      "unstructured": "Köhler, R., Altmann, G.: Quantitative lnguistics. In: Hogan, C.P. (ed.) The Cambridge Encyclopedia of the Language Sciences, pp. 695–697. Cambridge, New York (2011)"
+    },
+    {
+      "key": "9811_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "3444",
+      "DOI": "10.1016/j.pragma.2010.04.028",
+      "volume": "42",
+      "author": "J Li",
+      "year": "2010",
+      "unstructured": "Li, J.: Transitivity and lexical cohesion: press representations of a political disaster and its actors. J. Pragmat. 42, 3444–3458 (2010)",
+      "journal-title": "J. Pragmat."
+    },
+    {
+      "key": "9811_CR9",
+      "first-page": "252",
+      "volume": "13",
+      "author": "G Orwell",
+      "year": "1946",
+      "unstructured": "Orwell, G.: Politics and the English language. Horizon 13, 252–265 (1946)",
+      "journal-title": "Horizon"
+    },
+    {
+      "key": "9811_CR10",
+      "first-page": "557",
+      "volume-title": "Exact Methods in the Study of Language and Text",
+      "author": "I-I Popescu",
+      "year": "2007",
+      "unstructured": "Popescu, I.-I.: Text ranking by the weight of highly frequent words. In: Grzybek, P., Köhler, R. (eds.) Exact Methods in the Study of Language and Text, pp. 557–567. Mounton de Gruyter, Berlin (2007)"
+    },
+    {
+      "key": "9811_CR11",
+      "unstructured": "Popescu, I.-I., Altmann G.: Thematic concentration in texts. In: Kelih, E., Levickij, V., Matskulyak, Y. (eds.) Issues in Quantitative Linguistics, vol. 2, pp. 110–116. RAM Lüdenscheid (2011)"
+    },
+    {
+      "key": "9811_CR12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Popescu, I.-I., Altmann, G., Grzybek, P., Jayaram, B.D., Köhler, R., Krupa, V., Mačutek, J., Pustet, R., Uhlířová, L., Vidya, M.N.: Word Frequency Studies. Mouton de Gruyter, Berlin (2009)",
+      "DOI": "10.1515/9783110218534"
+    },
+    {
+      "key": "9811_CR13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Salama, A.H.Y.: Ideological collocation and the recontexualization of Wahhabi-Saudi Islam post-9/11: a synergy of corpus linguistics and critical discourse analysis. Discour. Soc. 22, 315–342 (2011)",
+      "DOI": "10.1177/0957926510395445"
+    },
+    {
+      "key": "9811_CR14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Stubbs, M.: Grammar, Text, and ideology: computer-assisted methods in the linguistics of representation. Appl. Linguist. 15, 201–223 (1994)",
+      "DOI": "10.1093/applin/15.2.201"
+    },
+    {
+      "key": "9811_CR15",
+      "first-page": "1673",
+      "volume-title": "The Encyclopedia of Political Science",
+      "author": "D Tannenbaum",
+      "year": "2011",
+      "unstructured": "Tannenbaum, D.: Totalitarism. In: Kurian, G.T. (ed.) The Encyclopedia of Political Science, pp. 1673–1674. CQ Press, Washington (2011)"
+    },
+    {
+      "key": "9811_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "243",
+      "DOI": "10.1177/0957926595006002006",
+      "volume": "6",
+      "author": "TA Dijk Van",
+      "year": "1995",
+      "unstructured": "Van Dijk, T.A.: Discourse semantics and ideology. Discour. Soc. 6, 243–289 (1995)",
+      "journal-title": "Discour. Soc."
+    },
+    {
+      "key": "9811_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1080/13569310600687908",
+      "volume": "11",
+      "author": "TA Dijk Van",
+      "year": "2006",
+      "unstructured": "Van Dijk, T.A.: Ideology and discourse analysis. J. Polit. Ideol. 11, 115–140 (2006)",
+      "journal-title": "J. Polit. Ideol."
+    },
+    {
+      "key": "9811_CR18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Van Leeuwen, T.: Politics and language critical discourse analysis. In: Brown, K. (ed.) Encyclopedia of Language and Linguistics, 2nd edn. pp. 290–294. Elsevier, Oxford (2006)",
+      "DOI": "10.1016/B0-08-044854-2/00501-0"
+    },
+    {
+      "key": "9811_CR19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wodak, R., Meyer, M. (eds.): Methods of Critical Discourse Analysis. Sage Publications, London (2001)",
+      "DOI": "10.4135/9780857028020"
+    }
+  ],
+  "container-title": [
+    "Quality &amp; Quantity"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s11135-012-9811-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/s11135-012-9811-3/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s11135-012-9811-3",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        2
+      ]
+    ],
+    "date-time": "2022-02-02T17:36:18Z",
+    "timestamp": 1643823378000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/s11135-012-9811-3"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012,
+        12,
+        7
+      ]
+    ]
+  },
+  "references-count": 19,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "9811"
+  ],
+  "URL": "https://doi.org/10.1007/s11135-012-9811-3",
+  "relation": {},
+  "ISSN": [
+    "0033-5177",
+    "1573-7845"
+  ],
+  "issn-type": [
+    {
+      "value": "0033-5177",
+      "type": "print"
+    },
+    {
+      "value": "1573-7845",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2012,
+        12,
+        7
+      ]
+    ]
+  }
+}

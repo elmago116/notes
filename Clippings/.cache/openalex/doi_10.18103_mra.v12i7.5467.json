@@ -1,0 +1,473 @@
+{
+  "id": "https://openalex.org/W4401210604",
+  "doi": "https://doi.org/10.18103/mra.v12i7.5467",
+  "title": "Karila et al Editorial 2024",
+  "display_name": "Karila et al Editorial 2024",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4401210604",
+    "doi": "https://doi.org/10.18103/mra.v12i7.5467"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.18103/mra.v12i7.5467",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764661345",
+      "display_name": "Medical Research Archives",
+      "issn_l": "2375-1916",
+      "issn": [
+        "2375-1916",
+        "2375-1924"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4376882788",
+      "host_organization_name": "European Society of Medicine",
+      "host_organization_lineage": [
+        "https://openalex.org/P4376882788"
+      ],
+      "host_organization_lineage_names": [
+        "European Society of Medicine"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5106215494",
+        "display_name": "Tuomo Karila",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Tuomo Karila",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5106215494"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 71
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": "7",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14169",
+    "display_name": "Public Health and Environmental Issues",
+    "score": 0.4879,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2307",
+      "display_name": "Health, Toxicology and Mutagenesis"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14169",
+      "display_name": "Public Health and Environmental Issues",
+      "score": 0.4879,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.37776798
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3747114
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.18103/mra.v12i7.5467",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764661345",
+        "display_name": "Medical Research Archives",
+        "issn_l": "2375-1916",
+        "issn": [
+          "2375-1916",
+          "2375-1924"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4376882788",
+        "host_organization_name": "European Society of Medicine",
+        "host_organization_lineage": [
+          "https://openalex.org/P4376882788"
+        ],
+        "host_organization_lineage_names": [
+          "European Society of Medicine"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W4389568370",
+    "https://openalex.org/W3108674512",
+    "https://openalex.org/W3032375762",
+    "https://openalex.org/W3031052312",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2080531066",
+    "https://openalex.org/W1995515455",
+    "https://openalex.org/W1506200166",
+    "https://openalex.org/W1489783725"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      43,
+      53
+    ],
+    "authors": [
+      1,
+      44,
+      54
+    ],
+    "are": [
+      2,
+      24
+    ],
+    "named": [
+      3
+    ],
+    "as": [
+      4,
+      61
+    ],
+    "inventors": [
+      5
+    ],
+    "on": [
+      6,
+      38
+    ],
+    "patents": [
+      7,
+      23,
+      31,
+      103
+    ],
+    "FI129515B": [
+      8
+    ],
+    "and": [
+      9,
+      29
+    ],
+    "U.S.": [
+      10
+    ],
+    "Patent": [
+      11
+    ],
+    "No.": [
+      12
+    ],
+    "11,793,779": [
+      13
+    ],
+    "both": [
+      14
+    ],
+    "of": [
+      15,
+      35,
+      41
+    ],
+    "which": [
+      16
+    ],
+    "were": [
+      17
+    ],
+    "filed": [
+      18
+    ],
+    "by": [
+      19
+    ],
+    "Salarusta": [
+      20,
+      50
+    ],
+    "Ltd,": [
+      21
+    ],
+    "these": [
+      22
+    ],
+    "related": [
+      25
+    ],
+    "to": [
+      26
+    ],
+    "this": [
+      27
+    ],
+    "work": [
+      28
+    ],
+    "the": [
+      30,
+      33,
+      81,
+      88
+    ],
+    "cover": [
+      32
+    ],
+    "use": [
+      34
+    ],
+    "a": [
+      36,
+      39,
+      73
+    ],
+    "substance": [
+      37
+    ],
+    "treatment": [
+      40
+    ],
+    "arthritis.": [
+      42
+    ],
+    "have": [
+      45,
+      55
+    ],
+    "an": [
+      46
+    ],
+    "ownership": [
+      47,
+      96
+    ],
+    "interest": [
+      48,
+      75
+    ],
+    "in": [
+      49,
+      76,
+      87
+    ],
+    "Ltd": [
+      51
+    ],
+    "Oy.": [
+      52
+    ],
+    "no": [
+      56
+    ],
+    "other": [
+      57
+    ],
+    "competing": [
+      58
+    ],
+    "interests": [
+      59
+    ],
+    "such": [
+      60
+    ],
+    "relevant": [
+      62
+    ],
+    "affiliations": [
+      63
+    ],
+    "or": [
+      64,
+      70,
+      77,
+      84,
+      97,
+      102,
+      105,
+      107
+    ],
+    "financial": [
+      65,
+      74,
+      78
+    ],
+    "involvement": [
+      66
+    ],
+    "with": [
+      67,
+      72,
+      80
+    ],
+    "any": [
+      68
+    ],
+    "organization": [
+      69
+    ],
+    "entity": [
+      71
+    ],
+    "conflict": [
+      79
+    ],
+    "subject": [
+      82
+    ],
+    "matter": [
+      83
+    ],
+    "materials": [
+      85
+    ],
+    "discussed": [
+      86
+    ],
+    "manuscript.": [
+      89
+    ],
+    "This": [
+      90
+    ],
+    "includes": [
+      91
+    ],
+    "employment,": [
+      92
+    ],
+    "consultancies,": [
+      93
+    ],
+    "honoraria,": [
+      94
+    ],
+    "stock": [
+      95
+    ],
+    "options,": [
+      98
+    ],
+    "expert": [
+      99
+    ],
+    "testimony,": [
+      100
+    ],
+    "grants,": [
+      101
+    ],
+    "received": [
+      104
+    ],
+    "pending,": [
+      106
+    ],
+    "royalties.": [
+      108
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4401210604",
+  "counts_by_year": [],
+  "updated_date": "2025-08-12T14:08:20.843211",
+  "created_date": "2024-08-02"
+}

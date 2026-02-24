@@ -1,0 +1,763 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ],
+    "date-time": "2025-08-06T12:19:26Z",
+    "timestamp": 1754482766211,
+    "version": "3.38.0"
+  },
+  "reference-count": 80,
+  "publisher": "SAGE Publications",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            24
+          ]
+        ],
+        "date-time": "2023-04-24T00:00:00Z",
+        "timestamp": 1682294400000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "SW"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        24
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Bias in Artificial Intelligence (AI) is a critical and timely issue due to its sociological, economic and legal impact, as decisions made by biased algorithms could lead to unfair treatment of specific individuals or groups. Multiple surveys have emerged to provide a multidisciplinary view of bias or to review bias in specific areas such as social sciences, business research, criminal justice, or data mining. Given the ability of Semantic Web (SW) technologies to support multiple AI systems, we review the extent to which semantics can be a “tool” to address bias in different algorithmic scenarios. We provide an in-depth categorisation and analysis of bias assessment, representation, and mitigation approaches that use SW technologies. We discuss their potential in dealing with issues such as representing disparities of specific demographics or reducing data drifts, sparsity, and missing values. We find research works on AI bias that apply semantics mainly in information retrieval, recommendation and natural language processing applications and argue through multiple use cases that semantics can help deal with technical, sociological, and psychological challenges.</jats:p>",
+  "DOI": "10.3233/sw-223041",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        6
+      ]
+    ],
+    "date-time": "2022-09-06T15:57:30Z",
+    "timestamp": 1662479850000
+  },
+  "page": "745-770",
+  "source": "Crossref",
+  "is-referenced-by-count": 14,
+  "title": [
+    "Semantic Web technologies and bias in artificial intelligence: A systematic literature review"
+  ],
+  "prefix": "10.1177",
+  "volume": "14",
+  "author": [
+    {
+      "given": "Paula",
+      "family": "Reyero Lobo",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Knowledge Media Institute, The Open University, United Kingdom"
+        }
+      ]
+    },
+    {
+      "given": "Enrico",
+      "family": "Daga",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Knowledge Media Institute, The Open University, United Kingdom"
+        }
+      ]
+    },
+    {
+      "given": "Harith",
+      "family": "Alani",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Knowledge Media Institute, The Open University, United Kingdom"
+        }
+      ]
+    },
+    {
+      "given": "Miriam",
+      "family": "Fernandez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Knowledge Media Institute, The Open University, United Kingdom"
+        }
+      ]
+    }
+  ],
+  "member": "179",
+  "reference": [
+    {
+      "key": "10.3233/SW-223041_ref1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3269206.3269266"
+    },
+    {
+      "key": "10.3233/SW-223041_ref2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3460231.3474243"
+    },
+    {
+      "key": "10.3233/SW-223041_ref3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.18653/v1/D19-1118"
+    },
+    {
+      "key": "10.3233/SW-223041_ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-540-76298-0_52"
+    },
+    {
+      "key": "10.3233/SW-223041_ref5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICDMW.2012.49"
+    },
+    {
+      "key": "10.3233/SW-223041_ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3308558.3313504"
+    },
+    {
+      "issue": "6",
+      "key": "10.3233/SW-223041_ref7",
+      "doi-asserted-by": "publisher",
+      "first-page": "54",
+      "DOI": "10.1145/3209581",
+      "article-title": "Bias on the web",
+      "volume": "61",
+      "author": "Baeza-Yates",
+      "year": "2018",
+      "journal-title": "Communications of the ACM"
+    },
+    {
+      "issue": "37",
+      "key": "10.3233/SW-223041_ref8",
+      "doi-asserted-by": "publisher",
+      "first-page": "9216",
+      "DOI": "10.1073/pnas.1804840115",
+      "article-title": "Exposure to opposing views on social media can increase political polarization",
+      "volume": "115",
+      "author": "Bail",
+      "year": "2018",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "key": "10.3233/SW-223041_ref9",
+      "first-page": "671",
+      "article-title": "Big data’s disparate impact",
+      "volume": "104",
+      "author": "Barocas",
+      "year": "2016",
+      "journal-title": "Calif. L. Rev."
+    },
+    {
+      "key": "10.3233/SW-223041_ref10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3442188.3445922"
+    },
+    {
+      "key": "10.3233/SW-223041_ref11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-60960-593-3.ch008"
+    },
+    {
+      "key": "10.3233/SW-223041_ref12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.18653/v1/2020.acl-main.485"
+    },
+    {
+      "issue": "4",
+      "key": "10.3233/SW-223041_ref13",
+      "doi-asserted-by": "publisher",
+      "first-page": "571",
+      "DOI": "10.1016/j.jss.2006.07.009",
+      "article-title": "Lessons from applying the systematic literature review process within the software engineering domain",
+      "volume": "80",
+      "author": "Brereton",
+      "year": "2007",
+      "journal-title": "Journal of systems and software"
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223041_ref15",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1186/s12859-018-2565-8",
+      "article-title": "Evaluation of knowledge graph embedding approaches for drug-drug interaction prediction in realistic settings",
+      "volume": "20",
+      "author": "Celebi",
+      "year": "2019",
+      "journal-title": "BMC bioinformatics"
+    },
+    {
+      "key": "10.3233/SW-223041_ref16",
+      "unstructured": "N. Chah and P. Andritsos, WikiMetaData studio: Dashboards from data profiling the languages, properties, and items of Wikidata, in: Proceedings of the 2nd Wikidata Workshop (Wikidata 2021) Co-Located with the 20th International Semantic Web Conference (ISWC 2021), 2021."
+    },
+    {
+      "key": "10.3233/SW-223041_ref17",
+      "first-page": "79",
+      "volume-title": "A Study of the Sense Annotation Process: Man v/s Machine., in: GWC 2012 6th International Global Wordnet Conference",
+      "author": "Chatterjee",
+      "year": "2012"
+    },
+    {
+      "key": "10.3233/SW-223041_ref18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2535525"
+    },
+    {
+      "issue": "9",
+      "key": "10.3233/SW-223041_ref19",
+      "doi-asserted-by": "publisher",
+      "first-page": "10733",
+      "DOI": "10.1007/s11042-017-4932-2",
+      "article-title": "Semantic image retrieval for complex queries using a knowledge parser",
+      "volume": "77",
+      "author": "Chen",
+      "year": "2018",
+      "journal-title": "Multimedia Tools and Applications"
+    },
+    {
+      "key": "10.3233/SW-223041_ref20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.18653/v1/D19-1189"
+    },
+    {
+      "key": "10.3233/SW-223041_ref21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Z. Chen, J. Chen, Y. Geng, J.Z. Pan, Z. Yuan and H. Chen, Zero-shot visual question answering using knowledge graph, in: International Semantic Web Conference, Springer, 2021, pp. 146–162.",
+      "DOI": "10.1007/978-3-030-88361-4_9"
+    },
+    {
+      "key": "10.3233/SW-223041_ref22",
+      "unstructured": "E. da Costa Ramosº, M.L.M. Campos, F. Baião and R. Guizzardiº, Extending the Core Ontology on Decision Making According to Behavioral Economics, 2021."
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223041_ref23",
+      "doi-asserted-by": "publisher",
+      "first-page": "183",
+      "DOI": "10.3233/SW-150182",
+      "article-title": "The open university linked data–data",
+      "volume": "7",
+      "author": "Daga",
+      "year": "2016",
+      "journal-title": "open. ac. uk, Semantic Web"
+    },
+    {
+      "key": "10.3233/SW-223041_ref24",
+      "doi-asserted-by": "publisher",
+      "first-page": "300",
+      "DOI": "10.1016/j.neucom.2020.12.083",
+      "article-title": "A divide-and-conquer approach to neural natural language generation from structured data",
+      "volume": "433",
+      "author": "Dethlefs",
+      "year": "2021",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "key": "10.3233/SW-223041_ref25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-77385-4_30"
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223041_ref27",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1186/s12859-020-03881-z",
+      "article-title": "Large-scale labeling and assessment of sex bias in publicly available expression data",
+      "volume": "22",
+      "author": "Flynn",
+      "year": "2021",
+      "journal-title": "BMC bioinformatics"
+    },
+    {
+      "issue": "4",
+      "key": "10.3233/SW-223041_ref28",
+      "doi-asserted-by": "publisher",
+      "first-page": "136",
+      "DOI": "10.1145/3433949",
+      "article-title": "The (im) possibility of fairness: Different value systems require different mechanisms for fair decision making",
+      "volume": "64",
+      "author": "Friedler",
+      "year": "2021",
+      "journal-title": "Communications of the ACM"
+    },
+    {
+      "key": "10.3233/SW-223041_ref29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3397271.3401051"
+    },
+    {
+      "key": "10.3233/SW-223041_ref31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "A.L. Garrido, M.G. Buey, G. Muñoz and J.-L. Casado-Rubio, Information extraction on weather forecasts with semantic technologies, in: International Conference on Applications of Natural Language to Information Systems, Springer, 2016, pp. 140–151.",
+      "DOI": "10.1007/978-3-319-41754-7_12"
+    },
+    {
+      "key": "10.3233/SW-223041_ref33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3409256.3409834"
+    },
+    {
+      "key": "10.3233/SW-223041_ref34",
+      "first-page": "85",
+      "article-title": "Action type induction from multilingual lexical features",
+      "volume": "63",
+      "author": "Gregori",
+      "year": "2019",
+      "journal-title": "Procesamiento del Lenguaje Natural"
+    },
+    {
+      "key": "10.3233/SW-223041_ref35",
+      "doi-asserted-by": "publisher",
+      "first-page": "1963",
+      "DOI": "10.1007/978-0-387-39940-9_1318",
+      "article-title": "Ontology",
+      "volume": "1",
+      "author": "Gruber",
+      "year": "2009",
+      "journal-title": "Encyclopedia of database systems"
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223041_ref37",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/978-3-031-01918-0",
+      "article-title": "Knowledge graphs",
+      "volume": "12",
+      "author": "Hogan",
+      "year": "2021",
+      "journal-title": "Synthesis Lectures on Data, Semantics, and Knowledge"
+    },
+    {
+      "key": "10.3233/SW-223041_ref38",
+      "doi-asserted-by": "publisher",
+      "first-page": "28",
+      "DOI": "10.1016/j.inffus.2021.01.008",
+      "article-title": "Towards multi-modal causability with graph neural networks enabling information fusion for explainable AI",
+      "volume": "71",
+      "author": "Holzinger",
+      "year": "2021",
+      "journal-title": "Information Fusion"
+    },
+    {
+      "key": "10.3233/SW-223041_ref39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "F. Huang, Z. Li, S. Chen, C. Zhang and H. Ma, Image captioning with internal and external knowledge, in: Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020, pp. 535–544.",
+      "DOI": "10.1145/3340531.3411948"
+    },
+    {
+      "key": "10.3233/SW-223041_ref40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "A. Huizing, C. Veenman, M. Neerincx and J. Dijk, Hybrid AI: The way forward in AI by developing four dimensions, in: International Workshop on the Foundations of Trustworthy AI Integrating Learning, Optimization and Reasoning, Springer, 2020, pp. 71–76.",
+      "DOI": "10.1007/978-3-030-73959-1_6"
+    },
+    {
+      "key": "10.3233/SW-223041_ref41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "R.T. Icarte, J.A. Baier, C. Ruz and A. Soto, How a general-purpose commonsense ontology can improve performance of learning-based image retrieval, in: Proceedings of the 26th International Joint Conference on Artificial Intelligence, IJCAI’17, AAAI Press, 2017, pp. 1283–1289. ISBN 9780999241103.",
+      "DOI": "10.24963/ijcai.2017/178"
+    },
+    {
+      "key": "10.3233/SW-223041_ref42",
+      "unstructured": "K. Janowicz, B. Yan, B. Regalia, R. Zhu and G. Mai, Debiasing knowledge graphs: Why female presidents are not like female popes, in: International Semantic Web Conference (P&D/Industry/BlueSky), 2018."
+    },
+    {
+      "key": "10.3233/SW-223041_ref43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2733373.2806246"
+    },
+    {
+      "issue": "1",
+      "key": "10.3233/SW-223041_ref44",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s10115-011-0463-8",
+      "article-title": "Data preprocessing techniques for classification without discrimination",
+      "volume": "33",
+      "author": "Kamiran",
+      "year": "2012",
+      "journal-title": "Knowledge and information systems"
+    },
+    {
+      "key": "10.3233/SW-223041_ref45",
+      "unstructured": "C.M. Keet, An exploration into cognitive bias in ontologies, in: Proceedings of the Fifth Workshop on Cognition and OntologieS, 2021."
+    },
+    {
+      "key": "10.3233/SW-223041_ref46",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-03260-3_9"
+    },
+    {
+      "key": "10.3233/SW-223041_ref47",
+      "doi-asserted-by": "crossref",
+      "unstructured": "G.K. Koduri, Culture-aware approaches to modeling and description of intonation using multimodal data, in: International Conference on Knowledge Engineering and Knowledge Management, Springer, 2014, pp. 209–217.",
+      "DOI": "10.1007/978-3-319-17966-7_30"
+    },
+    {
+      "key": "10.3233/SW-223041_ref48",
+      "doi-asserted-by": "crossref",
+      "unstructured": "B. Kruit, P. Boncz and J. Urbani, Extracting novel facts from tables for knowledge graph completion, in: International Semantic Web Conference, Springer, 2019, pp. 364–381.",
+      "DOI": "10.1007/978-3-030-30793-6_21"
+    },
+    {
+      "key": "10.3233/SW-223041_ref49",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/BigComp48618.2020.00-39"
+    },
+    {
+      "key": "10.3233/SW-223041_ref50",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.isci.2021.102249"
+    },
+    {
+      "key": "10.3233/SW-223041_ref51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "F. Liu, X. Wu, S. Ge, W. Fan and Y. Zou, Exploring and distilling posterior and prior knowledge for radiology report generation, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 13753–13762.",
+      "DOI": "10.1109/CVPR46437.2021.01354"
+    },
+    {
+      "issue": "4",
+      "key": "10.3233/SW-223041_ref52",
+      "doi-asserted-by": "publisher",
+      "first-page": "211",
+      "DOI": "10.1023/B:BTTJ.0000047600.45421.6d",
+      "article-title": "ConceptNet—a practical commonsense reasoning tool-kit",
+      "volume": "22",
+      "author": "Liu",
+      "year": "2004",
+      "journal-title": "BT technology journal"
+    },
+    {
+      "key": "10.3233/SW-223041_ref53",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CogSIMA.2014.6816616"
+    },
+    {
+      "key": "10.3233/SW-223041_ref54",
+      "doi-asserted-by": "crossref",
+      "unstructured": "R. Ludolph, A. Allam, P.J. Schulz et al., Manipulating Google’s knowledge graph box to counter biased information processing during an online search on vaccination: Application of a technological debiasing strategy, Journal of medical Internet research 18(6) (2016), e5430.",
+      "DOI": "10.2196/jmir.5430"
+    },
+    {
+      "key": "10.3233/SW-223041_ref55",
+      "unstructured": "R. Mac, An tsaoir, using spreading activation to evaluate and improve ontologies, in: Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers, 2014, pp. 2237–2248."
+    },
+    {
+      "issue": "6",
+      "key": "10.3233/SW-223041_ref56",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1145/3457607",
+      "article-title": "A survey on bias and fairness in machine learning",
+      "volume": "54",
+      "author": "Mehrabi",
+      "year": "2021",
+      "journal-title": "ACM Computing Surveys (CSUR)"
+    },
+    {
+      "key": "10.3233/SW-223041_ref57",
+      "unstructured": "M. Mensio, E. Bastianelli, I. Tiddi and G. Rizzo, Mitigating bias in deep nets with knowledge bases: The case of natural language understanding for robots, in: AAAI Spring Symposium: Combining Machine Learning with Knowledge Engineering (1), 2020."
+    },
+    {
+      "key": "10.3233/SW-223041_ref58",
+      "unstructured": "G.A. Miller, WordNet: An Electronic Lexical Database, MIT Press, 1998."
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223041_ref60",
+      "doi-asserted-by": "publisher",
+      "first-page": "141",
+      "DOI": "10.1017/epi.2018.32",
+      "article-title": "Echo chambers and epistemic bubbles",
+      "volume": "17",
+      "author": "Nguyen",
+      "year": "2020",
+      "journal-title": "Episteme"
+    },
+    {
+      "key": "10.3233/SW-223041_ref61",
+      "doi-asserted-by": "crossref",
+      "unstructured": "A. Nikolov and M. d’Aquin, Uncovering semantic bias in neural network models using a knowledge graph, in: Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020, pp. 1175–1184.",
+      "DOI": "10.1145/3340531.3412009"
+    },
+    {
+      "key": "10.3233/SW-223041_ref62",
+      "doi-asserted-by": "crossref",
+      "unstructured": "E. Ntoutsi, P. Fafalios, U. Gadiraju, V. Iosifidis, W. Nejdl, M.-E. Vidal, S. Ruggieri, F. Turini, S. Papadopoulos, E. Krasanakis et al., Bias in data-driven artificial intelligence systems—an introductory survey, Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 10(3) (2020), e1356.",
+      "DOI": "10.1002/widm.1356"
+    },
+    {
+      "key": "10.3233/SW-223041_ref64",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fdata.2019.00013"
+    },
+    {
+      "key": "10.3233/SW-223041_ref65",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.eswa.2020.113235"
+    },
+    {
+      "key": "10.3233/SW-223041_ref66",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-92916-9_8"
+    },
+    {
+      "key": "10.3233/SW-223041_ref67",
+      "unstructured": "M. Pavlícek, T. Filip and P. Sosí k, ZREC Architecture for Textual Sentiment Analysis, 2021."
+    },
+    {
+      "key": "10.3233/SW-223041_ref68",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.infsof.2015.03.007",
+      "article-title": "Guidelines for conducting systematic mapping studies in software engineering: An update",
+      "volume": "64",
+      "author": "Petersen",
+      "year": "2015",
+      "journal-title": "Information and software technology"
+    },
+    {
+      "key": "10.3233/SW-223041_ref69",
+      "unstructured": "W. Radstok, M. Chekol, M. Schaefer et al., Are knowledge graph embedding models biased, or is it the data that they are trained on? in: Wikidata Workshop 2021 Co-Located with the 20th International Semantic Web Conference (ISWC 2021), 2021."
+    },
+    {
+      "key": "10.3233/SW-223041_ref70",
+      "unstructured": "F. Richter and M. Sailer, Basic Concepts of Lexical Resource Semantics, 2003."
+    },
+    {
+      "key": "10.3233/SW-223041_ref71",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3106426.3106435"
+    },
+    {
+      "issue": "2",
+      "key": "10.3233/SW-223041_ref72",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1145/3424672",
+      "article-title": "Knowledge graph embedding for link prediction: A comparative analysis",
+      "volume": "15",
+      "author": "Rossi",
+      "year": "2021",
+      "journal-title": "ACM Transactions on Knowledge Discovery from Data (TKDD)"
+    },
+    {
+      "key": "10.3233/SW-223041_ref73",
+      "doi-asserted-by": "publisher",
+      "first-page": "9",
+      "DOI": "10.1007/978-0-85729-724-2_2",
+      "volume-title": "An Introduction to Ontologies and Ontology Engineering, in: Ontologies in Urban Development Projects",
+      "author": "Roussey",
+      "year": "2011"
+    },
+    {
+      "key": "10.3233/SW-223041_ref74",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2854946.2854958"
+    },
+    {
+      "issue": "3",
+      "key": "10.3233/SW-223041_ref75",
+      "doi-asserted-by": "publisher",
+      "first-page": "353",
+      "DOI": "10.3233/SW-150188",
+      "article-title": "Semantic abstraction for generalization of tweet classification: An evaluation of incident-related tweets",
+      "volume": "8",
+      "author": "Schulz",
+      "year": "2017",
+      "journal-title": "Semantic Web"
+    },
+    {
+      "key": "10.3233/SW-223041_ref76",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/EMS.2014.15"
+    },
+    {
+      "key": "10.3233/SW-223041_ref78",
+      "doi-asserted-by": "crossref",
+      "unstructured": "A. Soulet, A. Giacometti, B. Markhoff and F.M. Suchanek, Representativeness of knowledge bases with the generalized Benford’s law, in: International Semantic Web Conference, Springer, 2018, pp. 374–390.",
+      "DOI": "10.1007/978-3-030-00671-6_22"
+    },
+    {
+      "key": "10.3233/SW-223041_ref79",
+      "doi-asserted-by": "crossref",
+      "unstructured": "D. Stepanova, M.H. Gad-Elrab and V.T. Ho, Rule induction and reasoning over knowledge graphs, in: Reasoning Web International Summer School, Springer, 2018, pp. 142–172.",
+      "DOI": "10.1007/978-3-030-00338-8_6"
+    },
+    {
+      "key": "10.3233/SW-223041_ref80",
+      "unstructured": "G. Tecuci, D. Schum, D. Marcu and M. Boicu, Recognizing and countering biases in intelligence analysis with TIACRITIS, in: STIDS, Citeseer, 2013, pp. 25–32."
+    },
+    {
+      "key": "10.3233/SW-223041_ref81",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-12320-7_13"
+    },
+    {
+      "key": "10.3233/SW-223041_ref82",
+      "doi-asserted-by": "publisher",
+      "first-page": "203",
+      "DOI": "10.1016/j.artint.2012.06.002",
+      "article-title": "Wikipedia-based WSD for multilingual frame annotation",
+      "volume": "194",
+      "author": "Tonelli",
+      "year": "2013",
+      "journal-title": "Artificial Intelligence"
+    },
+    {
+      "key": "10.3233/SW-223041_ref83",
+      "unstructured": "P. Vougiouklis, E. Maddalena, J.S. Hare and E. Simperl, How biased is your NLG evaluation? (short paper), in: Proceedings of the 1st Workshop on Subjectivity, Ambiguity and Disagreement in Crowdsourcing, and Short Paper Proceedings of the 1st Workshop on Disentangling the Relation Between Crowdsourcing and Bias Management (SAD 2018 and CrowdBias 2018) Co-Located the 6th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2018), Zürich, Switzerland, July 5, 2018, L. Aroyo, A. Dumitrache, P.K. Paritosh, A.J. Quinn, C. Welty, A. Checco, G. Demartini, U. Gadiraju and C. Sarasua, eds, CEUR Workshop Proceedings, Vol. 2276, CEUR-WS.org, 2018, pp. 72–77, http://ceur-ws.org/Vol-2276/paper8.pdf."
+    },
+    {
+      "issue": "10",
+      "key": "10.3233/SW-223041_ref84",
+      "doi-asserted-by": "publisher",
+      "first-page": "78",
+      "DOI": "10.1145/2629489",
+      "article-title": "Wikidata: A free collaborative knowledgebase",
+      "volume": "57",
+      "author": "Vrandečić",
+      "year": "2014",
+      "journal-title": "Commun. ACM"
+    },
+    {
+      "key": "10.3233/SW-223041_ref85",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3366423.3380098"
+    },
+    {
+      "key": "10.3233/SW-223041_ref87",
+      "unstructured": "C.T. Wolf, From knowledge graphs to knowledge practices: On the need for transparency and explainability in enterprise knowledge graph applications, in: Proceedings of the KG-BIAS Workshop 2020 at AKBC 2020, 2020."
+    },
+    {
+      "key": "10.3233/SW-223041_ref88",
+      "doi-asserted-by": "publisher",
+      "first-page": "100",
+      "DOI": "10.1016/j.knosys.2014.04.043",
+      "article-title": "Using relation selection to improve value propagation in a conceptnet-based sentiment dictionary",
+      "volume": "69",
+      "author": "Wu",
+      "year": "2014",
+      "journal-title": "Knowledge-Based Systems"
+    },
+    {
+      "key": "10.3233/SW-223041_ref89",
+      "doi-asserted-by": "crossref",
+      "unstructured": "X. Zou, A survey on application of knowledge graph, Journal of Physics: Conference Series 1487 (2020), 012016.",
+      "DOI": "10.1088/1742-6596/1487/1/012016"
+    }
+  ],
+  "container-title": [
+    "Semantic Web"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://content.iospress.com/download?id=10.3233/SW-223041",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2025-03-11T06:14:16Z",
+    "timestamp": 1741673656000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/full/10.3233/SW-223041"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Dagmar",
+      "family": "Gromann",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Vienna, Austria"
+        }
+      ]
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        24
+      ]
+    ]
+  },
+  "references-count": 80,
+  "journal-issue": {
+    "issue": "4"
+  },
+  "URL": "https://doi.org/10.3233/sw-223041",
+  "relation": {},
+  "ISSN": [
+    "2210-4968",
+    "1570-0844"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2210-4968"
+    },
+    {
+      "type": "print",
+      "value": "1570-0844"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        24
+      ]
+    ]
+  }
+}

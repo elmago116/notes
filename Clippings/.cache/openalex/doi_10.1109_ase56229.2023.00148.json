@@ -1,0 +1,950 @@
+{
+  "id": "https://openalex.org/W4388483618",
+  "doi": "https://doi.org/10.1109/ase56229.2023.00148",
+  "title": "Towards Autonomous Testing Agents via Conversational Large Language Models",
+  "display_name": "Towards Autonomous Testing Agents via Conversational Large Language Models",
+  "publication_year": 2023,
+  "publication_date": "2023-09-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4388483618",
+    "doi": "https://doi.org/10.1109/ase56229.2023.00148"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/ase56229.2023.00148",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4363608212",
+      "display_name": "2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "proceedings-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "http://arxiv.org/pdf/2306.05152",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5063787358",
+        "display_name": "Robert Feldt",
+        "orcid": "https://orcid.org/0000-0002-5179-4205"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Feldt",
+      "raw_affiliation_strings": [
+        "Chalmers University of Technology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101607518",
+        "display_name": "Sungmin Kang",
+        "orcid": "https://orcid.org/0000-0002-0298-5320"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099236",
+          "display_name": "Kootenay Association for Science & Technology",
+          "ror": "https://ror.org/011pv9p44",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210099236"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I157485424",
+          "display_name": "Korea Advanced Institute of Science and Technology",
+          "ror": "https://ror.org/05apxxy63",
+          "country_code": "KR",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sungmin Kang",
+      "raw_affiliation_strings": [
+        "KAIST"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "KAIST",
+          "institution_ids": [
+            "https://openalex.org/I4210099236",
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101316400",
+        "display_name": "Juyeon Yoon",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099236",
+          "display_name": "Kootenay Association for Science & Technology",
+          "ror": "https://ror.org/011pv9p44",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210099236"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I157485424",
+          "display_name": "Korea Advanced Institute of Science and Technology",
+          "ror": "https://ror.org/05apxxy63",
+          "country_code": "KR",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juyeon Yoon",
+      "raw_affiliation_strings": [
+        "KAIST"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "KAIST",
+          "institution_ids": [
+            "https://openalex.org/I4210099236",
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5070401254",
+        "display_name": "Shin Yoo",
+        "orcid": "https://orcid.org/0000-0002-0836-6993"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099236",
+          "display_name": "Kootenay Association for Science & Technology",
+          "ror": "https://ror.org/011pv9p44",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210099236"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I157485424",
+          "display_name": "Korea Advanced Institute of Science and Technology",
+          "ror": "https://ror.org/05apxxy63",
+          "country_code": "KR",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ],
+      "countries": [
+        "CA",
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shin Yoo",
+      "raw_affiliation_strings": [
+        "KAIST"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "KAIST",
+          "institution_ids": [
+            "https://openalex.org/I4210099236",
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 8.911,
+  "has_fulltext": false,
+  "cited_by_count": 23,
+  "citation_normalized_percentile": {
+    "value": 0.992308,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 98
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10743",
+    "display_name": "Software Testing and Debugging Techniques",
+    "score": 0.9994,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1712",
+      "display_name": "Software"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10743",
+      "display_name": "Software Testing and Debugging Techniques",
+      "score": 0.9994,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "score": 0.9991,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10430",
+      "display_name": "Software Engineering Techniques and Practices",
+      "score": 0.9888,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/test-strategy",
+      "display_name": "Test strategy",
+      "score": 0.5870459
+    },
+    {
+      "id": "https://openalex.org/keywords/software-testing",
+      "display_name": "Software testing",
+      "score": 0.47528496
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.67858386
+    },
+    {
+      "id": "https://openalex.org/C188598960",
+      "wikidata": "https://www.wikidata.org/wiki/Q7705805",
+      "display_name": "Test strategy",
+      "level": 3,
+      "score": 0.5870459
+    },
+    {
+      "id": "https://openalex.org/C65414064",
+      "wikidata": "https://www.wikidata.org/wiki/Q484105",
+      "display_name": "Autonomy",
+      "level": 2,
+      "score": 0.5465247
+    },
+    {
+      "id": "https://openalex.org/C2984328558",
+      "wikidata": "https://www.wikidata.org/wiki/Q188522",
+      "display_name": "Software testing",
+      "level": 3,
+      "score": 0.47528496
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.4692115
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.45428395
+    },
+    {
+      "id": "https://openalex.org/C195094911",
+      "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+      "display_name": "Process management",
+      "level": 1,
+      "score": 0.35944146
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.3526151
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.3329684
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.3268134
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.32322907
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.15824154
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.11119971
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.08389893
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/ase56229.2023.00148",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4363608212",
+        "display_name": "2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "conference"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2306.05152",
+      "pdf_url": "http://arxiv.org/pdf/2306.05152",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [
+          "Cornell University"
+        ],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2306.05152",
+    "pdf_url": "http://arxiv.org/pdf/2306.05152",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [
+        "Cornell University"
+      ],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.4,
+      "display_name": "Quality education"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 32,
+  "referenced_works": [
+    "https://openalex.org/W1928882148",
+    "https://openalex.org/W2077258409",
+    "https://openalex.org/W2098639318",
+    "https://openalex.org/W2165693128",
+    "https://openalex.org/W2242274110",
+    "https://openalex.org/W2603119212",
+    "https://openalex.org/W2963555128",
+    "https://openalex.org/W2964203871",
+    "https://openalex.org/W3001193088",
+    "https://openalex.org/W3001279689",
+    "https://openalex.org/W3105739932",
+    "https://openalex.org/W3118781290",
+    "https://openalex.org/W3168867926",
+    "https://openalex.org/W3195128168",
+    "https://openalex.org/W419646410",
+    "https://openalex.org/W4210903183",
+    "https://openalex.org/W4225522867",
+    "https://openalex.org/W4225591000",
+    "https://openalex.org/W4304195432",
+    "https://openalex.org/W4308643065",
+    "https://openalex.org/W4309591663",
+    "https://openalex.org/W4309674289",
+    "https://openalex.org/W4360836968",
+    "https://openalex.org/W4361866031",
+    "https://openalex.org/W4362679230",
+    "https://openalex.org/W4377130677",
+    "https://openalex.org/W4378505261",
+    "https://openalex.org/W4378676756",
+    "https://openalex.org/W4384345688",
+    "https://openalex.org/W4384345748",
+    "https://openalex.org/W4387835442",
+    "https://openalex.org/W4392669753"
+  ],
+  "related_works": [
+    "https://openalex.org/W4285709722",
+    "https://openalex.org/W3176274227",
+    "https://openalex.org/W3091993250",
+    "https://openalex.org/W3089971865",
+    "https://openalex.org/W2913502950",
+    "https://openalex.org/W2152262712",
+    "https://openalex.org/W2090301720",
+    "https://openalex.org/W2008194781",
+    "https://openalex.org/W1508278887",
+    "https://openalex.org/W1500002858"
+  ],
+  "abstract_inverted_index": {
+    "Software": [
+      0
+    ],
+    "testing": [
+      1,
+      41,
+      52,
+      67,
+      95,
+      106,
+      132
+    ],
+    "is": [
+      2,
+      97
+    ],
+    "an": [
+      3
+    ],
+    "important": [
+      4
+    ],
+    "part": [
+      5
+    ],
+    "of": [
+      6,
+      25,
+      28,
+      58,
+      65,
+      73,
+      81,
+      91,
+      118
+    ],
+    "the": [
+      7,
+      26,
+      51,
+      56,
+      114
+    ],
+    "development": [
+      8
+    ],
+    "cycle,": [
+      9
+    ],
+    "yet": [
+      10
+    ],
+    "it": [
+      11
+    ],
+    "requires": [
+      12
+    ],
+    "specialized": [
+      13
+    ],
+    "expertise": [
+      14
+    ],
+    "and": [
+      15,
+      43,
+      48,
+      75,
+      136
+    ],
+    "substantial": [
+      16
+    ],
+    "developer": [
+      17
+    ],
+    "effort": [
+      18
+    ],
+    "to": [
+      19,
+      99
+    ],
+    "adequately": [
+      20
+    ],
+    "test": [
+      21
+    ],
+    "software.": [
+      22
+    ],
+    "Recent": [
+      23
+    ],
+    "discoveries": [
+      24
+    ],
+    "capabilities": [
+      27
+    ],
+    "large": [
+      29
+    ],
+    "language": [
+      30
+    ],
+    "models": [
+      31
+    ],
+    "(LLMs)": [
+      32
+    ],
+    "suggest": [
+      33
+    ],
+    "that": [
+      34,
+      130
+    ],
+    "they": [
+      35
+    ],
+    "can": [
+      36,
+      83,
+      107,
+      120,
+      134
+    ],
+    "be": [
+      37,
+      121
+    ],
+    "used": [
+      38
+    ],
+    "as": [
+      39,
+      93
+    ],
+    "automated": [
+      40
+    ],
+    "assistants,": [
+      42
+    ],
+    "thus": [
+      44
+    ],
+    "provide": [
+      45
+    ],
+    "helpful": [
+      46
+    ],
+    "information": [
+      47
+    ],
+    "even": [
+      49
+    ],
+    "drive": [
+      50
+    ],
+    "process.": [
+      53
+    ],
+    "To": [
+      54
+    ],
+    "highlight": [
+      55
+    ],
+    "potential": [
+      57,
+      139
+    ],
+    "this": [
+      59
+    ],
+    "technology,": [
+      60
+    ],
+    "we": [
+      61
+    ],
+    "present": [
+      62
+    ],
+    "a": [
+      63,
+      78,
+      94,
+      102
+    ],
+    "taxonomy": [
+      64
+    ],
+    "LLM-based": [
+      66
+    ],
+    "agents": [
+      68,
+      133
+    ],
+    "based": [
+      69
+    ],
+    "on": [
+      70
+    ],
+    "their": [
+      71
+    ],
+    "level": [
+      72,
+      80
+    ],
+    "autonomy,": [
+      74
+    ],
+    "describe": [
+      76
+    ],
+    "how": [
+      77,
+      101,
+      113
+    ],
+    "greater": [
+      79
+    ],
+    "autonomy": [
+      82
+    ],
+    "benefit": [
+      84
+    ],
+    "developers": [
+      85
+    ],
+    "in": [
+      86
+    ],
+    "practice.": [
+      87
+    ],
+    "An": [
+      88
+    ],
+    "example": [
+      89
+    ],
+    "use": [
+      90
+    ],
+    "LLMs": [
+      92,
+      119
+    ],
+    "assistant": [
+      96
+    ],
+    "provided": [
+      98
+    ],
+    "demonstrate": [
+      100
+    ],
+    "conversational": [
+      103
+    ],
+    "framework": [
+      104
+    ],
+    "for": [
+      105,
+      123
+    ],
+    "help": [
+      108
+    ],
+    "developers.": [
+      109
+    ],
+    "This": [
+      110
+    ],
+    "also": [
+      111,
+      137
+    ],
+    "highlights": [
+      112
+    ],
+    "often": [
+      115
+    ],
+    "criticized": [
+      116
+    ],
+    "\"hallucination\"": [
+      117
+    ],
+    "beneficial": [
+      122
+    ],
+    "testing.": [
+      124
+    ],
+    "We": [
+      125
+    ],
+    "identify": [
+      126
+    ],
+    "other": [
+      127
+    ],
+    "tangible": [
+      128
+    ],
+    "benefits": [
+      129
+    ],
+    "LLM-driven": [
+      131
+    ],
+    "bestow,": [
+      135
+    ],
+    "discuss": [
+      138
+    ],
+    "limitations.": [
+      140
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4388483618",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-08-17T22:09:09.894389",
+  "created_date": "2023-11-09"
+}

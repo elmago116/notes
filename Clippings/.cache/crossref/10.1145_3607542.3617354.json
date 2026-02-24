@@ -1,0 +1,187 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        2
+      ]
+    ],
+    "date-time": "2025-07-02T16:41:42Z",
+    "timestamp": 1751474502663,
+    "version": "3.41.0"
+  },
+  "publisher-location": "New York, NY, USA",
+  "reference-count": 0,
+  "publisher": "ACM",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            29
+          ]
+        ],
+        "date-time": "2023-10-29T00:00:00Z",
+        "timestamp": 1698537600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+    }
+  ],
+  "funder": [
+    {
+      "name": "NWO",
+      "award": [
+        "NWA.1292.19.419"
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "dl.acm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1145/3607542.3617354",
+  "type": "proceedings-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        25
+      ]
+    ],
+    "date-time": "2023-10-25T00:07:32Z",
+    "timestamp": 1698192452000
+  },
+  "page": "3-3",
+  "update-policy": "https://doi.org/10.1145/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Knowledge Graphs for Cultural Heritage and Digital Humanities"
+  ],
+  "prefix": "10.1145",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-9079-039X",
+      "authenticated-orcid": false,
+      "given": "Victor",
+      "family": "de Boer",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Vrije Universiteit Amsterdam, Amsterdam, Netherlands"
+        }
+      ]
+    }
+  ],
+  "member": "320",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        29
+      ]
+    ]
+  },
+  "event": {
+    "name": "MM '23: The 31st ACM International Conference on Multimedia",
+    "sponsor": [
+      "SIGMM ACM Special Interest Group on Multimedia"
+    ],
+    "location": "Ottawa ON Canada",
+    "acronym": "MM '23"
+  },
+  "container-title": [
+    "Proceedings of the 5th Workshop on analySis, Understanding and proMotion of heritAge Contents"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://dl.acm.org/doi/10.1145/3607542.3617354",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://dl.acm.org/doi/pdf/10.1145/3607542.3617354",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        17
+      ]
+    ],
+    "date-time": "2025-06-17T16:36:28Z",
+    "timestamp": 1750178188000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dl.acm.org/doi/10.1145/3607542.3617354"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        29
+      ]
+    ]
+  },
+  "references-count": 0,
+  "alternative-id": [
+    "10.1145/3607542.3617354",
+    "10.1145/3607542"
+  ],
+  "URL": "https://doi.org/10.1145/3607542.3617354",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        29
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2023-10-29",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

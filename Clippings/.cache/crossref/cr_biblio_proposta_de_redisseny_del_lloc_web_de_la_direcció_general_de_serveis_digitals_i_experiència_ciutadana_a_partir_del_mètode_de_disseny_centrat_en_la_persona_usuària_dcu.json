@@ -1,0 +1,1160 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          6
+        ]
+      ],
+      "date-time": "2022-04-06T00:50:23Z",
+      "timestamp": 1649206223453
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Dykinson",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.2307/j.ctv282jj79.8",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2022-01-22T20:27:51Z",
+      "timestamp": 1642883271000
+    },
+    "page": "105-250",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "IDENTIFICACIÓN DEL OBJETO DEL REGISTRO DE ASOCIACIONES A PARTIR DE LA TEORÍA DE LA PERSONA JURÍDICA Y LA CARACTERIZACIÓN DEL REGISTRO DE ASOCIACIONES EN EL CONTEXTO DE LOS REGISTROS PÚBLICOS DE PERSONAS"
+    ],
+    "prefix": "10.2307",
+    "member": "1121",
+    "container-title": [
+      "El registro de asociaciones en la España constitucional."
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2022-01-22T20:28:00Z",
+      "timestamp": 1642883280000
+    },
+    "score": 71.46421,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstor.org/stable/10.2307/j.ctv282jj79.8"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.2307/j.ctv282jj79.8",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T00:04:35Z",
+      "timestamp": 1648598675432
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Dykinson",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.2307/j.ctv9zcj72.6",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2019-01-10T21:16:07Z",
+      "timestamp": 1547154967000
+    },
+    "page": "39-48",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "LA TRASCENDENCIA DEL PRINCIPIO PRO PERSONA Y EL RESPETO A LA CONVENCIONALIDAD DEL DERECHO A LA AUTODETERMINACIÓN REPRODUCTIVA DE LA MUJER EN EL ESTADO MEXICANO A PARTIR DE LA REFORMA CONSTITUCIONAL DE 10 DE JUNIO DE 2011"
+    ],
+    "prefix": "10.2307",
+    "member": "1121",
+    "container-title": [
+      "Tópicos acerca de la cultura y conocimiento jurídico del siglo XXI."
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2019-01-10T21:16:11Z",
+      "timestamp": 1547154971000
+    },
+    "score": 67.08322,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstor.org/stable/10.2307/j.ctv9zcj72.6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          18
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.2307/j.ctv9zcj72.6",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Pontificia Universidad Católica de Chile",
+        "acronym": [
+          "PUC"
+        ],
+        "department": [
+          "Facultad de Teología"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          8
+        ]
+      ],
+      "date-time": "2024-08-08T07:20:04Z",
+      "timestamp": 1723101604072
+    },
+    "reference-count": 0,
+    "publisher": "Pontificia Universidad Catolica de Chile",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>La presente investigación sistematiza la idea de libertad a partir de la vida y obra de Edith Stein, desde la comprensión trinitaria de la libertad como fundamento de la autoconfiguración humana. Se ha escogido a Stein por ser una autora integral y por su capacidad de tender puentes de diálogo entre los saberes. La temática de la tesis se desarrolló a partir de tres objetivos específicos: 1) El abordaje crítico del corpus steiniano, descubriendo la estructura de pensamiento y los nudos problemáticos esenciales presentes en toda la obra. 2) La profundización teológica del concepto de libertad. 3) La relevancia teológica de un estudio sobre la libertad humana a imagen de la libertad divina. De entre los frutos de esta investigación se puede destacar el aspecto trinitario que configura la libertad humana. Esto es, la libertad como experiencia vivida en relación, cuya fuerza vital es el Amor. Amor que permite la unión con Dios mediada por el Espíritu divino, que eleva al ser humano a la mutua entrega. Esa es la conquista del ser, auto-conquista que Dios quiere y espera de nosotros y que se alcanza mediante la experiencia relacional auxiliada por la gracia. Es decir, el modelo de la libertad es la Trinidad.</jats:p>",
+    "DOI": "10.7764/tesisuc/teo/66698",
+    "type": "dissertation",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          16
+        ]
+      ],
+      "date-time": "2024-04-16T13:37:26Z",
+      "timestamp": 1713274646000
+    },
+    "approved": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "La libertad como despliegue y autoconfiguración de la persona humana, al modo de la dinámica trinitaria del amor, en Edith Stein : elaboración teológico-sistemática a partir del corpus steiniano"
+    ],
+    "prefix": "10.7764",
+    "author": [
+      {
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haddy",
+        "family": "Bello D.",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4571",
+    "link": [
+      {
+        "URL": "https://repositorio.uc.cl/dspace/bitstreams/ddea5db2-c771-4ceb-b40e-9a03fcfbf5f2/download",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          16
+        ]
+      ],
+      "date-time": "2024-04-16T13:37:27Z",
+      "timestamp": 1713274647000
+    },
+    "score": 65.847855,
+    "degree": [
+      "Doctora en Teología"
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://repositorio.uc.cl/handle/11534/63609"
+      }
+    },
+    "editor": [
+      {
+        "name": "Pontificia Universidad Católica de Chile. Facultad de Teología",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7764/tesisuc/teo/66698"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2024-07-29T15:40:15Z",
+      "timestamp": 1722267615442
+    },
+    "reference-count": 0,
+    "publisher": "Universitat de Valencia",
+    "issue": "0",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mètode"
+    ],
+    "DOI": "10.7203/metode.0.4081",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ],
+      "date-time": "2014-11-17T11:17:31Z",
+      "timestamp": 1416223051000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Estadística en física de partícules: El seu paper en el descobriment del bosó de Higgs"
+    ],
+    "prefix": "10.7203",
+    "volume": "0",
+    "author": [
+      {
+        "given": "Fernando",
+        "family": "Martínez Vidal",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4247",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ]
+    },
+    "container-title": [
+      "Mètode Revista de difusió de la investigació"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2024-07-29T15:15:56Z",
+      "timestamp": 1722266156000
+    },
+    "score": 65.35517,
+    "resource": {
+      "primary": {
+        "URL": "https://ojs.uv.es/index.php/Metode/article/view/4081"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "0",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            11,
+            17
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7203/metode.0.4081",
+    "ISSN": [
+      "2174-9221",
+      "2174-3487"
+    ],
+    "issn-type": [
+      {
+        "value": "2174-9221",
+        "type": "electronic"
+      },
+      {
+        "value": "2174-3487",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Universitat Jaume I",
+        "acronym": [
+          "UJI"
+        ],
+        "place": [
+          "Castelló de la Plana"
+        ],
+        "department": [
+          "Escola de Doctorat"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T14:57:12Z",
+      "timestamp": 1648565832063
+    },
+    "reference-count": 0,
+    "publisher": "Universitat Jaume I",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.6035/14107.2021.762992",
+    "type": "dissertation",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2021-02-10T11:50:46Z",
+      "timestamp": 1612957846000
+    },
+    "approved": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          20
+        ]
+      ]
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Metodologia de recerca per a la definició del repte de disseny i les seves premisses basada en l’anàlisi ergonòmica i les eines del disseny"
+    ],
+    "prefix": "10.6035",
+    "author": [
+      {
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mireia",
+        "family": "Puig Poch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4077",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2021-02-10T11:50:46Z",
+      "timestamp": 1612957846000
+    },
+    "score": 65.29407,
+    "degree": [
+      "PhD"
+    ],
+    "resource": {
+      "primary": {
+        "URL": "http://hdl.handle.net/10803/670749"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.6035/14107.2021.762992"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          14
+        ]
+      ],
+      "date-time": "2024-03-14T00:47:04Z",
+      "timestamp": 1710377224784
+    },
+    "reference-count": 0,
+    "publisher": "Universitat Pompeu Fabra",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "RESERCLE"
+    ],
+    "abstract": "<jats:p>Quins són els materials adequats i com poden contribuir a promoure el desenvolupament d'una competència intercultural entre l'alumnat de llengua i cultura catalanes? L'experiència “Consulta una persona experta” ho resol apropant el coneixement i les vivències de persones expertes a l'aula a través de les videoconferències.</jats:p>",
+    "DOI": "10.31009/resercle.2022.08",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          13
+        ]
+      ],
+      "date-time": "2024-03-13T12:55:35Z",
+      "timestamp": 1710334535000
+    },
+    "page": "98-101",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "De l’aula a la persona experta: una experiència per a la didàctica de la cultura"
+    ],
+    "prefix": "10.31009",
+    "author": [
+      {
+        "given": "Júlia",
+        "family": "Llompart",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "14960",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "Resercle. Revista de la Societat d'Ensenyament i Recerca del català com a llengua estrangera"
+    ],
+    "link": [
+      {
+        "URL": "https://raco.cat/index.php/resercle/article/download/407258/503938",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://raco.cat/index.php/resercle/article/download/407258/503938",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          13
+        ]
+      ],
+      "date-time": "2024-03-13T12:55:44Z",
+      "timestamp": 1710334544000
+    },
+    "score": 64.53745,
+    "resource": {
+      "primary": {
+        "URL": "https://raco.cat/index.php/resercle/article/view/407258"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            13
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.31009/resercle.2022.08",
+    "ISSN": [
+      "2696-1210"
+    ],
+    "issn-type": [
+      {
+        "value": "2696-1210",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2024-07-29T15:40:11Z",
+      "timestamp": 1722267611857
+    },
+    "reference-count": 0,
+    "publisher": "Universitat de Valencia",
+    "issue": "0",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mètode"
+    ],
+    "DOI": "10.7203/metode.82.3492",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          31
+        ]
+      ],
+      "date-time": "2014-07-31T12:33:38Z",
+      "timestamp": 1406810018000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "La vida imaginaria del científico. El caso del cómic 'The Manhattan Projects'"
+    ],
+    "prefix": "10.7203",
+    "volume": "0",
+    "author": [
+      {
+        "given": "Francisco",
+        "family": "Sáez de Adana Herrero",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4247",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          29
+        ]
+      ]
+    },
+    "container-title": [
+      "Mètode Revista de difusió de la investigació"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2024-07-29T15:15:45Z",
+      "timestamp": 1722266145000
+    },
+    "score": 64.14611,
+    "resource": {
+      "primary": {
+        "URL": "http://ojs.uv.es/index.php/Metode/article/view/3492"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          29
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "0",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            7,
+            29
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7203/metode.82.3492",
+    "ISSN": [
+      "2174-9221",
+      "2174-3487"
+    ],
+    "issn-type": [
+      {
+        "value": "2174-9221",
+        "type": "electronic"
+      },
+      {
+        "value": "2174-3487",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ],
+      "date-time": "2025-06-12T17:05:29Z",
+      "timestamp": 1749747929713
+    },
+    "reference-count": 0,
+    "publisher": "Universidad de Lima",
+    "issue": "009",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Persona"
+    ],
+    "DOI": "10.26439/persona2006.n009.933",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2017-11-04T12:44:51Z",
+      "timestamp": 1509799491000
+    },
+    "page": "203",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Reflexiones acerca del desarrollo emocional de la madre, a partir de la obra de Winnicott"
+    ],
+    "prefix": "10.26439",
+    "volume": "0",
+    "author": [
+      {
+        "given": "Natalia",
+        "family": "Torres-Vilar",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "10978",
+    "published-online": {
+      "date-parts": [
+        [
+          2006,
+          11,
+          14
+        ]
+      ]
+    },
+    "container-title": [
+      "Persona"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2017-11-04T12:45:01Z",
+      "timestamp": 1509799501000
+    },
+    "score": 64.12674,
+    "resource": {
+      "primary": {
+        "URL": "https://revistas.ulima.edu.pe/index.php/Persona/article/view/933"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          11,
+          14
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "009",
+      "published-online": {
+        "date-parts": [
+          [
+            2006,
+            11,
+            4
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.26439/persona2006.n009.933",
+    "ISSN": [
+      "2309-9062",
+      "1560-6139"
+    ],
+    "issn-type": [
+      {
+        "value": "2309-9062",
+        "type": "electronic"
+      },
+      {
+        "value": "1560-6139",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          11,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2024-07-29T15:40:18Z",
+      "timestamp": 1722267618088
+    },
+    "reference-count": 0,
+    "publisher": "Universitat de Valencia",
+    "issue": "0",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mètode"
+    ],
+    "DOI": "10.7203/metode.83.4081",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ],
+      "date-time": "2014-11-17T11:23:27Z",
+      "timestamp": 1416223407000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Estadística en física de partícules: El seu paper en el descobriment del bosó de Higgs"
+    ],
+    "prefix": "10.7203",
+    "volume": "0",
+    "author": [
+      {
+        "given": "Fernando",
+        "family": "Martínez Vidal",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4247",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ]
+    },
+    "container-title": [
+      "Mètode Revista de difusió de la investigació"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2024-07-29T15:15:57Z",
+      "timestamp": 1722266157000
+    },
+    "score": 63.84077,
+    "resource": {
+      "primary": {
+        "URL": "https://ojs.uv.es/index.php/Metode/article/view/4081"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "0",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            11,
+            17
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7203/metode.83.4081",
+    "ISSN": [
+      "2174-9221",
+      "2174-3487"
+    ],
+    "issn-type": [
+      {
+        "value": "2174-9221",
+        "type": "electronic"
+      },
+      {
+        "value": "2174-3487",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2023-11-11T21:11:05Z",
+      "timestamp": 1699737065830
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Dykinson",
+    "isbn-type": [
+      {
+        "value": "9788411705318",
+        "type": "electronic"
+      },
+      {
+        "value": "9788411704151",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.2307/jj.8500771.10",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2023-11-11T20:34:07Z",
+      "timestamp": 1699734847000
+    },
+    "page": "97-110",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Pensar a Dios en comunidad."
+    ],
+    "prefix": "10.2307",
+    "author": [
+      {
+        "given": "Tommaso",
+        "family": "Bertolasi",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "1121",
+    "container-title": [
+      "Persona y Trascendencia."
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2023-11-11T20:34:28Z",
+      "timestamp": 1699734868000
+    },
+    "score": 63.81055,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstor.org/stable/10.2307/jj.8500771.10"
+      }
+    },
+    "subtitle": [
+      "La comunidad de amor como lugar del manifestarse de Dios a partir del pensamiento de E. Husserl"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          10
+        ]
+      ]
+    },
+    "ISBN": [
+      "9788411705318",
+      "9788411704151"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.2307/jj.8500771.10",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          10
+        ]
+      ]
+    }
+  }
+]

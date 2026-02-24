@@ -1,0 +1,101 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        11
+      ]
+    ],
+    "date-time": "2024-09-11T17:20:22Z",
+    "timestamp": 1726075222358
+  },
+  "publisher-location": "1 Oliver's Yard, 55 City\n\t\t\t\t\t\t\t\tRoad, London EC1Y 1SP United\n\t\t\t\t\t\t\t\tKingdom ",
+  "reference-count": 0,
+  "publisher": "SAGE Publications Ltd",
+  "isbn-type": [
+    {
+      "type": "electronic",
+      "value": "9781526421036"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  },
+  "DOI": "10.4135/9781526421036837528",
+  "type": "reference-entry",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        20
+      ]
+    ],
+    "date-time": "2020-03-20T14:12:46Z",
+    "timestamp": 1584713566000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Epistemics"
+  ],
+  "prefix": "10.4135",
+  "member": "179",
+  "container-title": [
+    "SAGE Research Methods Foundations"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        20
+      ]
+    ],
+    "date-time": "2020-10-20T20:27:19Z",
+    "timestamp": 1603225639000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://methods.sagepub.com/foundations/epistemics"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  },
+  "ISBN": [
+    "9781526421036"
+  ],
+  "references-count": 0,
+  "alternative-id": [
+    "10.4135/9781526421036"
+  ],
+  "URL": "https://doi.org/10.4135/9781526421036837528",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  }
+}

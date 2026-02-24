@@ -1,0 +1,143 @@
+{
+  "id": "https://openalex.org/W4413285829",
+  "doi": "https://doi.org/10.33383/2025-03",
+  "title": "Issue 03-2025",
+  "display_name": "Issue 03-2025",
+  "publication_year": 2025,
+  "publication_date": "2025-06-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4413285829",
+    "doi": "https://doi.org/10.33383/2025-03"
+  },
+  "language": null,
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.33383/2025-03",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210214686",
+      "display_name": "Light & Engineering",
+      "issn_l": "2541-9935",
+      "issn": [
+        "2541-9935"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "paratext",
+  "type_crossref": "journal-issue",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 90
+  },
+  "biblio": {
+    "volume": null,
+    "issue": "03-2025",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": true,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.37467206
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.33383/2025-03",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210214686",
+        "display_name": "Light & Engineering",
+        "issn_l": "2541-9935",
+        "issn": [
+          "2541-9935"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4280521631",
+    "https://openalex.org/W4206359692",
+    "https://openalex.org/W3118961085",
+    "https://openalex.org/W3117958761",
+    "https://openalex.org/W3007404728",
+    "https://openalex.org/W2374021052",
+    "https://openalex.org/W2110536732",
+    "https://openalex.org/W2094967319",
+    "https://openalex.org/W1984740135",
+    "https://openalex.org/W1984514811"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4413285829",
+  "counts_by_year": [],
+  "updated_date": "2025-08-19T01:27:10.764882",
+  "created_date": "2025-08-19"
+}

@@ -1,0 +1,1470 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2022-10-05T12:18:07Z",
+      "timestamp": 1664972287748
+    },
+    "reference-count": 0,
+    "publisher": "Universidad de Navarra",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Anuario de Historia de la Iglesia"
+    ],
+    "DOI": "10.15581/007.5.24871",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2022-10-05T11:46:49Z",
+      "timestamp": 1664970409000
+    },
+    "page": "509-512",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Publicació del Diplomatari de la Catedral de Barcelona i del fons documental de l'Arxiu capitular d'Urgell"
+    ],
+    "prefix": "10.15581",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Enric",
+        "family": "Moliné",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "6226",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          14
+        ]
+      ]
+    },
+    "container-title": [
+      "Anuario de Historia de la Iglesia"
+    ],
+    "link": [
+      {
+        "URL": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2022-10-05T11:46:49Z",
+      "timestamp": 1664970409000
+    },
+    "score": 86.7791,
+    "resource": {
+      "primary": {
+        "URL": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/view/24871"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          14
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.15581/007.5.24871",
+    "ISSN": [
+      "2174-0887",
+      "1133-0104"
+    ],
+    "issn-type": [
+      {
+        "value": "2174-0887",
+        "type": "electronic"
+      },
+      {
+        "value": "1133-0104",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2025-05-14T13:11:55Z",
+      "timestamp": 1747228315578,
+      "version": "3.40.5"
+    },
+    "reference-count": 0,
+    "publisher": "Universidad Complutense de Madrid (UCM)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Eikón Imago"
+    ],
+    "DOI": "10.5209/eiko.73370",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2021-02-08T07:34:44Z",
+      "timestamp": 1612769684000
+    },
+    "page": "639-641",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Mancho, Carles, ed. El Bordat de la Creació de la catedral de Girona. Barcelona: Publicacions i Edicions de la Universitat de Barcelona, Memoria Atrium, 2018"
+    ],
+    "prefix": "10.5209",
+    "volume": "9",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4256-8337",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Bueso Peral",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "3169",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Eikon / Imago"
+    ],
+    "link": [
+      {
+        "URL": "https://revistas.ucm.es/index.php/EIKO/article/download/73370/4564456555315",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://revistas.ucm.es/index.php/EIKO/article/download/73370/4564456555315",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2021-06-22T15:45:07Z",
+      "timestamp": 1624376707000
+    },
+    "score": 82.28567,
+    "resource": {
+      "primary": {
+        "URL": "https://revistas.ucm.es/index.php/EIKO/article/view/73370"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5209/eiko.73370",
+    "ISSN": [
+      "2254-8718"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2254-8718"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2025-05-14T11:17:05Z",
+      "timestamp": 1747221425223,
+      "version": "3.40.5"
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Editorial Octaedro",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9788419506276"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>El interés por la coeducación comenzó a manifestarse en España hacia los años ochenta. Maestras, profesoras, también algunos maestros, empezaron a preguntarse cómo conseguir que, más allá de la escuela mixta, la educación de niñas y niños fuera igualitaria, algo que sabíamos que no sucedía, pero que era difícil imaginar. Debido a este interés y demandas del profesorado comenzamos a pensar cómo hacer real la coeducación, y, para empezar, cómo aprender a observar y analizar la práctica educativa para descubrir lo que sigue conteniendo de sexismo.  Ello dio lugar, en los años noventa, a una colección, los Cuadernos para la Coeducación, en los que fuimos creando un método y unos instrumentos de análisis; solo si el profesorado es capaz de detectar el sexismo en su propio hacer, sabrá como eliminarlo y crear una verdadera coeducación.  Hoy la demanda coeducativa crece en todo el mundo. Pero la metodología para lograrla es todavía deficiente, más allá del deseo y la buena voluntad del profesorado. Agotados los Cuadernos para la Coeducación, nos ha parecido útil reunir en este libro los instrumentos y métodos que creamos entonces y que ahora han sido ya probados y desarrollados en múltiples escuelas.  Dedicamos, por tanto, este libro al profesorado deseoso de emprender esta preciosa aventura consistente en librar a las nuevas generaciones de unos estereotipos de género que son, tanto para las niñas como para los niños, un lastre y un freno para sus vidas nuevas en un mundo también nuevo.</jats:p>",
+    "DOI": "10.36006/09110",
+    "type": "edited-book",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2023-01-25T10:29:05Z",
+      "timestamp": 1674642545000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Cuadernos para la Coeducación"
+    ],
+    "prefix": "10.36006",
+    "author": [
+      {
+        "name": "Universitat Autònoma de Barcelona",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Amparo",
+        "family": "Tomé",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Marina",
+        "family": "Subirats",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Autònoma de Barcelona",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0625-0951",
+        "authenticated-orcid": false,
+        "given": "XAVIER",
+        "family": "BONAL",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Autònoma de Barcelona",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1634-4003",
+        "authenticated-orcid": false,
+        "given": "Xavier",
+        "family": "Rambla",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Autònoma de Barcelona",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7397-1236",
+        "authenticated-orcid": false,
+        "given": "Marta",
+        "family": "Rovira",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Autònoma de Barcelona",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "21695",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2023-01-25T10:29:07Z",
+      "timestamp": 1674642547000
+    },
+    "score": 81.68895,
+    "resource": {
+      "primary": {
+        "URL": "https://octaedro.com/libro/cuadernos-para-la-coeducacion/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          1
+        ]
+      ]
+    },
+    "ISBN": [
+      "9788419506276"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.36006/09110",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          15
+        ]
+      ],
+      "date-time": "2025-07-15T03:39:36Z",
+      "timestamp": 1752550776141
+    },
+    "reference-count": 0,
+    "publisher": "Pontificia Universidad Catolica de Chile",
+    "issue": "147",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "EURE"
+    ],
+    "abstract": "<jats:p>El subarriendo de habitaciones es una realidad ampliamente extendida en las grandes áreas urbanas; sin embargo, la ausencia de estadísticas al respecto dificulta su análisis. Gran parte de la población inmigrante accede a una vivienda mediante esta modalidad. Por ello, en este estudio se analizan 27 entrevistas semiestructuradas para evaluar el papel del subarriendo en la trayectoria residencial de dicho colectivo en el Área Metropolitana de Barcelona. Los resultados confirman la creciente dificultad que tienen los inmigrantes que han llegado recientemente para avanzar en la escala habitacional y, más concretamente, el protagonismo del subarriendo como recurso residencial precario de dicha población, en particular en las etapas tempranas de inserción residencial, aunque no exclusivamente, pues también se ha detectado la existencia de trayectorias residenciales inversas. Se comprueba también la presencia de submercados de habitaciones a los que se accede de manera exclusiva a través de cadenas migratorias.</jats:p>",
+    "DOI": "10.7764/eure.49.147.10",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2022-10-06T15:08:04Z",
+      "timestamp": 1665068884000
+    },
+    "page": "1-24",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "El papel del subarriendo en las trayectorias residenciales de la población inmigrante: el caso del Área Metropolitana de Barcelona"
+    ],
+    "prefix": "10.7764",
+    "volume": "49",
+    "author": [
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Carolina",
+        "family": "Orozco-Martínez",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jordi",
+        "family": "Bayona-i-Carrasco",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fernando",
+        "family": "Gil-Alonso",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "4571",
+    "published-online": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": [
+      "EURE"
+    ],
+    "link": [
+      {
+        "URL": "https://www.eure.cl/index.php/eure/article/view/EURE.49.147.10/1558",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2022-10-06T15:09:22Z",
+      "timestamp": 1665068962000
+    },
+    "score": 80.05548,
+    "resource": {
+      "primary": {
+        "URL": "https://www.eure.cl/index.php/eure/article/view/EURE.49.147.10"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "147",
+      "published-online": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7764/eure.49.147.10",
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          7
+        ]
+      ],
+      "date-time": "2024-08-07T14:54:37Z",
+      "timestamp": 1723042477977
+    },
+    "reference-count": 0,
+    "publisher": "Consorci del Museu de Ciencies Naturals de Barcelona",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Treb. Mus. Geol. Barcelona"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.32800/tmgb.2011.18.0025",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2019-02-19T11:09:33Z",
+      "timestamp": 1550574573000
+    },
+    "page": "25-35",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "La geotecnia vertical aplicada a la rehabilitación de yacimientos pleistocenos"
+    ],
+    "prefix": "10.32800",
+    "volume": "18",
+    "author": [
+      {
+        "name": "Facultat de Geografia i Història, Universitat de Barcelona, Spain",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "M.",
+        "family": "Sanz",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "J.",
+        "family": "Daura",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Facultat de Geografia i Història, Universitat de Barcelona, Spain",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "E.",
+        "family": "Terrado",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "M.",
+        "family": "Méndez",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J. M.",
+        "family": "Fullola",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Facultat de Geografia i Història, Universitat de Barcelona, Spain",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "18077",
+    "container-title": [
+      "Treballs del Museu de Geologia de Barcelona"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2019-02-19T11:09:36Z",
+      "timestamp": 1550574576000
+    },
+    "score": 79.481735,
+    "resource": {
+      "primary": {
+        "URL": "http://tmgb.museucienciesjournals.cat/volume-18-2011-tmgb/la-geotecnia-vertical-aplicada-a-la-rehabilitacion-de-yacimientos-pleistocenos-2/?lang=en"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.32800/tmgb.2011.18.0025",
+    "ISSN": [
+      "1130-4995",
+      "2385-4499"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1130-4995"
+      },
+      {
+        "type": "electronic",
+        "value": "2385-4499"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          7
+        ]
+      ],
+      "date-time": "2024-08-07T09:47:30Z",
+      "timestamp": 1723024050187
+    },
+    "reference-count": 0,
+    "publisher": "Institucio Alfons el Magnanim",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Debats"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          15
+        ]
+      ]
+    },
+    "DOI": "10.28939/iam.debats.132-2.7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2018-10-25T17:08:32Z",
+      "timestamp": 1540487312000
+    },
+    "page": "73-80",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Temptativa d’esgotament d’un lloc barceloní: la plaça de la Universitat"
+    ],
+    "prefix": "10.28939",
+    "volume": "132",
+    "author": [
+      {
+        "name": "Universitat de Barcelona/ Université Paris 8",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Maria",
+        "family": "Patricio-Mulero",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "11482",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          25
+        ]
+      ]
+    },
+    "container-title": [
+      "Debats. Revista de cultura, poder i societat"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2018-10-25T17:08:37Z",
+      "timestamp": 1540487317000
+    },
+    "score": 77.944786,
+    "resource": {
+      "primary": {
+        "URL": "http://www.revistadebats.net/index.php?journal=debats&page=article&op=view&path%5B%5D=217"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          25
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            25
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            15
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.28939/iam.debats.132-2.7",
+    "ISSN": [
+      "0212-0585",
+      "2530-3074"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0212-0585"
+      },
+      {
+        "type": "electronic",
+        "value": "2530-3074"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2025-07-08T02:48:30Z",
+      "timestamp": 1751942910970,
+      "version": "3.40.5"
+    },
+    "reference-count": 0,
+    "publisher": "University of La Laguna",
+    "issue": "6",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "pasos"
+    ],
+    "DOI": "10.25145/j.pasos.2019.17.077",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2020-01-23T07:27:06Z",
+      "timestamp": 1579764426000
+    },
+    "page": "1113-1126",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Los usos del patrimonio inmaterial en la promoción del turismo. El caso del Pirineo catalán"
+    ],
+    "prefix": "10.25145",
+    "volume": "17",
+    "author": [
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9877-6012",
+        "authenticated-orcid": false,
+        "given": "Xavier",
+        "family": "Roigé",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1257-3370",
+        "authenticated-orcid": false,
+        "given": "Camila del",
+        "family": "Mármol",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5520-9405",
+        "authenticated-orcid": false,
+        "given": "Mireia",
+        "family": "Guil",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "10775",
+    "published-online": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": [
+      "PASOS. Revista de Turismo y Patrimonio Cultural"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2020-01-23T07:27:08Z",
+      "timestamp": 1579764428000
+    },
+    "score": 77.847015,
+    "resource": {
+      "primary": {
+        "URL": "https://riull.ull.es/xmlui/bitstream/handle/915/17841/PS_17_6%20_%282019%29_02.pdf?sequence=1&isAllowed=y"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.25145/j.pasos.2019.17.077",
+    "ISSN": [
+      "1695-7121"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1695-7121"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2025-05-14T08:21:11Z",
+      "timestamp": 1747210871412,
+      "version": "3.40.5"
+    },
+    "reference-count": 0,
+    "publisher": "University of La Laguna",
+    "issue": "39",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "refiull"
+    ],
+    "DOI": "10.25145/j.refiull.2019.39.14",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          7
+        ]
+      ],
+      "date-time": "2019-08-07T07:49:12Z",
+      "timestamp": 1565164152000
+    },
+    "page": "287-305",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "La definición sinonímica en la sexta edición del Diccionario de la lengua castellana de la Real Academia Española"
+    ],
+    "prefix": "10.25145",
+    "author": [
+      {
+        "name": "Universitat Autònoma de Barcelona (España)",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0617-8390",
+        "authenticated-orcid": false,
+        "given": "Natalia",
+        "family": "Terrón Vinagre",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0233-7120",
+        "authenticated-orcid": false,
+        "given": "Joan",
+        "family": "Torruella Casañas",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Autònoma de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "10775",
+    "published-online": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": [
+      "Revista de Filología de la Universidad de La Laguna"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          7
+        ]
+      ],
+      "date-time": "2019-08-07T07:49:19Z",
+      "timestamp": 1565164159000
+    },
+    "score": 77.799324,
+    "resource": {
+      "primary": {
+        "URL": "https://riull.ull.es/xmlui/bitstream/handle/915/15939/RF_39_%282019%29_14.pdf?sequence=1&isAllowed=y"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "39",
+      "published-online": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.25145/j.refiull.2019.39.14",
+    "ISSN": [
+      "2530-8548"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2530-8548"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2025-02-06T05:14:32Z",
+      "timestamp": 1738818872156,
+      "version": "3.37.0"
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "OmniaScience",
+    "isbn-type": [
+      {
+        "value": "9788412813081",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Teniu a les mans un llibre que recull part de la recerca que porta a terme el Departament d’Enginyeria Gràfica i de Disseny (DEGD) de la Universitat Politècnica de Catalunya. És una recerca pluridisciplinar, que es relaciona amb altres departaments, altres universitats i amb institucions d’investigació alienes a l’acadèmia. Ja fa set anys que la direcció del departament creu adient donar a conèixer la recerca que portem a terme des dels nostres despatxos i laboratoris, i una eina adequada per a això és la publicació de les ponències presentades a la VII Jornada de Recerca DEGD.\n\nEn els capítols del llibre trobareu un breu resum de temes i àmbits de recerca. Molts d’ells han estat publicats en les principals revistes científiques nacionals i internacionals, però també en congressos, capítols de llibre, catàlegs, projectes competitius industrials, projectes no competitius, projectes d’innovació docent i altres projectes de propietat intel·lectual industrial. Podeu aprofundir en el tema que més us interessi a partir de les referències bibliogràfiques de cada article, o també posant-vos en contacte amb els/les investigadors/es principals. Ens trobareu impartint docència de grau i de màster a l’Escola Superior d’Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa, a l’Escola Tècnica Superior d'Enginyeria Industrial de Barcelona, a l’Escola d'Enginyeria de Barcelona Est, a l’Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú, a l’Escola Politècnica Superior d'Enginyeria de Manresa i a l’Escola d'Enginyeria de Telecomunicació i Aeroespacial de Castelldefels.</jats:p>",
+    "DOI": "10.3926/ege2025",
+    "type": "edited-book",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2025-02-05T08:42:03Z",
+      "timestamp": 1738744923000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Recerca al Departament d’Enginyeria Gràfica i de Disseny de la Universitat Politècnica de Catalunya. Barcelona Tech"
+    ],
+    "prefix": "10.3926",
+    "author": [
+      {
+        "name": "Universitat Politècnica de Catalunya",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2292-6184",
+        "authenticated-orcid": false,
+        "given": "Oscar",
+        "family": "Farrerons Vidal",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2502-3201",
+        "authenticated-orcid": false,
+        "given": "Noelia",
+        "family": "Olmedo Torre",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Politècnica de Catalunya",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2694-2368",
+        "authenticated-orcid": false,
+        "given": "Blanca",
+        "family": "Roncero Vivero",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Politècnica de Catalunya",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4263-5210",
+        "authenticated-orcid": false,
+        "given": "Arantza",
+        "family": "Villa Sicilia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Politècnica de Catalunya",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "2301",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    },
+    "link": [
+      {
+        "URL": "https://www.omniascience.com/books/index.php/monographs/catalog/view/152/664/1239-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2025-02-05T08:42:04Z",
+      "timestamp": 1738744924000
+    },
+    "score": 77.481186,
+    "resource": {
+      "primary": {
+        "URL": "https://www.omniascience.com/books/index.php/monographs/catalog/book/152"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    },
+    "ISBN": [
+      "9788412813081"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.3926/ege2025",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          8
+        ]
+      ],
+      "date-time": "2024-08-08T07:19:26Z",
+      "timestamp": 1723101566490
+    },
+    "reference-count": 0,
+    "publisher": "Pontificia Universidad Catolica de Chile",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PEL"
+    ],
+    "abstract": "<jats:p>Estudiantes de todos los niveles muestran problemas con ciertas convenciones del discurso escrito consideradas indicadoras de desarrollo y predictoras de la calidad de los textos: la organización de la información y el uso de recursos específicos. El uso de conectores y marcadores discursivos contribuye a la cohesión del texto y guía la interpretación de las relaciones entre sus componentes. Analizamos los textos analíticos en catalán de 128 alumnos de secundaria y universitarios para identificar las dificultades y las trayectorias evolutivas en la conexión intra e interoracional. Los textos fueron producidos tras aplicar una secuencia didáctica sobre escritura académica. Examinamos el repertorio de marcas de conexión (conjunciones, marcadores parentéticos, marcadores léxicos) y las funciones que desempeñan (proposicional, estructural, modal). Las diferencias entre grupos aparecen 1) en el uso de conjunciones, más empleadas en secundaria, y marcadores parentéticos, en universitarios, y 2) en las funciones de marcadores modales que expresan el posicionamiento del autor. La coherencia de los textos depende del uso de marcas de conexión, su función en la estructura textual y el posicionamiento del autor. Aunque las marcas de conexión interoracional de adolescentes y adultos son escasas, la expresión del posicionamiento discursivo por medio de marcadores modales sí evoluciona.</jats:p>",
+    "DOI": "10.7764/pel.58.2.2021.10",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2021-10-06T21:14:54Z",
+      "timestamp": 1633554894000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "El desarrollo de la escritura analítica: aprender a enlazar la información, aprender a posicionarse"
+    ],
+    "prefix": "10.7764",
+    "volume": "58",
+    "author": [
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Elisa",
+        "family": "Rosado Villegas",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Iban",
+        "family": "Mañas Navarrete",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Irene",
+        "family": "Yúfera Gómez",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Melina",
+        "family": "Aparici Aznar",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "Universitat Autònoma de Barcelona (España)",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "4571",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    },
+    "container-title": [
+      "Pensamiento Educativo: Revista de Investigación Educacional Latinoamericana"
+    ],
+    "link": [
+      {
+        "URL": "http://pensamientoeducativo.uc.cl/index.php/pel/article/view/29225/34911",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2021-10-06T21:15:03Z",
+      "timestamp": 1633554903000
+    },
+    "score": 77.43119,
+    "resource": {
+      "primary": {
+        "URL": "http://pensamientoeducativo.uc.cl/index.php/pel/article/view/29225"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            10
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7764/pel.58.2.2021.10",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    }
+  }
+]

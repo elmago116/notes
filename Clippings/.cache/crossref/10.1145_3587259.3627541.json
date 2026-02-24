@@ -1,0 +1,384 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        18
+      ]
+    ],
+    "date-time": "2025-06-18T04:10:56Z",
+    "timestamp": 1750219856839,
+    "version": "3.41.0"
+  },
+  "publisher-location": "New York, NY, USA",
+  "reference-count": 29,
+  "publisher": "ACM",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            5
+          ]
+        ],
+        "date-time": "2023-12-05T00:00:00Z",
+        "timestamp": 1701734400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "dl.acm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        5
+      ]
+    ]
+  },
+  "DOI": "10.1145/3587259.3627541",
+  "type": "proceedings-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        29
+      ]
+    ],
+    "date-time": "2023-11-29T00:30:28Z",
+    "timestamp": 1701217828000
+  },
+  "page": "75-82",
+  "update-policy": "https://doi.org/10.1145/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Knowledge Engineering for Hybrid Intelligence"
+  ],
+  "prefix": "10.1145",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-7116-9338",
+      "authenticated-orcid": false,
+      "given": "Ilaria",
+      "family": "Tiddi",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Computer Science, Vrije Universiteit Amsterdam, Netherlands"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9079-039X",
+      "authenticated-orcid": false,
+      "given": "Victor",
+      "family": "De Boer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Vrije Universiteit Amsterdam, Netherlands"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3282-1597",
+      "authenticated-orcid": false,
+      "given": "Stefan",
+      "family": "Schlobach",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Computer Science, Vrije Universiteit Amsterdam, Netherlands"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5242-1443",
+      "authenticated-orcid": false,
+      "given": "André",
+      "family": "Meyer-Vitali",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "DFKI, Germany"
+        }
+      ]
+    }
+  ],
+  "member": "320",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        5
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_2_1_1_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/MC.2020.2996587"
+    },
+    {
+      "volume-title": "Domain Modelling for Interactive Systems Design",
+      "author": "Angele Jürgen",
+      "key": "e_1_3_2_1_2_1",
+      "unstructured": "Jürgen Angele, Dieter Fensel, Dieter Landes, and Rudi Studer. 1998. Developing KB-systems with MIKE. In Domain Modelling for Interactive Systems Design. Springer, 9–38."
+    },
+    {
+      "key": "e_1_3_2_1_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.24251/HICSS.2019.034"
+    },
+    {
+      "key": "e_1_3_2_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s12599-019-00595-2"
+    },
+    {
+      "key": "e_1_3_2_1_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3385032.3385044"
+    },
+    {
+      "volume-title": "Handbook on ontologies",
+      "author": "Gangemi Aldo",
+      "key": "e_1_3_2_1_6_1",
+      "unstructured": "Aldo Gangemi and Valentina Presutti. 2009. Ontology Design Patterns. In Handbook on ontologies. Springer, 221– 243."
+    },
+    {
+      "key": "e_1_3_2_1_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S1071-5819(02)00127-1"
+    },
+    {
+      "key": "e_1_3_2_1_8_1",
+      "volume-title": "International Conference on Hybrid Intelligence. IOSPress.",
+      "author": "Guéret Christophe",
+      "year": "2022",
+      "unstructured": "Christophe Guéret. 2022. Knowledge Graphs in support of Human-Machine Intelligence. In International Conference on Hybrid Intelligence. IOSPress."
+    },
+    {
+      "key": "e_1_3_2_1_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/3-540-45517-5_72"
+    },
+    {
+      "key": "e_1_3_2_1_10_1",
+      "volume-title": "Leveraging Class Abstraction for Commonsense Reinforcement Learning via Residual Policy Gradient Methods. IJCAI-ECAI2022",
+      "author": "Höpner Niklas",
+      "year": "2022",
+      "unstructured": "Niklas Höpner, Ilaria Tiddi, and Herke van Hoof. 2022. Leveraging Class Abstraction for Commonsense Reinforcement Learning via Residual Policy Gradient Methods. IJCAI-ECAI2022 (2022)."
+    },
+    {
+      "key": "e_1_3_2_1_11_1",
+      "unstructured": "Ece Kamar. 2016. Directions in Hybrid Intelligence: Complementing AI Systems with Human Intelligence.. In IJCAI. 4070– 4073."
+    },
+    {
+      "key": "e_1_3_2_1_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3233/FAIA220215"
+    },
+    {
+      "key": "e_1_3_2_1_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/systems6040044"
+    },
+    {
+      "key": "e_1_3_2_1_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0018720820920099"
+    },
+    {
+      "key": "e_1_3_2_1_15_1",
+      "unstructured": "André Meyer-Vitali and Wico Mulder. 2022. Trustworthy Hybrid Team Decision-Support. In Proceedings of the First International Conference on Hybrid Human-Machine Intelligence. Workshop on the Representation Sharing and Evaluation of Multimodal Agent Interaction befindet sich International Conference on Hybrid Human-Artificial Intelligence (HHAI) June 13-17 Amsterdam Netherlands(Frontiers of AI). IOS Press."
+    },
+    {
+      "key": "e_1_3_2_1_16_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Johannes Nguyen Thomas Farrenkopf Michael Guckert Simon T Powers and Neil Urquhart. 2021. Using Semantic Technology To Model Persona For Adaptable Agents. In ECMS.",
+      "DOI": "10.7148/2021-0172"
+    },
+    {
+      "key": "e_1_3_2_1_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3397482.3450721"
+    },
+    {
+      "key": "e_1_3_2_1_18_1",
+      "first-page": "58",
+      "article-title": "Modeling an Agent-mediated Supply Chain Management System using MAS-CommonKADS Methodology",
+      "volume": "2",
+      "author": "Sabri Mohammad",
+      "year": "2012",
+      "unstructured": "Mohammad Sabri and Marjan Fatemi Garakani. 2012. Modeling an Agent-mediated Supply Chain Management System using MAS-CommonKADS Methodology. International Journal of Mechatronics, Electrical and Computer Technology 2, 3 (2012), 58–75.",
+      "journal-title": "International Journal of Mechatronics, Electrical and Computer Technology"
+    },
+    {
+      "key": "e_1_3_2_1_19_1",
+      "volume-title": "Bob Wielinga",
+      "author": "Schreiber Guus",
+      "year": "2000",
+      "unstructured": "Guus Schreiber, Hans Akkermans, Anjo Anjewierden, Nigel Shadbolt, Robert de Hoog, Walter Van de Velde, Bob Wielinga, R Nigel, 2000. Knowledge Engineering and Management: the CommonKADS Methodology. MIT press."
+    },
+    {
+      "key": "e_1_3_2_1_20_1",
+      "volume-title": "CommonKADS: A Comprehensive Methodology for KBS-development",
+      "author": "Schreiber Guus",
+      "year": "1994",
+      "unstructured": "Guus Schreiber, Bob Wielinga, Robert de Hoog, Hans Akkermans, and Walter Van de Velde. 1994. CommonKADS: A Comprehensive Methodology for KBS-development. IEEE expert 9, 6 (1994), 28–37."
+    },
+    {
+      "key": "e_1_3_2_1_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0169-023X(97)00056-6"
+    },
+    {
+      "key": "e_1_3_2_1_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10489-021-02394-3"
+    },
+    {
+      "key": "e_1_3_2_1_23_1",
+      "volume-title": "A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems. Journal of Web Engineering",
+      "author": "van Harmelen Frank",
+      "year": "2019",
+      "unstructured": "Frank van Harmelen and Annette ten Teije. 2019. A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems. Journal of Web Engineering (2019)."
+    },
+    {
+      "key": "e_1_3_2_1_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/1597735.1597750"
+    },
+    {
+      "key": "e_1_3_2_1_25_1",
+      "volume-title": "2021 AAAI Spring Symposium on Combining Machine Learning and Knowledge Engineering, AAAI-MAKE",
+      "author": "van Stijn J",
+      "year": "2021",
+      "unstructured": "Jip J van Stijn, Mark A Neerincx, Annette ten Teije, and Steven Vethman. 2021. Team Design Patterns for Moral Decisions in Hybrid Intelligent systems: A Case Study of Bias Mitigation. In 2021 AAAI Spring Symposium on Combining Machine Learning and Knowledge Engineering, AAAI-MAKE 2021. CEUR-WS, 1–12."
+    },
+    {
+      "volume-title": "Engineering Psychology and Cognitive Ergonomics. Cognition and Design",
+      "author": "van der Waa Jasper",
+      "key": "e_1_3_2_1_26_1",
+      "unstructured": "Jasper van der Waa, Jurriaan van Diggelen, Luciano Cavalcante Siebert, Mark Neerincx, and Catholijn Jonker. 2020. Allocation of Moral Decision-Making in Human-Agent Teams: a Pattern Approach. In Engineering Psychology and Cognitive Ergonomics. Cognition and Design. Springer, Cham, 203– 220."
+    },
+    {
+      "key": "e_1_3_2_1_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ijhcs.2012.10.007"
+    },
+    {
+      "volume-title": "Applying CommonKADS and Semantic Web Technologies to Ontology-based e-government Knowledge Systems",
+      "author": "Yang Dong",
+      "key": "e_1_3_2_1_28_1",
+      "unstructured": "Dong Yang, Lixin Tong, Yan Ye, and Hongwei Wu. 2006. Applying CommonKADS and Semantic Web Technologies to Ontology-based e-government Knowledge Systems. In ASWC. Springer, 336– 342."
+    },
+    {
+      "key": "e_1_3_2_1_29_1",
+      "volume-title": "CommonKADS Methodology for Developing Power Grid Switching Orders Systems. In Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, 87",
+      "author": "Zhou Ming",
+      "year": "2007",
+      "unstructured": "Ming Zhou, Jianwen Ren, Jianxun Qi, Dongxiao Niu, and Gengyin Li. 2007. CommonKADS Methodology for Developing Power Grid Switching Orders Systems. In Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, 87."
+    }
+  ],
+  "event": {
+    "name": "K-CAP '23: Knowledge Capture Conference 2023",
+    "sponsor": [
+      "SIGAI ACM Special Interest Group on Artificial Intelligence"
+    ],
+    "location": "Pensacola FL USA",
+    "acronym": "K-CAP '23"
+  },
+  "container-title": [
+    "Proceedings of the 12th Knowledge Capture Conference 2023"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://dl.acm.org/doi/10.1145/3587259.3627541",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://dl.acm.org/doi/pdf/10.1145/3587259.3627541",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        17
+      ]
+    ],
+    "date-time": "2025-06-17T16:47:16Z",
+    "timestamp": 1750178836000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dl.acm.org/doi/10.1145/3587259.3627541"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        5
+      ]
+    ]
+  },
+  "references-count": 29,
+  "alternative-id": [
+    "10.1145/3587259.3627541",
+    "10.1145/3587259"
+  ],
+  "URL": "https://doi.org/10.1145/3587259.3627541",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2023-12-05",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1969 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2025-08-19T11:10:57Z",
+      "timestamp": 1755601857516,
+      "version": "3.40.5"
+    },
+    "reference-count": 22,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2022-12-01T00:00:00Z",
+          "timestamp": 1669852800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2022-10-14T00:00:00Z",
+          "timestamp": 1665705600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "softxjournal.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "SoftwareX"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.softx.2022.101235",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2022-11-10T11:36:03Z",
+      "timestamp": 1668080163000
+    },
+    "page": "101235",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "special_numbering": "C",
+    "title": [
+      "Rhizomer: Interactive semantic knowledge graphs exploration"
+    ],
+    "prefix": "10.1016",
+    "volume": "20",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2207-9605",
+        "authenticated-orcid": false,
+        "given": "Roberto",
+        "family": "García",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Juan-Miguel",
+        "family": "López-Gil",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rosa",
+        "family": "Gil",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "6832",
+        "key": "10.1016/j.softx.2022.101235_b1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1023",
+        "DOI": "10.1038/35074206",
+        "article-title": "Publishing on the Semantic Web",
+        "volume": "410",
+        "author": "Berners-Lee",
+        "year": "2001",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.softx.2022.101235_b2",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.3233/SW-130097",
+        "article-title": "Contextual information retrieval in research articles: Semantic publishing tools for the research community",
+        "volume": "5",
+        "author": "Angrosh",
+        "year": "2014",
+        "journal-title": "Semantic Web"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b3",
+        "series-title": "Formal concept analysis",
+        "first-page": "164",
+        "article-title": "Formal concept discovery in Semantic Web Data",
+        "author": "Kirchberg",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b4",
+        "series-title": "25th international database engineering & applications symposium",
+        "first-page": "127",
+        "article-title": "Load balanced Semantic aware distributed RDF graph",
+        "author": "Pandat",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b5",
+        "series-title": "Distributed computing and internet technology",
+        "first-page": "403",
+        "article-title": "Query execution for RDF data on row and column store",
+        "author": "Padiya",
+        "year": "2015"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.softx.2022.101235_b6",
+        "doi-asserted-by": "crossref",
+        "first-page": "979",
+        "DOI": "10.3233/SW-200371",
+        "article-title": "A decade of Semantic Web research through the lenses of a mixed methods approach",
+        "volume": "11",
+        "author": "Kirrane",
+        "year": "2020",
+        "journal-title": "Semantic Web"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b7",
+        "doi-asserted-by": "crossref",
+        "first-page": "214",
+        "DOI": "10.1016/j.datak.2018.04.003",
+        "article-title": "Semantic Web user interfaces – A model and a review",
+        "volume": "115",
+        "author": "Charalampidis",
+        "year": "2018",
+        "journal-title": "Data Knowl Eng"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b8",
+        "series-title": "Knowledge engineering and knowledge management",
+        "first-page": "567",
+        "article-title": "A framework to conduct and report on empirical user studies in Semantic web contexts",
+        "author": "Pesquita",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b9",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.websem.2022.100713",
+        "article-title": "Interactive and iterative visual exploration of knowledge graphs based on shareable and reusable visual configurations",
+        "volume": "73",
+        "author": "Nečaský",
+        "year": "2022",
+        "journal-title": "J Web Semant"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b10",
+        "doi-asserted-by": "crossref",
+        "first-page": "52",
+        "DOI": "10.1016/j.websem.2014.10.002",
+        "article-title": "Mímir: An open-source Semantic search framework for interactive information seeking and discovery",
+        "volume": "30",
+        "author": "Tablan",
+        "year": "2015",
+        "journal-title": "J Web Semant"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.softx.2022.101235_b11",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1145/3397512",
+        "article-title": "A review of the Semantic Web field",
+        "volume": "64",
+        "author": "Hitzler",
+        "year": "2021",
+        "journal-title": "Commun ACM"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b12",
+        "series-title": "Proceedings of the IEEE symposium on visual languages",
+        "first-page": "336",
+        "article-title": "The eyes have it: A task by data type taxonomy for information visualizations",
+        "author": "Shneiderman",
+        "year": "1996"
+      },
+      {
+        "year": "2013",
+        "series-title": "Learning SPARQL: querying and updating with SPARQL 1.1",
+        "author": "DuCharme",
+        "key": "10.1016/j.softx.2022.101235_b13"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.softx.2022.101235_b14",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1145/102377.115768",
+        "article-title": "Tree visualization with tree-maps: 2-D space-filling approach",
+        "volume": "11",
+        "author": "Shneiderman",
+        "year": "1992",
+        "journal-title": "ACM Trans Graph"
+      },
+      {
+        "year": "2011",
+        "series-title": "Linked data: evolving the web into a global data space",
+        "author": "Heath",
+        "key": "10.1016/j.softx.2022.101235_b15"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.softx.2022.101235_b16",
+        "first-page": "2876",
+        "article-title": "Single page application using AngularJS",
+        "volume": "6",
+        "author": "Jadhav",
+        "year": "2015",
+        "journal-title": "Int J Comput Sci Inf Technol"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b17",
+        "series-title": "The Semantic Web",
+        "first-page": "647",
+        "article-title": "RDF explorer: A visual SPARQL query builder",
+        "author": "Vargas",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b18",
+        "doi-asserted-by": "crossref",
+        "first-page": "172199",
+        "DOI": "10.1109/ACCESS.2019.2956345",
+        "article-title": "Linked data exploration with RDF surveyor",
+        "volume": "7",
+        "author": "Vega-Gorgojo",
+        "year": "2019",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.softx.2022.101235_b19",
+        "doi-asserted-by": "crossref",
+        "first-page": "288",
+        "DOI": "10.1111/epp.12209",
+        "article-title": "Development and testing of the media monitoring tool MedISys for early identification and reporting of existing and emerging plant health threats",
+        "volume": "45",
+        "author": "Alomar",
+        "year": "2015",
+        "journal-title": "EPPO Bull"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b20",
+        "series-title": "Current trends in semantic web technologies: theory and practice",
+        "first-page": "3",
+        "article-title": "Personalization of Ontologies Visualization: Use Case of Diabetes",
+        "author": "Subirats",
+        "year": "2019"
+      },
+      {
+        "year": "2021",
+        "series-title": "Knowledge graphs and Wikidata subsetting",
+        "author": "Labra-Gayo",
+        "key": "10.1016/j.softx.2022.101235_b21"
+      },
+      {
+        "key": "10.1016/j.softx.2022.101235_b22",
+        "series-title": "Proceedings of the industry track at the international semantic web conference 2014, vol. 1383",
+        "first-page": "2",
+        "article-title": "Semantic Web Technologies for User Generated Content and Digital Distribution Copyright Management",
+        "author": "García",
+        "year": "2014"
+      }
+    ],
+    "container-title": [
+      "SoftwareX"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352711022001534?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352711022001534?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2024-03-01T14:27:19Z",
+      "timestamp": 1709303239000
+    },
+    "score": 55.008263,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2352711022001534"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "references-count": 22,
+    "alternative-id": [
+      "S2352711022001534"
+    ],
+    "URL": "https://doi.org/10.1016/j.softx.2022.101235",
+    "ISSN": [
+      "2352-7110"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2352-7110"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Rhizomer: Interactive semantic knowledge graphs exploration",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "SoftwareX",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.softx.2022.101235",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2022 The Author(s). Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "101235"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          7
+        ]
+      ],
+      "date-time": "2024-09-07T18:41:17Z",
+      "timestamp": 1725734477995
+    },
+    "reference-count": 0,
+    "publisher": "SCITEPRESS - Science and Technology Publications",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "DOI": "10.5220/0006504100670079",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ],
+      "date-time": "2017-11-14T09:36:15Z",
+      "timestamp": 1510652175000
+    },
+    "page": "67-79",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Deep Associative Semantic Neural Graphs for Knowledge Representation and Fast Data Exploration"
+    ],
+    "prefix": "10.5220",
+    "author": [
+      {
+        "given": "Adrian",
+        "family": "Horzyk",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "AGH University of Science and Technology in Krakow, Poland"
+          }
+        ]
+      }
+    ],
+    "member": "3171",
+    "event": {
+      "name": "9th International Conference on Knowledge Engineering and Ontology Development",
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            11,
+            1
+          ]
+        ]
+      },
+      "location": "Funchal, Madeira, Portugal",
+      "end": {
+        "date-parts": [
+          [
+            2017,
+            11,
+            3
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "Proceedings of the 9th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management"
+    ],
+    "original-title": [
+      "Deep Associative Semantic Neural Graphs for Knowledge Representation and Fast Data Exploration"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2017-12-18T08:56:01Z",
+      "timestamp": 1513587361000
+    },
+    "score": 35.525555,
+    "resource": {
+      "primary": {
+        "URL": "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006504100670079"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5220/0006504100670079",
+    "published": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2024-10-29T04:14:39Z",
+      "timestamp": 1730175279904,
+      "version": "3.28.0"
+    },
+    "description": "The supplemental material contains an appendix.",
+    "reference-count": 0,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1109/tvcg.2024.3360690/mm1",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          1
+        ]
+      ],
+      "date-time": "2024-02-01T18:40:33Z",
+      "timestamp": 1706812833000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "KGScope: Interactive Visual Exploration of Knowledge Graphs with Embedding-based Guidance_supp1-3360690.pdf"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Wen-Chieh",
+        "family": "Lin",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "263",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          28
+        ]
+      ],
+      "date-time": "2024-10-28T17:35:21Z",
+      "timestamp": 1730136921000
+    },
+    "score": 33.05828,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/10418108/interactive"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1109/tvcg.2024.3360690/mm1"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T01:35:14Z",
+      "timestamp": 1740101714936,
+      "version": "3.37.3"
+    },
+    "publisher-location": "Boca Raton",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "CRC Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003310792"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          21
+        ]
+      ]
+    },
+    "DOI": "10.1201/9781003310792-2",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          21
+        ]
+      ],
+      "date-time": "2023-04-21T15:37:16Z",
+      "timestamp": 1682091436000
+    },
+    "page": "13-28",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Knowledge Graphs"
+    ],
+    "prefix": "10.1201",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3410-7178",
+        "authenticated-orcid": false,
+        "given": "Garima",
+        "family": "Gujral",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "J.",
+        "family": "Shivarama",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Data Science with Semantic Technologies"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          21
+        ]
+      ],
+      "date-time": "2023-04-21T15:37:22Z",
+      "timestamp": 1682091442000
+    },
+    "score": 32.552723,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003310792/chapters/10.1201/9781003310792-2"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          21
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003310792"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1201/9781003310792-2",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2025-03-12T04:25:24Z",
+      "timestamp": 1741753524410,
+      "version": "3.38.0"
+    },
+    "reference-count": 19,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              13
+            ]
+          ],
+          "date-time": "2024-02-13T00:00:00Z",
+          "timestamp": 1707782400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SW"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:p>We introduce Dura-Europos Stories, a multimedia application for viewing artifacts and places related to the Dura-Europos archaeological excavation. We describe the process of mapping data to the Wikidata data model as well as the process of contributing data to Wikidata. We provide an overview of the functionality of an interactive application for viewing images of the artifacts in the context of their metadata. We contextualize this project as an example of using knowledge graphs in research projects in order to leverage technologies of the Semantic Web in such a way that data related to the project can be easily combined with other data on the web. Presenting artifacts in this story-based application allows users to explore these objects visually, and provides pathways for further exploration of related information.</jats:p>",
+    "DOI": "10.3233/sw-243552",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2024-02-13T16:25:04Z",
+      "timestamp": 1707841504000
+    },
+    "page": "1-15",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Dura-Europos Stories: Developing interactive storytelling applications using knowledge graphs for cultural heritage exploration"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "given": "Katherine",
+        "family": "Thornton",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Stories Services Collaborative, USA"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth",
+        "family": "Seals-Nutt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Stories Services Collaborative, USA"
+          }
+        ]
+      },
+      {
+        "given": "Anne",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Bard College, USA"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "reference": [
+      {
+        "unstructured": "E. Barker, R. Simon, L. Isaksen and P. de Soto Cañamares, The Pleiades Gazetteer and the Pelagios Project, 2016, http://oro.open.ac.uk/48328/4/2016_Simon_Barker_etal_Gazetteers.pdf.",
+        "key": "10.3233/SW-243552_ref2"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "S. Heath, Digital creation and expression in the context of teaching roman art and archaeology, in: DATAM: Digital Approaches to Teaching the Ancient Mediterranean, 2020, pp. 149–170. https://hcommons.org/deposits/download/hc:29192/CONTENT/datam_heath.pdf/.",
+        "key": "10.3233/SW-243552_ref4",
+        "DOI": "10.31356/dpb016"
+      },
+      {
+        "unstructured": "E. Hyvönen et al., “Sampo” model and semantic portals for digital humanities on the Semantic Web, in: Proceedings of the Digital Humanities in the Nordic Countries 5th Conference (DHN 2020), CEUR-WS.org, 2020, http://hdl.handle.net/10138/334001.",
+        "key": "10.3233/SW-243552_ref5"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref6",
+        "DOI": "10.1007/978-3-030-21348-0_37"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref7",
+        "DOI": "10.1145/3125433.3125465"
+      },
+      {
+        "issue": "3",
+        "key": "10.3233/SW-243552_ref8",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.18438/eblip29575",
+        "article-title": "Reuse of Wikimedia commons cultural heritage images on the wider web",
+        "volume": "14",
+        "author": "Kelly",
+        "year": "2019",
+        "journal-title": "Evidence Based Library and Information Practice"
+      },
+      {
+        "issue": "6",
+        "key": "10.3233/SW-243552_ref9",
+        "doi-asserted-by": "publisher",
+        "first-page": "539",
+        "DOI": "10.3233/SW-140158",
+        "article-title": "Semantic technologies for historical research: A survey",
+        "volume": "6",
+        "author": "Meroño-Peñuela",
+        "year": "2015",
+        "journal-title": "Semantic Web"
+      },
+      {
+        "unstructured": "J. Neubert, Wikidata as a linking hub for knowledge organization systems? Integrating an authority mapping into Wikidata and learning lessons for KOS mappings, in: NKOS@ TPDL, 2017, pp. 14–25, http://ceur-ws.org/Vol-1937/paper2.pdf.",
+        "key": "10.3233/SW-243552_ref10"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref11",
+        "DOI": "10.1007/978-3-319-68288-4_32"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref12",
+        "DOI": "10.3390/DIGITAL2030019"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref13",
+        "DOI": "10.2312/gch.20211408"
+      },
+      {
+        "issue": "2",
+        "key": "10.3233/SW-243552_ref14",
+        "doi-asserted-by": "publisher",
+        "first-page": "170",
+        "DOI": "10.3390/histories2020013",
+        "article-title": "Digital perspectives in history",
+        "volume": "2",
+        "author": "Siebold",
+        "year": "2022",
+        "journal-title": "Histories"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref15",
+        "DOI": "10.1007/978-3-030-71903-6_30"
+      },
+      {
+        "unstructured": "K. Thornton and K. Seals-Nutt, Science stories: Using IIIF and Wikidata to create a linked-data application, in: International Semantic Web Conference (P&D/Industry/BlueSky), 2018, http://ceur-ws.org/Vol-2180/paper-68.pdf.",
+        "key": "10.3233/SW-243552_ref16"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref17",
+        "DOI": "10.1007/978-3-030-21348-0_40"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref18",
+        "DOI": "10.3390/app12178445"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref19",
+        "DOI": "10.3233/SW-222845"
+      },
+      {
+        "issue": "10",
+        "key": "10.3233/SW-243552_ref20",
+        "doi-asserted-by": "publisher",
+        "first-page": "78",
+        "DOI": "10.1145/2629489",
+        "article-title": "Wikidata: A free collaborative knowledgebase",
+        "volume": "57",
+        "author": "Vrandečić",
+        "year": "2014",
+        "journal-title": "Communications of the ACM"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "10.3233/SW-243552_ref21",
+        "DOI": "10.1093/llc/fqac083"
+      }
+    ],
+    "container-title": [
+      "Semantic Web"
+    ],
+    "link": [
+      {
+        "URL": "https://content.iospress.com/download?id=10.3233/SW-243552",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2025-03-11T07:56:50Z",
+      "timestamp": 1741679810000
+    },
+    "score": 31.516582,
+    "resource": {
+      "primary": {
+        "URL": "https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/SW-243552"
+      }
+    },
+    "editor": [
+      {
+        "given": "Lucie-Aimée",
+        "family": "Kaffee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Southampton, United Kingdom"
+          }
+        ]
+      },
+      {
+        "given": "Simon",
+        "family": "Razniewski",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Max Planck Institute for Informatics, Germany"
+          }
+        ]
+      },
+      {
+        "given": "Pavlos",
+        "family": "Vougiouklis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Huawei Technologies, United Kingdom"
+          }
+        ]
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 19,
+    "URL": "https://doi.org/10.3233/sw-243552",
+    "ISSN": [
+      "2210-4968",
+      "1570-0844"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2210-4968"
+      },
+      {
+        "type": "print",
+        "value": "1570-0844"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T04:32:08Z",
+      "timestamp": 1750307528943,
+      "version": "3.41.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 15,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              6,
+              28
+            ]
+          ],
+          "date-time": "2009-06-28T00:00:00Z",
+          "timestamp": 1246147200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004965",
+        "name": "Sixth Framework Programme",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "IST-033917"
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004965",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004963",
+        "name": "Seventh Framework Programme",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "IST-NoE-216886"
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004963",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          28
+        ]
+      ]
+    },
+    "DOI": "10.1145/1562849.1562857",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2009-07-08T17:34:19Z",
+      "timestamp": 1247074459000
+    },
+    "page": "66-73",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Visual analysis of documents with semantic graphs"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Delia",
+        "family": "Rusu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Jožef Stefan Institute, Ljubljana, Slovenia"
+          }
+        ]
+      },
+      {
+        "given": "Blaž",
+        "family": "Fortuna",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Jožef Stefan Institute, Ljubljana, Slovenia"
+          }
+        ]
+      },
+      {
+        "given": "Dunja",
+        "family": "Mladenić",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Jožef Stefan Institute, Ljubljana, Slovenia"
+          }
+        ]
+      },
+      {
+        "given": "Marko",
+        "family": "Grobelnik",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Jožef Stefan Institute, Ljubljana, Slovenia"
+          }
+        ]
+      },
+      {
+        "given": "Ruben",
+        "family": "Sipoš",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Jožef Stefan Institute, Ljubljana, Slovenia"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "volume-title": "Proceedings of IEEE Symposium on Information Visualization, Poster Session",
+        "author": "Collins C.",
+        "year": "2006",
+        "unstructured": "Collins , C. 2006 . DocuBurst: Document Content Visualization Using Language Structure . In Proceedings of IEEE Symposium on Information Visualization, Poster Session . Baltimore. Collins, C. 2006. DocuBurst: Document Content Visualization Using Language Structure. In Proceedings of IEEE Symposium on Information Visualization, Poster Session. Baltimore."
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3115/1034678.1034734"
+      },
+      {
+        "volume-title": "WordNet: An Electronic Lexical Database",
+        "author": "Fellbaum",
+        "key": "e_1_3_2_1_3_1",
+        "unstructured": "Fellbaum , Ch. 1998. WordNet: An Electronic Lexical Database . MIT Press . Fellbaum, Ch. 1998. WordNet: An Electronic Lexical Database. MIT Press."
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "first-page": "270",
+        "article-title": "Visualization of Text Document Corpus",
+        "volume": "29",
+        "author": "Fortuna B.",
+        "year": "2005",
+        "unstructured": "Fortuna , B. , Grobelnik , M and Mladenić , D. 2005 . Visualization of Text Document Corpus . Informatica Journal 29 , pp. 270 -- 277 . Fortuna, B., Grobelnik, M and Mladenić, D. 2005. Visualization of Text Document Corpus. Informatica Journal 29, pp. 270--277.",
+        "journal-title": "Informatica Journal"
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "first-page": "375",
+        "article-title": "Visualization of news articles",
+        "volume": "28",
+        "author": "Grobelnik M.",
+        "year": "2004",
+        "unstructured": "Grobelnik , M. and Mladenić , D. 2004 . Visualization of news articles . Informatica Journal 28 , pp. 375 -- 380 . Grobelnik, M. and Mladenić, D. 2004. Visualization of news articles. Informatica Journal 28, pp. 375--380.",
+        "journal-title": "Informatica Journal"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IV.2006.31"
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "volume-title": "Learning Sub-structures of Document Semantic Graphs for Document Summarization. Workshop on Link Analysis and Group Detection (LinkKDD) at KDD 2004",
+        "author": "Leskovec J.",
+        "year": "2004",
+        "unstructured": "Leskovec , J. , Grobelnik , M. and Milic-Frayling , N . 2004 . Learning Sub-structures of Document Semantic Graphs for Document Summarization. Workshop on Link Analysis and Group Detection (LinkKDD) at KDD 2004 ( Seattle, USA, August 22--25 , 2004 ). Leskovec, J., Grobelnik, M. and Milic-Frayling, N. 2004. Learning Sub-structures of Document Semantic Graphs for Document Summarization. Workshop on Link Analysis and Group Detection (LinkKDD) at KDD 2004 (Seattle, USA, August 22--25, 2004)."
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "article-title": "RCV1: A New Benchmark Collection for Text Categorization Research",
+        "volume": "5",
+        "author": "Lewis D. D.",
+        "year": "2004",
+        "unstructured": "Lewis , D. D. , Yang , Y. , Rose , T. G. , Li , F. 2004 . RCV1: A New Benchmark Collection for Text Categorization Research . Journal of Machine Learning Research , Vol. 5. Lewis, D. D., Yang, Y., Rose, T. G., Li, F. 2004. RCV1: A New Benchmark Collection for Text Categorization Research. Journal of Machine Learning Research, Vol. 5.",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "volume-title": "Proceedings of the Document Understanding Conference (DUC).",
+        "author": "Madnani N.",
+        "key": "e_1_3_2_1_9_1",
+        "unstructured": "Madnani , N. , Zajic , D. , Dorr , B. , Ayan , N. F. and Lin , J . 2007. Multiple Alternative Sentence Compressions for Automatic Text Summarization . In Proceedings of the Document Understanding Conference (DUC). Madnani, N., Zajic, D., Dorr, B., Ayan, N. F. and Lin, J. 2007. Multiple Alternative Sentence Compressions for Automatic Text Summarization. In Proceedings of the Document Understanding Conference (DUC)."
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "volume-title": "Computational Linguistics",
+        "volume": "19",
+        "author": "Marcus M. P.",
+        "unstructured": "Marcus , M. P. , Santorini , B. and Marcinkiewicz , M. A . 1993. Building a large annotated corpus of English: the Penn Treebank . Computational Linguistics , Volume 19 . Marcus, M. P., Santorini, B. and Marcinkiewicz, M. A. 1993. Building a large annotated corpus of English: the Penn Treebank. Computational Linguistics, Volume 19."
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "volume-title": "Proceedings of the 10th International Multiconference \"Information Society - IS 2007\"",
+        "author": "Rusu D.",
+        "year": "2007",
+        "unstructured": "Rusu , D. , Dali , L. , Fortuna , B. , Grobelnik , M. and Mladenić , D . 2007. Triplet Extraction from Sentences . In Proceedings of the 10th International Multiconference \"Information Society - IS 2007\" ( Ljubljana, Slovenia, October 8--12 , 2007 ). 218--222. Rusu, D., Dali, L., Fortuna, B., Grobelnik, M. and Mladenić, D. 2007. Triplet Extraction from Sentences. In Proceedings of the 10th International Multiconference \"Information Society - IS 2007\" (Ljubljana, Slovenia, October 8--12, 2007). 218--222."
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "unstructured": "Rusu D. Fortuna B. Grobelnik M. and Mladenić D. 2009. Semantic Graphs Derived From Triplets With Application In Document Summarization. Informatica Journal.  Rusu D. Fortuna B. Grobelnik M. and Mladenić D. 2009. Semantic Graphs Derived From Triplets With Application In Document Summarization. Informatica Journal."
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICDM.2008.138"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "first-page": "139",
+        "volume-title": "Proceedings of the European Semantic Web Conference (ESWC)",
+        "author": "Thai V",
+        "unstructured": "Thai , V , Handschuh , S. and Decker , S . 2008. IVEA: An information visualization tool for personalized exploratory document collection analysis . In Proceedings of the European Semantic Web Conference (ESWC) , pp. 139 -- 153 . Thai, V, Handschuh, S. and Decker, S. 2008. IVEA: An information visualization tool for personalized exploratory document collection analysis. In Proceedings of the European Semantic Web Conference (ESWC), pp. 139--153."
+      },
+      {
+        "volume-title": "Proceedings of the Document Understanding Conference (DUC).",
+        "author": "Toutanova K.",
+        "key": "e_1_3_2_1_15_1",
+        "unstructured": "Toutanova , K. , Brockett , C. , Gamon , M. , Jagarlamudi , J. , Suzuki , H. and Vanderwende , L . 2007. The PYTHY Summarization System: Microsoft Research at DUC2007 . In Proceedings of the Document Understanding Conference (DUC). Toutanova, K., Brockett, C., Gamon, M., Jagarlamudi, J., Suzuki, H. and Vanderwende, L. 2007. The PYTHY Summarization System: Microsoft Research at DUC2007. In Proceedings of the Document Understanding Conference (DUC)."
+      }
+    ],
+    "event": {
+      "name": "KDD09: The 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+      "sponsor": [
+        "SIGMOD ACM Special Interest Group on Management of Data",
+        "VisMaster, a European FP7 Coordination Action Project focused on Visual Analytics",
+        "PASCAL2 - Pattern Analysis, Statistical Modelling and Computational Learning",
+        "SIGKDD ACM Special Interest Group on Knowledge Discovery in Data",
+        "National Visualization and Analytics Center (NVAC)",
+        "Helsinki Institute for Information Technology HIIT",
+        "Danube University Krems, Departement of Information and Knowledge Engineering (DUK)"
+      ],
+      "location": "Paris France",
+      "acronym": "KDD09"
+    },
+    "container-title": [
+      "Proceedings of the ACM SIGKDD Workshop on Visual Analytics and Knowledge Discovery: Integrating Automated Analysis with Interactive Exploration"
+    ],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/1562849.1562857",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/1562849.1562857",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T12:23:07Z",
+      "timestamp": 1750249387000
+    },
+    "score": 31.10662,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/1562849.1562857"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          28
+        ]
+      ]
+    },
+    "references-count": 15,
+    "alternative-id": [
+      "10.1145/1562849.1562857",
+      "10.1145/1562849"
+    ],
+    "URL": "https://doi.org/10.1145/1562849.1562857",
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          28
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2009-06-28",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "institution": [
+      {
+        "name": "Universidade de São Paulo",
+        "place": [
+          "São Carlos"
+        ],
+        "department": [
+          "Instituto de Ciências Matemáticas e de Computação"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2025-03-20T14:10:12Z",
+      "timestamp": 1742479812791,
+      "version": "3.40.1"
+    },
+    "reference-count": 0,
+    "publisher": "Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.11606/t.55.2024.tde-20032025-103852",
+    "type": "dissertation",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2025-03-20T13:45:34Z",
+      "timestamp": 1742478334000
+    },
+    "approved": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "An exploration of recommender systems explanation paradigms: generating and evaluating syntactic, semantic, and generative models with knowledge graphs"
+    ],
+    "prefix": "10.11606",
+    "author": [
+      {
+        "given": "Andre Levi",
+        "family": "Zanon",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "4873",
+    "link": [
+      {
+        "URL": "https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20032025-103852/publico/AndreLeviZanon_DO_revisada.pdf",
+        "content-type": "application/octet-stream",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20032025-103852/publico/AndreLeviZanon_DO_revisada.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2025-03-20T13:45:34Z",
+      "timestamp": 1742478334000
+    },
+    "score": 31.062267,
+    "degree": [
+      "Doutorado Direto em Ciências de Computação e Matemática Computacional"
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20032025-103852/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.11606/t.55.2024.tde-20032025-103852"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          23
+        ]
+      ],
+      "date-time": "2025-06-23T19:01:50Z",
+      "timestamp": 1750705310634
+    },
+    "reference-count": 17,
+    "publisher": "IntechOpen",
+    "isbn-type": [
+      {
+        "value": "9781838807023",
+        "type": "print"
+      },
+      {
+        "value": "9781838807030",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              16
+            ]
+          ],
+          "date-time": "2020-09-16T00:00:00Z",
+          "timestamp": 1600214400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/3.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.5772/intechopen.92433",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2020-07-21T10:34:48Z",
+      "timestamp": 1595327688000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Semantic Web and Interactive Knowledge Graphs as an Educational Technology"
+    ],
+    "prefix": "10.5772",
+    "author": [
+      {
+        "given": "Victor",
+        "family": "Telnov",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yuri",
+        "family": "Korovin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3774",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref=1",
+        "unstructured": "W3C OWL 2 Web Ontology Language. 2012. Available from: http://www.w3.org/TR/owl2-overview/ [Accessed: 29 March 2020]"
+      },
+      {
+        "key": "ref=2",
+        "unstructured": "Baader F, Calvanese D, McGuinness D, Nardi D, Patel-Schneider P. The Description Logic Handbook: Theory, Implementation and Applications. 2nd ed. New York: Cambridge University Press; 2010. p. 505"
+      },
+      {
+        "key": "ref=3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Telnov V, Korovin Y. Semantic web and knowledge graphs as an educational technology of personnel training for nuclear power engineering. Nuclear Energy and Technology. 2019;5(3):273-280. DOI: 10.3897/nucet.5.39226",
+        "DOI": "10.3897/nucet.5.39226"
+      },
+      {
+        "key": "ref=4",
+        "unstructured": "Telnov V. Semantic educational portal. Nuclear knowledge graphs. Intellectual search agents [Internet]. 2020. Available from: http://vt.obninsk.ru/x/ [Accessed: 29 March 2020]"
+      },
+      {
+        "key": "ref=5",
+        "unstructured": "ISO 19505 UML Part 2 Superstructure. 2012. Available from: http://drive.google.com/file/d/0B0jk0QU2E5q9NVIwMFNieGxOZVU [Accessed: 29 March 2020]"
+      },
+      {
+        "key": "ref=6",
+        "unstructured": "Ontology example “Nuclear Physics at MSU and MEPhI”. 2020. Available from: http://drive.google.com/file/d/1AIXMsm3cfAxR6NX220R4ZeFeoSFp0mj5 [Accessed: 29 March 2020]"
+      },
+      {
+        "key": "ref=7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fanizzi N, d’Amato C, Esposito F. Induction of concepts in web ontologies through terminological decision trees. In: ECML/PKDD. Barcelona. Spain; 2010. pp. 442-457. DOI: 10.1007/978-3-642-15880-3_34",
+        "DOI": "10.1007/978-3-642-15880-3_34"
+      },
+      {
+        "key": "ref=8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bobillo F, Carvalho R, Costa P, d’Amato C, Fanizzi N, Laskey K, et al. Uncertainty reasoning for the semantic web III. In: SWC International Workshops URSW. Revised Selected Papers; 21–25 October. Sydney, Australia; 2013. pp. 1-328. DOI: 10.1007/978-3-319-13413-0",
+        "DOI": "10.1007/978-3-319-13413-0"
+      },
+      {
+        "key": "ref=9",
+        "unstructured": "Levenshtein V. Binary codes capable of correcting deletions, insertions and reversals. Soviet Physics – Doklady. 1965;10(8):707-710"
+      },
+      {
+        "key": "ref=10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen Y, Wang Z, Yang E, Li Y. Pareto-optimality solution recommendation using a multi–objective artificial wolf–pack algorithm. In: Proceedings of 10th International Conference on Software, Knowledge, Information Management & Applications (SKIMA); 15–17 December 2016. Chengdu, China; 2016. pp. 116-121. DOI: 10.1109/SKIMA.2016.7916207",
+        "DOI": "10.1109/SKIMA.2016.7916207"
+      },
+      {
+        "key": "ref=11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "d’Amato C. Machine learning for the semantic web: Lessons learnt and next research directions. Semantic Web. 2020;11:195-203. DOI: 10.3233/sw-200388",
+        "DOI": "10.3233/SW-200388"
+      },
+      {
+        "key": "ref=12",
+        "unstructured": "d’Amato C, Fanizzi N, Fazzinga B, Gottlob G, Lukasiewicz T. Combining Semantic Web Search with the Power of Inductive Reasoning. 2013. Available from: http://ceur-ws.org/Vol-527/paper2.pdf [Accessed: 29 March 2020]"
+      },
+      {
+        "key": "ref=13",
+        "unstructured": "Bikakis N, Sellis T. Exploration and Visualization in the Web of Big Linked Data: A Survey of the State of the Art. 2016. Available from: http://arxiv.org/pdf/1601.08059.pdf [Accessed: 29 March 2020]"
+      },
+      {
+        "key": "ref=14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Camarda D, Mazzini S, Antonuccio A. Lodlive, exploring the web of data. In: Proceedings of the 8th International Conference on Semantic Systems, I-SEMANTICS, ACM; September 2012. Graz, Austria; 2012. pp. 197-200",
+        "DOI": "10.1145/2362499.2362532"
+      },
+      {
+        "key": "ref=15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schlobach S, Janowicz K. Visualizing ontologies with VOWL. Semantic Web. 2016;7:399-419. DOI: 10.3233/SW-150200",
+        "DOI": "10.3233/SW-150200"
+      },
+      {
+        "key": "ref=16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thellmann K, Galkin M, Orlandi F, Auer S. LinkDaViz – Automatic binding of linked data to visualizations. In: Proceedings of the 15th International Semantic Web Conference; October 2015. Bethlehem, PA, USA; 2015. pp. 147-162",
+        "DOI": "10.1007/978-3-319-25007-6_9"
+      },
+      {
+        "key": "ref=17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bikakis N, Skourla M, Papastefanatos G. Rdf:SynopsViz - a framework for hierarchical linked data visual exploration and analysis. In: Proceedings of the European Semantic Web Conference ESWC; May 2014. Heraklion, Crete, Greece; 2014. pp. 292-297",
+        "DOI": "10.1007/978-3-319-11955-7_37"
+      }
+    ],
+    "container-title": [
+      "Cloud Computing Security - Concepts and Practice"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.intechopen.com/download/pdf/72215",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2020-09-17T13:22:22Z",
+      "timestamp": 1600348942000
+    },
+    "score": 30.506721,
+    "resource": {
+      "primary": {
+        "URL": "https://www.intechopen.com/books/cloud-computing-security-concepts-and-practice/semantic-web-and-interactive-knowledge-graphs-as-an-educational-technology"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          16
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781838807023",
+      "9781838807030"
+    ],
+    "references-count": 17,
+    "URL": "https://doi.org/10.5772/intechopen.92433",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2025-07-26T09:23:00Z",
+      "timestamp": 1753521780241,
+      "version": "3.37.3"
+    },
+    "reference-count": 0,
+    "publisher": "IOS Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": "10.3233/ssw190002-mono",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2025-02-20T14:09:45Z",
+      "timestamp": 1740060585000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Exploiting Semantic Web Knowledge Graphs in Data Mining"
+    ],
+    "prefix": "10.3233",
+    "author": [
+      {
+        "family": "Ristoski Petar",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "7437",
+    "container-title": [
+      "Studies on the Semantic Web",
+      "Exploiting Semantic Web Knowledge Graphs in Data Mining"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2025-02-20T14:14:21Z",
+      "timestamp": 1740060861000
+    },
+    "score": 30.415236,
+    "resource": {
+      "primary": {
+        "URL": "https://www.medra.org/servlet/aliasResolver?alias=iospressISBN&isbn=978-1-61499-980-5&spage=1&doi=10.3233/SSW190002-mono"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3233/ssw190002-mono",
+    "ISSN": [
+      "1868-1158"
+    ],
+    "issn-type": [
+      {
+        "value": "1868-1158",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2024-09-13T04:24:15Z",
+      "timestamp": 1726201455139
+    },
+    "publisher-location": "Boca Raton",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "CRC Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781003313267"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          28
+        ]
+      ]
+    },
+    "DOI": "10.1201/9781003313267-6",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2023-06-28T10:59:37Z",
+      "timestamp": 1687949977000
+    },
+    "page": "127-140",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Knowledge Graphs in Healthcare"
+    ],
+    "prefix": "10.1201",
+    "author": [
+      {
+        "given": "Sanna",
+        "family": "Aizad",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Bilal",
+        "family": "Arshad",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Semantic AI in Knowledge Graphs"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2023-06-28T10:59:50Z",
+      "timestamp": 1687949990000
+    },
+    "score": 29.134756,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781003313267/chapters/10.1201/9781003313267-6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          28
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781003313267"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1201/9781003313267-6",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          28
+        ]
+      ]
+    }
+  }
+]

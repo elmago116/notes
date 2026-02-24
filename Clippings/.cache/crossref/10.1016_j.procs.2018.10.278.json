@@ -1,0 +1,517 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        19
+      ]
+    ],
+    "date-time": "2025-08-19T10:21:52Z",
+    "timestamp": 1755598912785
+  },
+  "reference-count": 26,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2018-01-01T00:00:00Z",
+        "timestamp": 1514764800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2018-10-14T00:00:00Z",
+        "timestamp": 1539475200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 286,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Procedia Computer Science"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.procs.2018.10.278",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        10,
+        18
+      ]
+    ],
+    "date-time": "2018-10-18T11:20:55Z",
+    "timestamp": 1539861655000
+  },
+  "page": "364-371",
+  "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 92,
+  "special_numbering": "C",
+  "title": [
+    "Industry 4.0: a perspective based on bibliometric analysis"
+  ],
+  "prefix": "10.1016",
+  "volume": "139",
+  "author": [
+    {
+      "given": "M.J.",
+      "family": "Cobo",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "B.",
+      "family": "Jürgens",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "V.",
+      "family": "Herrero-Solana",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "M.A.",
+      "family": "Martínez",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "E.",
+      "family": "Herrera-Viedma",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "4",
+      "key": "10.1016/j.procs.2018.10.278_bib0001",
+      "doi-asserted-by": "crossref",
+      "first-page": "239",
+      "DOI": "10.1007/s12599-014-0334-4",
+      "article-title": "Industry 4.0",
+      "volume": "6",
+      "author": "Lasi",
+      "year": "2014",
+      "journal-title": "Business & Information Systems Engineering"
+    },
+    {
+      "key": "10.1016/j.procs.2018.10.278_bib0002",
+      "series-title": "The Fourth Industrial Revolution",
+      "author": "Schwab",
+      "year": "2017"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.procs.2018.10.278_bib0003",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1002/aris.1440370106",
+      "article-title": "Visualizing knowledge domains",
+      "volume": "37",
+      "author": "Börner",
+      "year": "2003",
+      "journal-title": "Annual Review of Information Science and Technology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.procs.2018.10.278_bib0004",
+      "doi-asserted-by": "crossref",
+      "first-page": "191",
+      "DOI": "10.1177/053901883022002003",
+      "article-title": "From translations to problematic networks: An introduction to co-word analysis",
+      "volume": "22",
+      "author": "Callon",
+      "year": "1983",
+      "journal-title": "Social Science Information"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.procs.2018.10.278_bib0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "1382",
+      "DOI": "10.1002/asi.21525",
+      "article-title": "Science mapping software tools: Review, analysis, and cooperative study among tools",
+      "volume": "62",
+      "author": "Cobo",
+      "year": "2011",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.procs.2018.10.278_bib0006",
+      "doi-asserted-by": "crossref",
+      "first-page": "1609",
+      "DOI": "10.1002/asi.22688",
+      "article-title": "SciMAT: A new science mapping analysis software tool",
+      "volume": "63",
+      "year": "2012",
+      "journal-title": "Journal of the American Society for Information Science and Technology"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.procs.2018.10.278_bib0007",
+      "doi-asserted-by": "crossref",
+      "first-page": "146",
+      "DOI": "10.1016/j.joi.2010.10.002",
+      "article-title": "An approach for detecting, quantifying, and visualizing the evolution of a research field: A practical application to the Fuzzy Sets Theory field",
+      "volume": "5",
+      "author": "Cobo",
+      "year": "2011",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.procs.2018.10.278_bib0008",
+      "doi-asserted-by": "crossref",
+      "first-page": "799",
+      "DOI": "10.1002/(SICI)1097-4571(1999)50:9<799::AID-ASI9>3.0.CO;2-G",
+      "article-title": "Visualizing science by citation mapping",
+      "volume": "50",
+      "year": "1999",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.procs.2018.10.278_bib0009",
+      "doi-asserted-by": "crossref",
+      "first-page": "413",
+      "DOI": "10.1109/TITS.2011.2167968",
+      "article-title": "A Note on the ITS topic evolution in the period 2000-2009 at T-ITS",
+      "volume": "13",
+      "author": "Cobo",
+      "year": "2012",
+      "journal-title": "IEEE Transactions on Intelligent Transportation Systems"
+    },
+    {
+      "key": "10.1016/j.procs.2018.10.278_bib00010",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1016/j.knosys.2014.12.035",
+      "article-title": "25 years at Knowledge-Based Systems: A bibliometric analysis",
+      "volume": "80",
+      "year": "2015",
+      "journal-title": "Knowledge-Based Systems"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.procs.2018.10.278_bib00011",
+      "doi-asserted-by": "crossref",
+      "first-page": "257",
+      "DOI": "10.1177/1049731514522101",
+      "article-title": "Analyzing the Scientific Evolution of Social Work Using Science Mapping",
+      "volume": "5",
+      "author": "Martínez",
+      "year": "2015",
+      "journal-title": "Research on Social Work Practice"
+    },
+    {
+      "issue": "13",
+      "key": "10.1016/j.procs.2018.10.278_bib00012",
+      "article-title": "An Overview of Thematic Evolution of Physical Therapy Research Area From 1951 to 2013",
+      "volume": "3",
+      "author": "Moral-Munoz",
+      "year": "2013",
+      "journal-title": "Frontiers in Research Metrics and Analytics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.procs.2018.10.278_bib00013",
+      "doi-asserted-by": "crossref",
+      "first-page": "519",
+      "DOI": "10.1007/s11192-014-1443-z",
+      "article-title": "Analysing the conceptual evolution of qualitative marketing research through science mapping analysis",
+      "volume": "102",
+      "author": "Murgado-Armenteros",
+      "year": "2015",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.procs.2018.10.278_bib00014",
+      "doi-asserted-by": "crossref",
+      "first-page": "475",
+      "DOI": "10.1111/jbg.12124",
+      "article-title": "An overview of animal science research 1945-2011 through science mapping analysis",
+      "volume": "132",
+      "author": "Rodriguez-Ledesma",
+      "year": "2015",
+      "journal-title": "Journal of Animal Breeding and Genetics"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.procs.2018.10.278_bib00015",
+      "doi-asserted-by": "crossref",
+      "first-page": "845",
+      "DOI": "10.1007/s11192-012-0940-1",
+      "article-title": "On bibliographic networks",
+      "volume": "96",
+      "author": "Batagelj",
+      "year": "2013",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "13",
+      "key": "10.1016/j.procs.2018.10.278_bib00016",
+      "doi-asserted-by": "crossref",
+      "first-page": "1206",
+      "DOI": "10.1002/(SICI)1097-4571(1998)49:13<1206::AID-ASI7>3.0.CO;2-F",
+      "article-title": "Software engineering as seen through its research literature: A study in coword analysis",
+      "volume": "49",
+      "author": "Coulter",
+      "year": "1998",
+      "journal-title": "Journal of the American Society for Information Science"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.procs.2018.10.278_bib00017",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1007/BF02019280",
+      "article-title": "Co-word analysis as a tool for describing the network of interactions between basic and technological research: The case of polymer chemistry",
+      "volume": "22",
+      "author": "Callon",
+      "year": "1991",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.procs.2018.10.278_bib00018",
+      "first-page": "133",
+      "article-title": "Knowledge Discovery Through Co-Word Analysis",
+      "volume": "48",
+      "author": "He",
+      "year": "1999",
+      "journal-title": "Library Trends"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.procs.2018.10.278_bib00019",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1016/j.joi.2009.04.001",
+      "article-title": "h-Index: A review focused in its variants, computation and standardization for different scientific fields",
+      "volume": "3",
+      "year": "2009",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "46",
+      "key": "10.1016/j.procs.2018.10.278_bib00020",
+      "doi-asserted-by": "crossref",
+      "first-page": "16569",
+      "DOI": "10.1073/pnas.0507655102",
+      "article-title": "An index to quantify an individual’s scientific research output",
+      "volume": "102",
+      "author": "Hirsch",
+      "year": "2005",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.procs.2018.10.278_bib00021",
+      "doi-asserted-by": "crossref",
+      "first-page": "1971",
+      "DOI": "10.1007/s11192-013-1155-9",
+      "article-title": "H-Classics: Characterizing the concept of citation classics through H-index",
+      "volume": "98",
+      "year": "2014",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.procs.2018.10.278_bib00022",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1007/s40684-016-0015-5",
+      "article-title": "Smart manufacturing: Past research, present findings, and future directions",
+      "volume": "3",
+      "author": "Kang",
+      "year": "2016",
+      "journal-title": "International Journal of Precision Engineering and Manufacturing-Green Technology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.procs.2018.10.278_bib00023",
+      "doi-asserted-by": "crossref",
+      "first-page": "621",
+      "DOI": "10.1016/j.cirp.2016.06.005",
+      "article-title": "Cyber-physical systems in manufacturing",
+      "volume": "65",
+      "author": "Monostori",
+      "year": "2016",
+      "journal-title": "CIRP Annals"
+    },
+    {
+      "key": "10.1016/j.procs.2018.10.278_bib00024",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1109/JSEN.2016.2565621",
+      "article-title": "Software-Defined Industrial Internet of Things in the Context of Industry 4.0",
+      "author": "Wan",
+      "year": "2016",
+      "journal-title": "IEEE Sensors Journal"
+    },
+    {
+      "issue": "08",
+      "key": "10.1016/j.procs.2018.10.278_bib00025",
+      "doi-asserted-by": "crossref",
+      "first-page": "1740015",
+      "DOI": "10.1142/S1363919617400151",
+      "article-title": "Sustainable industrial value creation: benefits and challenges of industry 4.0",
+      "volume": "21",
+      "author": "Kiel",
+      "year": "2017",
+      "journal-title": "International Journal of Innovation Management"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.procs.2018.10.278_bib00026",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.17512/pjms.2016.14.2.11",
+      "article-title": "New logistics and production trends as the effect of global economy changes",
+      "volume": "14",
+      "author": "Kovacs",
+      "year": "2016",
+      "journal-title": "Polish Journal of Management Studies"
+    }
+  ],
+  "container-title": [
+    "Procedia Computer Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1877050918319483?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1877050918319483?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2018,
+        10,
+        18
+      ]
+    ],
+    "date-time": "2018-10-18T11:21:10Z",
+    "timestamp": 1539861670000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1877050918319483"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "references-count": 26,
+  "alternative-id": [
+    "S1877050918319483"
+  ],
+  "URL": "https://doi.org/10.1016/j.procs.2018.10.278",
+  "relation": {},
+  "ISSN": [
+    "1877-0509"
+  ],
+  "issn-type": [
+    {
+      "value": "1877-0509",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Industry 4.0: a perspective based on bibliometric analysis",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Procedia Computer Science",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.procs.2018.10.278",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2018 The Author(s). Published by Elsevier B.V.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

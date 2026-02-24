@@ -1,0 +1,378 @@
+{
+  "id": "https://openalex.org/W2797762030",
+  "doi": "https://doi.org/10.2307/3541220",
+  "title": "Capital cultural, escuela y espacio social",
+  "display_name": "Capital cultural, escuela y espacio social",
+  "publication_year": 1999,
+  "publication_date": "1999-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2797762030",
+    "doi": "https://doi.org/10.2307/3541220",
+    "mag": "2797762030"
+  },
+  "language": "es",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.2307/3541220",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210196231",
+      "display_name": "Revista Mexicana de Sociología",
+      "issn_l": "0188-2503",
+      "issn": [
+        "0188-2503",
+        "2594-0651"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310319658",
+      "host_organization_name": "National Autonomous University of Mexico",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319658"
+      ],
+      "host_organization_lineage_names": [
+        "National Autonomous University of Mexico"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5000414625",
+        "display_name": "Miguel Ángel Vite Pérez",
+        "orcid": "https://orcid.org/0000-0002-8799-4444"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Miguel ángel Vite Pérez",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035242470",
+        "display_name": "Pierre Bourdieu",
+        "orcid": "https://orcid.org/0000-0001-6386-4269"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Pierre Bourdieu",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026029730",
+        "display_name": "Isabel Jiménez Becerra",
+        "orcid": "https://orcid.org/0000-0003-4263-1970"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Isabel Jiménez",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000414625",
+        "display_name": "Miguel Ángel Vite Pérez",
+        "orcid": "https://orcid.org/0000-0002-8799-4444"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Miguel angel Vite Perez",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5026029730",
+        "display_name": "Isabel Jiménez Becerra",
+        "orcid": "https://orcid.org/0000-0003-4263-1970"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Isabel Jimenez",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 15.633,
+  "has_fulltext": false,
+  "cited_by_count": 872,
+  "citation_normalized_percentile": {
+    "value": 0.999954,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "61",
+    "issue": "1",
+    "first_page": "199",
+    "last_page": "199"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14061",
+    "display_name": "Educational Practices and Policies",
+    "score": 0.9889,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14061",
+      "display_name": "Educational Practices and Policies",
+      "score": 0.9889,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14033",
+      "display_name": "Education in Rural Contexts",
+      "score": 0.9562,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C68062652",
+      "wikidata": "https://www.wikidata.org/wiki/Q214693",
+      "display_name": "Social capital",
+      "level": 2,
+      "score": 0.5832434
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.56634414
+    },
+    {
+      "id": "https://openalex.org/C2778930550",
+      "wikidata": "https://www.wikidata.org/wiki/Q918002",
+      "display_name": "Cultural capital",
+      "level": 2,
+      "score": 0.51371753
+    },
+    {
+      "id": "https://openalex.org/C15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "level": 1,
+      "score": 0.3904359
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.2612483
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.24428606
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/3541220",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210196231",
+        "display_name": "Revista Mexicana de Sociología",
+        "issn_l": "0188-2503",
+        "issn": [
+          "0188-2503",
+          "2594-0651"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319658",
+        "host_organization_name": "National Autonomous University of Mexico",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319658"
+        ],
+        "host_organization_lineage_names": [
+          "National Autonomous University of Mexico"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/11",
+      "display_name": "Sustainable cities and communities",
+      "score": 0.56
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W93312527",
+    "https://openalex.org/W828925460",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2603296253",
+    "https://openalex.org/W2559405764",
+    "https://openalex.org/W2557454913",
+    "https://openalex.org/W1981237608",
+    "https://openalex.org/W1589203209",
+    "https://openalex.org/W11365241",
+    "https://openalex.org/W1013667899"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2797762030",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 34
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 63
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 73
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 72
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 67
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 67
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 47
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 66
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 48
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 50
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 39
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 32
+    }
+  ],
+  "updated_date": "2025-08-16T17:47:26.926018",
+  "created_date": "2018-04-24"
+}

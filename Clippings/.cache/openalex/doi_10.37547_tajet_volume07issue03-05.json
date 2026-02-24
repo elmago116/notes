@@ -1,0 +1,896 @@
+{
+  "id": "https://openalex.org/W4408217850",
+  "doi": "https://doi.org/10.37547/tajet/volume07issue03-05",
+  "title": "Human-AI Collaboration in IT Systems Design: A Comprehensive Framework for Intelligent Co-Creation",
+  "display_name": "Human-AI Collaboration in IT Systems Design: A Comprehensive Framework for Intelligent Co-Creation",
+  "publication_year": 2025,
+  "publication_date": "2025-03-05",
+  "ids": {
+    "openalex": "https://openalex.org/W4408217850",
+    "doi": "https://doi.org/10.37547/tajet/volume07issue03-05"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37547/tajet/volume07issue03-05",
+    "pdf_url": "https://theamericanjournals.com/index.php/tajet/article/download/5927/5483/7039",
+    "source": {
+      "id": "https://openalex.org/S4210219720",
+      "display_name": "The American Journal of Engineering And Technology",
+      "issn_l": "2689-0984",
+      "issn": [
+        "2689-0984"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://theamericanjournals.com/index.php/tajet/article/download/5927/5483/7039",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5103053242",
+        "display_name": "Md. Golam Rabbani",
+        "orcid": "https://orcid.org/0009-0008-2787-1769"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "MD Mahbub Rabbani",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056631548",
+        "display_name": "Muhammad Numan Khan",
+        "orcid": "https://orcid.org/0000-0002-4184-6921"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "MD Nadil khan",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062690666",
+        "display_name": "K. A. Desai",
+        "orcid": "https://orcid.org/0000-0001-5103-9480"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kirtibhai Desai",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025563341",
+        "display_name": "Md. Minarul Islam",
+        "orcid": "https://orcid.org/0000-0001-9069-1519"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammad Majharul Islam",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101558852",
+        "display_name": "Zahoor Ahmad",
+        "orcid": "https://orcid.org/0000-0002-9663-2509"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Saif Ahmad",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5116470686",
+        "display_name": "Esrat Zahan Snigdha",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Esrat Zahan Snigdha",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 90
+  },
+  "biblio": {
+    "volume": "07",
+    "issue": "03",
+    "first_page": "50",
+    "last_page": "68"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12594",
+    "display_name": "Collaboration in agile enterprises",
+    "score": 0.896,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1405",
+      "display_name": "Management of Technology and Innovation"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/14",
+      "display_name": "Business, Management and Accounting"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12594",
+      "display_name": "Collaboration in agile enterprises",
+      "score": 0.896,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11891",
+      "display_name": "Big Data and Business Intelligence",
+      "score": 0.8519,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10763",
+      "display_name": "Digital Transformation in Industry",
+      "score": 0.7934,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.49543583
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4420272
+    },
+    {
+      "id": "https://openalex.org/C201995342",
+      "wikidata": "https://www.wikidata.org/wiki/Q682496",
+      "display_name": "Systems engineering",
+      "level": 1,
+      "score": 0.38836566
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.3768016
+    },
+    {
+      "id": "https://openalex.org/C110354214",
+      "wikidata": "https://www.wikidata.org/wiki/Q6314146",
+      "display_name": "Engineering management",
+      "level": 1,
+      "score": 0.3766966
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.33539188
+    },
+    {
+      "id": "https://openalex.org/C195094911",
+      "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+      "display_name": "Process management",
+      "level": 1,
+      "score": 0.3305744
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.37547/tajet/volume07issue03-05",
+      "pdf_url": "https://theamericanjournals.com/index.php/tajet/article/download/5927/5483/7039",
+      "source": {
+        "id": "https://openalex.org/S4210219720",
+        "display_name": "The American Journal of Engineering And Technology",
+        "issn_l": "2689-0984",
+        "issn": [
+          "2689-0984"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.37547/tajet/volume07issue03-05",
+    "pdf_url": "https://theamericanjournals.com/index.php/tajet/article/download/5927/5483/7039",
+    "source": {
+      "id": "https://openalex.org/S4210219720",
+      "display_name": "The American Journal of Engineering And Technology",
+      "issn_l": "2689-0984",
+      "issn": [
+        "2689-0984"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4313418547",
+    "https://openalex.org/W3128908425",
+    "https://openalex.org/W2765396887",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2739511251",
+    "https://openalex.org/W2144661394",
+    "https://openalex.org/W2128187209",
+    "https://openalex.org/W2100279467",
+    "https://openalex.org/W2047245866",
+    "https://openalex.org/W164118282"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0,
+      119
+    ],
+    "recent": [
+      1
+    ],
+    "years,": [
+      2
+    ],
+    "Human": [
+      3
+    ],
+    "AI": [
+      4,
+      44,
+      52,
+      103,
+      202,
+      215
+    ],
+    "Collaboration": [
+      5
+    ],
+    "has": [
+      6
+    ],
+    "become": [
+      7
+    ],
+    "an": [
+      8
+    ],
+    "exciting": [
+      9
+    ],
+    "new": [
+      10
+    ],
+    "approach": [
+      11
+    ],
+    "to": [
+      12,
+      19,
+      89,
+      112,
+      169,
+      191,
+      210
+    ],
+    "IT": [
+      13,
+      37,
+      50,
+      179,
+      206
+    ],
+    "systems": [
+      14,
+      38
+    ],
+    "design": [
+      15,
+      117
+    ],
+    "that": [
+      16,
+      97
+    ],
+    "is": [
+      17,
+      61,
+      167
+    ],
+    "designed": [
+      18
+    ],
+    "balance": [
+      20
+    ],
+    "automation": [
+      21
+    ],
+    "and": [
+      22,
+      43,
+      58,
+      74,
+      82,
+      105,
+      139,
+      161,
+      184,
+      204,
+      219
+    ],
+    "human": [
+      23,
+      42,
+      106,
+      200,
+      214
+    ],
+    "expertise.": [
+      24
+    ],
+    "Specifically,": [
+      25
+    ],
+    "this": [
+      26,
+      188
+    ],
+    "paper": [
+      27
+    ],
+    "investigates": [
+      28
+    ],
+    "a": [
+      29,
+      71,
+      147
+    ],
+    "broad": [
+      30
+    ],
+    "framework": [
+      31,
+      166
+    ],
+    "of": [
+      32,
+      101,
+      172,
+      195,
+      199,
+      213
+    ],
+    "smart": [
+      33
+    ],
+    "scenario": [
+      34
+    ],
+    "co-creation": [
+      35
+    ],
+    "with": [
+      36,
+      79
+    ],
+    "in": [
+      39,
+      47,
+      153,
+      175,
+      197
+    ],
+    "general,": [
+      40
+    ],
+    "where": [
+      41
+    ],
+    "work": [
+      45
+    ],
+    "together": [
+      46,
+      78
+    ],
+    "dynamically": [
+      48,
+      64
+    ],
+    "sharing": [
+      49
+    ],
+    "tasks,": [
+      51
+    ],
+    "provides": [
+      53,
+      123
+    ],
+    "decision": [
+      54
+    ],
+    "tools": [
+      55
+    ],
+    "for": [
+      56,
+      149,
+      217
+    ],
+    "augmentation,": [
+      57
+    ],
+    "mutual": [
+      59
+    ],
+    "performance": [
+      60
+    ],
+    "optimized": [
+      62
+    ],
+    "by": [
+      63,
+      110
+    ],
+    "adjusting": [
+      65
+    ],
+    "learning": [
+      66
+    ],
+    "parameters.": [
+      67
+    ],
+    "The": [
+      68,
+      164
+    ],
+    "research": [
+      69,
+      189
+    ],
+    "employs": [
+      70
+    ],
+    "mixed": [
+      72
+    ],
+    "method,": [
+      73
+    ],
+    "the": [
+      75,
+      80,
+      83,
+      91,
+      121,
+      127,
+      140,
+      176,
+      192
+    ],
+    "case": [
+      76
+    ],
+    "studies": [
+      77
+    ],
+    "surveys": [
+      81
+    ],
+    "quantitative": [
+      84
+    ],
+    "data": [
+      85
+    ],
+    "analysis": [
+      86
+    ],
+    "are": [
+      87
+    ],
+    "used": [
+      88
+    ],
+    "assess": [
+      90
+    ],
+    "existing": [
+      92
+    ],
+    "collaboration": [
+      93
+    ],
+    "models.": [
+      94
+    ],
+    "We": [
+      95
+    ],
+    "find": [
+      96
+    ],
+    "hybrid": [
+      98
+    ],
+    "teams,": [
+      99
+    ],
+    "consisting": [
+      100
+    ],
+    "both": [
+      102
+    ],
+    "agents": [
+      104
+    ],
+    "experts,": [
+      107
+    ],
+    "increase": [
+      108
+    ],
+    "productivity": [
+      109
+    ],
+    "up": [
+      111
+    ],
+    "40%": [
+      113
+    ],
+    "when": [
+      114
+    ],
+    "executing": [
+      115
+    ],
+    "iterative": [
+      116
+    ],
+    "processes.": [
+      118
+    ],
+    "addition,": [
+      120
+    ],
+    "study": [
+      122
+    ],
+    "important": [
+      124
+    ],
+    "insights": [
+      125
+    ],
+    "regarding": [
+      126
+    ],
+    "critical": [
+      128
+    ],
+    "success": [
+      129
+    ],
+    "factors": [
+      130
+    ],
+    "such": [
+      131,
+      157,
+      173
+    ],
+    "as": [
+      132,
+      158
+    ],
+    "adaptive": [
+      133
+    ],
+    "system": [
+      134
+    ],
+    "interfaces,": [
+      135
+    ],
+    "trust": [
+      136
+    ],
+    "building": [
+      137
+    ],
+    "mechanisms": [
+      138
+    ],
+    "skill": [
+      141
+    ],
+    "augmentation": [
+      142
+    ],
+    "strategies.": [
+      143
+    ],
+    "This": [
+      144
+    ],
+    "information": [
+      145
+    ],
+    "presents": [
+      146
+    ],
+    "path": [
+      148
+    ],
+    "overcoming": [
+      150
+    ],
+    "ubiquitous": [
+      151
+    ],
+    "challenge": [
+      152
+    ],
+    "utilizing": [
+      154
+    ],
+    "collaborative": [
+      155
+    ],
+    "frameworks,": [
+      156
+    ],
+    "technological": [
+      159
+    ],
+    "misalignment": [
+      160
+    ],
+    "user": [
+      162
+    ],
+    "resistance.": [
+      163
+    ],
+    "proposed": [
+      165
+    ],
+    "intended": [
+      168
+    ],
+    "enable": [
+      170
+    ],
+    "replication": [
+      171
+    ],
+    "integration": [
+      174
+    ],
+    "real": [
+      177
+    ],
+    "time": [
+      178
+    ],
+    "environment": [
+      180
+    ],
+    "offering": [
+      181
+    ],
+    "flexibility,": [
+      182
+    ],
+    "scalability": [
+      183
+    ],
+    "long-term": [
+      185
+    ],
+    "efficiency.": [
+      186
+    ],
+    "Second,": [
+      187
+    ],
+    "adds": [
+      190
+    ],
+    "expanding": [
+      193
+    ],
+    "repository": [
+      194
+    ],
+    "knowledge": [
+      196
+    ],
+    "terms": [
+      198
+    ],
+    "centered": [
+      201
+    ],
+    "development": [
+      203
+    ],
+    "offers": [
+      205
+    ],
+    "leaders": [
+      207
+    ],
+    "practical": [
+      208
+    ],
+    "approaches": [
+      209
+    ],
+    "take": [
+      211
+    ],
+    "advantage": [
+      212
+    ],
+    "synergy": [
+      216
+    ],
+    "innovation": [
+      218
+    ],
+    "competitiveness.": [
+      220
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4408217850",
+  "counts_by_year": [],
+  "updated_date": "2025-08-16T20:18:50.378062",
+  "created_date": "2025-03-08"
+}

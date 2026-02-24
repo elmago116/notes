@@ -1,0 +1,138 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        13
+      ]
+    ],
+    "date-time": "2024-05-13T18:05:57Z",
+    "timestamp": 1715623557475
+  },
+  "reference-count": 0,
+  "publisher": "Princeton University Press",
+  "isbn-type": [
+    {
+      "value": "9780691148342",
+      "type": "print"
+    },
+    {
+      "value": "9780691185910",
+      "type": "electronic"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        12
+      ]
+    ]
+  },
+  "abstract": "<p>This chapter describes experiments to detect the axion, which originated in the 1980s when theorists realized that the axion could be dark matter. It points out that the name “axion” comes from an Italian laundry detergent and was used by one of the particle's inventors, because the axion “cleans up” the strong interaction. It also considers the difference of axions from Weakly Interacting Massive Particles as they are thought to interact mostly with photons, rather than nuclei and their mass is a few millionths that of a proton. The chapter explains the theoretical ideas behind the axion, how axions interact, and how their mass, lifetime, and interaction strengths are related. It considers the most sensitive experiment searching for the lightest axion, and talks about a way of searching for the most massive axions by looking for their emission from the Sun.</p>",
+  "DOI": "10.23943/princeton/9780691148342.003.0008",
+  "type": "book-chapter",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        4
+      ]
+    ],
+    "date-time": "2023-07-04T11:09:03Z",
+    "timestamp": 1688468943000
+  },
+  "page": "135-145",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Searching for Axions"
+  ],
+  "prefix": "10.23943",
+  "author": [
+    {
+      "given": "Peter",
+      "family": "Fisher",
+      "sequence": "first",
+      "affiliation": []
+    }
+  ],
+  "member": "10341",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        18
+      ]
+    ]
+  },
+  "container-title": [
+    "What Is Dark Matter?"
+  ],
+  "original-title": [
+    "Searching for Axions"
+  ],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        4
+      ]
+    ],
+    "date-time": "2023-07-04T11:09:04Z",
+    "timestamp": 1688468944000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://academic.oup.com/princeton-scholarship-online/book/46049/chapter/404515798"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        12
+      ]
+    ]
+  },
+  "ISBN": [
+    "9780691148342",
+    "9780691185910"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.23943/princeton/9780691148342.003.0008",
+  "relation": {
+    "is-identical-to": [
+      {
+        "id-type": "doi",
+        "id": "10.2307/j.ctv27qzsd4.10",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        12
+      ]
+    ]
+  }
+}

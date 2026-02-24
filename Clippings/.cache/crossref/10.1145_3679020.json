@@ -1,0 +1,488 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        19
+      ]
+    ],
+    "date-time": "2025-06-19T05:03:34Z",
+    "timestamp": 1750309414684,
+    "version": "3.41.0"
+  },
+  "reference-count": 39,
+  "publisher": "Association for Computing Machinery (ACM)",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            16
+          ]
+        ],
+        "date-time": "2024-12-16T00:00:00Z",
+        "timestamp": 1734307200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "NWO",
+      "award": [
+        "NWA.1292.19.419"
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "dl.acm.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J. Comput. Cult. Herit."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        31
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Recently, cultural institutions have seen a rise in citizen curation projects, where people actively engage in curating and interpreting cultural artifacts. Citizen curation involves using collective knowledge and shared interests to create rich narratives around heritage items. This approach values the diverse perspectives individuals bring to preserving and representing culture. In this work, we investigate the potential of citizen curation applied to the subjective and culturally bound topic of symbolism. To do so, we present a pilot study on the development and user testing of the multivocal exhibition application. This application allows users to curate their art exhibitions by picking one theme and three cultural contexts that spark their interest. The app then selects artworks and symbolic data from HyperReal (cultural symbolism knowledge graph), Wikidata, and the National Museum of World Cultures (NMVW) to create a 3D environment featuring three artworks that symbolically convey the chosen theme from the perspective of the selected cultural contexts. The purpose of this app is to foster an open dialogue about the uniqueness and similarities of cultures, and promote inclusivity and cultural awareness, by showing how artifacts and what they depict can be interpreted in different cultural contexts, according to their symbology. Multivocal exhibition was tested by 12 users divided into 6 groups. The evaluation is based on the interaction between the users and the application, the analysis of the dialogues that were prompted utilizing the app, and an interview after trying two scenarios. Our results show how serendipity and surprise emerge as central themes in the cross-cultural experiences of the users. These elements play an indispensable role in cultivating engagement through symbolism, enriching users’ comprehension of diverse cultures, and heightening overall engagement. Moreover, the cognitive gap intentionally created by the app—triggering questions about why specific symbols convey particular meanings within certain contexts—proves to be a potent stimulus for user curiosity and engagement. We report additional findings, lessons learned and future work at the end of the article.</jats:p>",
+  "DOI": "10.1145/3679020",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        20
+      ]
+    ],
+    "date-time": "2024-07-20T15:38:18Z",
+    "timestamp": 1721489898000
+  },
+  "page": "1-21",
+  "update-policy": "https://doi.org/10.1145/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Multivocal Exhibition: Exploring Cultural Perspectives through User-Curated Art Exhibitions"
+  ],
+  "prefix": "10.1145",
+  "volume": "17",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-9152-4402",
+      "authenticated-orcid": false,
+      "given": "Bruno",
+      "family": "Sartini",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Ludwig-Maximilians-Universität München, Munich, Germany"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9458-8105",
+      "authenticated-orcid": false,
+      "given": "Sarah Binta",
+      "family": "Alam Shoilee",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Vrije Universiteit Amsterdam, Amsterdam, The Netherlands"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3758-4145",
+      "authenticated-orcid": false,
+      "given": "Claudia A.",
+      "family": "Libbi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Leiden University, Leiden, The Netherlands"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9079-039X",
+      "authenticated-orcid": false,
+      "given": "Victor",
+      "family": "de Boer",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Vrije Universiteit Amsterdam, Amsterdam, The Netherlands"
+        }
+      ]
+    }
+  ],
+  "member": "320",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_2_2_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/isprs-archives-XLII-2-W15-33-2019"
+    },
+    {
+      "key": "e_1_3_2_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/JD-09-2022-0207"
+    },
+    {
+      "key": "e_1_3_2_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ipm.2015.10.003"
+    },
+    {
+      "key": "e_1_3_2_5_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "155",
+      "DOI": "10.1007/978-3-031-43940-7_13",
+      "volume-title": "Electronic Governance with Emerging Technologies",
+      "author": "Bhaveeasheshwar E.",
+      "year": "2023",
+      "unstructured": "E. Bhaveeasheshwar and Gerard Deepak. 2023. OISHI: An ontology integration framework for domains of socio-humanitarian importance incorporating hybrid machine intelligence. In Electronic Governance with Emerging Technologies, Fernando Ortiz-Rodríguez, Sanju Tiwari, Patience Usoro Usip, and Raul Palma (Eds.). Springer Nature Switzerland, Cham, 155–167."
+    },
+    {
+      "key": "e_1_3_2_6_2",
+      "volume-title": "Proceedings of the Workshop on Advanced Visual Interfaces and Interactions in Cultural Heritage (AVI2CH ’20)",
+      "author": "Bruni Luis Emilio",
+      "year": "2020",
+      "unstructured": "Luis Emilio Bruni, Enrico Daga, Rossana Damiano, Lily Diaz, Tsvi Kuflik, Antonio Lieto, Aldo Gangemi, Paul Mulholland, Silvio Peroni, Sofia Pescarin, and Alan Wecker. 2020. Towards advanced interfaces for citizen curation. In Proceedings of the Workshop on Advanced Visual Interfaces and Interactions in Cultural Heritage (AVI2CH ’20). CEUR-WS, Paper 7. Retrieved from https://oro.open.ac.uk/72524/"
+    },
+    {
+      "key": "e_1_3_2_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/10598650.2022.2044610"
+    },
+    {
+      "key": "e_1_3_2_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/asi.23442"
+    },
+    {
+      "key": "e_1_3_2_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/001316446002000104"
+    },
+    {
+      "key": "e_1_3_2_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3511047.3537662"
+    },
+    {
+      "key": "e_1_3_2_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3450614.3463389"
+    },
+    {
+      "key": "e_1_3_2_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1043659619875184"
+    },
+    {
+      "key": "e_1_3_2_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1043659615592677"
+    },
+    {
+      "key": "e_1_3_2_14_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecns.2017.09.006"
+    },
+    {
+      "key": "e_1_3_2_15_2",
+      "unstructured": "Thaïs Grandisoli. 2021. The controversy over the term ’citizen science’. CBC News. Retrieved from https://www.cbc.ca/news/science/what-on-earth-citizen-science-community-1.6139049"
+    },
+    {
+      "key": "e_1_3_2_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3531146.3533095"
+    },
+    {
+      "key": "e_1_3_2_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3563359.3596668"
+    },
+    {
+      "key": "e_1_3_2_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cogsys.2022.10.001"
+    },
+    {
+      "key": "e_1_3_2_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09647775.2021.1948905"
+    },
+    {
+      "key": "e_1_3_2_20_2",
+      "first-page": "221",
+      "volume-title": "Heritage, Museums and Galleries",
+      "author": "Mason Rhiannon",
+      "year": "2004",
+      "unstructured": "Rhiannon Mason. 2004. Museums, galleries and heritage: Sites of meaning-making and communication. In Heritage, Museums and Galleries. Routledge, 221–237."
+    },
+    {
+      "key": "e_1_3_2_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.11613/bm.2012.031"
+    },
+    {
+      "key": "e_1_3_2_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.culher.2021.11.002"
+    },
+    {
+      "key": "e_1_3_2_23_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3563359.3596662"
+    },
+    {
+      "key": "e_1_3_2_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3603163.3609060"
+    },
+    {
+      "key": "e_1_3_2_25_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "138",
+      "DOI": "10.1145/2103354.2103373",
+      "volume-title": "Proceedings of the 5th International Conference on Communities and Technologies",
+      "author": "Oomen Johan",
+      "year": "2011",
+      "unstructured": "Johan Oomen and Lora Aroyo. 2011. Crowdsourcing in the cultural heritage domain: Opportunities and challenges. In Proceedings of the 5th International Conference on Communities and Technologies. ACM, New York, NY, 138–149."
+    },
+    {
+      "key": "e_1_3_2_26_2",
+      "volume-title": "Studies in Iconology: Humanistic Themes in the Art of the Renaissance",
+      "author": "Panofsky Erwin",
+      "year": "1972",
+      "unstructured": "Erwin Panofsky. 1972. Studies in Iconology: Humanistic Themes in the Art of the Renaissance. Westview Press, Boulder, CO."
+    },
+    {
+      "key": "e_1_3_2_27_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2494091.2494114"
+    },
+    {
+      "key": "e_1_3_2_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.48676/unibo/amsdottorato/11020"
+    },
+    {
+      "key": "e_1_3_2_29_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-031-60635-9_4"
+    },
+    {
+      "key": "e_1_3_2_30_2",
+      "unstructured": "Bruno Sartini and Sofia Baroncini. 2023. A comparative study of simple and complex art interpretations in linked open data using ICON ontology. In Proceedings of the International Workshop on Semantic Web and Ontology Design for Cultural Heritage co-located with the International Semantic Web Conference (ISWC ’23). CEUR Workshop. Retrieved from https://ceur-ws.org/Vol-3540/paper4.pdf"
+    },
+    {
+      "key": "e_1_3_2_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3594724"
+    },
+    {
+      "key": "e_1_3_2_32_2",
+      "first-page": "576",
+      "volume-title": "Proceedings of the Book of Extended Abstracts of the 10th National AIUCD Conference",
+      "author": "Sartini Bruno",
+      "year": "2021",
+      "unstructured": "Bruno Sartini, Aldo Gangemi, et al. 2021a. Towards the unchaining of symbolism from knowledge graphs: how symbolic relationships can link cultures. In Proceedings of the Book of Extended Abstracts of the 10th National AIUCD Conference. AIUCD, 576–580."
+    },
+    {
+      "key": "e_1_3_2_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3460210.3493552"
+    },
+    {
+      "key": "e_1_3_2_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11135-017-0574-8"
+    },
+    {
+      "key": "e_1_3_2_35_2",
+      "unstructured": "Unity Technologies. 2023. Unity.com. Retrieved from https://unity.com/products/unity-engine"
+    },
+    {
+      "key": "e_1_3_2_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10055-018-0366-z"
+    },
+    {
+      "key": "e_1_3_2_37_2",
+      "first-page": "56",
+      "volume-title": "Proceedings of the Electronic Visualisation and the Arts (EVA ’18)",
+      "author": "Valeonti Foteini",
+      "year": "2018",
+      "unstructured": "Foteini Valeonti, A. P. Hudson-Smith, Melissa Terras, and Chrysanthi Zarkali. 2018. Reaping the benefits of digitisation: Pilot study exploring revenue generation from digitised collections through technological innovation. In Proceedings of the Electronic Visualisation and the Arts (EVA ’18). BCS Learning and Development Ltd, 56–63."
+    },
+    {
+      "key": "e_1_3_2_38_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "506",
+      "DOI": "10.1007/978-3-030-77385-4_30",
+      "volume-title": "Proceedings of the Semantic Web: 18th International Conference (ESWC ’21)",
+      "author": "Erp Marieke van",
+      "year": "2021",
+      "unstructured": "Marieke van Erp and Victor de Boer. 2021. A polyvocal and contextualised semantic web. In Proceedings of the Semantic Web: 18th International Conference (ESWC ’21). Springer, 506–512."
+    },
+    {
+      "key": "e_1_3_2_39_2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Roelof Van Straten. 2012. An Introduction to Iconography: Symbols Allusions and Meaning in the Visual Arts. Retrieved from http://www.vlebooks.com/vleweb/product/openreader?id=none{&}isbn=9781136614033 OCLC: 1100455525.",
+      "DOI": "10.4324/9780203462553"
+    },
+    {
+      "key": "e_1_3_2_40_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3573381.3596154"
+    }
+  ],
+  "container-title": [
+    "Journal on Computing and Cultural Heritage"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://dl.acm.org/doi/10.1145/3679020",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://dl.acm.org/doi/pdf/10.1145/3679020",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        19
+      ]
+    ],
+    "date-time": "2025-06-19T00:58:15Z",
+    "timestamp": 1750294695000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://dl.acm.org/doi/10.1145/3679020"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "references-count": 39,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          31
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1145/3679020"
+  ],
+  "URL": "https://doi.org/10.1145/3679020",
+  "relation": {},
+  "ISSN": [
+    "1556-4673",
+    "1556-4711"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "1556-4673"
+    },
+    {
+      "type": "electronic",
+      "value": "1556-4711"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2023-10-15",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-07-10",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-12-16",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

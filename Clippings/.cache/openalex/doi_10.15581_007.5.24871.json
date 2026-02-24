@@ -1,0 +1,378 @@
+{
+  "id": "https://openalex.org/W2233138861",
+  "doi": "https://doi.org/10.15581/007.5.24871",
+  "title": "Publicació del Diplomatari de la Catedral de Barcelona i del fons documental de l'Arxiu capitular d'Urgell",
+  "display_name": "Publicació del Diplomatari de la Catedral de Barcelona i del fons documental de l'Arxiu capitular d'Urgell",
+  "publication_year": 2018,
+  "publication_date": "2018-05-14",
+  "ids": {
+    "openalex": "https://openalex.org/W2233138861",
+    "doi": "https://doi.org/10.15581/007.5.24871",
+    "mag": "2233138861"
+  },
+  "language": "it",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.15581/007.5.24871",
+    "pdf_url": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+    "source": {
+      "id": "https://openalex.org/S89446832",
+      "display_name": "Anuario de Historia de la Iglesia",
+      "issn_l": "1133-0104",
+      "issn": [
+        "1133-0104",
+        "2174-0887"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4323288778",
+      "host_organization_name": "Universidad de Navarra",
+      "host_organization_lineage": [
+        "https://openalex.org/P4323288778"
+      ],
+      "host_organization_lineage_names": [
+        "Universidad de Navarra"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5086172730",
+        "display_name": "Enric Moliné",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Enric Moliné",
+      "raw_affiliation_strings": [
+        "Dr. Carulla, 47A, 5e"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Dr. Carulla, 47A, 5e",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5086172730"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 61
+  },
+  "biblio": {
+    "volume": "5",
+    "issue": null,
+    "first_page": "509",
+    "last_page": "512"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13089",
+    "display_name": "Medieval and Early Modern Iberia",
+    "score": 0.9265,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1202",
+      "display_name": "History"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13089",
+      "display_name": "Medieval and Early Modern Iberia",
+      "score": 0.9265,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13714",
+      "display_name": "Medieval Architecture and Archaeology",
+      "score": 0.9219,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13845",
+      "display_name": "Classical Studies and Legal History",
+      "score": 0.9207,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "level": 1,
+      "score": 0.64558566
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.50653064
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.15581/007.5.24871",
+      "pdf_url": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+      "source": {
+        "id": "https://openalex.org/S89446832",
+        "display_name": "Anuario de Historia de la Iglesia",
+        "issn_l": "1133-0104",
+        "issn": [
+          "1133-0104",
+          "2174-0887"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4323288778",
+        "host_organization_name": "Universidad de Navarra",
+        "host_organization_lineage": [
+          "https://openalex.org/P4323288778"
+        ],
+        "host_organization_lineage_names": [
+          "Universidad de Navarra"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10171/11545",
+      "pdf_url": "https://dadun.unav.edu/bitstream/10171/11545/1/AH%c3%8d_V_CR%c3%93NICAS_36.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401514",
+        "display_name": "Deposito Adademico Digital Universidad De Navarra (University of Navarra)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I88155538",
+        "host_organization_name": "Universidad de Navarra",
+        "host_organization_lineage": [
+          "https://openalex.org/I88155538"
+        ],
+        "host_organization_lineage_names": [
+          "Universidad de Navarra"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.15581/007.5.24871",
+    "pdf_url": "https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/article/download/24871/21314",
+    "source": {
+      "id": "https://openalex.org/S89446832",
+      "display_name": "Anuario de Historia de la Iglesia",
+      "issn_l": "1133-0104",
+      "issn": [
+        "1133-0104",
+        "2174-0887"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4323288778",
+      "host_organization_name": "Universidad de Navarra",
+      "host_organization_lineage": [
+        "https://openalex.org/P4323288778"
+      ],
+      "host_organization_lineage_names": [
+        "Universidad de Navarra"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4387497383",
+    "https://openalex.org/W3183948672",
+    "https://openalex.org/W3173606202",
+    "https://openalex.org/W3110381201",
+    "https://openalex.org/W2948807893",
+    "https://openalex.org/W2935909890",
+    "https://openalex.org/W2778153218",
+    "https://openalex.org/W2758277628",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W1531601525"
+  ],
+  "abstract_inverted_index": {
+    "di": [
+      0
+    ],
+    "queste": [
+      1
+    ],
+    "pagine,": [
+      2
+    ],
+    "che": [
+      3
+    ],
+    "solleveranno": [
+      4
+    ],
+    "certo": [
+      5
+    ],
+    "critiche": [
+      6
+    ],
+    "e": [
+      7
+    ],
+    "discussioni,": [
+      8
+    ],
+    "ma": [
+      9
+    ],
+    "allargano": [
+      10
+    ],
+    "gli": [
+      11
+    ],
+    "orizzonti,": [
+      12
+    ],
+    "fanno": [
+      13
+    ],
+    "riflettere,": [
+      14
+    ],
+    "educano": [
+      15
+    ],
+    "ad": [
+      16
+    ],
+    "un": [
+      17
+    ],
+    "sano": [
+      18
+    ],
+    "equilibrio.": [
+      19
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2233138861",
+  "counts_by_year": [],
+  "updated_date": "2025-06-10T03:45:56.106693",
+  "created_date": "2016-06-24"
+}

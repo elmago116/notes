@@ -1,0 +1,202 @@
+{
+  "id": "https://openalex.org/W4255938874",
+  "doi": "https://doi.org/10.1108/ilds.2004.12232dab.020",
+  "title": "Scopus and Elsevier",
+  "display_name": "Scopus and Elsevier",
+  "publication_year": 2004,
+  "publication_date": "2004-12-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4255938874",
+    "doi": "https://doi.org/10.1108/ilds.2004.12232dab.020"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1108/ilds.2004.12232dab.020",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S55906826",
+      "display_name": "Interlending & Document Supply",
+      "issn_l": "0264-1615",
+      "issn": [
+        "0264-1615",
+        "1758-5848"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319811",
+      "host_organization_name": "Emerald Publishing Limited",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319811"
+      ],
+      "host_organization_lineage_names": [
+        "Emerald Publishing Limited"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [],
+  "institution_assertions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 61
+  },
+  "biblio": {
+    "volume": "32",
+    "issue": "4",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C83867959",
+      "wikidata": "https://www.wikidata.org/wiki/Q371467",
+      "display_name": "Scopus",
+      "level": 3,
+      "score": 0.869812
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.40328845
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.37129605
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.36050135
+    },
+    {
+      "id": "https://openalex.org/C161191863",
+      "wikidata": "https://www.wikidata.org/wiki/Q199655",
+      "display_name": "Library science",
+      "level": 1,
+      "score": 0.3267603
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.29953682
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.24596107
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.059822172
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1108/ilds.2004.12232dab.020",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S55906826",
+        "display_name": "Interlending & Document Supply",
+        "issn_l": "0264-1615",
+        "issn": [
+          "0264-1615",
+          "1758-5848"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319811",
+        "host_organization_name": "Emerald Publishing Limited",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319811"
+        ],
+        "host_organization_lineage_names": [
+          "Emerald Publishing Limited"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4385436685",
+    "https://openalex.org/W4380081217",
+    "https://openalex.org/W4288434538",
+    "https://openalex.org/W4233273178",
+    "https://openalex.org/W3140300071",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2552566180",
+    "https://openalex.org/W2120516750",
+    "https://openalex.org/W2018488738"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4255938874",
+  "counts_by_year": [],
+  "updated_date": "2025-01-25T20:47:25.240931",
+  "created_date": "2022-05-12"
+}

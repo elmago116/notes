@@ -1,0 +1,908 @@
+{
+  "id": "https://openalex.org/W4319604386",
+  "doi": "https://doi.org/10.22148/001c.55592",
+  "title": "Should we really ‘hermeneutise’ the Digital Humanities? A plea for the epistemic productivity of a ‘cultural technique of flattening’ in the Humanities.",
+  "display_name": "Should we really ‘hermeneutise’ the Digital Humanities? A plea for the epistemic productivity of a ‘cultural technique of flattening’ in the Humanities.",
+  "publication_year": 2023,
+  "publication_date": "2023-01-30",
+  "ids": {
+    "openalex": "https://openalex.org/W4319604386",
+    "doi": "https://doi.org/10.22148/001c.55592"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.22148/001c.55592",
+    "pdf_url": "https://culturalanalytics.org/article/55592.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210188927",
+      "display_name": "Journal of Cultural Analytics",
+      "issn_l": "2371-4549",
+      "issn": [
+        "2371-4549"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://culturalanalytics.org/article/55592.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5038955014",
+        "display_name": "Sybille Krämer",
+        "orcid": "https://orcid.org/0000-0003-2870-6016"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I113456305",
+          "display_name": "Leuphana University of Lüneburg",
+          "ror": "https://ror.org/02w2y2t16",
+          "country_code": "DE",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I113456305"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sybille Krämer",
+      "raw_affiliation_strings": [
+        "Leuphana University of Lüneburg"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leuphana University of Lüneburg",
+          "institution_ids": [
+            "https://openalex.org/I113456305"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5038955014"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I113456305"
+  ],
+  "apc_list": {
+    "value": 0,
+    "currency": "USD",
+    "value_usd": 0
+  },
+  "apc_paid": null,
+  "fwci": 17.062,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.999938,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 92,
+    "max": 93
+  },
+  "biblio": {
+    "volume": "7",
+    "issue": "4",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12377",
+    "display_name": "Digital Humanities and Scholarship",
+    "score": 0.9989,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1208",
+      "display_name": "Literature and Literary Theory"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12377",
+      "display_name": "Digital Humanities and Scholarship",
+      "score": 0.9989,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1208",
+        "display_name": "Literature and Literary Theory"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12380",
+      "display_name": "Authorship Attribution and Profiling",
+      "score": 0.9812,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "score": 0.9461,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/digital-humanities",
+      "display_name": "Digital Humanities",
+      "score": 0.7466859
+    },
+    {
+      "id": "https://openalex.org/keywords/hermeneutics",
+      "display_name": "Hermeneutics",
+      "score": 0.6172053
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C24351657",
+      "wikidata": "https://www.wikidata.org/wiki/Q1026962",
+      "display_name": "Digital humanities",
+      "level": 2,
+      "score": 0.7466859
+    },
+    {
+      "id": "https://openalex.org/C50379869",
+      "wikidata": "https://www.wikidata.org/wiki/Q102686",
+      "display_name": "Hermeneutics",
+      "level": 2,
+      "score": 0.6172053
+    },
+    {
+      "id": "https://openalex.org/C15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "level": 1,
+      "score": 0.5752688
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.49366125
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.4604159
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.3075487
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.22148/001c.55592",
+      "pdf_url": "https://culturalanalytics.org/article/55592.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210188927",
+        "display_name": "Journal of Cultural Analytics",
+        "issn_l": "2371-4549",
+        "issn": [
+          "2371-4549"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://fox.leuphana.de/portal/de/publications/should-we-really-hermeneutise-the-digital-humanities-a-plea-for-the-epistemic-productivity-of-a-cultural-technique-of-flattening-in-the-humanities(fc954211-1913-4ef6-9512-bcb862c6127e).html",
+      "pdf_url": "http://fox.leuphana.de/portal/files/35795486/repo_35795401_oa_by.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400489",
+        "display_name": "Multilingual Matters (Channel View Publications)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.22148/001c.55592",
+    "pdf_url": "https://culturalanalytics.org/article/55592.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210188927",
+      "display_name": "Journal of Cultural Analytics",
+      "issn_l": "2371-4549",
+      "issn": [
+        "2371-4549"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.89,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality education"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 56,
+  "referenced_works": [
+    "https://openalex.org/W1489101641",
+    "https://openalex.org/W1550058451",
+    "https://openalex.org/W1553669041",
+    "https://openalex.org/W1600493744",
+    "https://openalex.org/W1967005654",
+    "https://openalex.org/W197217077",
+    "https://openalex.org/W2006119128",
+    "https://openalex.org/W2032045330",
+    "https://openalex.org/W2040719362",
+    "https://openalex.org/W2046714900",
+    "https://openalex.org/W2053086227",
+    "https://openalex.org/W2071295358",
+    "https://openalex.org/W2072356720",
+    "https://openalex.org/W2076118331",
+    "https://openalex.org/W2095885230",
+    "https://openalex.org/W2107317033",
+    "https://openalex.org/W2118537526",
+    "https://openalex.org/W2145019743",
+    "https://openalex.org/W2160346186",
+    "https://openalex.org/W2174706414",
+    "https://openalex.org/W2214276702",
+    "https://openalex.org/W2483552414",
+    "https://openalex.org/W2488845447",
+    "https://openalex.org/W2489859619",
+    "https://openalex.org/W2514035508",
+    "https://openalex.org/W254111043",
+    "https://openalex.org/W2587326830",
+    "https://openalex.org/W2616475963",
+    "https://openalex.org/W2621472371",
+    "https://openalex.org/W2624679951",
+    "https://openalex.org/W2779766695",
+    "https://openalex.org/W2802180631",
+    "https://openalex.org/W2884451974",
+    "https://openalex.org/W2884513551",
+    "https://openalex.org/W2897702578",
+    "https://openalex.org/W2898970033",
+    "https://openalex.org/W2921304755",
+    "https://openalex.org/W2981696807",
+    "https://openalex.org/W2996143967",
+    "https://openalex.org/W3003312070",
+    "https://openalex.org/W3134941582",
+    "https://openalex.org/W4229743999",
+    "https://openalex.org/W4231075888",
+    "https://openalex.org/W4231510805",
+    "https://openalex.org/W4238843580",
+    "https://openalex.org/W4240633976",
+    "https://openalex.org/W4241511741",
+    "https://openalex.org/W4246945181",
+    "https://openalex.org/W4249204140",
+    "https://openalex.org/W4300645984",
+    "https://openalex.org/W4362599706",
+    "https://openalex.org/W54577177",
+    "https://openalex.org/W568334323",
+    "https://openalex.org/W569255061",
+    "https://openalex.org/W572844211",
+    "https://openalex.org/W631917791"
+  ],
+  "related_works": [
+    "https://openalex.org/W4285282535",
+    "https://openalex.org/W3006196951",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2615432089",
+    "https://openalex.org/W2285669861",
+    "https://openalex.org/W2208270853",
+    "https://openalex.org/W2203926018",
+    "https://openalex.org/W2099445269",
+    "https://openalex.org/W2068931236",
+    "https://openalex.org/W1835344300"
+  ],
+  "abstract_inverted_index": {
+    "Why": [
+      0
+    ],
+    "are": [
+      1,
+      12,
+      21,
+      137,
+      175
+    ],
+    "the": [
+      2,
+      9,
+      23,
+      50,
+      54,
+      61,
+      78,
+      94,
+      97,
+      101,
+      111,
+      134,
+      151,
+      160,
+      186,
+      196,
+      204
+    ],
+    "Digital": [
+      3,
+      55,
+      135,
+      187
+    ],
+    "Humanities": [
+      4,
+      52,
+      56,
+      136,
+      140,
+      188
+    ],
+    "a": [
+      5,
+      87
+    ],
+    "genuine": [
+      6
+    ],
+    "part": [
+      7
+    ],
+    "of": [
+      8,
+      39,
+      64,
+      72,
+      81,
+      96,
+      104,
+      114,
+      145,
+      154,
+      162,
+      168,
+      185
+    ],
+    "Humanities?": [
+      10
+    ],
+    "Attempts": [
+      11
+    ],
+    "currently": [
+      13
+    ],
+    "being": [
+      14
+    ],
+    "made": [
+      15
+    ],
+    "by": [
+      16
+    ],
+    "arguing": [
+      17
+    ],
+    "that": [
+      18,
+      46,
+      173
+    ],
+    "computational": [
+      19,
+      183
+    ],
+    "methods": [
+      20,
+      184
+    ],
+    "at": [
+      22
+    ],
+    "same": [
+      24
+    ],
+    "time": [
+      25
+    ],
+    "hermeneutic": [
+      26
+    ],
+    "procedures": [
+      27
+    ],
+    "(‘screwmeneutics’,": [
+      28
+    ],
+    "‘hermenumericals’):": [
+      29
+    ],
+    "computation": [
+      30
+    ],
+    "and": [
+      31,
+      41,
+      53,
+      66,
+      74,
+      83,
+      90,
+      109,
+      122,
+      148,
+      165,
+      171,
+      193,
+      202
+    ],
+    "hermeneutics": [
+      32
+    ],
+    "were": [
+      33
+    ],
+    "mixed.": [
+      34
+    ],
+    "In": [
+      35
+    ],
+    "criticizing": [
+      36
+    ],
+    "this": [
+      37,
+      129
+    ],
+    "fusion": [
+      38
+    ],
+    "‘literacy’": [
+      40
+    ],
+    "‘numeracy’,": [
+      42
+    ],
+    "it": [
+      43
+    ],
+    "is": [
+      44,
+      57,
+      128
+    ],
+    "argued": [
+      45
+    ],
+    "what": [
+      47
+    ],
+    "really": [
+      48
+    ],
+    "connects": [
+      49
+    ],
+    "classical": [
+      51
+    ],
+    "methodologically": [
+      58
+    ],
+    "based": [
+      59
+    ],
+    "on": [
+      60,
+      68
+    ],
+    "‘cultural": [
+      62
+    ],
+    "technique": [
+      63
+    ],
+    "flattening’": [
+      65
+    ],
+    "not": [
+      67,
+      176
+    ],
+    "hermeneutics.": [
+      69
+    ],
+    "The": [
+      70,
+      143,
+      181
+    ],
+    "projection": [
+      71
+    ],
+    "spatial": [
+      73
+    ],
+    "non-spatial": [
+      75
+    ],
+    "relations": [
+      76
+    ],
+    "onto": [
+      77
+    ],
+    "artificial": [
+      79
+    ],
+    "flatness": [
+      80
+    ],
+    "inscribed": [
+      82
+    ],
+    "illustrated": [
+      84
+    ],
+    "surfaces": [
+      85
+    ],
+    "forms": [
+      86
+    ],
+    "first-order": [
+      88
+    ],
+    "epistemic": [
+      89
+    ],
+    "cultural": [
+      91,
+      169,
+      197,
+      200
+    ],
+    "potential": [
+      92,
+      103
+    ],
+    "in": [
+      93,
+      141
+    ],
+    "history": [
+      95
+    ],
+    "Humanities:": [
+      98
+    ],
+    "diagrammatic": [
+      99
+    ],
+    "reasoning,": [
+      100
+    ],
+    "visualizing": [
+      102
+    ],
+    "writings,": [
+      105
+    ],
+    "lists,": [
+      106
+    ],
+    "tables,": [
+      107
+    ],
+    "diagrams,": [
+      108
+    ],
+    "maps,": [
+      110
+    ],
+    "sorting": [
+      112
+    ],
+    "function": [
+      113
+    ],
+    "alphabetically": [
+      115
+    ],
+    "ordered": [
+      116
+    ],
+    "knowledge": [
+      117
+    ],
+    "corpora": [
+      118,
+      157
+    ],
+    "have": [
+      119
+    ],
+    "always": [
+      120
+    ],
+    "shaped": [
+      121
+    ],
+    "determined": [
+      123
+    ],
+    "basic": [
+      124
+    ],
+    "scholarly": [
+      125
+    ],
+    "work.": [
+      126
+    ],
+    "It": [
+      127
+    ],
+    "‘diagrammatical’": [
+      130
+    ],
+    "dimension": [
+      131
+    ],
+    "to": [
+      132,
+      139,
+      178
+    ],
+    "which": [
+      133
+    ],
+    "linked": [
+      138
+    ],
+    "general.": [
+      142
+    ],
+    "metamorphosis": [
+      144
+    ],
+    "texts,": [
+      146
+    ],
+    "pictures,": [
+      147
+    ],
+    "music": [
+      149
+    ],
+    "into": [
+      150,
+      195
+    ],
+    "surface": [
+      152
+    ],
+    "configurations": [
+      153
+    ],
+    "machine-analyzable": [
+      155
+    ],
+    "data": [
+      156
+    ],
+    "opens": [
+      158
+    ],
+    "up": [
+      159
+    ],
+    "possibility": [
+      161
+    ],
+    "revealing": [
+      163
+    ],
+    "latent": [
+      164
+    ],
+    "implicit": [
+      166
+    ],
+    "patterns": [
+      167
+    ],
+    "artifacts,": [
+      170
+    ],
+    "practices": [
+      172
+    ],
+    "mostly": [
+      174
+    ],
+    "accessible": [
+      177
+    ],
+    "human": [
+      179
+    ],
+    "perception.": [
+      180
+    ],
+    "quantifying,": [
+      182
+    ],
+    "operate": [
+      189
+    ],
+    "like": [
+      190
+    ],
+    "computer-generated": [
+      191
+    ],
+    "microscopes": [
+      192
+    ],
+    "telescopes": [
+      194
+    ],
+    "heritage,": [
+      198
+    ],
+    "ongoing": [
+      199
+    ],
+    "practices,": [
+      201
+    ],
+    "even": [
+      203
+    ],
+    "culturally": [
+      205
+    ],
+    "unconscious.": [
+      206
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4319604386",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2025-07-25T06:46:01.247098",
+  "created_date": "2023-02-09"
+}

@@ -1,0 +1,893 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        2
+      ]
+    ],
+    "date-time": "2025-08-02T05:25:11Z",
+    "timestamp": 1754112311692
+  },
+  "reference-count": 56,
+  "publisher": "Elsevier BV",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2021-07-01T00:00:00Z",
+        "timestamp": 1625097600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2021-07-01T00:00:00Z",
+        "timestamp": 1625097600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2021-07-01T00:00:00Z",
+        "timestamp": 1625097600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2021-07-01T00:00:00Z",
+        "timestamp": 1625097600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2021-07-01T00:00:00Z",
+        "timestamp": 1625097600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2021-07-01T00:00:00Z",
+        "timestamp": 1625097600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Information Processing &amp; Management"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.ipm.2021.102594",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2021-03-27T02:57:23Z",
+    "timestamp": 1616813843000
+  },
+  "page": "102594",
+  "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 58,
+  "title": [
+    "Detecting research topic trends by author-defined keyword frequency"
+  ],
+  "prefix": "10.1016",
+  "volume": "58",
+  "author": [
+    {
+      "given": "Wei",
+      "family": "Lu",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Shengzhi",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Jinqing",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Yi",
+      "family": "Bu",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Qikai",
+      "family": "Cheng",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Yong",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0001",
+      "doi-asserted-by": "crossref",
+      "first-page": "32",
+      "DOI": "10.1016/j.joi.2018.11.003",
+      "article-title": "Predicting publication long-term impact through a combination of early citations and journal impact factor",
+      "volume": "13",
+      "author": "Abramo",
+      "year": "2019",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0002",
+      "doi-asserted-by": "crossref",
+      "first-page": "485",
+      "DOI": "10.1016/j.joi.2019.02.011",
+      "article-title": "Predicting citation counts based on deep neural network learning techniques",
+      "volume": "13",
+      "author": "Abrishami",
+      "year": "2019",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0003",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.ipm.2019.02.016",
+      "article-title": "Detecting breaking news rumors of emerging topics in social media",
+      "volume": "57",
+      "author": "Alkhodair",
+      "year": "2020",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0004",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1007/s11192-011-0374-1",
+      "article-title": "Co-word analysis of the trends in stem cells field based on subject heading weighting",
+      "volume": "88",
+      "author": "An",
+      "year": "2011",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0005",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.ipm.2020.102340",
+      "article-title": "A topic modeling framework for spatio-temporal information management",
+      "volume": "57",
+      "author": "Asghari",
+      "year": "2020",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.ipm.2021.102594_bib0006",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.joi.2020.101079",
+      "article-title": "Predicting scientific research trends based on link prediction in keyword networks",
+      "volume": "14",
+      "author": "Behrouzi",
+      "year": "2020",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0007",
+      "first-page": "281",
+      "article-title": "Random search for hyper-parameter optimization",
+      "volume": "13",
+      "author": "Bergstra",
+      "year": "2012",
+      "journal-title": "The Journal of Machine Learning Research"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0008",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.1002/(SICI)1097-4571(199105)42:4<233::AID-ASI1>3.0.CO;2-I",
+      "article-title": "Mapping of science by combined co-citation and word analysis. I. Structural aspects",
+      "volume": "42",
+      "author": "Braam",
+      "year": "1991",
+      "journal-title": "Journal of the American Society for information science"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0009",
+      "series-title": "IEEE/ACM Joint Conference on Digital Libraries",
+      "first-page": "351",
+      "article-title": "Towards a stratified learning approach to predict future citation counts",
+      "author": "Chakraborty",
+      "year": "2014"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ipm.2021.102594_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "2071",
+      "DOI": "10.1007/s11192-015-1762-8",
+      "article-title": "Evolution of research subjects in library and information science based on keyword, bibliographical coupling, and co-citation analyses",
+      "volume": "105",
+      "author": "Chang",
+      "year": "2015",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0011",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1016/j.joi.2010.01.001",
+      "article-title": "Community Structure of the Physical Review Citation Network",
+      "volume": "4",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0012",
+      "doi-asserted-by": "crossref",
+      "first-page": "1923",
+      "DOI": "10.1007/s11192-020-03576-5",
+      "article-title": "Keyword-citation-keyword network: A new perspective of discipline knowledge structure analysis",
+      "volume": "124",
+      "author": "Cheng",
+      "year": "2020",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0013",
+      "doi-asserted-by": "crossref",
+      "first-page": "170",
+      "DOI": "10.1016/j.techfore.2013.07.004",
+      "article-title": "Patent keyword network analysis for improving technology development efficiency",
+      "volume": "83",
+      "author": "Choi",
+      "year": "2014",
+      "journal-title": "Technological Forecasting & Social Change"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0014",
+      "doi-asserted-by": "crossref",
+      "first-page": "371",
+      "DOI": "10.1016/j.im.2011.09.004",
+      "article-title": "Analysis of keyword networks in MIS research and implications for predicting knowledge evolution",
+      "volume": "48",
+      "author": "Choi",
+      "year": "2011",
+      "journal-title": "Information & Management"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "745",
+      "DOI": "10.1007/s11192-016-2003-5",
+      "article-title": "Time-aware link prediction to explore network effects on temporal knowledge evolution",
+      "volume": "108",
+      "author": "Choudhury",
+      "year": "2016",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0016",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1007/s11192-014-1327-2",
+      "article-title": "Research trends in gender differences in higher education and science: A co-word analysis",
+      "volume": "101",
+      "author": "Dehdarirad",
+      "year": "2014",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0017",
+      "doi-asserted-by": "crossref",
+      "first-page": "439",
+      "DOI": "10.1016/j.procs.2013.09.300",
+      "article-title": "Analyzing Structural & Temporal Characteristics of Keyword System in Academic Research Articles",
+      "volume": "20",
+      "author": "Duvvuru",
+      "year": "2013",
+      "journal-title": "Procedia Computer Science"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.ipm.2021.102594_bib0018",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1207/s15516709cog1402_1",
+      "article-title": "Finding Structure in Time",
+      "volume": "14",
+      "author": "Elman",
+      "year": "1990",
+      "journal-title": "Cognitive Science"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.ipm.2021.102594_bib0019",
+      "doi-asserted-by": "crossref",
+      "first-page": "361",
+      "DOI": "10.1023/A:1007921808138",
+      "article-title": "The Use of Patent Data for Technological Forecasting: The Diffusion of CNC-Technology in the Machine Tool Industry",
+      "volume": "9",
+      "author": "Ernst",
+      "year": "1997",
+      "journal-title": "Small business economics"
+    },
+    {
+      "issue": "14",
+      "key": "10.1016/j.ipm.2021.102594_bib0020",
+      "first-page": "29",
+      "article-title": "Citation Prediction and Influencing Factors Analysis on Academic Papers",
+      "volume": "62",
+      "author": "Geng",
+      "year": "2018",
+      "journal-title": "Library and Information Service"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0021",
+      "series-title": "Proceedings of the 14th International Conference on Artificial Intelligence and Statistics",
+      "first-page": "315",
+      "article-title": "Deep Sparse Rectifier Neural Networks",
+      "author": "Glorot",
+      "year": "2011"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0022",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.ipm.2019.102067",
+      "article-title": "A deep look into neural ranking models for information retrieval",
+      "volume": "57",
+      "author": "Guo",
+      "year": "2020",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.ipm.2021.102594_bib0023",
+      "doi-asserted-by": "crossref",
+      "first-page": "1735",
+      "DOI": "10.1162/neco.1997.9.8.1735",
+      "article-title": "Long Short-Term Memory",
+      "volume": "9",
+      "author": "Hochreiter",
+      "year": "1997",
+      "journal-title": "Neural computation"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.ipm.2021.102594_bib0024",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1016/0893-6080(89)90020-8",
+      "article-title": "Multilayer feedforward networks are universal approximators",
+      "volume": "2",
+      "author": "Hornik",
+      "year": "1989",
+      "journal-title": "Neural Networks"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "DOI": "10.1016/j.ipm.2015.02.002",
+      "article-title": "Research patterns and trends of Recommendation System in China using co-word analysis",
+      "volume": "51",
+      "author": "Hu",
+      "year": "2015",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.ipm.2021.102594_bib0026",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.joi.2019.101004",
+      "article-title": "Identification of highly-cited papers using topic-model-based and bibliometric features: The consideration of keyword popularity",
+      "volume": "14",
+      "author": "Hu",
+      "year": "2020",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0027",
+      "article-title": "Measuring popularity of ecological topics in a temporal dynamical knowledge network",
+      "volume": "14",
+      "author": "Huang",
+      "year": "2019",
+      "journal-title": "PloS one"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.ipm.2021.102594_bib0028",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41562-017-0078",
+      "article-title": "Quantifying patterns of research-interest evolution",
+      "volume": "1",
+      "author": "Jia",
+      "year": "2017",
+      "journal-title": "Nature Human Behaviour"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0029",
+      "doi-asserted-by": "crossref",
+      "first-page": "1583",
+      "DOI": "10.1007/s11192-019-03241-6",
+      "article-title": "TrendNets: Mapping emerging research trends from dynamic co-word networks via sparse representation",
+      "volume": "121",
+      "author": "Katsurai",
+      "year": "2019",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0030",
+      "volume": "1",
+      "author": "Ketkar",
+      "year": "2017"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ipm.2021.102594_bib0031",
+      "doi-asserted-by": "crossref",
+      "first-page": "705",
+      "DOI": "10.1016/j.ipm.2017.02.001",
+      "article-title": "Intellectual structure of knowledge in iMetrics: A co-word analysis",
+      "volume": "53",
+      "author": "Khasseh",
+      "year": "2017",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0032",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.1016/j.techfore.2017.10.002",
+      "article-title": "Early identification of emerging technologies: A machine learning approach using multiple patent indicators",
+      "volume": "127",
+      "author": "Lee",
+      "year": "2018",
+      "journal-title": "Technological Forecasting & Social Change"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0033",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1007/s11192-008-1939-5",
+      "article-title": "Global stem cell research trend: Bibliometric analysis as a tool for mapping of trends from 1991 to 2006",
+      "volume": "80",
+      "author": "Li",
+      "year": "2009",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0034",
+      "doi-asserted-by": "crossref",
+      "first-page": "203",
+      "DOI": "10.1007/s11192-011-0586-4",
+      "article-title": "A co-word analysis of digital library field in China",
+      "volume": "91",
+      "author": "Liu",
+      "year": "2012",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0035",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.joi.2020.101066",
+      "article-title": "How do authors select keywords? A preliminary study of author keyword selection behavior",
+      "volume": "14",
+      "author": "Lu",
+      "year": "2020",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.ipm.2021.102594_bib0036",
+      "first-page": "510",
+      "article-title": "Assessing an author's influence using time series historiographic mapping: The oeuvre of conrad hal waddington (1905–1975)",
+      "volume": "59",
+      "author": "Mccain",
+      "year": "2014",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0037",
+      "doi-asserted-by": "crossref",
+      "first-page": "462",
+      "DOI": "10.1002/asi.24248",
+      "article-title": "Survival analysis of author keywords: An application to the library and information sciences area",
+      "volume": "71",
+      "author": "Peset",
+      "year": "2020",
+      "journal-title": "Journal of the Association for Information Science and Technology"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0038",
+      "doi-asserted-by": "crossref",
+      "first-page": "270",
+      "DOI": "10.1016/j.techfore.2017.02.027",
+      "article-title": "Science foresight using life-cycle analysis, text mining and clustering: A case study on natural ventilation",
+      "volume": "118",
+      "author": "Rezaeian",
+      "year": "2017",
+      "journal-title": "Technological Forecasting & Social Change"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0039",
+      "series-title": "International Environmental Modelling and Software Society (IEMSs) 7th International Congress on Environmental Modelling and Software",
+      "article-title": "Predicting citation counts of environmental modelling papers",
+      "author": "Robson",
+      "year": "2014"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ipm.2021.102594_bib0040",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.joi.2020.101039",
+      "article-title": "Predicting the citation counts of individual papers via a BP neural network",
+      "volume": "14",
+      "author": "Ruan",
+      "year": "2020",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "issue": "6088",
+      "key": "10.1016/j.ipm.2021.102594_bib0041",
+      "doi-asserted-by": "crossref",
+      "first-page": "533",
+      "DOI": "10.1038/323533a0",
+      "article-title": "Learning representations by back-propagating errors",
+      "volume": "323",
+      "author": "Rumelhart",
+      "year": "1986",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0042",
+      "doi-asserted-by": "crossref",
+      "first-page": "1591",
+      "DOI": "10.1007/s11192-018-2651-8",
+      "article-title": "Bibliometric analysis to identify an emerging research area: Public Relations Intelligence—A challenge to strengthen technological observatories in the network society",
+      "volume": "115",
+      "author": "Santa Soriano",
+      "year": "2018",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0043",
+      "series-title": "2017 Portland International Conference on Management of Engineering and Technology (PICMET)",
+      "first-page": "1",
+      "article-title": "Exploring the fundamental conceptual units of technical emergence",
+      "author": "Suominen",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0044",
+      "first-page": "2825",
+      "article-title": "Scikit-learn: Machine Learning in Python",
+      "volume": "12",
+      "author": "Swami",
+      "year": "2013",
+      "journal-title": "Journal of Machine Learning Research"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "541",
+      "DOI": "10.1016/j.ijpe.2012.07.006",
+      "article-title": "The technology life cycle: Conceptualization and managerial implications",
+      "volume": "140",
+      "author": "Taylor",
+      "year": "2012",
+      "journal-title": "International Journal of Production Economics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0046",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.1016/j.knosys.2018.01.035",
+      "article-title": "Learning the evolution of disciplines from scientific literature: A functional clustering approach to normalized keyword count trajectories",
+      "volume": "146",
+      "author": "Trevisani",
+      "year": "2018",
+      "journal-title": "Knowledge-Based Systems"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0047",
+      "doi-asserted-by": "crossref",
+      "first-page": "303",
+      "DOI": "10.1016/j.ipm.2011.07.006",
+      "article-title": "Indices of novelty for emerging topic detection",
+      "volume": "48",
+      "author": "Tu",
+      "year": "2012",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0048",
+      "doi-asserted-by": "crossref",
+      "first-page": "1166",
+      "DOI": "10.1016/j.joi.2016.10.004",
+      "article-title": "The impact of author-selected keywords on citation counts",
+      "volume": "10",
+      "author": "Uddin",
+      "year": "2016",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0049",
+      "doi-asserted-by": "crossref",
+      "first-page": "290",
+      "DOI": "10.1002/asi.23930",
+      "article-title": "A bibliometric model for identifying emerging research topics",
+      "volume": "69",
+      "author": "Wang",
+      "year": "2018",
+      "journal-title": "Journal of the association for information science and technology"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "1253",
+      "DOI": "10.1007/s11192-014-1347-y",
+      "article-title": "Analyzing evolution of research topics with NEViewer: A new method based on dynamic co-word networks",
+      "volume": "101",
+      "author": "Wang",
+      "year": "2014",
+      "journal-title": "Scientometrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0051",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.joi.2019.100983",
+      "article-title": "Emerging research topics detection with multiple machine learning models",
+      "volume": "13",
+      "author": "Xu",
+      "year": "2019",
+      "journal-title": "Journal of Informetrics"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0052",
+      "series-title": "Proceedings of the 12th ACM/IEEE-CS Joint Conference on Digital Libraries",
+      "first-page": "51",
+      "article-title": "To better stand on the shoulder of giants",
+      "author": "Yan",
+      "year": "2012"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0053",
+      "unstructured": "Zeiler, M.D. (.2012). Adadelta: An adaptive learning rate method. arXiv preprint arXiv:1212.5701."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.ipm.2021.102594_bib0054",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41467-019-11401-8",
+      "article-title": "Increasing trend of scientists to switch between topics",
+      "volume": "10",
+      "author": "Zeng",
+      "year": "2019",
+      "journal-title": "Nature Communications"
+    },
+    {
+      "key": "10.1016/j.ipm.2021.102594_bib0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "203",
+      "DOI": "10.1016/j.ipm.2017.11.005",
+      "article-title": "Ranking themes on co-word networks: Exploring the relationships among different metrics",
+      "volume": "54",
+      "author": "Zhao",
+      "year": "2018",
+      "journal-title": "Information Processing & Management"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.ipm.2021.102594_bib0056",
+      "doi-asserted-by": "crossref",
+      "first-page": "408",
+      "DOI": "10.1002/asi.23179",
+      "article-title": "Measuring academic influence: Not all citations are equal",
+      "volume": "66",
+      "author": "Zhu",
+      "year": "2015",
+      "journal-title": "Journal of the Association for Information Science & Technology"
+    }
+  ],
+  "container-title": [
+    "Information Processing &amp; Management"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0306457321000935?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0306457321000935?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        29
+      ]
+    ],
+    "date-time": "2023-01-29T10:30:38Z",
+    "timestamp": 1674988238000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0306457321000935"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        7
+      ]
+    ]
+  },
+  "references-count": 56,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0306457321000935"
+  ],
+  "URL": "https://doi.org/10.1016/j.ipm.2021.102594",
+  "relation": {},
+  "ISSN": [
+    "0306-4573"
+  ],
+  "issn-type": [
+    {
+      "value": "0306-4573",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        7
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Detecting research topic trends by author-defined keyword frequency",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Information Processing & Management",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.ipm.2021.102594",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2021 Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "102594"
+}
