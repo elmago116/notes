@@ -1,1 +1,9 @@
 .obsidian/plugins/TFM/Scimat simulation/
+
+# Ignore internal folders inside Clippings
+Clippings/.cache/
+Clippings/.obsidian/
+Clippings/.trash/
+Clippings/.stfolder*/
+Clippings/.stfolder.removed-*/
+/Users/elenagomez/Library/Mobile Documents/iCloud~md~obsidian/Documents/Clippings/scripts
