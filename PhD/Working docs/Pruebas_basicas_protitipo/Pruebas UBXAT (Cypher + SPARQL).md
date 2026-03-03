@@ -14,48 +14,6 @@ date: 2026-02-25
 
 ---
 
-## Query capabilities: CONSTRUCT, DESCRIBE, FILTER, ORDER BY, GROUP BY, aggregations
-
-| SPARQL / concept | Supported on platform? | Cypher equivalent / notes |
-|------------------|------------------------|----------------------------|
-| **FILTER** | Yes | `WHERE` (e.g. `WHERE toLower(n.title) CONTAINS "x"`, `WHERE id(n) >= 0 AND id(n) < 100`). See § SELECT → FILTER. |
-| **ORDER BY** | Yes | `ORDER BY var [ASC\|DESC]` (e.g. `ORDER BY subject, predicate, object`). See § LIMIT/OFFSET. |
-| **GROUP BY** | Yes (implicit) | Cypher has no `GROUP BY`; group by using `WITH` + aggregation in `RETURN`. E.g. `MATCH (n) WITH labels(n)[0] AS type RETURN type, count(n) AS count ORDER BY count DESC`. |
-| **Aggregations** | Yes | `count(n)`, `count(r)`, `sum(n.prop)`, `collect(n)`, `collect({ id: id(n), labels: labels(n) })`. See § COUNT queries and full-graph collect. |
-| **CONSTRUCT** | Equivalent only | SPARQL CONSTRUCT returns an RDF graph. In Cypher: **return a graph-shaped payload** with `collect()` of nodes and relationships (see “Query hecha directamente al servidor” with `CALL { MATCH (n) RETURN collect(...) } CALL { MATCH (source)-[r]->(target) RETURN collect(...) }`). You do not “construct” triples; you return JSON that describes the subgraph. |
-| **DESCRIBE** | Equivalent only | SPARQL DESCRIBE returns triples about a resource. In Cypher: **match the node and its relationships** and return node + rels + neighbours. E.g. `MATCH (n) WHERE id(n) = 0 OPTIONAL MATCH (n)-[r]-(m) RETURN n, r, m` or `MATCH (n) WHERE id(n) = 0 OPTIONAL MATCH (n)-[r]->(m) RETURN id(n) AS id, labels(n) AS labels, properties(n) AS props, collect({ type: type(r), targetId: id(m) }) AS outRels`. |
-
-**Summary:** FILTER, ORDER BY, grouping-style queries, and aggregations are supported directly. CONSTRUCT and DESCRIBE have no literal Cypher keyword; use the patterns above to return graph-shaped or “describe”-style results.
-
----
-
-## Analysis: UBXAT responses vs server responses
-
-| Aspect | UBXAT (documented) | Server (API) |
-|--------|--------------------|--------------|
-| **Structure** | Array of objects with `n` / `nLabel` (or `count`), each value wrapped as `{"value": "…"}`. | Single object: `query`, `results` (array), `format`, `execution_time`, `source`, `query_type`. |
-| **Variable names** | SPARQL-style: `n`, `nLabel`, `count` (generic). | Cypher-style: same names as in `RETURN` (e.g. `subject`, `predicate`, `object`, `labels`, `label`, `result`, `count`). |
-| **Value format** | Nested: `"n": {"value": "0"}`, `"nLabel": {"value": "Informació…"}`. | Flat: `"subject": 0`, `"predicate": "MAIN_SUBJECT"`, `"object": 11`. |
-| **Data source** | Looks like an older or alternate export (e.g. SPARQL layer or UI): only node id + one label text; same 10 rows repeated across queries. | Live Neo4j: full result set matching the Cypher (triples, labels, filters, pagination). |
-| **Query alignment** | Often **misaligned**: e.g. “Obtained in UBXAT” for “subject–predicate–object” shows 10 `n`/`nLabel` rows (publications only), not triples. | **Aligned**: server returns subject/predicate/object, or subject/labels/label, etc., as in the request. |
-| **Counts** | UBXAT shows `"count": {"value": "60"}` (string). Server shows `"count": 60` (number) and `"result": true` for ASK. | Same semantics; server format is canonical and easier to parse. |
-
-**Summary:** “UBXAT” in the doc is a **different output shape** (SPARQL-like, wrapped values, fixed subset of nodes). The **server** response is the **real API**: flat keys, correct variables, and full result set. For integration or scripts, use the **server** format as the source of truth.
-
-### Why are they different? (same API in theory)
-
-In theory both consult the same API (`POST https://ubxat.peninsula.co/api/v1/sparql`). The dataset is almost certainly the **same Neo4j graph**. The difference is not “different database” but **how the response was produced or recorded**:
-
-| Cause | Explanation |
-|-------|-------------|
-| **Different client / path** | “UBXAT” may be a **different client**: e.g. a SPARQL endpoint or UI that (1) sends a *different* query (e.g. “nodes + title” only), or (2) **normalizes** the API response into a SPARQL-like shape (`n`, `nLabel`, `{"value": "…"}`). The doc would then show that normalized output as “Obtained in UBXAT” while the curl examples show the **raw** API response. |
-| **Documentation copy‑paste** | The same **10 rows** (nodes 0–9, publication titles) appear as “UBXAT” for *different* queries (triples, FILTER, LIMIT, etc.). That suggests one real result (e.g. “list nodes with label”) was **reused** as the “UBXAT” block for every example, so the content is **misaligned** with the query, not from a different dataset. |
-| **Snapshot vs live** | Less likely: “UBXAT” could be from an **older export** (graph with only 10 nodes), while server responses are **live** (66 nodes, 76 relationships). That would explain different row counts, but not the same 10 rows for every query type. |
-
-**Takeaway:** Treat the **server (curl) response** as the single source of truth. If “UBXAT” is a real interface, clarify which request it sends and whether it transforms the API response.
-
----
-
 ## SELECT queries
 
 ### 1. Basic triple patterns: ?subject ?predicate ?object
@@ -1590,4 +1548,44 @@ curl -u 'ubxat:BLI-u24KH%36xM9gQ9PzX' \
   "query_type": "sparql"
 }
 ```
+
+## Query capabilities: CONSTRUCT, DESCRIBE, FILTER, ORDER BY, GROUP BY, aggregations
+
+| SPARQL / concept | Supported on platform? | Cypher equivalent / notes |
+|------------------|------------------------|----------------------------|
+| **FILTER** | Yes | `WHERE` (e.g. `WHERE toLower(n.title) CONTAINS "x"`, `WHERE id(n) >= 0 AND id(n) < 100`). See § SELECT → FILTER. |
+| **ORDER BY** | Yes | `ORDER BY var [ASC\|DESC]` (e.g. `ORDER BY subject, predicate, object`). See § LIMIT/OFFSET. |
+| **GROUP BY** | Yes (implicit) | Cypher has no `GROUP BY`; group by using `WITH` + aggregation in `RETURN`. E.g. `MATCH (n) WITH labels(n)[0] AS type RETURN type, count(n) AS count ORDER BY count DESC`. |
+| **Aggregations** | Yes | `count(n)`, `count(r)`, `sum(n.prop)`, `collect(n)`, `collect({ id: id(n), labels: labels(n) })`. See § COUNT queries and full-graph collect. |
+| **CONSTRUCT** | Equivalent only | SPARQL CONSTRUCT returns an RDF graph. In Cypher: **return a graph-shaped payload** with `collect()` of nodes and relationships (see “Query hecha directamente al servidor” with `CALL { MATCH (n) RETURN collect(...) } CALL { MATCH (source)-[r]->(target) RETURN collect(...) }`). You do not “construct” triples; you return JSON that describes the subgraph. |
+| **DESCRIBE** | Equivalent only | SPARQL DESCRIBE returns triples about a resource. In Cypher: **match the node and its relationships** and return node + rels + neighbours. E.g. `MATCH (n) WHERE id(n) = 0 OPTIONAL MATCH (n)-[r]-(m) RETURN n, r, m` or `MATCH (n) WHERE id(n) = 0 OPTIONAL MATCH (n)-[r]->(m) RETURN id(n) AS id, labels(n) AS labels, properties(n) AS props, collect({ type: type(r), targetId: id(m) }) AS outRels`. |
+
+**Summary:** FILTER, ORDER BY, grouping-style queries, and aggregations are supported directly. CONSTRUCT and DESCRIBE have no literal Cypher keyword; use the patterns above to return graph-shaped or “describe”-style results.
+
+---
+
+## Analysis: UBXAT responses vs server responses
+
+| Aspect | UBXAT (documented) | Server (API) |
+|--------|--------------------|--------------|
+| **Structure** | Array of objects with `n` / `nLabel` (or `count`), each value wrapped as `{"value": "…"}`. | Single object: `query`, `results` (array), `format`, `execution_time`, `source`, `query_type`. |
+| **Variable names** | SPARQL-style: `n`, `nLabel`, `count` (generic). | Cypher-style: same names as in `RETURN` (e.g. `subject`, `predicate`, `object`, `labels`, `label`, `result`, `count`). |
+| **Value format** | Nested: `"n": {"value": "0"}`, `"nLabel": {"value": "Informació…"}`. | Flat: `"subject": 0`, `"predicate": "MAIN_SUBJECT"`, `"object": 11`. |
+| **Data source** | Looks like an older or alternate export (e.g. SPARQL layer or UI): only node id + one label text; same 10 rows repeated across queries. | Live Neo4j: full result set matching the Cypher (triples, labels, filters, pagination). |
+| **Query alignment** | Often **misaligned**: e.g. “Obtained in UBXAT” for “subject–predicate–object” shows 10 `n`/`nLabel` rows (publications only), not triples. | **Aligned**: server returns subject/predicate/object, or subject/labels/label, etc., as in the request. |
+| **Counts** | UBXAT shows `"count": {"value": "60"}` (string). Server shows `"count": 60` (number) and `"result": true` for ASK. | Same semantics; server format is canonical and easier to parse. |
+
+**Summary:** “UBXAT” in the doc is a **different output shape** (SPARQL-like, wrapped values, fixed subset of nodes). The **server** response is the **real API**: flat keys, correct variables, and full result set. For integration or scripts, use the **server** format as the source of truth.
+
+### Why are they different? (same API in theory)
+
+In theory both consult the same API (`POST https://ubxat.peninsula.co/api/v1/sparql`). The dataset is almost certainly the **same Neo4j graph**. The difference is not “different database” but **how the response was produced or recorded**:
+
+| Cause | Explanation |
+|-------|-------------|
+| **Different client / path** | “UBXAT” may be a **different client**: e.g. a SPARQL endpoint or UI that (1) sends a *different* query (e.g. “nodes + title” only), or (2) **normalizes** the API response into a SPARQL-like shape (`n`, `nLabel`, `{"value": "…"}`). The doc would then show that normalized output as “Obtained in UBXAT” while the curl examples show the **raw** API response. |
+| **Documentation copy‑paste** | The same **10 rows** (nodes 0–9, publication titles) appear as “UBXAT” for *different* queries (triples, FILTER, LIMIT, etc.). That suggests one real result (e.g. “list nodes with label”) was **reused** as the “UBXAT” block for every example, so the content is **misaligned** with the query, not from a different dataset. |
+| **Snapshot vs live** | Less likely: “UBXAT” could be from an **older export** (graph with only 10 nodes), while server responses are **live** (66 nodes, 76 relationships). That would explain different row counts, but not the same 10 rows for every query type. |
+
+**Takeaway:** Treat the **server (curl) response** as the single source of truth. If “UBXAT” is a real interface, clarify which request it sends and whether it transforms the API response.
 
