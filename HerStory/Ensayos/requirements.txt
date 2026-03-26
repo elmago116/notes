@@ -1,2 +1,0 @@
-thefuzz
-python-levenshtein 
