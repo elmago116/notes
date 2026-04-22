@@ -20,15 +20,16 @@ tags:
 apa_citation: Consoli, S. et. al. 2023
 ---
 
-## Notes for digital libraries article
-- **Process-driven**:
+## Extraction
+
+- **Process-driven (phases/patterns)**:
   - “Cultural gems is a crowdsourced web platform managed by the Joint Research Centre of the European Commission aimed at creating community-led maps as well as a common repository for cultural and creative places across European cities and towns.” (Abstract)
-- **Methodological tools**:
+- **Methodological tools/models**:
   - “This data article describes the ontology developed for Cultural gems, adopted to represent the domain of knowledge of the application by means of FAIR (Findable, Accessible, Interoperable, Reusable) principles and following the paradigms of Linked Open Data (LOD).” (Abstract)
-- **Participation level**:
-  - “Cultural gems is a crowdsourced web platform ... aimed at creating community-led maps...” (Abstract)
-- **Epistemic justice**:
-  - “The main objective of Cultural gems consists in raising a holistic vision of European culture, reinforcing a sense of belonging to a common European cultural space.” (Abstract) – no explicit gender/intersectionality.
+- **Levels of participation/engagement**:
+  - Crowdsourcing and “community-led maps” frame users as contributors of cultural-place data and activities. (Abstract)
+- **Inclusion/representational gaps/epistemic justice**:
+  - “The main objective of Cultural gems consists in raising a holistic vision of European culture, reinforcing a sense of belonging to a common European cultural space.” (Abstract) – no explicit gender or intersectional analysis is reported.
 ---
 
 ---

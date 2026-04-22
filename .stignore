@@ -1,0 +1,25 @@
+# Ignore OS clutter
+.DS_Store
+**/.DS_Store
+
+# Ignore virtual environments
+.venv/
+**/.venv/
+
+# Ignore generated extraction outputs (can regenerate)
+Clippings/Extracted/**
+
+# Ignore Syncthing conflict artifacts
+**/*sync-conflict-*
+
+# Ignore Obsidian trash
+Clippings/.trash/**
+
+
+
+
+
+
+
+
+

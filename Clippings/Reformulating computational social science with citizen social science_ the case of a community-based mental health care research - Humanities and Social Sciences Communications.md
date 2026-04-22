@@ -7,12 +7,14 @@ created: 2026-02-16
 description: "Computational social science is being scrutinised and some concerns have been expressed with regards to the lack of transparency and inclusivity in some of the researches. However, how computational social science can be reformulated to adopt participatory and inclusive practices? And, furthermore, which aspects shall be carefully considered to make possible this reformulation? We present a practical case that addresses the challenge of collectively studying social interactions within community-based mental health care. This study is done by revisiting and revising social science methods such as social dilemmas and game theory and by incorporating the use of digital interfaces to run experiments in-the-field. The research can be framed within the emergent citizen social science or social citizen science where shared practices are still lacking. We have identified five key steps of the research process to be considered to introduce participatory and inclusive practices: research framing, research design, experimental spaces, data sources, and actionable knowledge. Social dilemmas and game theory methods and protocols need to be reconsidered as an experiential activity that enables participants to self-reflect. Co-design dynamics and the building of a working group outside the academia are important to initiate socially robust knowledge co-production. Research results should support evidence-based policies and collective actions put forward by the civil society. The inclusion of underserved groups is discussed as a way forward to new avenues of computational social science jointly with intricate ethical aspects. Finally, the paper also provides some reflections to explore the particularities of a further enhancement of social dimensions in citizen science."
 tags:
   - "op/suggested/tutors"
-  - "theme/citizenScience"
+  - "themes/citizenScience"
 DOI:
 Type: "Article"
 year: "2023"
 ---
 [[Reformulating computational social science with citizen social science: the case of a community-based mental health care research - Humanities and Social Sciences Communications.pdf]]
+
+[[reform]]
 
 ## Abstract
 

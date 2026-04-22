@@ -1,8 +1,8 @@
 ---
 tags:
   - Tech
-  - MCP
-  - tech/dataPoisoning
+  - tech/Ai/MCP
+  - tech/Ai/dataPoisoning
   - themes/bias/algorithmic
 year: "2025"
 authors:

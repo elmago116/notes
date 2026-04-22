@@ -9,11 +9,12 @@ tags:
   - lis/HCI
   - tech/Neural_reasoning
   - CCC/attitudes-behavior-emotion
+  - tech/Ai
 DOI: https://doi.org/10.48550/arXiv.2107.13998
 Type:
 year: "2021"
 ---
-[["Excavating AI" Re-excavated Debunking a Fallacious Account of the JAFFE Dataset.pdf]]
+![["Excavating AI" Re-excavated Debunking a Fallacious Account of the JAFFE Dataset.pdf]]
 
 \[Submitted on 28 Jul 2021\]
 

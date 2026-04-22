@@ -1,8 +1,7 @@
 {
   "items": [
     {
-      "name": "Markdown",
-      "arguments": ""
+      "name": "Markdown"
     },
     {
       "name": "Markdown (Hugo)"
@@ -50,12 +49,13 @@
       "name": "Bibliography"
     }
   ],
-  "defaultExportDirectoryMode": "Custom",
-  "openExportedFile": false,
+  "defaultExportDirectoryMode": "Auto",
+  "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
-  "customDefaultExportDirectory": {
-    "darwin": "/Users/elenagomez/Library/Mobile Documents/iCloud~md~obsidian/Documents/Exported"
+  "lastExportDirectory": {
+    "darwin": "/Users/elenagomez/Desktop"
   },
-  "lastEditName": "Markdown"
+  "lastEditName": "Word (.docx)",
+  "lastExportType": "Word (.docx)"
 }

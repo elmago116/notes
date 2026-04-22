@@ -21,24 +21,24 @@ apa_citation: Shneiderman, B. 2021
 ---
 
 
-![[human centered AI.pdf]]
+![[Human centered AI.pdf]]
 ## Abstract
 
 Researchers, developers, business leaders, policy makers and others are expanding the technology-centered scope of Artificial Intelligence (AI) to include Human-Centered AI (HCAI) ways of thinking. This expansion from an algorithm-focused view to embrace a human-centered perspective, can shape the future of technology so as to better serve human needs. Educators, designers, software engineers, product managers, evaluators, and government agency staffers can build on AI-driven technologies to design products and services that make life better for the users. These human-centered products and services will enable people to better care for each other, build sustainable communities, and restore the environment.
 
-[[human centered AI.pdf]]
+[[Human centered AI.pdf]]
 
 Abstract. Researchers, developers, business leaders, policy makers and others are expanding the technology-centered scope of Artificial Intelligence (AI) to include Human-Centered AI (HCAI) ways of thinking. This expansion from an algorithm-focused view to embrace a human-centered perspective, can shape the future of technology so as to better serve human needs. Educators, designers, software engineers, product managers, evaluators, and government agency staffers can build on AI-driven technologies to design products and services that make life better for the users. These human-centered products and services will enable people to better care for each other, build sustainable communities, and restore the environment.
 
-> ([[human centered AI.pdf#page=33&annotation=25400R|human centered AI, p.3]])
+> ([[Human centered AI.pdf#page=33&annotation=25400R|human centered AI, p.3]])
 > The new synthesis values AI and gives equal attention to human users and other stakeholders by raising the prominence of user experience design and by measuring human performance. Researchers and developers for HCAI systems value meaningful human control, putting people ﬁrst by serving human values such as rights, justice, and dignity, thus supporting goals such as self-efﬁcacy, creativity, responsibility, and social connections
 
 
 #tech/Ai #tech/evaluation 
 
-![[human centered AI.pdf#page=35&rect=39,317,415,619&color=yellow|human centered AI, p.5]]
+![[Human centered AI.pdf#page=35&rect=39,317,415,619&color=yellow|human centered AI, p.5]]
 
-> ([[human centered AI.pdf#page=37&selection=35,4,39,62&color=yellow|human centered AI, p.7]])
+> ([[Human centered AI.pdf#page=37&selection=35,4,39,62&color=yellow|human centered AI, p.7]])
 > Shneiderman, B.: Design lessons from AI’s two grand goals: human emulation and useful applications. IEEE Trans. Technol. Soc. 1, 2 (2020). https://ieeexplore.ieee.org/document/908 8114
 > #op/acc/buscar 
 

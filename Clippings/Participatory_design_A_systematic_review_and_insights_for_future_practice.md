@@ -23,7 +23,7 @@ tags:
   - design/participatory
 apa_citation: Wacnik, P. et al., 2025
 ---
-[[Participatory_design_A_systematic_review_and_insights_for_future_practice.pdf]]
+![[Participatory_design_A_systematic_review_and_insights_for_future_practice.pdf]]
 
 
 Participatory Design – an iterative, flexible design process that closely involves stakeholders, often end users – is growing in use across design disciplines. As more practitioners use Participatory Design (PD), it has become less rigidly defined, with stakeholders engaged to varying degrees through disjointed techniques. This ambiguity can be counterproductive when discussing PD processes. We performed a systematic literature review that builds shared, foundational knowledge of PD processes and techniques while also summarizing the state of PD research in the field, as a first step in supporting richer understandings of how best to equitably engage with stakeholders. We found that a majority of PD literature examined specific case studies of PD, with the design of intangible systems representing the most common design context. Stakeholders most often participated throughout multiple stages of a design process, recruited in a variety of ways, and engaged in several of the 14 specific participatory techniques identified. Our findings also identify leverage points for creators of PD processes and how the leverage points impact design equity, including (1) emergent versus predetermined processes; (2) direct versus indirect participation; (3) early versus late participation; (4) one time versus iterative participation; and (5) singular versus multiple PD techniques.

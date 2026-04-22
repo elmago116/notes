@@ -1,0 +1,18 @@
+# AI Memory MCP Server Requirements
+# Date of Creation: January 15, 2025
+
+# Core MCP dependencies
+mcp-server-sdk>=0.1.0
+
+# Database and storage
+sqlite3  # Usually included with Python
+
+# Optional: For advanced vector search capabilities
+# sentence-transformers>=2.2.0
+# chromadb>=0.4.0
+# numpy>=1.21.0
+
+# Development and testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0 

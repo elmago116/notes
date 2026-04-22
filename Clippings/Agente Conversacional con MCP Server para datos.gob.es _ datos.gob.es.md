@@ -7,7 +7,7 @@ created: 2026-02-16
 description: "Plataforma de datos abiertos del Gobierno de España"
 tags:
   - "op/doc/tool"
-  - "tech/MCP"
+  - "tech/Ai/MCP"
 DOI:
 Type:
 year:

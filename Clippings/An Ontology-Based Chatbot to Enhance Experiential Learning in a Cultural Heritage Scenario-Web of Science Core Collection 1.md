@@ -5,13 +5,15 @@ created: 2025-07-30
 tags:
   - Humanities/culturalHeritage
   - Tech/KG/ontology
-  - Humanities/culturalHeritage
   - op/projects/similar
 authors:
-  - G Krishna Vamsi
-  - Akhtar Rasool
-  - Gaurav Hajela
-  - Casillo Mario, De Santo Massimo, Mosca Rosalba, Santaniello Domenico
+  - G Krishna, Vamsi
+  - Akhtar, Rasool
+  - Gaurav, Hajela
+  - Casillo, Mario
+  - De Santo, Massimo
+  - Mosca, Rosalba
+  - Santaniello, Domenico
 doi: 10.1109/icccnt49239.2020.9225395
 url: https://doi.org/10.1109/icccnt49239.2020.9225395
 journal: 2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT)

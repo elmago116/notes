@@ -7,7 +7,7 @@ created: 2026-01-23
 description: "MCP is the open standard helping AI agents take action. Here’s why it matters now more than ever."
 tags:
   - "op/doc/tool"
-  - "tech/RAG"
+  - "tech/Ai/RAG"
 DOI:
 Type:
 year:

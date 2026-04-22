@@ -1,0 +1,1009 @@
+---
+tags:
+  - op/doc/reporte
+  - op/activity/Aiinteraction
+---
+**Level of user participation (inform, consult, involve, collaborate, empower):**
+  - [[Clippings/Prototyping and Evaluating a Support Network for Female STEM Students through Pa]] (2025) #op/acc/download
+  - [[Clippings/Using Participatory Design in the Development of the Homegrown Dashboard System ]] (2025) #op/acc/download
+  - [[Clippings/Flood-tech frontiers smart but just A systematic review of AI-driven urban flood]] (2025) #op/acc/download
+  - [[Clippings/Who participates in participatory design of WASH infrastructure A mixed-methods ]] (2025) #op/acc/download
+  - [[Clippings/Gamification in Virtual Reality Museums Effects on Hedonic and Eudaimonic Experi]] (2025) #op/acc/download
+  - [[Clippings/EchoSight Streamlining Bidirectional Virtual-physical Interaction with In-situ O]] (2025) #op/acc/download
+  - [[Clippings/Designing and usability evaluation of multimodal input modalities for visually i]] (2025) #op/acc/download
+  - [[Clippings/Google inject increasing engagement with fact-checks through nudging]] (2025) #op/acc/download
+  - [[Clippings/Development and evaluation of a decision aid for HPV vaccination among adults ag]] (2025) #op/acc/download
+  - [[Clippings/Applying user-centred techniques and expert feedback to refine an AI-based app f]] (2025) #op/acc/download
+  - [[Clippings/Leveraging Large Language Models for Usability Testing a Preliminary Study]] (2025) #op/acc/download
+  - [[Clippings/OptiCarVis Improving Automated Vehicle Functionality Visualizations Using Bayesi]] (2025) #op/acc/download
+  - [[Clippings/Perception-Centric Explainable AI Bridging Cognitive Theories and HCI Design for]] (2025) #op/acc/download
+  - [[Clippings/Usability Testing of Five Fentanyl Test Strip Brands in Real-World Settings]] (2025) #op/acc/download
+  - [[Clippings/AI vs. traditional navigation systems enhancing efficiency and reducing cognitiv]] (2025) #op/acc/download
+  - [[Clippings/EDiagnosing mental health in neurodevelopmental disorders Experiences with perso]] (2025) #op/acc/download
+  - [[Clippings/Digital Ecosystem Model to Produce Mixed Reality Environments to assist Neurocog]] (2025) #op/acc/download
+  - [[Clippings/Co-Designing Developing and Testing a Mental Health Platform for Young People Us]] (2025) #op/acc/download
+  - [[Clippings/Exploring the Role of Mixed Reality on Design Representations to Enhance User-In]] (2025) #op/acc/download
+  - [[Clippings/SafeSpect Safety-First Augmented Reality Heads-up Display for Drone Inspections]] (2025) #op/acc/download
+  - [[Clippings/Integrating Adaptive Human Computer Interaction in Fault Detection and Diagnosis]] (2025) #op/acc/download
+  - [[Clippings/A user-centred website to support advance care planning for people with dementia]] (2025) #op/acc/download
+  - [[Clippings/Enhancing Automotive Usability Testing and User Experience Insights from Virtual]] (2025) #op/acc/download
+  - [[Clippings/Psychological Foundations for Effective HumanComputer Interaction in Education]] (2025) #op/acc/download
+  - [[Clippings/Elderly Healthcare Support Services in Hospitals Designing a Medical Terminal an]] (2025) #op/acc/download
+  - [[Clippings/EMPOWERING User-Centered Design]] (2025) #op/acc/download
+  - [[Clippings/Optimizing Clinical Decision Support System Functionality by Leveraging Specific]] (2025) #op/acc/download
+  - [[Clippings/User Participatory In-Vehicle Gesture Interaction Design Based on Electric Vehic]] (2025) #op/acc/download
+  - [[Clippings/Navigating the HumanRobot InterfaceExploring Human Interactions and Perceptions ]] (2025) #op/acc/download
+  - [[Clippings/Organize Then Vote Exploring Cognitive Load in Quadratic Survey Interfaces]] (2025) #op/acc/download
+  - [[Clippings/Wonder and Grow Healthy User-Centered Design for Selective Eating Children with ]] (2025) #op/acc/download
+  - [[Clippings/Co-designing strategies to implement long-acting injectable PrEP for sexual mino]] (2024) #op/acc/download
+  - [[Clippings/RE-LEARNING PARTICIPATORY DESIGN with MARGINALIZED COMMUNITIES Resistance indige]] (2024) #op/acc/download
+  - [[Clippings/Nostalgia-Driven Design Creating an Inclusive VR Experience for Older Black Adul]] (2024) #op/acc/download
+  - [[Clippings/Communicating the results of risk-based breast cancer screening through visualiz]] (2024) #op/acc/download
+  - [[Clippings/Empowering Young Women A Qualitative Co-Design Study of a Social Media Health Pr]] (2024) #op/acc/download
+  - [[Clippings/Co-creation in Immersive Virtual Reality Insights from a Multi-Stakeholder Plann]] (2024) #op/acc/download
+  - [[Clippings/Putting First Peoples First Participatory Design of a Digital Storytelling Syste]] (2024) #op/acc/download
+  - [[Clippings/Research on Rural Human Settlement Environment Transformation Based on Participa]] (2024) #op/acc/download
+  - [[Clippings/The image of Gresik Town Square based on participatory design of multicultural s]] (2024) #op/acc/download
+  - [[Clippings/A qualitative analysis of algorithm-based decision support usability testing for]] (2024) #op/acc/download
+  - [[Clippings/Avoiding Unintended Consequences of Pediatric Blood Order Set Updates through In]] (2024) #op/acc/download
+  - [[Clippings/Developing feedback visualizations to support older adults medication adherence]] (2024) #op/acc/download
+  - [[Clippings/Allergen Information Interaction Design in Food Delivery Application Using User-]] (2024) #op/acc/download
+  - [[Clippings/Design and Implementation of User Interface and User Experience in Digital Kanba]] (2024) #op/acc/download
+  - [[Clippings/Development of a telemedicine virtual clinic system for remote rural and underse]] (2024) #op/acc/download
+  - [[Clippings/Development and usability testing of an online support tool to identify models a]] (2024) #op/acc/download
+  - [[Clippings/Evaluating design approaches for encouraging behavior change in editors explorin]] (2024) #op/acc/download
+  - [[Clippings/Challenges and recommendations for eHealth usability evaluation with elderly use]] (2024) #op/acc/download
+  - [[Clippings/Designing the User Interface of a Nitroglycerin Dose Titration Decision Support ]] (2024) #op/acc/download
+  - [[Clippings/Designing Interactive Explainable AI Tools for Algorithmic Literacy and Transpar]] (2024) #op/acc/download
+  - [[Clippings/Human Interface Design in Mobile Apps Managing Information for Effective Evacuat]] (2024) #op/acc/download
+  - [[Clippings/VR Anima Safari Application with Design Thinking and Usability Testing Method]] (2024) #op/acc/download
+  - [[Clippings/An mHealth Application in German Health Care System Importance of User Participa]] (2024) #op/acc/download
+  - [[Clippings/Web-Based Medical Information System for Stroke Rehabilitation Intemet-of-Things]] (2024) #op/acc/download
+  - [[Clippings/MotoAid Express Mobile App Empowering Motorcycle Riders in the Philippines throu]] (2024) #op/acc/download
+  - [[Clippings/Design and development of a machine-learning-driven opioid overdose risk predict]] (2024) #op/acc/download
+  - [[Clippings/Missing Person Search Information System with User-Centered Design]] (2024) #op/acc/download
+  - [[Clippings/A Systematic Review of Working Memory Applications for Children with Learning Di]] (2024) #op/acc/download
+  - [[Clippings/Usability testing of a website through different devices a task-based approach i]] (2024) #op/acc/download
+  - [[Clippings/Usability Testing A Bibliometric Analysis Based on WoS Data]] (2024) #op/acc/download
+  - [[Clippings/Usability of an eHealth sleep education intervention for university students]] (2024) #op/acc/download
+  - [[Clippings/Gender-Sensitive Healthcare Interfaces Development for Enhanced Patient Engageme]] (2024) #op/acc/download
+  - [[Clippings/Utilizing Usability Testing for User Interface Improvement Case Study on Unesas ]] (2024) #op/acc/download
+  - [[Clippings/User-centered design and development of a web-based tool to support healthy feed]] (2024) #op/acc/download
+  - [[Clippings/Exploring the Needs and Preferences of Autistic Users in Extended Reality A Part]] (2024) #op/acc/download
+  - [[Clippings/Usability Assessment Framework for Usability Testing of a Software Application]] (2024) #op/acc/download
+  - [[Clippings/AidVenture A Mobile Application Tracker for Lower-Limb Rehabilitation Integrated]] (2024) #op/acc/download
+  - [[Clippings/Unveiling Communication Patterns Helpful Visualizations of Communication in Onli]] (2024) #op/acc/download
+  - [[Clippings/Trustworthiness in Conversational Agents Patterns in User Personality-Based Beha]] (2024) #op/acc/download
+  - [[Clippings/A Novel Information Model for Software Interface Reliability in the Software Dev]] (2024) #op/acc/download
+  - [[Clippings/Usability Aspects Reduce Design Complexity and Help Prevent Use-Related Errors i]] (2024) #op/acc/download
+  - [[Clippings/An Exercise-Based Precision Medicine Tool and Smartphone App for Managing Achill]] (2024) #op/acc/download
+  - [[Clippings/Lessons Learned A Usability Study of an Urban Data Platform for Citizens]] (2024) #op/acc/download
+  - [[Clippings/Online Dating as Context to Design Sexual Consent Technology with Women and LGBT]] (2023) #op/acc/download
+  - [[Clippings/Foregrounding Womens Safety in Mobile Social Matching and Dating Apps A Particip]] (2023) #op/acc/download
+  - [[Clippings/OperARtistry An AR-based Interactive Application to Assist the Learning of Chine]] (2023) #op/acc/download
+  - [[Clippings/Participatory Design Workshops Interdisciplinary Encounters within a Collaborati]] (2023) #op/acc/download
+  - [[Clippings/DentaSeal A school-based dental sealant efficiency assessment tool to support st]] (2023) #op/acc/download
+  - [[Clippings/The Third Wave of Self-Regulated Learnings Measurement and Intervention Tools De]] (2023) #op/acc/download
+  - [[Clippings/Building a Congregations Dashboard Using the User Centered Design Method]] (2023) #op/acc/download
+  - [[Clippings/Avazum app usability testing]] (2023) #op/acc/download
+  - [[Clippings/In what ways does user experience design improve printed educational materials]] (2023) #op/acc/download
+  - [[Clippings/Application of User-Centered Design Approach in Developing Interaction Design of]] (2023) #op/acc/download
+  - [[Clippings/Remote Synchronous Usability Testing Yields Reliable Data for User-Centered Desi]] (2023) #op/acc/download
+  - [[Clippings/Authoring Tools The Road to Democratizing Augmented Reality for Education]] (2023) #op/acc/download
+  - [[Clippings/Web-Based Cognitive Behavioral Therapy for Depression Among Homebound Older Adul]] (2023) #op/acc/download
+  - [[Clippings/Human-Computer Interaction A Systematic Review]] (2023) #op/acc/download
+  - [[Clippings/Human-Centered Design and Development of a Fall Prevention Exercise App for Olde]] (2023) #op/acc/download
+  - [[Clippings/Enhancing cross-border mobility by adopting a user journey approach for digital ]] (2023) #op/acc/download
+  - [[Clippings/Usability testing of three visual HMIs for assisted driving How design impacts d]] (2023) #op/acc/download
+  - [[Clippings/A participatory process to design an app to improve adherence to anti-osteoporot]] (2023) #op/acc/download
+  - [[Clippings/Methodology of an approach for modifying pictograms showing medication side effe]] (2023) #op/acc/download
+  - [[Clippings/Development of User Interface for Red Tilapia Aquaculture Management System Appl]] (2023) #op/acc/download
+  - [[Clippings/Respinos Health A Mobile Health App Designed Using User-Centered Design Method t]] (2023) #op/acc/download
+  - [[Clippings/Enhancing Caregiver Empowerment Through the Story Mosaic System Human-Centered D]] (2023) #op/acc/download
+  - [[Clippings/Augmenting Auditory Attention and Memory to Reduce Cognitive Load in Dual Tasks ]] (2023) #op/acc/download
+  - [[Clippings/Insights From an Usability Review of an Electronic Medical RecordIntegrated Phys]] (2023) #op/acc/download
+  - [[Clippings/Cultural Adaptation and Implementation of Cognitive-Behavioral Psychosocial Inte]] (2023) #op/acc/download
+  - [[Clippings/Design and Evaluation of an Intensive Care Unit Dashboard Built in Response to t]] (2023) #op/acc/download
+  - [[Clippings/Software Usability Testing Using EEG-Based Emotion Detection and Deep Learning]] (2023) #op/acc/download
+  - [[Clippings/Enhancing User Experience in Haji Pintar Mobile App Implementing Human Interface]] (2023) #op/acc/download
+  - [[Clippings/Involving Health Care Professionals in the Development of Electronic Health Reco]] (2023) #op/acc/download
+  - [[Clippings/Evaluating User Interface and User Experience in Mobile Applications Designed fo]] (2023) #op/acc/download
+  - [[Clippings/Usability evaluation of the Agente Escuta application translational research]] (2023) #op/acc/download
+  - [[Clippings/DESIGN AND DEVELOPMENT FRAMEWORK FOR AN AIR QUALITY MONITORING WEBGIS]] (2023) #op/acc/download
+  - [[Clippings/A high-fidelity prototype of a sterile information system for the perioperative ]] (2023) #op/acc/download
+  - [[Clippings/Evaluation of an Electronic Care and Rehabilitation Planning Tool with Stroke Su]] (2023) #op/acc/download
+  - [[Clippings/Exploring the Frontiers of User Experience Design VR AR and the Future of Intera]] (2023) #op/acc/download
+  - [[Clippings/The Best RX is Better UX Redesigning Migrating and Usability Testing a Hospital ]] (2023) #op/acc/download
+  - [[Clippings/Designing for Common Ground Visually Representing Conversation Dynamics of Neuro]] (2023) #op/acc/download
+  - [[Clippings/A Workflow Approach to Visualization-Based Storytelling with Cultural Heritage D]] (2023) #op/acc/download
+  - [[Clippings/Post occupancy and participatory design evaluation of a marginalized low-income ]] (2022) #op/acc/download
+  - [[Clippings/Youth invisible work the sociocultural and collaborative processes of online sea]] (2022) #op/acc/download
+  - [[Clippings/Unwritten Magic Participatory Design of AI Dialogue to Empower Marginalized Voic]] (2022) #op/acc/download
+  - [[Clippings/Infrastructuring digital humanities On relational infrastructure and global reco]] (2022) #op/acc/download
+  - [[Clippings/Development of an Immersive Visualisation System for the 3D Learning of Complex ]] (2022) #op/acc/download
+  - [[Clippings/Mobile App Prototype in Older Adults for Postfracture Acute Pain Management User]] (2022) #op/acc/download
+  - [[Clippings/Assessment of the Accessibility of the Integrated Information System for People ]] (2022) #op/acc/download
+  - [[Clippings/Summative Usability Assessments of STAR-Vote A Cryptographically Secure e2e Voti]] (2022) #op/acc/download
+  - [[Clippings/User-CenteredUser Experience UcUx Design Thinking Approach for Designing a Unive]] (2022) #op/acc/download
+  - [[Clippings/Development of an Interoperable-Integrated Care Service Architecture for Intelle]] (2022) #op/acc/download
+  - [[Clippings/Role of Dynamic Affordance and Cognitive Load in the Design of Extended Reality ]] (2022) #op/acc/download
+  - [[Clippings/Designing Village Idea Lab as Digital-based Incubator of Ideas and Innovation in]] (2022) #op/acc/download
+  - [[Clippings/Developing a User-Centered Digital Clinical Decision Support App for Evidence-Ba]] (2022) #op/acc/download
+  - [[Clippings/User-Centered Design to Improve Personal Development in Comic Application]] (2022) #op/acc/download
+  - [[Clippings/Web-Based Tool (FH Family Share) to Increase Uptake of Cascade Testing for Famil]] (2022) #op/acc/download
+  - [[Clippings/Aiding the Digital Creation of Physical Resources Card Sets for The Gamers4Natur]] (2022) #op/acc/download
+  - [[Clippings/A digital self-care intervention for Ugandan patients with heart failure and the]] (2022) #op/acc/download
+  - [[Clippings/Developing a Smart Infusion Pump Dedicated to Infusion Safety]] (2022) #op/acc/download
+  - [[Clippings/Web-Based Structured Education for Type 2 Diabetes Interdisciplinary User-Center]] (2022) #op/acc/download
+  - [[Clippings/A Remote Patient-Monitoring System for Intensive Care Medicine Mixed Methods Hum]] (2022) #op/acc/download
+  - [[Clippings/Implementing an interprofessional user-centered design approach to develop a bed]] (2022) #op/acc/download
+  - [[Clippings/A hybrid approach to product prototype usability testing based on surface EMG im]] (2022) #op/acc/download
+  - [[Clippings/Perceptions of and Experiences with Consumer Sleep Technologies That Use Artific]] (2022) #op/acc/download
+  - [[Clippings/The Developments and Iterations of a Mobile Technology-Based Fall Risk Health Ap]] (2022) #op/acc/download
+  - [[Clippings/Development of a Digital Support Application with Evidence-Based Content for Sus]] (2022) #op/acc/download
+  - [[Clippings/Monitoring System 4.0 on Horticultural Plantation Land Based on The Internet of ]] (2022) #op/acc/download
+  - [[Clippings/Comparison of Moderated and Unmoderated Remote Usability Sessions for Web-Based ]] (2022) #op/acc/download
+  - [[Clippings/A Text Messaging Intervention to Support Latinx Family Caregivers of Individuals]] (2022) #op/acc/download
+  - [[Clippings/Need for Human Extended Reality Interaction (HXRI) Framework for the design of E]] (2022) #op/acc/download
+  - [[Clippings/Anshimi Womens Perceptions of Safety Data and the Efficacy of a Safety Applicati]] (2021) #op/acc/download
+  - [[Clippings/Designing Opportunistic Social Matching Systems for Womens Safety during Face-to]] (2021) #op/acc/download
+  - [[Clippings/Self-care needs and technology preferences among parents in marginalized communi]] (2021) #op/acc/download
+  - [[Clippings/PRESERVATION and PROMOTION of INTANGIBLE CULTURAL HERITAGE - A PARTICIPATORY DES]] (2021) #op/acc/download
+  - [[Clippings/Applying user-centered design for a climate resilience video game]] (2021) #op/acc/download
+  - [[Clippings/Human-Centered Artificial Intelligence for Designing Accessible Cultural Heritag]] (2021) #op/acc/download
+  - [[Clippings/A multipurpose platform for ambient assisted living (ActiveAdvice) Usability stu]] (2021) #op/acc/download
+  - [[Clippings/Augmented Reality Adapted Book (AREmotion) Design as Emotional Expression Recogn]] (2021) #op/acc/download
+  - [[Clippings/Human-computer interaction usability and workflow]] (2021) #op/acc/download
+  - [[Clippings/Designing Embodied Virtual Agent in E-commerce System Recommendations using Conv]] (2021) #op/acc/download
+  - [[Clippings/Design and usability testing of an in-house developed performance feedback tool ]] (2021) #op/acc/download
+  - [[Clippings/A user-centered agile approach to the development of a real-world social robot a]] (2021) #op/acc/download
+  - [[Clippings/Supporting deprescribing in hospitalised patients formative usability testing of]] (2021) #op/acc/download
+  - [[Clippings/Remote Usability Testing of a Pediatric Trauma Dashboard]] (2021) #op/acc/download
+  - [[Clippings/Redesigning User Interface on Halal Tourism Application with User-Centered Desig]] (2021) #op/acc/download
+  - [[Clippings/Semantic web end-user tasks]] (2021) #op/acc/download
+  - [[Clippings/Development and assessment of the usability of a web-based referral to treatment]] (2021) #op/acc/download
+  - [[Clippings/Calla Beauty Assistant Beauty Advisory Chatbot]] (2021) #op/acc/download
+  - [[Clippings/Demonstrating the feasibility of multimodal neuroimaging data capture with a wea]] (2021) #op/acc/download
+  - [[Clippings/Accessibility of environmental data for sharing The role of UX in large cyberinf]] (2021) #op/acc/download
+  - [[Clippings/A user-centered behavioral software development model]] (2021) #op/acc/download
+  - [[Clippings/Designed for Equitable Learning A Study of UCD and Liquid Syllabus in an Online ]] (2021) #op/acc/download
+  - [[Clippings/First year engineering students influence in a service-learning maker project]] (2020) #op/acc/download
+  - [[Clippings/NO to violence against any woman Requirements for inclusive mobile applications ]] (2020) #op/acc/download
+  - [[Clippings/Designing Participedia A Collaborative Research Platform]] (2020) #op/acc/download
+  - [[Clippings/Development of the Uni Virtual Clinic an online programme for improving the ment]] (2020) #op/acc/download
+  - [[Clippings/In the details the micro-ethics of negotiations and in-situ judgements in partic]] (2020) #op/acc/download
+  - [[Clippings/Driving Coach Finder]] (2020) #op/acc/download
+  - [[Clippings/Participatory design for ontologies A case study of an open science ontology for]] (2020) #op/acc/download
+  - [[Clippings/Initial User-Centered Design of a Virtual Reality Heritage System Applications f]] (2020) #op/acc/download
+  - [[Clippings/Using knowledge Graphs to Enhance the Interpretability of Clinical Decision Supp]] (2020) #op/acc/download
+  - [[Clippings/Analysis and Design of Agricultural Marketplace Using User Experience]] (2020) #op/acc/download
+  - [[Clippings/Understanding and supporting individuals experiencing severely constraining situ]] (2020) #op/acc/download
+  - [[Clippings/Usability evaluation and user interface design of university staffing informatio]] (2020) #op/acc/download
+  - [[Clippings/Effects of personality traits on user trust in humanmachine collaborations]] (2020) #op/acc/download
+  - [[Clippings/Metaphor design in localising user interface for farmers in malaysia using user-]] (2020) #op/acc/download
+  - [[Clippings/Design and Implementation of Android Application to Thi-Qar Doctors Guide and Re]] (2020) #op/acc/download
+  - [[Clippings/The Development of a Point of Care Clinical Guidelines Mobile Application Follow]] (2020) #op/acc/download
+  - [[Clippings/Direct User Behavior Data Leads to Better User Centric Thinking than Role Playin]] (2020) #op/acc/download
+  - [[Clippings/The Design and Evaluation of a Home Health Care System (TeamVisit)]] (2020) #op/acc/download
+  - [[Clippings/Designing Human-Computer Interaction for E-Learning using ISO 9241-2102010 and G]] (2020) #op/acc/download
+  - [[Clippings/Usability Testing Essentials Ready SetTest]] (2020) #op/acc/download
+  - [[Clippings/Physical and Cognitive Load Effects Due to a Powered Lower-Body Exoskeleton]] (2020) #op/acc/download
+  - [[Clippings/Optimized User Experience Design for Augmentative and Alternative Communication ]] (2020) #op/acc/download
+  - [[Clippings/The Effect of Electronic Health Record Usability Redesign on Annual Screening Ra]] (2020) #op/acc/download
+  - [[Clippings/Assessing the Involvement of Users During Development of Lower Limb Wearable Rob]] (2020) #op/acc/download
+  - [[Clippings/Disruptive factors in the evaluation of perceived quality aspects  consideration]] (2020) #op/acc/download
+  - [[Clippings/Home blood pressure data visualization for the management of hypertension Design]] (2020) #op/acc/download
+  - [[Clippings/Design and development of a smart-tool prototype to promote differentiated instr]] (2020) #op/acc/download
+  - [[Clippings/User-Centered Design of e-Learning User Interfaces A Survey of the Practices]] (2020) #op/acc/download
+  - [[Clippings/Integrating User-Centered Design with the Agile Software Development Methodology]] (2020) #op/acc/download
+  - [[Clippings/Implementation of the user-centered design (Ucd) method for designing web market]] (2020) #op/acc/download
+  - [[Clippings/Supporting Surgical Teams Identifying Needs and Barriers for Exoskeleton Impleme]] (2020) #op/acc/download
+  - [[Clippings/From Stigma to Objects of Desire Participatory Design of Interactive Jewellery f]] (2019) #op/acc/download
+  - [[Clippings/Representing a space-based digital archive on historical maps A user-centered de]] (2019) #op/acc/download
+  - [[Clippings/CyberParks Songs and Stories - Enriching Public Spaces with Localized Culture He]] (2019) #op/acc/download
+  - [[Clippings/Integrating games as a means to develop e-learning Insights from a psychological]] (2019) #op/acc/download
+  - [[Clippings/A Method and Tool for Analyzing Usability Testing Data in the Business Sector]] (2019) #op/acc/download
+  - [[Clippings/On Building a Visualisation Tool for Access Control Policies]] (2019) #op/acc/download
+  - [[Clippings/Software Engineering for AR systems considering User Centered Design Approaches]] (2019) #op/acc/download
+  - [[Clippings/RAMESFramework supporting user centred evaluation in research and practice]] (2019) #op/acc/download
+  - [[Clippings/Interaction design development on Indonesia)s computer-based national exam using]] (2019) #op/acc/download
+  - [[Clippings/Feasibility and acceptability of a mobile technology intervention to support pos]] (2019) #op/acc/download
+  - [[Clippings/User-Centered Development of an Online Platform for Drug Dosing Recommendations ]] (2019) #op/acc/download
+  - [[Clippings/Objective usability evaluation of drywall screwdriver under consideration of the]] (2019) #op/acc/download
+  - [[Clippings/Preflight Weather Decision Support Tool (PWDST) User-Centered Design Process and]] (2019) #op/acc/download
+  - [[Clippings/User Interaction Design for Financial Technology Mobile Application using User-C]] (2019) #op/acc/download
+  - [[Clippings/User interface redesign in a point rewards mobile application using usability te]] (2019) #op/acc/download
+  - [[Clippings/iSenseVR bringing VR exposure therapy outside the laboratory]] (2019) #op/acc/download
+  - [[Clippings/Understanding and exploring operator needs in mixed model assembly]] (2019) #op/acc/download
+  - [[Clippings/A Practical Guide to Usability Testing]] (2019) #op/acc/download
+  - [[Clippings/User-Centered Gestures for Mobile Phones Exploring a Method to Evaluate User Ges]] (2019) #op/acc/download
+  - [[Clippings/Towards an interactive visualization for dietary supplement knowledge graph]] (2019) #op/acc/download
+  - [[Clippings/A mobile phone app for the self-management of pediatric concussion Development a]] (2019) #op/acc/download
+  - [[Clippings/Adaptive design of a clinical decision support tool What the impact on utilizati]] (2019) #op/acc/download
+  - [[Clippings/Formative Usability Testing Reduces Severe Blood Product Ordering Errors]] (2019) #op/acc/download
+  - [[Clippings/Mobile app communication aid for Cypriot deaf people]] (2019) #op/acc/download
+  - [[Clippings/Utilizing a user-centered approach to develop and assess pharmacogenomic clinica]] (2019) #op/acc/download
+  - [[Clippings/Telling tales unlocking the potential of AAC technologies]] (2019) #op/acc/download
+  - [[Clippings/Employing a User-Centered Design to Engage Mothers in the Development of a mHeal]] (2019) #op/acc/download
+  - [[Clippings/Evaluating the Development Processes of Consumer mHealth Interventions for Chron]] (2019) #op/acc/download
+  - [[Clippings/Mobile Voices Design as a method to explore the possibilities and limitations of]] (2018) #op/acc/download
+  - [[Clippings/User-Centered Design to a Digital Cultural Heritage Installation Based on Afro-P]] (2018) #op/acc/download
+  - [[Clippings/Assessing Demand for Transparency in Intelligent Systems Using Machine Learning]] (2018) #op/acc/download
+  - [[Clippings/Users Emotions and Usability Study of a Brain-Computer Interface Applied to Peop]] (2018) #op/acc/download
+  - [[Clippings/Integrating Usability Testing with Digital Rhetoric in OWI]] (2018) #op/acc/download
+  - [[Clippings/User-centered design on metacognitive training system A case in algorithm and da]] (2018) #op/acc/download
+  - [[Clippings/Applying user-centered design methods to the development of an mhealth applicati]] (2018) #op/acc/download
+  - [[Clippings/Human-centric design of unified communications E-collaboration features]] (2018) #op/acc/download
+  - [[Clippings/Slions A karaoke application to enhance foreign language learning]] (2018) #op/acc/download
+  - [[Clippings/User-Centered Design In and Beyond the Classroom Toward an Accountable Practice]] (2018) #op/acc/download
+  - [[Clippings/A day in the life An interactive application to introduce IT students to the wor]] (2018) #op/acc/download
+  - [[Clippings/Leveraging Patient-Reported Outcomes Using Data Visualization]] (2018) #op/acc/download
+  - [[Clippings/Design and usability evaluation of communication board for deaf people with user]] (2018) #op/acc/download
+  - [[Clippings/Towards a Framework for Integration of User-Centered Design and Agile Methodolog]] (2018) #op/acc/download
+  - [[Clippings/EUREKA Engineering usability research empirical knowledge and artifacts An exper]] (2018) #op/acc/download
+  - [[Clippings/Using simulation to iteratively test and re-design a cognitive aid for use in th]] (2018) #op/acc/download
+  - [[Clippings/Implementation and evaluation of LMS mobile application scele mobile based on us]] (2018) #op/acc/download
+  - [[Clippings/Rebuilding social capital Engaging newly arrived refugees in participatory desig]] (2017) #op/acc/download
+  - [[Clippings/Redesign of commuter line train ticket vending machine with user-centered design]] (2017) #op/acc/download
+  - [[Clippings/Revising the Online Classroom Usability Testing for Training Online Technical Co]] (2017) #op/acc/download
+  - [[Clippings/FroggyBobby An exergame to support children with motor problems practicing motor]] (2017) #op/acc/download
+  - [[Clippings/Guidelines for a university short course on human-computer interaction]] (2017) #op/acc/download
+  - [[Clippings/Information engineering for developing and testing coherent integrated and conte]] (2017) #op/acc/download
+  - [[Clippings/A Human-centered design methodology to enhance the usability human factors and u]] (2017) #op/acc/download
+  - [[Clippings/A visual analytics approach for understanding egocentric intimacy network evolut]] (2017) #op/acc/download
+  - [[Clippings/Human Factors Analysis Design and Evaluation of Engage a Consumer Health IT Appl]] (2017) #op/acc/download
+  - [[Clippings/Design a personalized brain-computer interface of legorobot assisted by data ana]] (2017) #op/acc/download
+  - [[Clippings/Considerations and methods for usability testing with children]] (2017) #op/acc/download
+  - [[Clippings/Enabling access to engineering education materials everywhere by design]] (2017) #op/acc/download
+  - [[Clippings/Contextualizing user centered design with agile methods in Ethiopia]] (2017) #op/acc/download
+  - [[Clippings/Integrating discount usability in scrum development process in Ethiopia]] (2017) #op/acc/download
+  - [[Clippings/Applying a user-centered design approach to developing game-based training envir]] (2017) #op/acc/download
+  - [[Clippings/Building a team to champion user-centered design within an agile process]] (2017) #op/acc/download
+  - [[Clippings/Addressing the learning needs of minority students in engineering through partic]] (2016) #op/acc/download
+  - [[Clippings/Methods for user-centered design and evaluation of text analysis tools in a digi]] (2016) #op/acc/download
+  - [[Clippings/Development of a decision guide to support the elderly in decision making about ]] (2016) #op/acc/download
+  - [[Clippings/Evaluating the usability and perceived impact of an electronic medical record to]] (2016) #op/acc/download
+  - [[Clippings/Healthcare applications of smart watches A systematic review]] (2016) #op/acc/download
+  - [[Clippings/Developing a teacher dashboard for use with intelligent tutoring systems]] (2016) #op/acc/download
+  - [[Clippings/Free UX testing tool The LudoVico UX Machine for physiological sensor data recor]] (2016) #op/acc/download
+  - [[Clippings/Usability testing of two ambulatory EHR navigators]] (2016) #op/acc/download
+  - [[Clippings/Analysis of different types of navigational structures for machine tool controll]] (2016) #op/acc/download
+  - [[Clippings/Integrating user-centered design practices into agile Web development A case stu]] (2016) #op/acc/download
+  - [[Clippings/A Participatory Design Approach to Develop a Web-Based Self-Care Program Support]] (2016) #op/acc/download
+  - [[Clippings/Development and first phase evaluation of a maternity leave educational tool for]] (2015) #op/acc/download
+  - [[Clippings/Tracking Care in the Emergency Department]] (2015) #op/acc/download
+  - [[Clippings/Incorporating usability testing into the development of healthcare technologies]] (2015) #op/acc/download
+  - [[Clippings/Questioning conventions Are product conventions trading off the usability of pro]] (2015) #op/acc/download
+  - [[Clippings/User experience design of VR-AR hybrid mobile browsing system based on mental mo]] (2015) #op/acc/download
+  - [[Clippings/Challenging group dynamics in participatory design with children Lessons from so]] (2015) #op/acc/download
+  - [[Clippings/A user centered design approach for transactional service adaptation in context ]] (2015) #op/acc/download
+  - [[Clippings/VisInfo a digital library system for time series research data based on explorat]] (2015) #op/acc/download
+  - [[Clippings/An augmentative and alternative communication tool for children and adolescents ]] (2015) #op/acc/download
+  - [[Clippings/Incorporating Usability Testing into the Development of Healthcare Technologies]] (2014) #op/acc/download
+  - [[Clippings/Collaborative Software Development for a Brazilian Telehealth Program]] (2014) #op/acc/download
+  - [[Clippings/Game Design Techniques in User Research Methods - A New Way to Reach the High Sc]] (2014) #op/acc/download
+  - [[Clippings/Adapting Usability Testing for Oral Rural Users]] (2011) #op/acc/download
+  - [[Clippings/Lessons learned from usability testing of the VAs personal health record]] (2011) #op/acc/download
+  - [[Clippings/Usability testing a review of some methodological and technical aspects of the m]] (2010) #op/acc/download
+  - [[Clippings/Think-Aloud Protocols A Comparison of Three Think-Aloud Protocols for use in Tes]] (2010) #op/acc/download
+  - [[Clippings/Work in Progress A Case Study of Usability Testing of Software Tools for People ]] (2009) #op/acc/download
+  - [[Clippings/A conceptual design for childrens WebOPAC interface Graphic design issues]] (2007) #op/acc/download
+  - [[Clippings/User-centered design of a web site for library and information science students ]] (2006) #op/acc/download
+  - [[Clippings/User-centered look at glyph-based security visualization]] (2005) #op/acc/download
+  - [[Clippings/Mix and match usability methods Picking the pieces for our project]] (2002) #op/acc/download
+  - [[Clippings/Evaluation of user interface designs for information retrieval systems a compute]] (1999) #op/acc/download
+
+**Stakeholder diversity and representation:**
+  - [[Clippings/Introduction to the STEM Education and Workforce Development Equity and Inclusio]] (2025) #op/acc/download
+  - [[Clippings/Prototyping and Evaluating a Support Network for Female STEM Students through Pa]] (2025) #op/acc/download
+  - [[Clippings/Community participations in environmental design for more inclusive and sustaina]] (2025) #op/acc/download
+  - [[Clippings/The Cloud Weaving Model for AI development]] (2025) #op/acc/download
+  - [[Clippings/Using Participatory Design in the Development of the Homegrown Dashboard System ]] (2025) #op/acc/download
+  - [[Clippings/Flood-tech frontiers smart but just A systematic review of AI-driven urban flood]] (2025) #op/acc/download
+  - [[Clippings/Who participates in participatory design of WASH infrastructure A mixed-methods ]] (2025) #op/acc/download
+  - [[Clippings/Building New Clubhouses Bridging Refugee and Migrant Women into Technology Desig]] (2025) #op/acc/download
+  - [[Clippings/Gamification in Virtual Reality Museums Effects on Hedonic and Eudaimonic Experi]] (2025) #op/acc/download
+  - [[Clippings/Enhancing Young Generations Heritage Identity Through Emotional Responses to Vir]] (2025) #op/acc/download
+  - [[Clippings/User Well-Being in Kitchen Environment Design from a Positive Psychology Perspec]] (2025) #op/acc/download
+  - [[Clippings/EchoSight Streamlining Bidirectional Virtual-physical Interaction with In-situ O]] (2025) #op/acc/download
+  - [[Clippings/Accessible virtual reality for library orientation A user-centered approach for ]] (2025) #op/acc/download
+  - [[Clippings/Development and evaluation of a decision aid for HPV vaccination among adults ag]] (2025) #op/acc/download
+  - [[Clippings/Leveraging Large Language Models for Usability Testing a Preliminary Study]] (2025) #op/acc/download
+  - [[Clippings/OptiCarVis Improving Automated Vehicle Functionality Visualizations Using Bayesi]] (2025) #op/acc/download
+  - [[Clippings/Usability Testing of Five Fentanyl Test Strip Brands in Real-World Settings]] (2025) #op/acc/download
+  - [[Clippings/AI vs. traditional navigation systems enhancing efficiency and reducing cognitiv]] (2025) #op/acc/download
+  - [[Clippings/Digital Ecosystem Model to Produce Mixed Reality Environments to assist Neurocog]] (2025) #op/acc/download
+  - [[Clippings/Co-Designing Developing and Testing a Mental Health Platform for Young People Us]] (2025) #op/acc/download
+  - [[Clippings/Exploring the Role of Mixed Reality on Design Representations to Enhance User-In]] (2025) #op/acc/download
+  - [[Clippings/Integrating Adaptive Human Computer Interaction in Fault Detection and Diagnosis]] (2025) #op/acc/download
+  - [[Clippings/A user-centred website to support advance care planning for people with dementia]] (2025) #op/acc/download
+  - [[Clippings/Enhancing Automotive Usability Testing and User Experience Insights from Virtual]] (2025) #op/acc/download
+  - [[Clippings/Psychological Foundations for Effective HumanComputer Interaction in Education]] (2025) #op/acc/download
+  - [[Clippings/Navigating the HumanRobot InterfaceExploring Human Interactions and Perceptions ]] (2025) #op/acc/download
+  - [[Clippings/Organize Then Vote Exploring Cognitive Load in Quadratic Survey Interfaces]] (2025) #op/acc/download
+  - [[Clippings/User behavior and interaction patterns]] (2025) #op/acc/download
+  - [[Clippings/Co-designing strategies to implement long-acting injectable PrEP for sexual mino]] (2024) #op/acc/download
+  - [[Clippings/RE-LEARNING PARTICIPATORY DESIGN with MARGINALIZED COMMUNITIES Resistance indige]] (2024) #op/acc/download
+  - [[Clippings/Nostalgia-Driven Design Creating an Inclusive VR Experience for Older Black Adul]] (2024) #op/acc/download
+  - [[Clippings/Comparative Insights for Community-Based Co-design Bi-directional Inclusive Stra]] (2024) #op/acc/download
+  - [[Clippings/Co-creation in Immersive Virtual Reality Insights from a Multi-Stakeholder Plann]] (2024) #op/acc/download
+  - [[Clippings/Transformative social marketing and social innovation for sustainable developmen]] (2024) #op/acc/download
+  - [[Clippings/Towards culturally sustaining design Centering communitys voices for learning th]] (2024) #op/acc/download
+  - [[Clippings/Putting First Peoples First Participatory Design of a Digital Storytelling Syste]] (2024) #op/acc/download
+  - [[Clippings/Research on Rural Human Settlement Environment Transformation Based on Participa]] (2024) #op/acc/download
+  - [[Clippings/The image of Gresik Town Square based on participatory design of multicultural s]] (2024) #op/acc/download
+  - [[Clippings/A qualitative analysis of algorithm-based decision support usability testing for]] (2024) #op/acc/download
+  - [[Clippings/Avoiding Unintended Consequences of Pediatric Blood Order Set Updates through In]] (2024) #op/acc/download
+  - [[Clippings/Co-Production of a Cognitive Behavioral Therapy Digital Platform for Families of]] (2024) #op/acc/download
+  - [[Clippings/Evaluating design approaches for encouraging behavior change in editors explorin]] (2024) #op/acc/download
+  - [[Clippings/Challenges and recommendations for eHealth usability evaluation with elderly use]] (2024) #op/acc/download
+  - [[Clippings/Designing Interactive Explainable AI Tools for Algorithmic Literacy and Transpar]] (2024) #op/acc/download
+  - [[Clippings/A Systematic Review of Working Memory Applications for Children with Learning Di]] (2024) #op/acc/download
+  - [[Clippings/Usability Testing A Bibliometric Analysis Based on WoS Data]] (2024) #op/acc/download
+  - [[Clippings/Usability of an eHealth sleep education intervention for university students]] (2024) #op/acc/download
+  - [[Clippings/Gender-Sensitive Healthcare Interfaces Development for Enhanced Patient Engageme]] (2024) #op/acc/download
+  - [[Clippings/User-centered design and development of a web-based tool to support healthy feed]] (2024) #op/acc/download
+  - [[Clippings/Exploring the Needs and Preferences of Autistic Users in Extended Reality A Part]] (2024) #op/acc/download
+  - [[Clippings/Usability Assessment Framework for Usability Testing of a Software Application]] (2024) #op/acc/download
+  - [[Clippings/Revitalising Volunteerism The Transformative Influence of Artificial Intelligenc]] (2024) #op/acc/download
+  - [[Clippings/AidVenture A Mobile Application Tracker for Lower-Limb Rehabilitation Integrated]] (2024) #op/acc/download
+  - [[Clippings/An Exercise-Based Precision Medicine Tool and Smartphone App for Managing Achill]] (2024) #op/acc/download
+  - [[Clippings/Consensual XR A Consent-Based Design Framework for Mitigating Harassment and Har]] (2023) #op/acc/download
+  - [[Clippings/Online Dating as Context to Design Sexual Consent Technology with Women and LGBT]] (2023) #op/acc/download
+  - [[Clippings/Being There Creating Home for Migrant and Refugee Women Using Participatory Desi]] (2023) #op/acc/download
+  - [[Clippings/OperARtistry An AR-based Interactive Application to Assist the Learning of Chine]] (2023) #op/acc/download
+  - [[Clippings/DentaSeal A school-based dental sealant efficiency assessment tool to support st]] (2023) #op/acc/download
+  - [[Clippings/Usability Testing of an Interoperable Computerized Clinical Decision Support Too]] (2023) #op/acc/download
+  - [[Clippings/Evaluation of an Antimicrobial Stewardship Decision Support for Pediatric Infect]] (2023) #op/acc/download
+  - [[Clippings/Remote Synchronous Usability Testing Yields Reliable Data for User-Centered Desi]] (2023) #op/acc/download
+  - [[Clippings/Authoring Tools The Road to Democratizing Augmented Reality for Education]] (2023) #op/acc/download
+  - [[Clippings/Web-Based Cognitive Behavioral Therapy for Depression Among Homebound Older Adul]] (2023) #op/acc/download
+  - [[Clippings/Enhancing cross-border mobility by adopting a user journey approach for digital ]] (2023) #op/acc/download
+  - [[Clippings/Development of User Interface for Red Tilapia Aquaculture Management System Appl]] (2023) #op/acc/download
+  - [[Clippings/Insights From an Usability Review of an Electronic Medical RecordIntegrated Phys]] (2023) #op/acc/download
+  - [[Clippings/Software Usability Testing Using EEG-Based Emotion Detection and Deep Learning]] (2023) #op/acc/download
+  - [[Clippings/Involving Health Care Professionals in the Development of Electronic Health Reco]] (2023) #op/acc/download
+  - [[Clippings/Usability evaluation of the Agente Escuta application translational research]] (2023) #op/acc/download
+  - [[Clippings/The Best RX is Better UX Redesigning Migrating and Usability Testing a Hospital ]] (2023) #op/acc/download
+  - [[Clippings/Designing for Common Ground Visually Representing Conversation Dynamics of Neuro]] (2023) #op/acc/download
+  - [[Clippings/LGBTQ Futures and Participatory Design]] (2022) #op/acc/download
+  - [[Clippings/Post occupancy and participatory design evaluation of a marginalized low-income ]] (2022) #op/acc/download
+  - [[Clippings/Youth invisible work the sociocultural and collaborative processes of online sea]] (2022) #op/acc/download
+  - [[Clippings/Unwritten Magic Participatory Design of AI Dialogue to Empower Marginalized Voic]] (2022) #op/acc/download
+  - [[Clippings/Infrastructuring digital humanities On relational infrastructure and global reco]] (2022) #op/acc/download
+  - [[Clippings/Development of an Immersive Visualisation System for the 3D Learning of Complex ]] (2022) #op/acc/download
+  - [[Clippings/Participatory Design Development and Testing of Assistive Health Robots with Old]] (2022) #op/acc/download
+  - [[Clippings/Mobile App Prototype in Older Adults for Postfracture Acute Pain Management User]] (2022) #op/acc/download
+  - [[Clippings/User-Centered Design to Improve Personal Development in Comic Application]] (2022) #op/acc/download
+  - [[Clippings/Web-Based Tool (FH Family Share) to Increase Uptake of Cascade Testing for Famil]] (2022) #op/acc/download
+  - [[Clippings/Aiding the Digital Creation of Physical Resources Card Sets for The Gamers4Natur]] (2022) #op/acc/download
+  - [[Clippings/Developing a Smart Infusion Pump Dedicated to Infusion Safety]] (2022) #op/acc/download
+  - [[Clippings/Comparison of Moderated and Unmoderated Remote Usability Sessions for Web-Based ]] (2022) #op/acc/download
+  - [[Clippings/Designing and usability testing of a new prototype active footrest for knee exte]] (2022) #op/acc/download
+  - [[Clippings/Towards a Framework for Human-AI Interaction Patterns in Co-Creative GAN Applica]] (2022) #op/acc/download
+  - [[Clippings/Speculative Blackness Considering Afrofuturism in the Creation of Inclusive Spec]] (2021) #op/acc/download
+  - [[Clippings/Therapeutic virtual reality in prison Participatory design with incarcerated wom]] (2021) #op/acc/download
+  - [[Clippings/Designing Opportunistic Social Matching Systems for Womens Safety during Face-to]] (2021) #op/acc/download
+  - [[Clippings/Self-care needs and technology preferences among parents in marginalized communi]] (2021) #op/acc/download
+  - [[Clippings/PRESERVATION and PROMOTION of INTANGIBLE CULTURAL HERITAGE - A PARTICIPATORY DES]] (2021) #op/acc/download
+  - [[Clippings/Applying user-centered design for a climate resilience video game]] (2021) #op/acc/download
+  - [[Clippings/Playing Design A Case Study on Applying Gamification to Construct a Serious Game]] (2021) #op/acc/download
+  - [[Clippings/Human-Centered Artificial Intelligence for Designing Accessible Cultural Heritag]] (2021) #op/acc/download
+  - [[Clippings/Augmented Reality Adapted Book (AREmotion) Design as Emotional Expression Recogn]] (2021) #op/acc/download
+  - [[Clippings/Supporting deprescribing in hospitalised patients formative usability testing of]] (2021) #op/acc/download
+  - [[Clippings/Redesigning User Interface on Halal Tourism Application with User-Centered Desig]] (2021) #op/acc/download
+  - [[Clippings/Semantic web end-user tasks]] (2021) #op/acc/download
+  - [[Clippings/Leveraging voice assistive technology to enhance health monitoring of older adul]] (2021) #op/acc/download
+  - [[Clippings/Demonstrating the feasibility of multimodal neuroimaging data capture with a wea]] (2021) #op/acc/download
+  - [[Clippings/Accessibility of environmental data for sharing The role of UX in large cyberinf]] (2021) #op/acc/download
+  - [[Clippings/Designed for Equitable Learning A Study of UCD and Liquid Syllabus in an Online ]] (2021) #op/acc/download
+  - [[Clippings/First year engineering students influence in a service-learning maker project]] (2020) #op/acc/download
+  - [[Clippings/NO to violence against any woman Requirements for inclusive mobile applications ]] (2020) #op/acc/download
+  - [[Clippings/Designing Participedia A Collaborative Research Platform]] (2020) #op/acc/download
+  - [[Clippings/Development of the Uni Virtual Clinic an online programme for improving the ment]] (2020) #op/acc/download
+  - [[Clippings/In the details the micro-ethics of negotiations and in-situ judgements in partic]] (2020) #op/acc/download
+  - [[Clippings/Using knowledge Graphs to Enhance the Interpretability of Clinical Decision Supp]] (2020) #op/acc/download
+  - [[Clippings/Metaphor design in localising user interface for farmers in malaysia using user-]] (2020) #op/acc/download
+  - [[Clippings/Usability Testing of a Sensor-Controlled Digital Game to Engage Older Adults wit]] (2020) #op/acc/download
+  - [[Clippings/Designing Bebras Serious Games Interaction for Indonesian Upper Elementary Schoo]] (2020) #op/acc/download
+  - [[Clippings/Direct User Behavior Data Leads to Better User Centric Thinking than Role Playin]] (2020) #op/acc/download
+  - [[Clippings/Physical and Cognitive Load Effects Due to a Powered Lower-Body Exoskeleton]] (2020) #op/acc/download
+  - [[Clippings/Optimized User Experience Design for Augmentative and Alternative Communication ]] (2020) #op/acc/download
+  - [[Clippings/Assessing the Involvement of Users During Development of Lower Limb Wearable Rob]] (2020) #op/acc/download
+  - [[Clippings/User-centered design for knowledge imbalance analysis A case study of ProWD]] (2020) #op/acc/download
+  - [[Clippings/Disruptive factors in the evaluation of perceived quality aspects  consideration]] (2020) #op/acc/download
+  - [[Clippings/Home blood pressure data visualization for the management of hypertension Design]] (2020) #op/acc/download
+  - [[Clippings/Integrating User-Centered Design with the Agile Software Development Methodology]] (2020) #op/acc/download
+  - [[Clippings/Negotiating gender and disability identities in participatory design]] (2019) #op/acc/download
+  - [[Clippings/Alternatives to the life of the submissive Working collaboratively to create the]] (2019) #op/acc/download
+  - [[Clippings/Embracing complexity Co-creation with retired immigrant women]] (2019) #op/acc/download
+  - [[Clippings/Representing a space-based digital archive on historical maps A user-centered de]] (2019) #op/acc/download
+  - [[Clippings/An enriched visit to the Botanical Garden co-designing tools and contents]] (2019) #op/acc/download
+  - [[Clippings/On Building a Visualisation Tool for Access Control Policies]] (2019) #op/acc/download
+  - [[Clippings/Feasibility and acceptability of a mobile technology intervention to support pos]] (2019) #op/acc/download
+  - [[Clippings/Objective usability evaluation of drywall screwdriver under consideration of the]] (2019) #op/acc/download
+  - [[Clippings/User interface redesign in a point rewards mobile application using usability te]] (2019) #op/acc/download
+  - [[Clippings/User-Centered Gestures for Mobile Phones Exploring a Method to Evaluate User Ges]] (2019) #op/acc/download
+  - [[Clippings/Human-Centered Design Process for a Hospital Bed Promoting Patient Safety and Ea]] (2019) #op/acc/download
+  - [[Clippings/Formative Usability Testing Reduces Severe Blood Product Ordering Errors]] (2019) #op/acc/download
+  - [[Clippings/Design of mHealth Application for Integrating Antenatal Care Service in Primary ]] (2019) #op/acc/download
+  - [[Clippings/Mobile app communication aid for Cypriot deaf people]] (2019) #op/acc/download
+  - [[Clippings/Telling tales unlocking the potential of AAC technologies]] (2019) #op/acc/download
+  - [[Clippings/Employing a User-Centered Design to Engage Mothers in the Development of a mHeal]] (2019) #op/acc/download
+  - [[Clippings/Participatory design of technologies to support recovery from substance use diso]] (2018) #op/acc/download
+  - [[Clippings/Exploring interactivity and co-creation in rural China]] (2018) #op/acc/download
+  - [[Clippings/Mobile Voices Design as a method to explore the possibilities and limitations of]] (2018) #op/acc/download
+  - [[Clippings/User-Centered Design to a Digital Cultural Heritage Installation Based on Afro-P]] (2018) #op/acc/download
+  - [[Clippings/Participatory Design Fiction Community Storytelling for Speculative Urban Techno]] (2018) #op/acc/download
+  - [[Clippings/Assessing Demand for Transparency in Intelligent Systems Using Machine Learning]] (2018) #op/acc/download
+  - [[Clippings/Users Emotions and Usability Study of a Brain-Computer Interface Applied to Peop]] (2018) #op/acc/download
+  - [[Clippings/Integrating Usability Testing with Digital Rhetoric in OWI]] (2018) #op/acc/download
+  - [[Clippings/The Touch and Feel of the PastUsing Haptic and VR Artefacts to Enrich Reminiscen]] (2018) #op/acc/download
+  - [[Clippings/Design and usability evaluation of communication board for deaf people with user]] (2018) #op/acc/download
+  - [[Clippings/Implementation and evaluation of LMS mobile application scele mobile based on us]] (2018) #op/acc/download
+  - [[Clippings/Blame the scapegoat How creating an easy target can help non-designers critique ]] (2017) #op/acc/download
+  - [[Clippings/Revising the Online Classroom Usability Testing for Training Online Technical Co]] (2017) #op/acc/download
+  - [[Clippings/Designing community of practice systems A value sensitive approach]] (2017) #op/acc/download
+  - [[Clippings/Building a team to champion user-centered design within an agile process]] (2017) #op/acc/download
+  - [[Clippings/Addressing the learning needs of minority students in engineering through partic]] (2016) #op/acc/download
+  - [[Clippings/Methods for user-centered design and evaluation of text analysis tools in a digi]] (2016) #op/acc/download
+  - [[Clippings/(In)spectorspresentation of education training and professional practice of prof]] (2016) #op/acc/download
+  - [[Clippings/Developing a teacher dashboard for use with intelligent tutoring systems]] (2016) #op/acc/download
+  - [[Clippings/Free UX testing tool The LudoVico UX Machine for physiological sensor data recor]] (2016) #op/acc/download
+  - [[Clippings/Usability testing of two ambulatory EHR navigators]] (2016) #op/acc/download
+  - [[Clippings/Analysis of different types of navigational structures for machine tool controll]] (2016) #op/acc/download
+  - [[Clippings/Integrating user-centered design practices into agile Web development A case stu]] (2016) #op/acc/download
+  - [[Clippings/A Participatory Design Approach to Develop a Web-Based Self-Care Program Support]] (2016) #op/acc/download
+  - [[Clippings/Tracking Care in the Emergency Department]] (2015) #op/acc/download
+  - [[Clippings/Incorporating usability testing into the development of healthcare technologies]] (2015) #op/acc/download
+  - [[Clippings/Questioning conventions Are product conventions trading off the usability of pro]] (2015) #op/acc/download
+  - [[Clippings/Challenging group dynamics in participatory design with children Lessons from so]] (2015) #op/acc/download
+  - [[Clippings/RAPID PROTOTYPING ON THE EXAMPLE OF SOFTWARE DEVELOPMENT IN AUTOMOTIVE INDUSTRY ]] (2011) #op/acc/download
+  - [[Clippings/Think-Aloud Protocols A Comparison of Three Think-Aloud Protocols for use in Tes]] (2010) #op/acc/download
+  - [[Clippings/Work in Progress A Case Study of Usability Testing of Software Tools for People ]] (2009) #op/acc/download
+  - [[Clippings/Evaluation of user interface designs for information retrieval systems a compute]] (1999) #op/acc/download
+
+**Design process structure and phases:**
+  - [[Clippings/Using Participatory Design in the Development of the Homegrown Dashboard System ]] (2025) #op/acc/download
+  - [[Clippings/Gamification in Virtual Reality Museums Effects on Hedonic and Eudaimonic Experi]] (2025) #op/acc/download
+  - [[Clippings/EchoSight Streamlining Bidirectional Virtual-physical Interaction with In-situ O]] (2025) #op/acc/download
+  - [[Clippings/Designing and usability evaluation of multimodal input modalities for visually i]] (2025) #op/acc/download
+  - [[Clippings/Leveraging Large Language Models for Usability Testing a Preliminary Study]] (2025) #op/acc/download
+  - [[Clippings/OptiCarVis Improving Automated Vehicle Functionality Visualizations Using Bayesi]] (2025) #op/acc/download
+  - [[Clippings/Usability Testing of Five Fentanyl Test Strip Brands in Real-World Settings]] (2025) #op/acc/download
+  - [[Clippings/Co-Designing Developing and Testing a Mental Health Platform for Young People Us]] (2025) #op/acc/download
+  - [[Clippings/Exploring the Role of Mixed Reality on Design Representations to Enhance User-In]] (2025) #op/acc/download
+  - [[Clippings/Crafting user-centric prompts for UI generations based on Kansei engineering and]] (2025) #op/acc/download
+  - [[Clippings/Research on interactive design strategy of home intelligent cockpit in nonlinear]] (2025) #op/acc/download
+  - [[Clippings/Integrating Adaptive Human Computer Interaction in Fault Detection and Diagnosis]] (2025) #op/acc/download
+  - [[Clippings/Accelerating the Development of Machine Voice User Interfaces with Immersive Env]] (2025) #op/acc/download
+  - [[Clippings/A user-centred website to support advance care planning for people with dementia]] (2025) #op/acc/download
+  - [[Clippings/Enhancing Automotive Usability Testing and User Experience Insights from Virtual]] (2025) #op/acc/download
+  - [[Clippings/Psychological Foundations for Effective HumanComputer Interaction in Education]] (2025) #op/acc/download
+  - [[Clippings/User Participatory In-Vehicle Gesture Interaction Design Based on Electric Vehic]] (2025) #op/acc/download
+  - [[Clippings/Navigating the HumanRobot InterfaceExploring Human Interactions and Perceptions ]] (2025) #op/acc/download
+  - [[Clippings/Organize Then Vote Exploring Cognitive Load in Quadratic Survey Interfaces]] (2025) #op/acc/download
+  - [[Clippings/Co-designing strategies to implement long-acting injectable PrEP for sexual mino]] (2024) #op/acc/download
+  - [[Clippings/Nostalgia-Driven Design Creating an Inclusive VR Experience for Older Black Adul]] (2024) #op/acc/download
+  - [[Clippings/Comparative Insights for Community-Based Co-design Bi-directional Inclusive Stra]] (2024) #op/acc/download
+  - [[Clippings/Empowering Young Women A Qualitative Co-Design Study of a Social Media Health Pr]] (2024) #op/acc/download
+  - [[Clippings/Towards culturally sustaining design Centering communitys voices for learning th]] (2024) #op/acc/download
+  - [[Clippings/Putting First Peoples First Participatory Design of a Digital Storytelling Syste]] (2024) #op/acc/download
+  - [[Clippings/Research on Rural Human Settlement Environment Transformation Based on Participa]] (2024) #op/acc/download
+  - [[Clippings/The image of Gresik Town Square based on participatory design of multicultural s]] (2024) #op/acc/download
+  - [[Clippings/Avoiding Unintended Consequences of Pediatric Blood Order Set Updates through In]] (2024) #op/acc/download
+  - [[Clippings/How a Human-Centered Design Process Transformed the User Experience of Graft Pre]] (2024) #op/acc/download
+  - [[Clippings/Challenges and recommendations for eHealth usability evaluation with elderly use]] (2024) #op/acc/download
+  - [[Clippings/Designing Interactive Explainable AI Tools for Algorithmic Literacy and Transpar]] (2024) #op/acc/download
+  - [[Clippings/Audio-Vibratory You-Are-Here Mobile Maps for People with Visual Impairments]] (2024) #op/acc/download
+  - [[Clippings/User-Centered Design and Implementation of an Intelligent Wearable Device for Re]] (2024) #op/acc/download
+  - [[Clippings/Increasing Completion of Daily Patient-Reported Outcomes in Psychotherapies for ]] (2024) #op/acc/download
+  - [[Clippings/Missing Person Search Information System with User-Centered Design]] (2024) #op/acc/download
+  - [[Clippings/A Systematic Review of Working Memory Applications for Children with Learning Di]] (2024) #op/acc/download
+  - [[Clippings/Usability Testing A Bibliometric Analysis Based on WoS Data]] (2024) #op/acc/download
+  - [[Clippings/Usability of an eHealth sleep education intervention for university students]] (2024) #op/acc/download
+  - [[Clippings/Gender-Sensitive Healthcare Interfaces Development for Enhanced Patient Engageme]] (2024) #op/acc/download
+  - [[Clippings/Exploring the Needs and Preferences of Autistic Users in Extended Reality A Part]] (2024) #op/acc/download
+  - [[Clippings/Usability Assessment Framework for Usability Testing of a Software Application]] (2024) #op/acc/download
+  - [[Clippings/AidVenture A Mobile Application Tracker for Lower-Limb Rehabilitation Integrated]] (2024) #op/acc/download
+  - [[Clippings/A Novel Information Model for Software Interface Reliability in the Software Dev]] (2024) #op/acc/download
+  - [[Clippings/The Design and Evaluation of CAD Custom Batik User Interface]] (2024) #op/acc/download
+  - [[Clippings/Consensual XR A Consent-Based Design Framework for Mitigating Harassment and Har]] (2023) #op/acc/download
+  - [[Clippings/OperARtistry An AR-based Interactive Application to Assist the Learning of Chine]] (2023) #op/acc/download
+  - [[Clippings/Inmersive Learning of the Raw Sugar Cane Labors. Design Thinking applied to Virt]] (2023) #op/acc/download
+  - [[Clippings/Building a Congregations Dashboard Using the User Centered Design Method]] (2023) #op/acc/download
+  - [[Clippings/Evaluation of an Antimicrobial Stewardship Decision Support for Pediatric Infect]] (2023) #op/acc/download
+  - [[Clippings/Simulation-based development shaping clinical procedures for extra-uterine life ]] (2023) #op/acc/download
+  - [[Clippings/In what ways does user experience design improve printed educational materials]] (2023) #op/acc/download
+  - [[Clippings/Remote Synchronous Usability Testing Yields Reliable Data for User-Centered Desi]] (2023) #op/acc/download
+  - [[Clippings/Authoring Tools The Road to Democratizing Augmented Reality for Education]] (2023) #op/acc/download
+  - [[Clippings/A framework for design and usability testing of telerehabilitation system for ad]] (2023) #op/acc/download
+  - [[Clippings/Web-Based Cognitive Behavioral Therapy for Depression Among Homebound Older Adul]] (2023) #op/acc/download
+  - [[Clippings/Human-Centered Design and Development of a Fall Prevention Exercise App for Olde]] (2023) #op/acc/download
+  - [[Clippings/Methodology of an approach for modifying pictograms showing medication side effe]] (2023) #op/acc/download
+  - [[Clippings/Development of Interaction Design for Ferizy Inter-Island Ferry Ticket Booking M]] (2023) #op/acc/download
+  - [[Clippings/Development of User Interface for Red Tilapia Aquaculture Management System Appl]] (2023) #op/acc/download
+  - [[Clippings/Respinos Health A Mobile Health App Designed Using User-Centered Design Method t]] (2023) #op/acc/download
+  - [[Clippings/User interface design]] (2023) #op/acc/download
+  - [[Clippings/Insights From an Usability Review of an Electronic Medical RecordIntegrated Phys]] (2023) #op/acc/download
+  - [[Clippings/Software Usability Testing Using EEG-Based Emotion Detection and Deep Learning]] (2023) #op/acc/download
+  - [[Clippings/Mapping Design Frameworks for Digital Behaviour Change Interventions to Goal-Dir]] (2023) #op/acc/download
+  - [[Clippings/DESIGN AND DEVELOPMENT FRAMEWORK FOR AN AIR QUALITY MONITORING WEBGIS]] (2023) #op/acc/download
+  - [[Clippings/The Best RX is Better UX Redesigning Migrating and Usability Testing a Hospital ]] (2023) #op/acc/download
+  - [[Clippings/Post occupancy and participatory design evaluation of a marginalized low-income ]] (2022) #op/acc/download
+  - [[Clippings/Development of an Immersive Visualisation System for the 3D Learning of Complex ]] (2022) #op/acc/download
+  - [[Clippings/Summative Usability Assessments of STAR-Vote A Cryptographically Secure e2e Voti]] (2022) #op/acc/download
+  - [[Clippings/User-CenteredUser Experience UcUx Design Thinking Approach for Designing a Unive]] (2022) #op/acc/download
+  - [[Clippings/User-Centered Design to Improve Personal Development in Comic Application]] (2022) #op/acc/download
+  - [[Clippings/Web-Based Tool (FH Family Share) to Increase Uptake of Cascade Testing for Famil]] (2022) #op/acc/download
+  - [[Clippings/Aiding the Digital Creation of Physical Resources Card Sets for The Gamers4Natur]] (2022) #op/acc/download
+  - [[Clippings/A digital self-care intervention for Ugandan patients with heart failure and the]] (2022) #op/acc/download
+  - [[Clippings/Developing a Smart Infusion Pump Dedicated to Infusion Safety]] (2022) #op/acc/download
+  - [[Clippings/Web-Based Structured Education for Type 2 Diabetes Interdisciplinary User-Center]] (2022) #op/acc/download
+  - [[Clippings/Implementing an interprofessional user-centered design approach to develop a bed]] (2022) #op/acc/download
+  - [[Clippings/I Am the Robot Teen Collaboration in an Asymmetric Virtual Reality Game]] (2022) #op/acc/download
+  - [[Clippings/Designing a Mixed Reality Cognitive Orthosis to Support Independence of Older Ad]] (2022) #op/acc/download
+  - [[Clippings/Learning Experience Design in Practice Theoretically We Did Everything Right]] (2022) #op/acc/download
+  - [[Clippings/Development of a Digital Support Application with Evidence-Based Content for Sus]] (2022) #op/acc/download
+  - [[Clippings/Comparison of Moderated and Unmoderated Remote Usability Sessions for Web-Based ]] (2022) #op/acc/download
+  - [[Clippings/Interaction Design of Fertility Tracking Application Using User-Centered Design]] (2022) #op/acc/download
+  - [[Clippings/A Text Messaging Intervention to Support Latinx Family Caregivers of Individuals]] (2022) #op/acc/download
+  - [[Clippings/Therapeutic virtual reality in prison Participatory design with incarcerated wom]] (2021) #op/acc/download
+  - [[Clippings/Designing Opportunistic Social Matching Systems for Womens Safety during Face-to]] (2021) #op/acc/download
+  - [[Clippings/Self-care needs and technology preferences among parents in marginalized communi]] (2021) #op/acc/download
+  - [[Clippings/PRESERVATION and PROMOTION of INTANGIBLE CULTURAL HERITAGE - A PARTICIPATORY DES]] (2021) #op/acc/download
+  - [[Clippings/Applying user-centered design for a climate resilience video game]] (2021) #op/acc/download
+  - [[Clippings/Human-Centered Artificial Intelligence for Designing Accessible Cultural Heritag]] (2021) #op/acc/download
+  - [[Clippings/Augmented Reality Adapted Book (AREmotion) Design as Emotional Expression Recogn]] (2021) #op/acc/download
+  - [[Clippings/Designing Embodied Virtual Agent in E-commerce System Recommendations using Conv]] (2021) #op/acc/download
+  - [[Clippings/Supporting deprescribing in hospitalised patients formative usability testing of]] (2021) #op/acc/download
+  - [[Clippings/Remote Usability Testing of a Pediatric Trauma Dashboard]] (2021) #op/acc/download
+  - [[Clippings/LoopBlocks Design and Preliminary Evaluation of an Accessible Tangible Musical S]] (2021) #op/acc/download
+  - [[Clippings/Redesigning User Interface on Halal Tourism Application with User-Centered Desig]] (2021) #op/acc/download
+  - [[Clippings/Leveraging voice assistive technology to enhance health monitoring of older adul]] (2021) #op/acc/download
+  - [[Clippings/Demonstrating the feasibility of multimodal neuroimaging data capture with a wea]] (2021) #op/acc/download
+  - [[Clippings/Remote Design of a Pediatric Intensive Care Unit Dashboard in Time of Pandemics]] (2021) #op/acc/download
+  - [[Clippings/Designed for Equitable Learning A Study of UCD and Liquid Syllabus in an Online ]] (2021) #op/acc/download
+  - [[Clippings/First year engineering students influence in a service-learning maker project]] (2020) #op/acc/download
+  - [[Clippings/NO to violence against any woman Requirements for inclusive mobile applications ]] (2020) #op/acc/download
+  - [[Clippings/Development of the Uni Virtual Clinic an online programme for improving the ment]] (2020) #op/acc/download
+  - [[Clippings/In the details the micro-ethics of negotiations and in-situ judgements in partic]] (2020) #op/acc/download
+  - [[Clippings/Driving Coach Finder]] (2020) #op/acc/download
+  - [[Clippings/Participatory design for ontologies A case study of an open science ontology for]] (2020) #op/acc/download
+  - [[Clippings/Using knowledge Graphs to Enhance the Interpretability of Clinical Decision Supp]] (2020) #op/acc/download
+  - [[Clippings/Analysis and Design of Agricultural Marketplace Using User Experience]] (2020) #op/acc/download
+  - [[Clippings/Usability evaluation and user interface design of university staffing informatio]] (2020) #op/acc/download
+  - [[Clippings/Brotate and tribike Designing smartphone control for cycling]] (2020) #op/acc/download
+  - [[Clippings/Direct User Behavior Data Leads to Better User Centric Thinking than Role Playin]] (2020) #op/acc/download
+  - [[Clippings/Physical and Cognitive Load Effects Due to a Powered Lower-Body Exoskeleton]] (2020) #op/acc/download
+  - [[Clippings/Aranyani.id - The design of reforestation funding program using mobile advertisi]] (2020) #op/acc/download
+  - [[Clippings/Optimized User Experience Design for Augmentative and Alternative Communication ]] (2020) #op/acc/download
+  - [[Clippings/The Effect of Electronic Health Record Usability Redesign on Annual Screening Ra]] (2020) #op/acc/download
+  - [[Clippings/Disruptive factors in the evaluation of perceived quality aspects  consideration]] (2020) #op/acc/download
+  - [[Clippings/Home blood pressure data visualization for the management of hypertension Design]] (2020) #op/acc/download
+  - [[Clippings/Design and development of a smart-tool prototype to promote differentiated instr]] (2020) #op/acc/download
+  - [[Clippings/User-Centered Design of e-Learning User Interfaces A Survey of the Practices]] (2020) #op/acc/download
+  - [[Clippings/Integrating User-Centered Design with the Agile Software Development Methodology]] (2020) #op/acc/download
+  - [[Clippings/Implementation of the user-centered design (Ucd) method for designing web market]] (2020) #op/acc/download
+  - [[Clippings/Negotiating gender and disability identities in participatory design]] (2019) #op/acc/download
+  - [[Clippings/From Stigma to Objects of Desire Participatory Design of Interactive Jewellery f]] (2019) #op/acc/download
+  - [[Clippings/Representing a space-based digital archive on historical maps A user-centered de]] (2019) #op/acc/download
+  - [[Clippings/On Building a Visualisation Tool for Access Control Policies]] (2019) #op/acc/download
+  - [[Clippings/Software Engineering for AR systems considering User Centered Design Approaches]] (2019) #op/acc/download
+  - [[Clippings/Feasibility and acceptability of a mobile technology intervention to support pos]] (2019) #op/acc/download
+  - [[Clippings/Objective usability evaluation of drywall screwdriver under consideration of the]] (2019) #op/acc/download
+  - [[Clippings/Preflight Weather Decision Support Tool (PWDST) User-Centered Design Process and]] (2019) #op/acc/download
+  - [[Clippings/User interface redesign in a point rewards mobile application using usability te]] (2019) #op/acc/download
+  - [[Clippings/User-Centered Gestures for Mobile Phones Exploring a Method to Evaluate User Ges]] (2019) #op/acc/download
+  - [[Clippings/Human-Centered Design Process for a Hospital Bed Promoting Patient Safety and Ea]] (2019) #op/acc/download
+  - [[Clippings/A learning design framework to support children with learning disabilities incor]] (2019) #op/acc/download
+  - [[Clippings/Formative Usability Testing Reduces Severe Blood Product Ordering Errors]] (2019) #op/acc/download
+  - [[Clippings/Telling tales unlocking the potential of AAC technologies]] (2019) #op/acc/download
+  - [[Clippings/Understanding the Human-Centered Design Process]] (2019) #op/acc/download
+  - [[Clippings/Employing a User-Centered Design to Engage Mothers in the Development of a mHeal]] (2019) #op/acc/download
+  - [[Clippings/Evaluating the Development Processes of Consumer mHealth Interventions for Chron]] (2019) #op/acc/download
+  - [[Clippings/Persuasive design of a mobile coaching app to encourage a healthy lifestyle duri]] (2018) #op/acc/download
+  - [[Clippings/Exploring interactivity and co-creation in rural China]] (2018) #op/acc/download
+  - [[Clippings/Mobile Voices Design as a method to explore the possibilities and limitations of]] (2018) #op/acc/download
+  - [[Clippings/User-Centered Design to a Digital Cultural Heritage Installation Based on Afro-P]] (2018) #op/acc/download
+  - [[Clippings/Assessing Demand for Transparency in Intelligent Systems Using Machine Learning]] (2018) #op/acc/download
+  - [[Clippings/Users Emotions and Usability Study of a Brain-Computer Interface Applied to Peop]] (2018) #op/acc/download
+  - [[Clippings/Integrating Usability Testing with Digital Rhetoric in OWI]] (2018) #op/acc/download
+  - [[Clippings/Methodological considerations within ACI Importance of canine participant select]] (2018) #op/acc/download
+  - [[Clippings/Human-centric design of unified communications E-collaboration features]] (2018) #op/acc/download
+  - [[Clippings/Slions A karaoke application to enhance foreign language learning]] (2018) #op/acc/download
+  - [[Clippings/Leveraging Patient-Reported Outcomes Using Data Visualization]] (2018) #op/acc/download
+  - [[Clippings/Design and usability evaluation of communication board for deaf people with user]] (2018) #op/acc/download
+  - [[Clippings/Towards a Framework for Integration of User-Centered Design and Agile Methodolog]] (2018) #op/acc/download
+  - [[Clippings/Implementation and evaluation of LMS mobile application scele mobile based on us]] (2018) #op/acc/download
+  - [[Clippings/Moving Beyond the Virtual Museum Engaging Visitors Emotionally]] (2017) #op/acc/download
+  - [[Clippings/Revising the Online Classroom Usability Testing for Training Online Technical Co]] (2017) #op/acc/download
+  - [[Clippings/FroggyBobby An exergame to support children with motor problems practicing motor]] (2017) #op/acc/download
+  - [[Clippings/In-house application development experience with user centered design approach S]] (2017) #op/acc/download
+  - [[Clippings/Guidelines for a university short course on human-computer interaction]] (2017) #op/acc/download
+  - [[Clippings/A Human-centered design methodology to enhance the usability human factors and u]] (2017) #op/acc/download
+  - [[Clippings/A visual analytics approach for understanding egocentric intimacy network evolut]] (2017) #op/acc/download
+  - [[Clippings/Human Factors Analysis Design and Evaluation of Engage a Consumer Health IT Appl]] (2017) #op/acc/download
+  - [[Clippings/Design a personalized brain-computer interface of legorobot assisted by data ana]] (2017) #op/acc/download
+  - [[Clippings/Considerations and methods for usability testing with children]] (2017) #op/acc/download
+  - [[Clippings/Enabling access to engineering education materials everywhere by design]] (2017) #op/acc/download
+  - [[Clippings/Crowdfunding website design with lean product process framework]] (2017) #op/acc/download
+  - [[Clippings/Designing community of practice systems A value sensitive approach]] (2017) #op/acc/download
+  - [[Clippings/Building a team to champion user-centered design within an agile process]] (2017) #op/acc/download
+  - [[Clippings/Methods for user-centered design and evaluation of text analysis tools in a digi]] (2016) #op/acc/download
+  - [[Clippings/Developing a teacher dashboard for use with intelligent tutoring systems]] (2016) #op/acc/download
+  - [[Clippings/Free UX testing tool The LudoVico UX Machine for physiological sensor data recor]] (2016) #op/acc/download
+  - [[Clippings/Usability testing of two ambulatory EHR navigators]] (2016) #op/acc/download
+  - [[Clippings/Analysis of different types of navigational structures for machine tool controll]] (2016) #op/acc/download
+  - [[Clippings/Integrating user-centered design practices into agile Web development A case stu]] (2016) #op/acc/download
+  - [[Clippings/Tracking Care in the Emergency Department]] (2015) #op/acc/download
+  - [[Clippings/Practical application of a user-centered design management strategy]] (2015) #op/acc/download
+  - [[Clippings/Development and usability evaluation of web-based self-monitoring tool]] (2015) #op/acc/download
+  - [[Clippings/Incorporating usability testing into the development of healthcare technologies]] (2015) #op/acc/download
+  - [[Clippings/Questioning conventions Are product conventions trading off the usability of pro]] (2015) #op/acc/download
+  - [[Clippings/An augmentative and alternative communication tool for children and adolescents ]] (2015) #op/acc/download
+  - [[Clippings/Designing an emergency communication system for human and assistance dog partner]] (2015) #op/acc/download
+  - [[Clippings/Collaborative Software Development for a Brazilian Telehealth Program]] (2014) #op/acc/download
+  - [[Clippings/Developing the HMI of Electric Vehicles On the Necessity of a Broader Understand]] (2014) #op/acc/download
+  - [[Clippings/Designing and Evaluating the Mobile Experience Through Iterative Field Studies]] (2012) #op/acc/download
+  - [[Clippings/Incorporating GOMS Analysis into the Design of an EEG Data Visual Analysis Tool]] (2012) #op/acc/download
+  - [[Clippings/Think-Aloud Protocols A Comparison of Three Think-Aloud Protocols for use in Tes]] (2010) #op/acc/download
+  - [[Clippings/Work in Progress A Case Study of Usability Testing of Software Tools for People ]] (2009) #op/acc/download
+  - [[Clippings/User-centered design of a web site for library and information science students ]] (2006) #op/acc/download
+  - [[Clippings/User-centered look at glyph-based security visualization]] (2005) #op/acc/download
+
+**Methods used (workshops, interviews, prototyping, etc.):**
+  - [[Clippings/Introduction to the STEM Education and Workforce Development Equity and Inclusio]] (2025) #op/acc/download
+  - [[Clippings/Prototyping and Evaluating a Support Network for Female STEM Students through Pa]] (2025) #op/acc/download
+  - [[Clippings/Using Participatory Design in the Development of the Homegrown Dashboard System ]] (2025) #op/acc/download
+  - [[Clippings/Flood-tech frontiers smart but just A systematic review of AI-driven urban flood]] (2025) #op/acc/download
+  - [[Clippings/Who participates in participatory design of WASH infrastructure A mixed-methods ]] (2025) #op/acc/download
+  - [[Clippings/Building New Clubhouses Bridging Refugee and Migrant Women into Technology Desig]] (2025) #op/acc/download
+  - [[Clippings/Gamification in Virtual Reality Museums Effects on Hedonic and Eudaimonic Experi]] (2025) #op/acc/download
+  - [[Clippings/The Interaction Layer An Exploration for Co-Designing User-LLM Interactions in P]] (2025) #op/acc/download
+  - [[Clippings/EchoSight Streamlining Bidirectional Virtual-physical Interaction with In-situ O]] (2025) #op/acc/download
+  - [[Clippings/Accessible virtual reality for library orientation A user-centered approach for ]] (2025) #op/acc/download
+  - [[Clippings/Development and evaluation of a decision aid for HPV vaccination among adults ag]] (2025) #op/acc/download
+  - [[Clippings/Applying user-centred techniques and expert feedback to refine an AI-based app f]] (2025) #op/acc/download
+  - [[Clippings/Leveraging Large Language Models for Usability Testing a Preliminary Study]] (2025) #op/acc/download
+  - [[Clippings/OptiCarVis Improving Automated Vehicle Functionality Visualizations Using Bayesi]] (2025) #op/acc/download
+  - [[Clippings/An Integration of User-Centered Design and Design Thinking Principles for Develo]] (2025) #op/acc/download
+  - [[Clippings/Perception-Centric Explainable AI Bridging Cognitive Theories and HCI Design for]] (2025) #op/acc/download
+  - [[Clippings/Usability Testing of Five Fentanyl Test Strip Brands in Real-World Settings]] (2025) #op/acc/download
+  - [[Clippings/Digital Ecosystem Model to Produce Mixed Reality Environments to assist Neurocog]] (2025) #op/acc/download
+  - [[Clippings/Co-Designing Developing and Testing a Mental Health Platform for Young People Us]] (2025) #op/acc/download
+  - [[Clippings/SafeSpect Safety-First Augmented Reality Heads-up Display for Drone Inspections]] (2025) #op/acc/download
+  - [[Clippings/Crafting user-centric prompts for UI generations based on Kansei engineering and]] (2025) #op/acc/download
+  - [[Clippings/Integrating Adaptive Human Computer Interaction in Fault Detection and Diagnosis]] (2025) #op/acc/download
+  - [[Clippings/Accelerating the Development of Machine Voice User Interfaces with Immersive Env]] (2025) #op/acc/download
+  - [[Clippings/Touchless Interaction for Smart Glasses in Emergency Medical Services User Needs]] (2025) #op/acc/download
+  - [[Clippings/A user-centred website to support advance care planning for people with dementia]] (2025) #op/acc/download
+  - [[Clippings/Enhancing Automotive Usability Testing and User Experience Insights from Virtual]] (2025) #op/acc/download
+  - [[Clippings/Psychological Foundations for Effective HumanComputer Interaction in Education]] (2025) #op/acc/download
+  - [[Clippings/Elderly Healthcare Support Services in Hospitals Designing a Medical Terminal an]] (2025) #op/acc/download
+  - [[Clippings/User Participatory In-Vehicle Gesture Interaction Design Based on Electric Vehic]] (2025) #op/acc/download
+  - [[Clippings/Navigating the HumanRobot InterfaceExploring Human Interactions and Perceptions ]] (2025) #op/acc/download
+  - [[Clippings/Organize Then Vote Exploring Cognitive Load in Quadratic Survey Interfaces]] (2025) #op/acc/download
+  - [[Clippings/Wonder and Grow Healthy User-Centered Design for Selective Eating Children with ]] (2025) #op/acc/download
+  - [[Clippings/Usability Test for an Over-Ground Walking Assistance Robotic Device Based on the]] (2025) #op/acc/download
+  - [[Clippings/Co-designing strategies to implement long-acting injectable PrEP for sexual mino]] (2024) #op/acc/download
+  - [[Clippings/Nostalgia-Driven Design Creating an Inclusive VR Experience for Older Black Adul]] (2024) #op/acc/download
+  - [[Clippings/Comparative Insights for Community-Based Co-design Bi-directional Inclusive Stra]] (2024) #op/acc/download
+  - [[Clippings/Communicating the results of risk-based breast cancer screening through visualiz]] (2024) #op/acc/download
+  - [[Clippings/Empowering Young Women A Qualitative Co-Design Study of a Social Media Health Pr]] (2024) #op/acc/download
+  - [[Clippings/Co-creation in Immersive Virtual Reality Insights from a Multi-Stakeholder Plann]] (2024) #op/acc/download
+  - [[Clippings/Transformative social marketing and social innovation for sustainable developmen]] (2024) #op/acc/download
+  - [[Clippings/Towards culturally sustaining design Centering communitys voices for learning th]] (2024) #op/acc/download
+  - [[Clippings/Putting First Peoples First Participatory Design of a Digital Storytelling Syste]] (2024) #op/acc/download
+  - [[Clippings/Research on Rural Human Settlement Environment Transformation Based on Participa]] (2024) #op/acc/download
+  - [[Clippings/The image of Gresik Town Square based on participatory design of multicultural s]] (2024) #op/acc/download
+  - [[Clippings/Design and Implementation of a Local Marketplace Application for Food and Bevera]] (2024) #op/acc/download
+  - [[Clippings/A qualitative analysis of algorithm-based decision support usability testing for]] (2024) #op/acc/download
+  - [[Clippings/Avoiding Unintended Consequences of Pediatric Blood Order Set Updates through In]] (2024) #op/acc/download
+  - [[Clippings/Developing feedback visualizations to support older adults medication adherence]] (2024) #op/acc/download
+  - [[Clippings/Ergo4workers Usability Testing of the Second Prototype of an App for the Ergonom]] (2024) #op/acc/download
+  - [[Clippings/Co-Production of a Cognitive Behavioral Therapy Digital Platform for Families of]] (2024) #op/acc/download
+  - [[Clippings/Impact of Infotainment System Complexity on Driver Situation Awareness in Manual]] (2024) #op/acc/download
+  - [[Clippings/Allergen Information Interaction Design in Food Delivery Application Using User-]] (2024) #op/acc/download
+  - [[Clippings/Design and Implementation of User Interface and User Experience in Digital Kanba]] (2024) #op/acc/download
+  - [[Clippings/Development of a telemedicine virtual clinic system for remote rural and underse]] (2024) #op/acc/download
+  - [[Clippings/Interaction Design of Indonesian Local Language Learning Application Using User-]] (2024) #op/acc/download
+  - [[Clippings/Development and usability testing of an online support tool to identify models a]] (2024) #op/acc/download
+  - [[Clippings/Evaluating design approaches for encouraging behavior change in editors explorin]] (2024) #op/acc/download
+  - [[Clippings/How a Human-Centered Design Process Transformed the User Experience of Graft Pre]] (2024) #op/acc/download
+  - [[Clippings/Usability Assessment of OpenEMR Enhancing Healthcare Interactions]] (2024) #op/acc/download
+  - [[Clippings/Challenges and recommendations for eHealth usability evaluation with elderly use]] (2024) #op/acc/download
+  - [[Clippings/Designing the User Interface of a Nitroglycerin Dose Titration Decision Support ]] (2024) #op/acc/download
+  - [[Clippings/Designing Interactive Explainable AI Tools for Algorithmic Literacy and Transpar]] (2024) #op/acc/download
+  - [[Clippings/Human Interface Design in Mobile Apps Managing Information for Effective Evacuat]] (2024) #op/acc/download
+  - [[Clippings/VR Anima Safari Application with Design Thinking and Usability Testing Method]] (2024) #op/acc/download
+  - [[Clippings/Audio-Vibratory You-Are-Here Mobile Maps for People with Visual Impairments]] (2024) #op/acc/download
+  - [[Clippings/User-Centered Design and Implementation of an Intelligent Wearable Device for Re]] (2024) #op/acc/download
+  - [[Clippings/Web-Based Medical Information System for Stroke Rehabilitation Intemet-of-Things]] (2024) #op/acc/download
+  - [[Clippings/User-Centered Design in AI Applications A Systematic Literature Review]] (2024) #op/acc/download
+  - [[Clippings/Design and development of a machine-learning-driven opioid overdose risk predict]] (2024) #op/acc/download
+  - [[Clippings/Virtual Reality in Music Education A Qualitative User Study of HarmosphereVR]] (2024) #op/acc/download
+  - [[Clippings/Missing Person Search Information System with User-Centered Design]] (2024) #op/acc/download
+  - [[Clippings/A Systematic Review of Working Memory Applications for Children with Learning Di]] (2024) #op/acc/download
+  - [[Clippings/Usability testing of a website through different devices a task-based approach i]] (2024) #op/acc/download
+  - [[Clippings/Development of a Competency-Based Triage Education Application and Usability Tes]] (2024) #op/acc/download
+  - [[Clippings/Usability Testing A Bibliometric Analysis Based on WoS Data]] (2024) #op/acc/download
+  - [[Clippings/Usability of an eHealth sleep education intervention for university students]] (2024) #op/acc/download
+  - [[Clippings/Gender-Sensitive Healthcare Interfaces Development for Enhanced Patient Engageme]] (2024) #op/acc/download
+  - [[Clippings/Utilizing Usability Testing for User Interface Improvement Case Study on Unesas ]] (2024) #op/acc/download
+  - [[Clippings/User-centered design and development of a web-based tool to support healthy feed]] (2024) #op/acc/download
+  - [[Clippings/Exploring the Needs and Preferences of Autistic Users in Extended Reality A Part]] (2024) #op/acc/download
+  - [[Clippings/Usability Assessment Framework for Usability Testing of a Software Application]] (2024) #op/acc/download
+  - [[Clippings/Revitalising Volunteerism The Transformative Influence of Artificial Intelligenc]] (2024) #op/acc/download
+  - [[Clippings/AidVenture A Mobile Application Tracker for Lower-Limb Rehabilitation Integrated]] (2024) #op/acc/download
+  - [[Clippings/AI-Driven Design Thinking A Comparative Study of Human-Created and AI-Generated ]] (2024) #op/acc/download
+  - [[Clippings/Integrating Counting and Memory Challenges in Educational Games The Development ]] (2024) #op/acc/download
+  - [[Clippings/The Design and Evaluation of CAD Custom Batik User Interface]] (2024) #op/acc/download
+  - [[Clippings/User-Centered Design and Usability of Voxe as a Pediatric Electronic Patient-Rep]] (2024) #op/acc/download
+  - [[Clippings/Usability Aspects Reduce Design Complexity and Help Prevent Use-Related Errors i]] (2024) #op/acc/download
+  - [[Clippings/A Chatbot-Based Version of the World Health OrganizationValidated Self-Help Plus]] (2024) #op/acc/download
+  - [[Clippings/An Exercise-Based Precision Medicine Tool and Smartphone App for Managing Achill]] (2024) #op/acc/download
+  - [[Clippings/Lessons Learned A Usability Study of an Urban Data Platform for Citizens]] (2024) #op/acc/download
+  - [[Clippings/Being There Creating Home for Migrant and Refugee Women Using Participatory Desi]] (2023) #op/acc/download
+  - [[Clippings/OperARtistry An AR-based Interactive Application to Assist the Learning of Chine]] (2023) #op/acc/download
+  - [[Clippings/Participatory Design Workshops Interdisciplinary Encounters within a Collaborati]] (2023) #op/acc/download
+  - [[Clippings/Inmersive Learning of the Raw Sugar Cane Labors. Design Thinking applied to Virt]] (2023) #op/acc/download
+  - [[Clippings/DentaSeal A school-based dental sealant efficiency assessment tool to support st]] (2023) #op/acc/download
+  - [[Clippings/The Third Wave of Self-Regulated Learnings Measurement and Intervention Tools De]] (2023) #op/acc/download
+  - [[Clippings/Building a Congregations Dashboard Using the User Centered Design Method]] (2023) #op/acc/download
+  - [[Clippings/Evaluation of an Antimicrobial Stewardship Decision Support for Pediatric Infect]] (2023) #op/acc/download
+  - [[Clippings/Simulation-based development shaping clinical procedures for extra-uterine life ]] (2023) #op/acc/download
+  - [[Clippings/Application of User-Centered Design Approach in Developing Interaction Design of]] (2023) #op/acc/download
+  - [[Clippings/Remote Synchronous Usability Testing Yields Reliable Data for User-Centered Desi]] (2023) #op/acc/download
+  - [[Clippings/Authoring Tools The Road to Democratizing Augmented Reality for Education]] (2023) #op/acc/download
+  - [[Clippings/A framework for design and usability testing of telerehabilitation system for ad]] (2023) #op/acc/download
+  - [[Clippings/Web-Based Cognitive Behavioral Therapy for Depression Among Homebound Older Adul]] (2023) #op/acc/download
+  - [[Clippings/Human-Computer Interaction A Systematic Review]] (2023) #op/acc/download
+  - [[Clippings/Usability testing of Healthcare Devices A review of the current UX methods used ]] (2023) #op/acc/download
+  - [[Clippings/Human-Centered Design and Development of a Fall Prevention Exercise App for Olde]] (2023) #op/acc/download
+  - [[Clippings/Enhancing cross-border mobility by adopting a user journey approach for digital ]] (2023) #op/acc/download
+  - [[Clippings/A participatory process to design an app to improve adherence to anti-osteoporot]] (2023) #op/acc/download
+  - [[Clippings/Methodology of an approach for modifying pictograms showing medication side effe]] (2023) #op/acc/download
+  - [[Clippings/Development of Interaction Design for Ferizy Inter-Island Ferry Ticket Booking M]] (2023) #op/acc/download
+  - [[Clippings/Development of User Interface for Red Tilapia Aquaculture Management System Appl]] (2023) #op/acc/download
+  - [[Clippings/Respinos Health A Mobile Health App Designed Using User-Centered Design Method t]] (2023) #op/acc/download
+  - [[Clippings/Enhancing Caregiver Empowerment Through the Story Mosaic System Human-Centered D]] (2023) #op/acc/download
+  - [[Clippings/User interface design]] (2023) #op/acc/download
+  - [[Clippings/Insights From an Usability Review of an Electronic Medical RecordIntegrated Phys]] (2023) #op/acc/download
+  - [[Clippings/Cultural Adaptation and Implementation of Cognitive-Behavioral Psychosocial Inte]] (2023) #op/acc/download
+  - [[Clippings/Design and Evaluation of an Intensive Care Unit Dashboard Built in Response to t]] (2023) #op/acc/download
+  - [[Clippings/Software Usability Testing Using EEG-Based Emotion Detection and Deep Learning]] (2023) #op/acc/download
+  - [[Clippings/Mapping Design Frameworks for Digital Behaviour Change Interventions to Goal-Dir]] (2023) #op/acc/download
+  - [[Clippings/Developing and testing an integrated patient mHealth and provider dashboard appl]] (2023) #op/acc/download
+  - [[Clippings/Enhancing User Experience in Haji Pintar Mobile App Implementing Human Interface]] (2023) #op/acc/download
+  - [[Clippings/Design of Job Placement Center Dashboard for Monitoring Alumni Performance in Jo]] (2023) #op/acc/download
+  - [[Clippings/Involving Health Care Professionals in the Development of Electronic Health Reco]] (2023) #op/acc/download
+  - [[Clippings/Evaluating User Interface and User Experience in Mobile Applications Designed fo]] (2023) #op/acc/download
+  - [[Clippings/Usability evaluation of the Agente Escuta application translational research]] (2023) #op/acc/download
+  - [[Clippings/A high-fidelity prototype of a sterile information system for the perioperative ]] (2023) #op/acc/download
+  - [[Clippings/Evaluation of an Electronic Care and Rehabilitation Planning Tool with Stroke Su]] (2023) #op/acc/download
+  - [[Clippings/Exploring the Frontiers of User Experience Design VR AR and the Future of Intera]] (2023) #op/acc/download
+  - [[Clippings/The Best RX is Better UX Redesigning Migrating and Usability Testing a Hospital ]] (2023) #op/acc/download
+  - [[Clippings/Designing for Common Ground Visually Representing Conversation Dynamics of Neuro]] (2023) #op/acc/download
+  - [[Clippings/Prototyping Process and Usability Testing of a Serious Game for Brazilian Childr]] (2023) #op/acc/download
+  - [[Clippings/LGBTQ Futures and Participatory Design]] (2022) #op/acc/download
+  - [[Clippings/Youth invisible work the sociocultural and collaborative processes of online sea]] (2022) #op/acc/download
+  - [[Clippings/Youll Never Ride Alone Insights into Womens Security Needs in Shared Automated V]] (2022) #op/acc/download
+  - [[Clippings/Development of an Immersive Visualisation System for the 3D Learning of Complex ]] (2022) #op/acc/download
+  - [[Clippings/Participatory Design Development and Testing of Assistive Health Robots with Old]] (2022) #op/acc/download
+  - [[Clippings/Mobile App Prototype in Older Adults for Postfracture Acute Pain Management User]] (2022) #op/acc/download
+  - [[Clippings/Assessment of the Accessibility of the Integrated Information System for People ]] (2022) #op/acc/download
+  - [[Clippings/User-CenteredUser Experience UcUx Design Thinking Approach for Designing a Unive]] (2022) #op/acc/download
+  - [[Clippings/Development of an Interoperable-Integrated Care Service Architecture for Intelle]] (2022) #op/acc/download
+  - [[Clippings/Designing Village Idea Lab as Digital-based Incubator of Ideas and Innovation in]] (2022) #op/acc/download
+  - [[Clippings/User Experience Case Study Professor Garfelds 21st-Century Literacy Project]] (2022) #op/acc/download
+  - [[Clippings/Interaction Design of Indonesian Anti Hoax Chatbot using User Centered Design]] (2022) #op/acc/download
+  - [[Clippings/Usability Testing of Virtual Reality ApplicationsThe Pilot Study]] (2022) #op/acc/download
+  - [[Clippings/Developing a User-Centered Digital Clinical Decision Support App for Evidence-Ba]] (2022) #op/acc/download
+  - [[Clippings/Iterative Development and Applicability of a Tablet-Based e-Coach for Older Adul]] (2022) #op/acc/download
+  - [[Clippings/User-Centered Design to Improve Personal Development in Comic Application]] (2022) #op/acc/download
+  - [[Clippings/Web-Based Tool (FH Family Share) to Increase Uptake of Cascade Testing for Famil]] (2022) #op/acc/download
+  - [[Clippings/Aiding the Digital Creation of Physical Resources Card Sets for The Gamers4Natur]] (2022) #op/acc/download
+  - [[Clippings/A digital self-care intervention for Ugandan patients with heart failure and the]] (2022) #op/acc/download
+  - [[Clippings/Developing a Smart Infusion Pump Dedicated to Infusion Safety]] (2022) #op/acc/download
+  - [[Clippings/Implementation of User Centered Design to Develop Attractive Educational Content]] (2022) #op/acc/download
+  - [[Clippings/Web-Based Structured Education for Type 2 Diabetes Interdisciplinary User-Center]] (2022) #op/acc/download
+  - [[Clippings/A Remote Patient-Monitoring System for Intensive Care Medicine Mixed Methods Hum]] (2022) #op/acc/download
+  - [[Clippings/Implementing an interprofessional user-centered design approach to develop a bed]] (2022) #op/acc/download
+  - [[Clippings/Design and Evaluation of AKP Application]] (2022) #op/acc/download
+  - [[Clippings/A hybrid approach to product prototype usability testing based on surface EMG im]] (2022) #op/acc/download
+  - [[Clippings/Perceptions of and Experiences with Consumer Sleep Technologies That Use Artific]] (2022) #op/acc/download
+  - [[Clippings/The Developments and Iterations of a Mobile Technology-Based Fall Risk Health Ap]] (2022) #op/acc/download
+  - [[Clippings/I Am the Robot Teen Collaboration in an Asymmetric Virtual Reality Game]] (2022) #op/acc/download
+  - [[Clippings/Designing a Mixed Reality Cognitive Orthosis to Support Independence of Older Ad]] (2022) #op/acc/download
+  - [[Clippings/Learning Experience Design in Practice Theoretically We Did Everything Right]] (2022) #op/acc/download
+  - [[Clippings/Comparison of Moderated and Unmoderated Remote Usability Sessions for Web-Based ]] (2022) #op/acc/download
+  - [[Clippings/Towards a GUI for Declarative Medical Image Analysis Cognitive and Memory Load I]] (2022) #op/acc/download
+  - [[Clippings/Interaction Design of Fertility Tracking Application Using User-Centered Design]] (2022) #op/acc/download
+  - [[Clippings/A Text Messaging Intervention to Support Latinx Family Caregivers of Individuals]] (2022) #op/acc/download
+  - [[Clippings/Designing and usability testing of a new prototype active footrest for knee exte]] (2022) #op/acc/download
+  - [[Clippings/Interaction Design for Interactive Learning in MOOCs using User-Centered Design ]] (2022) #op/acc/download
+  - [[Clippings/Producing Successful Design Website of Video Based Learning in Hybrid Learning o]] (2022) #op/acc/download
+  - [[Clippings/Speculative Blackness Considering Afrofuturism in the Creation of Inclusive Spec]] (2021) #op/acc/download
+  - [[Clippings/Therapeutic virtual reality in prison Participatory design with incarcerated wom]] (2021) #op/acc/download
+  - [[Clippings/Anshimi Womens Perceptions of Safety Data and the Efficacy of a Safety Applicati]] (2021) #op/acc/download
+  - [[Clippings/Designing Opportunistic Social Matching Systems for Womens Safety during Face-to]] (2021) #op/acc/download
+  - [[Clippings/Self-care needs and technology preferences among parents in marginalized communi]] (2021) #op/acc/download
+  - [[Clippings/PRESERVATION and PROMOTION of INTANGIBLE CULTURAL HERITAGE - A PARTICIPATORY DES]] (2021) #op/acc/download
+  - [[Clippings/Applying user-centered design for a climate resilience video game]] (2021) #op/acc/download
+  - [[Clippings/Playing Design A Case Study on Applying Gamification to Construct a Serious Game]] (2021) #op/acc/download
+  - [[Clippings/Human-Centered Artificial Intelligence for Designing Accessible Cultural Heritag]] (2021) #op/acc/download
+  - [[Clippings/Augmented Reality Adapted Book (AREmotion) Design as Emotional Expression Recogn]] (2021) #op/acc/download
+  - [[Clippings/UX design and evaluation of warning alerts for semi-autonomous cars with elderly]] (2021) #op/acc/download
+  - [[Clippings/Development of a Simplified Insulin Pump Interface for Improved User Interaction]] (2021) #op/acc/download
+  - [[Clippings/Designing Embodied Virtual Agent in E-commerce System Recommendations using Conv]] (2021) #op/acc/download
+  - [[Clippings/Development and Evaluation of a Mobile-Learning Application Based on the Felder-]] (2021) #op/acc/download
+  - [[Clippings/A user-centered agile approach to the development of a real-world social robot a]] (2021) #op/acc/download
+  - [[Clippings/Supporting deprescribing in hospitalised patients formative usability testing of]] (2021) #op/acc/download
+  - [[Clippings/Remote Usability Testing of a Pediatric Trauma Dashboard]] (2021) #op/acc/download
+  - [[Clippings/LoopBlocks Design and Preliminary Evaluation of an Accessible Tangible Musical S]] (2021) #op/acc/download
+  - [[Clippings/Designing for Financial Literacy How Adolescent Learning through a Mobile Applic]] (2021) #op/acc/download
+  - [[Clippings/Synchronising spatial metadata records and interfaces to improve the usability o]] (2021) #op/acc/download
+  - [[Clippings/Designing a Donation Portal to Help Underprivileged Indians]] (2021) #op/acc/download
+  - [[Clippings/Redesigning User Interface on Halal Tourism Application with User-Centered Desig]] (2021) #op/acc/download
+  - [[Clippings/Development and assessment of the usability of a web-based referral to treatment]] (2021) #op/acc/download
+  - [[Clippings/Calla Beauty Assistant Beauty Advisory Chatbot]] (2021) #op/acc/download
+  - [[Clippings/Leveraging voice assistive technology to enhance health monitoring of older adul]] (2021) #op/acc/download
+  - [[Clippings/Demonstrating the feasibility of multimodal neuroimaging data capture with a wea]] (2021) #op/acc/download
+  - [[Clippings/Remote Design of a Pediatric Intensive Care Unit Dashboard in Time of Pandemics]] (2021) #op/acc/download
+  - [[Clippings/A user-centered behavioral software development model]] (2021) #op/acc/download
+  - [[Clippings/Designed for Equitable Learning A Study of UCD and Liquid Syllabus in an Online ]] (2021) #op/acc/download
+  - [[Clippings/A User-Centered Approach to Design a Financial Asset Investment Mobile Applicati]] (2021) #op/acc/download
+  - [[Clippings/Development of the Uni Virtual Clinic an online programme for improving the ment]] (2020) #op/acc/download
+  - [[Clippings/Driving Coach Finder]] (2020) #op/acc/download
+  - [[Participatory Indexing in the Eyes of Its Potential Users- An Example of a Co-design of Participatory Services in an Academic Digital Library]] (2020)
+  - [[Clippings/Participatory design for ontologies A case study of an open science ontology for]] (2020) #op/acc/download
+  - [[Clippings/Analysis and Design of Agricultural Marketplace Using User Experience]] (2020) #op/acc/download
+  - [[Clippings/Understanding and supporting individuals experiencing severely constraining situ]] (2020) #op/acc/download
+  - [[Clippings/Usability evaluation and user interface design of university staffing informatio]] (2020) #op/acc/download
+  - [[Clippings/A pain recording system based on mobile health technology for cancer patients in]] (2020) #op/acc/download
+  - [[Clippings/Brotate and tribike Designing smartphone control for cycling]] (2020) #op/acc/download
+  - [[Clippings/Design and Implementation of Android Application to Thi-Qar Doctors Guide and Re]] (2020) #op/acc/download
+  - [[Clippings/Usability Testing of a Sensor-Controlled Digital Game to Engage Older Adults wit]] (2020) #op/acc/download
+  - [[Clippings/The Development of a Point of Care Clinical Guidelines Mobile Application Follow]] (2020) #op/acc/download
+  - [[Clippings/Direct User Behavior Data Leads to Better User Centric Thinking than Role Playin]] (2020) #op/acc/download
+  - [[Clippings/Interaction Design of Street Workout Application Using Gamification to Support I]] (2020) #op/acc/download
+  - [[Clippings/The Design and Evaluation of a Home Health Care System (TeamVisit)]] (2020) #op/acc/download
+  - [[Clippings/Designing Human-Computer Interaction for E-Learning using ISO 9241-2102010 and G]] (2020) #op/acc/download
+  - [[Clippings/Usability Testing Essentials Ready SetTest]] (2020) #op/acc/download
+  - [[Clippings/Physical and Cognitive Load Effects Due to a Powered Lower-Body Exoskeleton]] (2020) #op/acc/download
+  - [[Clippings/Optimized User Experience Design for Augmentative and Alternative Communication ]] (2020) #op/acc/download
+  - [[Clippings/Assessing the Involvement of Users During Development of Lower Limb Wearable Rob]] (2020) #op/acc/download
+  - [[Clippings/Disruptive factors in the evaluation of perceived quality aspects  consideration]] (2020) #op/acc/download
+  - [[Clippings/Home blood pressure data visualization for the management of hypertension Design]] (2020) #op/acc/download
+  - [[Clippings/Design and development of a smart-tool prototype to promote differentiated instr]] (2020) #op/acc/download
+  - [[Clippings/Designing Interaction and User Interface of Computational Thinking Digital Game ]] (2020) #op/acc/download
+  - [[Clippings/User-Centered Design of e-Learning User Interfaces A Survey of the Practices]] (2020) #op/acc/download
+  - [[Clippings/Integrating User-Centered Design with the Agile Software Development Methodology]] (2020) #op/acc/download
+  - [[Clippings/Supporting Surgical Teams Identifying Needs and Barriers for Exoskeleton Impleme]] (2020) #op/acc/download
+  - [[Clippings/From Stigma to Objects of Desire Participatory Design of Interactive Jewellery f]] (2019) #op/acc/download
+  - [[Clippings/Representing a space-based digital archive on historical maps A user-centered de]] (2019) #op/acc/download
+  - [[Clippings/An enriched visit to the Botanical Garden co-designing tools and contents]] (2019) #op/acc/download
+  - [[Clippings/Integrating games as a means to develop e-learning Insights from a psychological]] (2019) #op/acc/download
+  - [[Clippings/Towards a usable serious game app to support childrens language therapy]] (2019) #op/acc/download
+  - [[Clippings/An augmented reality application to support deployed emergency teams]] (2019) #op/acc/download
+  - [[Clippings/On Building a Visualisation Tool for Access Control Policies]] (2019) #op/acc/download
+  - [[Clippings/Software Engineering for AR systems considering User Centered Design Approaches]] (2019) #op/acc/download
+  - [[Clippings/Interaction design development on Indonesia)s computer-based national exam using]] (2019) #op/acc/download
+  - [[Clippings/Feasibility and acceptability of a mobile technology intervention to support pos]] (2019) #op/acc/download
+  - [[Clippings/User-Centered Development of an Online Platform for Drug Dosing Recommendations ]] (2019) #op/acc/download
+  - [[Clippings/Objective usability evaluation of drywall screwdriver under consideration of the]] (2019) #op/acc/download
+  - [[Clippings/Preflight Weather Decision Support Tool (PWDST) User-Centered Design Process and]] (2019) #op/acc/download
+  - [[Clippings/User Interaction Design for Financial Technology Mobile Application using User-C]] (2019) #op/acc/download
+  - [[Clippings/User interface redesign in a point rewards mobile application using usability te]] (2019) #op/acc/download
+  - [[Clippings/iSenseVR bringing VR exposure therapy outside the laboratory]] (2019) #op/acc/download
+  - [[Clippings/Understanding and exploring operator needs in mixed model assembly]] (2019) #op/acc/download
+  - [[Clippings/A Practical Guide to Usability Testing]] (2019) #op/acc/download
+  - [[Clippings/An Implementation of User Experience Design Discovery Formative and Evaluative M]] (2019) #op/acc/download
+  - [[Clippings/User-Centered Gestures for Mobile Phones Exploring a Method to Evaluate User Ges]] (2019) #op/acc/download
+  - [[Clippings/Towards an interactive visualization for dietary supplement knowledge graph]] (2019) #op/acc/download
+  - [[Clippings/Human-Centered Design Process for a Hospital Bed Promoting Patient Safety and Ea]] (2019) #op/acc/download
+  - [[Clippings/Users Perceptions of Smartphone Weather Applications Usability]] (2019) #op/acc/download
+  - [[Clippings/A mobile phone app for the self-management of pediatric concussion Development a]] (2019) #op/acc/download
+  - [[Clippings/Adaptive design of a clinical decision support tool What the impact on utilizati]] (2019) #op/acc/download
+  - [[Clippings/A learning design framework to support children with learning disabilities incor]] (2019) #op/acc/download
+  - [[Clippings/Pilot evaluation of a persuasive mobile application to change individuals behavi]] (2019) #op/acc/download
+  - [[Clippings/Testing testing a usability case study at University of Toronto Scarborough Libr]] (2019) #op/acc/download
+  - [[Clippings/Formative Usability Testing Reduces Severe Blood Product Ordering Errors]] (2019) #op/acc/download
+  - [[Clippings/Design of mHealth Application for Integrating Antenatal Care Service in Primary ]] (2019) #op/acc/download
+  - [[Clippings/User interface redesign of dental clinic ERP system using design thinking A case]] (2019) #op/acc/download
+  - [[Clippings/Developing BacaBicara An Indonesian lipreading system as an independent communic]] (2019) #op/acc/download
+  - [[Clippings/Mobile app communication aid for Cypriot deaf people]] (2019) #op/acc/download
+  - [[Clippings/Redesigning the Interaction of Twitters Content Preferences Feature Using User-C]] (2019) #op/acc/download
+  - [[Clippings/Studying the Acceptance of a Digital Diabetes Diaries]] (2019) #op/acc/download
+  - [[Clippings/Utilizing a user-centered approach to develop and assess pharmacogenomic clinica]] (2019) #op/acc/download
+  - [[Clippings/Usability Is Ageless Conducting Usability Tests with Older Adults]] (2019) #op/acc/download
+  - [[Clippings/Telling tales unlocking the potential of AAC technologies]] (2019) #op/acc/download
+  - [[Clippings/Employing a User-Centered Design to Engage Mothers in the Development of a mHeal]] (2019) #op/acc/download
+  - [[Clippings/Evaluating the Development Processes of Consumer mHealth Interventions for Chron]] (2019) #op/acc/download
+  - [[Clippings/Participatory design of technologies to support recovery from substance use diso]] (2018) #op/acc/download
+  - [[Clippings/Exploring aesthetic enhancement of wearable technologies for deaf women]] (2018) #op/acc/download
+  - [[Clippings/Mobile Voices Design as a method to explore the possibilities and limitations of]] (2018) #op/acc/download
+  - [[Clippings/User-Centered Design to a Digital Cultural Heritage Installation Based on Afro-P]] (2018) #op/acc/download
+  - [[Clippings/Participatory Design Fiction Community Storytelling for Speculative Urban Techno]] (2018) #op/acc/download
+  - [[Clippings/Modeling user interface of first-aid application game using User Centered Design]] (2018) #op/acc/download
+  - [[Clippings/Assessing Demand for Transparency in Intelligent Systems Using Machine Learning]] (2018) #op/acc/download
+  - [[Clippings/Users Emotions and Usability Study of a Brain-Computer Interface Applied to Peop]] (2018) #op/acc/download
+  - [[Clippings/Flexible requirement development through user objectives in an Agile-UCD hybrid ]] (2018) #op/acc/download
+  - [[Clippings/Turbulence ahead - A 3D web-based aviation weather visualizer]] (2018) #op/acc/download
+  - [[Clippings/Integrating Usability Testing with Digital Rhetoric in OWI]] (2018) #op/acc/download
+  - [[Clippings/Applying user-centered design methods to the development of an mhealth applicati]] (2018) #op/acc/download
+  - [[Clippings/Human-centric design of unified communications E-collaboration features]] (2018) #op/acc/download
+  - [[Clippings/Slions A karaoke application to enhance foreign language learning]] (2018) #op/acc/download
+  - [[Clippings/Designing Interaction for Chatbot-Based Conversational Commerce with User-Center]] (2018) #op/acc/download
+  - [[Clippings/A day in the life An interactive application to introduce IT students to the wor]] (2018) #op/acc/download
+  - [[Clippings/The Touch and Feel of the PastUsing Haptic and VR Artefacts to Enrich Reminiscen]] (2018) #op/acc/download
+  - [[Clippings/Leveraging Patient-Reported Outcomes Using Data Visualization]] (2018) #op/acc/download
+  - [[Clippings/Addressing the alerting needs of older adults to age in place]] (2018) #op/acc/download
+  - [[Clippings/Design and usability evaluation of communication board for deaf people with user]] (2018) #op/acc/download
+  - [[Clippings/Towards a Framework for Integration of User-Centered Design and Agile Methodolog]] (2018) #op/acc/download
+  - [[Clippings/EUREKA Engineering usability research empirical knowledge and artifacts An exper]] (2018) #op/acc/download
+  - [[Clippings/Using simulation to iteratively test and re-design a cognitive aid for use in th]] (2018) #op/acc/download
+  - [[Clippings/Implementation and evaluation of LMS mobile application scele mobile based on us]] (2018) #op/acc/download
+  - [[Clippings/Designing for the Universe of one Personalized interactive media systems for peo]] (2017) #op/acc/download
+  - [[Clippings/Rebuilding social capital Engaging newly arrived refugees in participatory desig]] (2017) #op/acc/download
+  - [[Clippings/Moving Beyond the Virtual Museum Engaging Visitors Emotionally]] (2017) #op/acc/download
+  - [[Clippings/End-user considerations in educational technology design]] (2017) #op/acc/download
+  - [[Clippings/Blame the scapegoat How creating an easy target can help non-designers critique ]] (2017) #op/acc/download
+  - [[Clippings/Redesign of commuter line train ticket vending machine with user-centered design]] (2017) #op/acc/download
+  - [[Clippings/Revising the Online Classroom Usability Testing for Training Online Technical Co]] (2017) #op/acc/download
+  - [[Clippings/FroggyBobby An exergame to support children with motor problems practicing motor]] (2017) #op/acc/download
+  - [[Clippings/Guidelines for a university short course on human-computer interaction]] (2017) #op/acc/download
+  - [[Clippings/Information engineering for developing and testing coherent integrated and conte]] (2017) #op/acc/download
+  - [[Clippings/A Human-centered design methodology to enhance the usability human factors and u]] (2017) #op/acc/download
+  - [[Clippings/Enhancing zoom and pan in ultrasound machines with a multimodal gaze-based inter]] (2017) #op/acc/download
+  - [[Clippings/A visual analytics approach for understanding egocentric intimacy network evolut]] (2017) #op/acc/download
+  - [[Clippings/Human Factors Analysis Design and Evaluation of Engage a Consumer Health IT Appl]] (2017) #op/acc/download
+  - [[Clippings/Design a personalized brain-computer interface of legorobot assisted by data ana]] (2017) #op/acc/download
+  - [[Clippings/Considerations and methods for usability testing with children]] (2017) #op/acc/download
+  - [[Clippings/Enabling access to engineering education materials everywhere by design]] (2017) #op/acc/download
+  - [[Clippings/Designing an arisan mobile application for novice users using user-centered desi]] (2017) #op/acc/download
+  - [[Clippings/Contextualizing user centered design with agile methods in Ethiopia]] (2017) #op/acc/download
+  - [[Clippings/Integrating discount usability in scrum development process in Ethiopia]] (2017) #op/acc/download
+  - [[Clippings/Crowdfunding website design with lean product process framework]] (2017) #op/acc/download
+  - [[Clippings/Designing smart home interfaces Traditional vs virtual prototyping]] (2017) #op/acc/download
+  - [[Clippings/Designing community of practice systems A value sensitive approach]] (2017) #op/acc/download
+  - [[Clippings/Methods for user-centered design and evaluation of text analysis tools in a digi]] (2016) #op/acc/download
+  - [[Clippings/Development of a decision guide to support the elderly in decision making about ]] (2016) #op/acc/download
+  - [[Clippings/Evaluating the usability and perceived impact of an electronic medical record to]] (2016) #op/acc/download
+  - [[Clippings/Designing interaction for deaf youths by using user-centered design approach]] (2016) #op/acc/download
+  - [[Clippings/Healthcare applications of smart watches A systematic review]] (2016) #op/acc/download
+  - [[Clippings/Developing a teacher dashboard for use with intelligent tutoring systems]] (2016) #op/acc/download
+  - [[Clippings/Usability testing of two ambulatory EHR navigators]] (2016) #op/acc/download
+  - [[Clippings/Analysis of different types of navigational structures for machine tool controll]] (2016) #op/acc/download
+  - [[Clippings/Integrating user-centered design practices into agile Web development A case stu]] (2016) #op/acc/download
+  - [[Clippings/Usability testing and adaptation of the pediatric cardiovascular risk reduction ]] (2016) #op/acc/download
+  - [[Clippings/Mobile serious game proposal for environmental awareness of children]] (2016) #op/acc/download
+  - [[Clippings/Contrasting usability evaluation methods with blind users]] (2016) #op/acc/download
+  - [[Clippings/Security Fatigue]] (2016) #op/acc/download
+  - [[Clippings/A Participatory Design Approach to Develop a Web-Based Self-Care Program Support]] (2016) #op/acc/download
+  - [[Clippings/Validating mobile designs with agile testing in China Based on baidu map for mob]] (2016) #op/acc/download
+  - [[Clippings/Development and first phase evaluation of a maternity leave educational tool for]] (2015) #op/acc/download
+  - [[Clippings/Tracking Care in the Emergency Department]] (2015) #op/acc/download
+  - [[Clippings/Patterns for integrating agile development processes and user centred design]] (2015) #op/acc/download
+  - [[Clippings/Practical application of a user-centered design management strategy]] (2015) #op/acc/download
+  - [[Clippings/Evaluating groupware prototypes with discount methods]] (2015) #op/acc/download
+  - [[Clippings/Development and usability evaluation of web-based self-monitoring tool]] (2015) #op/acc/download
+  - [[Clippings/User centered design practices in healthcare A systematic review]] (2015) #op/acc/download
+  - [[Clippings/Incorporating usability testing into the development of healthcare technologies]] (2015) #op/acc/download
+  - [[Clippings/Questioning conventions Are product conventions trading off the usability of pro]] (2015) #op/acc/download
+  - [[Clippings/Challenging group dynamics in participatory design with children Lessons from so]] (2015) #op/acc/download
+  - [[Clippings/VisInfo a digital library system for time series research data based on explorat]] (2015) #op/acc/download
+  - [[Clippings/Designing an emergency communication system for human and assistance dog partner]] (2015) #op/acc/download
+  - [[Clippings/Collaborative Software Development for a Brazilian Telehealth Program]] (2014) #op/acc/download
+  - [[Clippings/Game Design Techniques in User Research Methods - A New Way to Reach the High Sc]] (2014) #op/acc/download
+  - [[Clippings/Designing and Evaluating the Mobile Experience Through Iterative Field Studies]] (2012) #op/acc/download
+  - [[Clippings/RAPID PROTOTYPING ON THE EXAMPLE OF SOFTWARE DEVELOPMENT IN AUTOMOTIVE INDUSTRY ]] (2011) #op/acc/download
+  - [[Clippings/Think-Aloud Protocols A Comparison of Three Think-Aloud Protocols for use in Tes]] (2010) #op/acc/download
+  - [[Clippings/Discount User-Centered e-Health Design A Quick-but-not-Dirty Method]] (2010) #op/acc/download
+  - [[Clippings/Remote Usability Testing A Practice]] (2009) #op/acc/download
+  - [[Clippings/Work in Progress A Case Study of Usability Testing of Software Tools for People ]] (2009) #op/acc/download
+  - [[Clippings/A conceptual design for childrens WebOPAC interface Graphic design issues]] (2007) #op/acc/download
+  - [[Clippings/User-centered look at glyph-based security visualization]] (2005) #op/acc/download
+  - [[Clippings/Mix and match usability methods Picking the pieces for our project]] (2002) #op/acc/download
+  - [[Clippings/Usability evaluation of computer-assisted survey instruments]] (2000) #op/acc/download

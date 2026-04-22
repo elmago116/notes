@@ -4,15 +4,17 @@ type: article
 base: clippings
 source: pdf
 tags:
-  - Tech/NeuroSymbolic
+  - Tech/NeSyAI
 year: "2025"
 doi: https://doi.org/10.48550/arXiv.2507.11127
-authors:
+authors: 
+- Lennert De Smet
+- Luc De Raedt
 ---
 
 Linked PDF file(s) for **DEFINING NEUROSYMBOLIC AI**:
 
-- [[Defining Neurosymbolic Ai.pdf]]
+- [[Defining Nneurosymbolic AI.pdf]]
 
 ## PDF text extraction
 

@@ -6,7 +6,7 @@ published:
 created: 2026-02-13
 description: "Abstract page for arXiv paper 2506.00784: Research Borderlands: Analysing Writing Across Research Cultures"
 tags:
-  - "revisar"
+  - "op/acc/revisar"
 DOI:
 Type: "Preprint"
 year: "2025"

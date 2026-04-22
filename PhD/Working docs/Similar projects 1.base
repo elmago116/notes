@@ -1,7 +1,7 @@
 filters:
   and:
     - file.hasTag("op/projects/similar")
-    - '!file.hasTag("op/Meeting", "op/note", "op/notfound")'
+    - '!file.hasTag("op/Meeting", "op/note", "op/notfound", "op/doc/reporte")'
 views:
   - type: table
     name: Table

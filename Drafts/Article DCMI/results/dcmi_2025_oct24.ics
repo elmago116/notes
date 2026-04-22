@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+PRODID:-//Article DCMI//DCMI 2025 October 24//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:DCMI 2025 - October 24
+X-WR-CALNAME:DCMI 2025 - October 24
+X-WR-TIMEZONE:Europe/Madrid
+
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+X-LIC-LOCATION:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-0800@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T080000
+DTEND;TZID=Europe/Madrid:20251024T090000
+SUMMARY:DCMI 2025 - Registration
+LOCATION:University of Barcelona, Spain
+CATEGORIES:Conference
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-0900@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T090000
+DTEND;TZID=Europe/Madrid:20251024T100000
+SUMMARY:DCMI 2025 - Closing Keynote: Beyond Autonomous Agents (Chirag Shah)
+LOCATION:Auditorium, University of Barcelona, Spain
+CATEGORIES:Conference,Keynote
+DESCRIPTION:Presenter: Chirag Shah
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1000@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T100000
+DTEND;TZID=Europe/Madrid:20251024T103000
+SUMMARY:DCMI 2025 - Coffee break
+LOCATION:University of Barcelona, Spain
+CATEGORIES:Break
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1030@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T103000
+DTEND;TZID=Europe/Madrid:20251024T123000
+SUMMARY:DCMI 2025 - Panel: From Library Catalog to Enterprise Knowledge Graphs
+LOCATION:Auditorium, University of Barcelona, Spain
+CATEGORIES:Conference,Panel
+DESCRIPTION:Presenters: Myung-Ja (MJ) K. Han, Josh Falconer, Christine D'Arpa, Rhiannon Bettivia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1030-papers@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T103000
+DTEND;TZID=Europe/Madrid:20251024T123000
+SUMMARY:DCMI 2025 - Papers: Metadata Quality & BIBFRAME
+LOCATION:Aula Rubió (210), University of Barcelona, Spain
+CATEGORIES:Conference,Papers
+DESCRIPTION:Presenters: Mark Phillips, Rubén Alcaraz-Martínez, Andreu Sulé Duesa, Tomás Saorín, María Antonia Ovalle Perandones, Minjung Park, Elena María Gómez Rico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1230@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T123000
+DTEND;TZID=Europe/Madrid:20251024T133000
+SUMMARY:DCMI 2025 - Invited Talk: BIBFRAME Interoperability Group (Kalliopi Mathios)
+LOCATION:Auditorium, University of Barcelona, Spain
+CATEGORIES:Conference,Invited Talk
+DESCRIPTION:Presenter: Kalliopi Mathios
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1330@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T133000
+DTEND;TZID=Europe/Madrid:20251024T150000
+SUMMARY:DCMI 2025 - Lunch
+LOCATION:University of Barcelona, Spain
+CATEGORIES:Break
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1500@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T150000
+DTEND;TZID=Europe/Madrid:20251024T160000
+SUMMARY:DCMI 2025 - Invited Talk: Linked Data: Open and Closed (Simeon Warner)
+LOCATION:Auditorium, University of Barcelona, Spain
+CATEGORIES:Conference,Invited Talk
+DESCRIPTION:Presenter: Simeon Warner
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1500-groundtruth@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T150000
+DTEND;TZID=Europe/Madrid:20251024T160000
+SUMMARY:DCMI 2025 - Invited Talk: Building Ground Truth (Tamir Borensztajn)
+LOCATION:Aula Rubió (210), University of Barcelona, Spain
+CATEGORIES:Conference,Invited Talk
+DESCRIPTION:Presenter: Tamir Borensztajn
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1600@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T160000
+DTEND;TZID=Europe/Madrid:20251024T163000
+SUMMARY:DCMI 2025 - Coffee break
+LOCATION:University of Barcelona, Spain
+CATEGORIES:Break
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1630@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T163000
+DTEND;TZID=Europe/Madrid:20251024T183000
+SUMMARY:DCMI 2025 - Panel: Bridging Standards
+LOCATION:Auditorium, University of Barcelona, Spain
+CATEGORIES:Conference,Panel
+DESCRIPTION:Presenters: Ingo Barkow, Oliver Hopt, Dan Gillman
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1630-reports@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T163000
+DTEND;TZID=Europe/Madrid:20251024T183000
+SUMMARY:DCMI 2025 - Project Reports
+LOCATION:Aula Rubió (210), University of Barcelona, Spain
+CATEGORIES:Conference,Project Reports
+DESCRIPTION:Presenters: Kalliopi Mathios, Jeremy Nelson, Jussara Teixeira, Charlene Chou, Gila Prebor, Stacy Allison-Cassin, Karen Coyle
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dcmi-2025-1024-1830@article-dcmi
+DTSTAMP:20251014T120000Z
+DTSTART;TZID=Europe/Madrid:20251024T183000
+DTEND;TZID=Europe/Madrid:20251024T190000
+SUMMARY:DCMI 2025 - Closing Ceremony
+LOCATION:Auditorium, University of Barcelona, Spain
+CATEGORIES:Conference
+DESCRIPTION:Closing Ceremony
+END:VEVENT
+
+END:VCALENDAR
+

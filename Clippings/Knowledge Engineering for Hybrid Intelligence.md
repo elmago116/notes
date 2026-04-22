@@ -16,8 +16,8 @@ enrichment_attempts:
   - arxiv_doi
   - openalex_title
 authors:
-  - Ilaria Tiddi,
-  - Victor de Boer,
+  - Ilaria Tiddi
+  - Victor de Boer
   - Stefan Schlobach
   - André Meyer-Vitali
 tags:

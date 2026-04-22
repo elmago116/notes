@@ -2,7 +2,7 @@
 Type: Poster
 authors:
 tags:
-  - tech/hybrid
+  - tech/NeSyAI/hybrid
   - Tech/polyvocality
 ---
 ![[Interaction patterns for polyvocal knowledge acquisition.pdf]]

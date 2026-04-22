@@ -8,7 +8,7 @@ Issue: 8
 Pages: 4899-4925
 Abstract: Presents a methodology that includes tasks for "assessing and mitigating bias at schema and data levels" in knowledge graphs. The CHEKG methodology addresses bias assessment as part of the knowledge graph engineering lifecycle.
 tags:
-  - op/project/similar
+  - op/projects/similar
   - Tech/KG
   - tech/collaborative
   - tech/evaluation/KG

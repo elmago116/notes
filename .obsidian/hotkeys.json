@@ -1,1 +1,10 @@
-{}
+{
+  "bibtex-manager:create-bibtex": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ]
+}

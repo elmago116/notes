@@ -4,16 +4,16 @@ authors: Palma, C.
 year: 2023
 doi: https://doi.org/10.3233/FAIA230129
 tags:
-  - Tech/NeuroSymbolic
+  - Tech/NeSyAI
   - Humanities/culturalHeritage
   - design/user_driven
   - op/acc/done
-enrichment_attempts: openalex_doi", "arxiv_doi
+enrichment_attempts: openalex_doi, arxiv_doi
 published in: Frontiers in Artificial Intelligence and Applications
 url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171446260&doi=10.3233%2fFAIA230129&partnerID=40&md5=b882d5bee468483fbf05d8756db5dd7d
 apa_citation: Palma, C., 2023
 ---
-[[Neurosymbolic Narrative Generation for Cultural Heritage.pdf]].
+[[Neurosymbolic Narrative Generation for Cultural Heritage.pdf]]. #Tech/model 
 
 ![[Neurosymbolic Narrative Generation for Cultural Heritage.pdf#page=10&rect=118,538,495,733|Neurosymbolic Narrative Generation for Cultural Heritage, p.518]]
 
@@ -31,7 +31,7 @@ Keywords:
 
 ## Notes for digital libraries article
 - **Process-driven**:
-  - “Aim of my research is to exploit Linguistic Linked Open Data (LLOD) as base for advanced Cultural Heritage (CH) fruition by means of Automatic Story Generation (ASG).” (Abstract)
+  - “Aim of my research is to exploit Linguistic Linked Open Data (LLOD)  #tech/LOD  as base for advanced Cultural Heritage (CH) fruition by means of Automatic Story Generation  #tech/ASG (ASG).” (Abstract)
   - “This thesis explores neurosymbolic approaches to ASG, leveraging Linked Open Data (LOD, in particular the linguistic ones) and LOD-aware Natural Language Generation (NLG) procedures.” (Introduction)
 - **Methodological tools**:
   - “The input-2-graph and the graph-2-sequence ASG-pipeline phases, heavily relying on LLOD, will be given a deeper focus, whereby the final Natural Language Generation (NLG) module will be constrained by the entities and relations established in the Knowledge Graph (KG) generation modules (a configuration typical of the neurosymbolic approach).” (Abstract)
@@ -120,7 +120,7 @@ to interest, amuse and educate
 3. The term ”narrative” has been preferred because even
 ”story” is subject to similar ambiguities; moreover, it better conveys the idea of a presen-
 tation, whereby the objective substance is deployed in a particular fashion from a speciﬁc
-standpoint #Humanities/digitalHumanities #themes/story   . The term ”story”, on the other hand, seems to hint more speciﬁcally to a plot,
+standpoint #Humanities/digitalHumanities #Humanities/narratives . The term ”story”, on the other hand, seems to hint more speciﬁcally to a plot,
 and to literature features such as the writing style.
 Currently in the cultural heritage domain, the single institutions provide their open
 data to the national aggregator which can forward it to the European database for CH

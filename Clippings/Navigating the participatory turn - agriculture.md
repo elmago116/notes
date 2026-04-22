@@ -1,5 +1,5 @@
 ---
-title: "Navigating the participatory turn agriculture"
+title: Navigating the participatory turn agriculture
 authors:
   - Félix Dupin-Meynard
   - Emmanuel Négrier
@@ -15,6 +15,7 @@ base: clippings
 source: Manual
 tags:
   - design/participatory
+  - design/participatory/participatoryTurn
 last_enrichment_run: 2025-08-20
 pages: 235-255
 updated: 2025-08-20

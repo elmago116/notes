@@ -13,7 +13,7 @@ views:
       - authors
     sort:
       - property: date
-        direction: ASC
+        direction: DESC
     columnSize:
       file.name: 220
       file.tags: 98

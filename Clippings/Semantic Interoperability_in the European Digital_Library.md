@@ -8,6 +8,8 @@ description:
 tags:
   - tech/semanticWeb
   - op/doc/tool
+  - tech/metadata/FAIR
+  - tech/cidocCrm
 DOI:
 Type: Proceedings
 year: "2008"

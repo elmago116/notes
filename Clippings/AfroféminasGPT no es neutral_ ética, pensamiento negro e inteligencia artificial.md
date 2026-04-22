@@ -8,7 +8,7 @@ description: "AfroféminasGPT es una inteligencia artificial no neutral, creada 
 tags:
   - "themes/gender"
   - "tech/ai"
-  - "op/project/similar"
+  - "op/projects/similar"
 DOI:
 Type: "Webpage"
 year:

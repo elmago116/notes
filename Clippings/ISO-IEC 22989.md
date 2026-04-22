@@ -18,7 +18,7 @@ tags:
   - Tech
 apa_citation: Nursel Yalçın & Berker Kılıç, 2019
 ---
-[[ISO-IEC 22989.pdf]]
+![[ISO-IEC 22989.pdf]]
 
 ## PDF text extraction
 

@@ -7,7 +7,7 @@ published:
 created: 2025-12-04
 description:
 tags:
-  - tech/hybrid
+  - tech/NeSyAI/hybrid
   - design/evaluation
   - design/UCD/
   - op/acc/download

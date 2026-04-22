@@ -29,6 +29,7 @@ tags:
   - themes/arquitecture_urban
   - Tech/KG
   - design/stakeholders
+  - design/method
 apa_citation: Sean N. Gordon et al., 2021
 ---
 [[Clippings/PDF/People, Projects, Organizations, and Products_ Designing a Knowledge Graph to Support Multi-Stakeholder Environmental Planning and Design.pdf]]

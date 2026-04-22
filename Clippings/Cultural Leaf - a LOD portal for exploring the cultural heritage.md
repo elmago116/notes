@@ -16,6 +16,17 @@ apa_citation: Dorobăț et al., 2024
 
 [[Cultural Leaf - a LOD portal for exploring the cultural heritage.pdf]]
 
+## Extraction
+
+- **Process-driven (phases/patterns)**:
+  - “The paper introduces the Cultural Leaf Semantic Portal whose aim is to provide a consolidated user-friendly solution for exploring the 36,132 Romanian artifacts and the 1,086 cultural entities that house them.” (Abstract)
+  - Data are collected from official sources, sanitised, temporal expressions normalised, then transformed into semantic structures accessible via SPARQL and a portal. (Abstract)
+- **Methodological tools/models**:
+  - Use of the eCHO framework for data transformation, normalisation of temporal expressions, and publication as Linked Open Data through a SPARQL endpoint and semantic portal. (Abstract)
+- **Levels of participation/engagement**:
+  - The portal is described as “user‑friendly” but no participatory design, workshops, or user testing are detailed in this clipping.
+- **Inclusion/representational gaps/epistemic justice**:
+  - No explicit treatment of gender, intersectionality, or epistemic justice appears; the focus is on improving access to Romanian cultural-heritage data.
 
 
 Authors: Dorobăț, I.C. et al.

@@ -30,6 +30,17 @@ Keywords:
 
 Links: [Scopus](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139766860&partnerID=40&md5=98fa5dc27bdd0c72c905d7179221ee0b)
 
+## Extraction
+
+- **Process-driven (phases/patterns)**:
+  - “The project investigates solutions in data harmonisation and dissemination of pan-European cultural heritage through an interdisciplinary and cross-sectoral project in Digital Humanities, semantic computing, participatory heritage, museum collections management and archaeological/numismatic studies.” (Abstract)
+  - “Using Finnish and English numismatic data as a test case, DigiNUMA creates ontological infrastructure and a proof-of-concept data model for finely-grained Linked Open Data (LOD) harmonisation across national and international databases for cultural heritage data…” (Abstract)
+- **Methodological tools/models**:
+  - Creation of ontological infrastructure and a proof-of-concept LOD data model, tested “through a broad suite of Digital Humanities analyses.” (Abstract)
+- **Levels of participation/engagement**:
+  - The project is framed as “participatory heritage” but this clipping does not detail concrete co-design activities; collaboration is mainly described at the level of institutions and disciplines.
+- **Inclusion/representational gaps/epistemic justice**:
+  - No explicit discussion of gender, intersectionality, or epistemic justice appears in this clipping; focus is on harmonising numismatic and archaeological heritage data.
 ## Notes for digital libraries article
 - **Process-driven**:
   - “The project investigates solutions in data harmonisation and dissemination of pan-European cultural heritage through an interdisciplinary and cross-sectoral project in Digital Humanities, semantic computing, participatory heritage...” (Abstract)

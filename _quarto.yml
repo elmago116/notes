@@ -1,0 +1,49 @@
+project:
+  type: default
+  output-dir: output
+
+# Bibliography configuration
+bibliography: bibliography.bib
+
+# Citation style (APA 7th edition)
+# Download from: https://github.com/citation-style-language/styles/blob/master/apa.csl
+# csl: apa.csl
+
+format:
+  pdf:
+    documentclass: article
+    citation-style: apa
+    fig-dpi: 300
+    keep-tex: true
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    fontfamily: lmodern
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    citecolor: blue
+  
+  html:
+    theme: cosmo
+    citation-style: apa
+    toc: true
+    toc-depth: 3
+    code-fold: true
+  
+  docx:
+    citation-style: apa
+    reference-doc: template.docx  # Optional: custom Word template
+
+# Cross-reference options
+crossref:
+  fig-title: "Figure"
+  tbl-title: "Table"
+  title-delim: ":"
+
+# Execute code chunks
+execute:
+  echo: false
+  warning: false
+  message: false

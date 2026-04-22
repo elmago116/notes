@@ -1,0 +1,52 @@
+---
+tags:
+  - op/doc/tool
+  - Humanities/historicalMemory
+---
+
+
+**Universidad EAFIT**
+
+**Departamento de Humanidades**
+
+**Maestría en Estudios Humanísticos**
+
+**Curso básico de estudios históricos 1**
+
+Taller basado en textos de Roger Chartier y Paul Ricoeur sobre los planteamientos epistemológicos de la disciplina histórica.
+
+Elena M. Gómez: [egomezri@eafit.edu.co](mailto:egomezri@eafit.edu.co) / [elmago116@gmail.com](mailto:elmago116@gmail.com)
+
+Nada existe
+
+si fuera sería incognoscible y
+
+si fuera cognoscible sería incomunicable.
+
+_Gorgias, Sofista (_[_c._](https://es.wikipedia.org/wiki/Circa) [_485 a. C._](https://es.wikipedia.org/wiki/485_a._C.)_-c. 380 a. C.)_
+
+Cuando uno se acerca al cuestionamiento epistemológico de la disciplina histórica, desde los autores que se tratarán en este texto, entra en un terreno que es movedizo que paralelamente busca construir las bases de su hacer, aunque esté en pleno momento de transformación. La reflexión que se presentará en este documento parte del análisis de uno de los filósofos franceses más influyentes en el pensamiento contemporáneo, llamado Paul Ricoeur y las lecturas que de sus textos hace Roger Chartier, historiador que ha hecho reconocidos aportes a la disciplina histórica.
+
+De Ricoeur se toma el segundo capítulo del libro _La memoria, la historia y el olvido_ en el cual muestra la organización triádica en la que el filósofo francés Paul Ricoeur reflexiona sobre la constitución epistemológica de la historia. De Chartier se toma el artículo llamado “El pasado en el presente. Una lectura de Ricoeur”, en el que hace una lectura crítica del texto de Ricoeur y reconoce explícitamente que a los historiadores ha ayudado a ==“ser más lúcidos dentro de su propia práctica y a comprender cómo la intención de verdad sobre la que está fundada su disciplina no puede separarse de los parentescos que vinculan su escritura a la de los relatos de ficción” (Chartier, 2005:69)==. En ambos se evidencian discusiones en plena ebullición, procesos de revisión y de respuesta a los paradigmas de conocimiento que matizan la visión que se tiene de éste y del mundo que se mostrarán más adelante.
+
+Iniciaremos abordando las diferencias entre testimonio y documento en las que es inevitable encontrarse entre líneas con varias maneras de entender la historia y sus críticas. Luego está la manera como Chartier acude a la noción de _representación_ y también cómo lo hace Ricoeur para dar un lugar al historiador, a su subjetividad y a sus preguntas en la operación historiográfica. Allí se encuentra también otra controversia de la propuesta en la que Ricoeur da sentido a la existencia tanto del “género literario” de la historia como de sus pretensiones de verdad, pero Ricoeur les da un vuelco pues, aunque usa las palabras literatura y ciencia, no está hablando propiamente ni de las mismas características de la literatura ni de las de la ciencia, como lo entendemos hoy. Terminaremos el texto nombrando algunas actualizaciones que propone Chartier en algunos aspectos del texto de Ricoeur que son….
+
+Empezaremos por desarrollar un poco más la manera en la que Chartier lee las diferencias que Ricoeur propone entre _testimonio y documento_ para tratar de disipar la conspiración de la sospecha de falsedad en el uno como en el otro_._ Aquello que los divide se presenta de 3 maneras: la naturaleza o aquello que las constituye, la posibilidad de conocimiento que hay en cada una y su relación con el tiempo. Chartier dice: “A la estructura fiduciaria del testimonio se opone la naturaleza indiciaria del documento” (Chartier, 2005:73) y pone en relación de oposición a la credibilidad que pide quien estuvo presente, y “puede asegurar” que efectivamente el hecho sucedió, con la posibilidad de refutación y de falsabilidad que tiene el documento el cual se convierte en prueba histórica por medio de trabajos rigurosos y minuciosos de falsación.
+
+Si bien el testimonio debe ser fiel a los hechos, en el documento hay una intención de verdad que se valida por medio de modelos de inteligibilidad que, según Chartier, permiten acceder a nuevos conocimientos. Esto planta una diferencia clara para establecer el paso de la memoria a la historia pues define que el conocimiento histórico no es lo guardado en ella, y la posibilidad de traer el pasado al presente no es necesariamente a través de ella solamente y se valoriza el documento y la acción de construcción de la historia.
+
+Hay también una cuestión referente a la posibilidad de recepción en ambos. Chartier propone que para el caso de la memoria existe la dificultad que emerge en la inseparabilidad del testimonio y el testigo, también su capacidad de mantener el hecho intacto en el tiempo y la suposición de la existencia de un receptor que tiene la capacidad de comprender ese testimonio. A ello Ricoeur añade la problemática que surge en los testimonios del dolor para los que no hay un receptor que pueda comprenderlo y al mismo tiempo hay una necesidad opuesta a la que da origen a la historia que Ricoue trae como el derecho al olvido.  Desde la relación de cada una con la temporalidad resaltan ambos la inmediatez de la reminiscencia del testimonio y por otro lado, la construcción lenta de la explicación histórica presente en el documento.
+
+Las diferencias que se presentan parecen tener como finalidad dar una posibilidad de solución a la aporía de la memoria y a la discusión que reduce la historia a una narración testimonial de lo sucedido como era entendido por herencia de Herodoto y Tucídides. Para ampliar el ejercicio histórico Ricoeur anuncia que “estos intercambios entre indicios y testimonios no deben ser un obstáculo para la diferencia de usos” (Ricoeur, 2004:228) y les da sentido en su planteamiento de la operación historiográfica en 3 fases: La primera es la _fase documental_ que parte de la declaración de los testigos hasta la constitución de archivos y establece la prueba documental; le sigue la _fase explicativa/comprensiva_ que pretende dar una respuesta a la pregunta ¿por qué las cosas sucedieron así y no de otra manera?, en la que Ricoeur pone un énfasis para la operación de construcción de conocimiento histórico; y finalmente, está la _fase representativa_ en la que hay una configuración del discurso histórico con fines comunicativos (Ricoeur, 2004:177).
+
+Ricoeur elige la noción de _representación_ para la operación historiográfica porque “tiene un estatus ambiguo” (Chartier, 2005:73) que tiene una implicación objetual “a la vez que define el régimen mismo de los enunciados históricos” (Chartier, 2005:73). Con esto abre la constitución de la historia sin quitarle rigor ni posibilidad de verdad sino que le da pie a pensar en las variaciones de escala en los que nombra, por ejemplo, los trabajos de Pomian (con la cronometría, cronología y cronosofía).
+
+Después de esto puede describirse otra de las discusiones que tomar parte en esta problemática en la disciplina histórica y es si, reconociendo en ella la narración y la ambigüedad antes descrita es sólo un género Literario o puede constituirse como disciplina académica y allí, tanto Ricoeur como Chartier plantean divisiones e integraciones.
+
+Como la historia tiene una pretensión de verdad en el momento de la representación y construcción del discurso histórico debe usar _efectos de lo real_ que son la integración de las pruebas y las posibilidades de refutación dentro del discurso. Ahora bien, este recurso ha sido apropiado también por la ficción literaria así como en el discurso histórico han sido usados elementos de las narrativas y de la retórica, los cuales parecen exclusivos de la creación literaria. En el primer sentido dichos _efectos_ aportan verosimilitud a la narración ficticia aportando al pacto ficcional necesario para la construcción de la visión de mundo del autor. Esto hace que sea fácil confundirse pero por otro lado, también es fácil distinguirlos aunque es un ejercicio de conocedores que a ojos de un lector común puede pasar desapercibido y quedar engañado. Así los _efectos de lo real_ son tanto de un campo como del otro pero se usan de maneras distintas y con propositos distintos. Los une un proposito que es comunicar la construcción realizada para el caso de la disciplina histórica y para el caso literario, la visión de mundo del autor y los diferencia, “la pulsión referencial del relato histórico” (Ricoeur, 2004:315).
+
+La disciplina historiográfica, en la búsqueda de la verdad se encontró con los grados de verosimilitud y con el oficio de la construcción de la prueba documental. La manera en la que Ricoeur presenta la disciplina histórica, aunque la nombra como ciencia dista mucho de estar en la búsqueda de tener la misma naturaleza que “la ciencia”. También pasa con la literatura, y aunque use las técnicas y herramientas narrativas no puede decirse que sea literatura. En cada momento o _fase_ de la operación historiográfica es que Ricoeur propone salidas a las grandes discusiones que trataban de establecer el estatuto epistemológico de la historia.
+
+Para concluir retomaré el epígrafe escéptico en exceso de Gorgias frase a frase aunque tenga dentro de la filosofía otro sentido. No intento decir que Gorgias y su escepticismo hayan nombrado lo mismo que Ricoeur y Chartier en estos textos pero si uno la disecciona puede verle ciertas relaciones.
+
+En la primera frase dice: _nada existe,_ y aunque se refiere a un estatuto ontológico del ser que es _no ser_ puede verse allí también la imposibilidad de entender el hacer histórico como ciencia, como conocimiento que busca decir lo que _es_ la realidad de manera totalizadora, como intenaría hacerlo la ciencia misma. Luego dice: _si fuera, sería incomprensible_ que también podría pensarse en relación al caracter procesual, elaborado, singular, “indirecto, indiciario y conjetural” (Ricoeur, 2004:217) del conocimiento histórico. Ese caracter de la historia que se origina en las dificultades de intentar conocer una cosa que “no existe” (el pasado) y que busca comprender en presente y en _representación_ con ese mismo presente. Cierra diciendo: _si fuera, sería incomunicable,_ como plantando el reto pero también teniendo en cuenta lo necesarios que son los procesos divulgativos en esta disciplina y expresandolo como imposible lo que hace es evidenciar la dificultad de comunicar esa comprensión del hombre en el tiempo que sin perder rigor es humilde ante la verdad suprema, renuncia a ella y así sigue desprendiendose de su “creador”.

@@ -1,5 +1,25 @@
 .obsidian/plugins/TFM/Scimat simulation/
 
+# --- Fewer Git/Cursor “too many changes” warnings ---
+.DS_Store
+*.pkg
+.venv/
+.venv-*/
+.trash/
+.cursor/
+# Text extractor cache (thousands of JSON blobs; safe to exclude)
+.obsidian/plugins/text-extractor/cache/
+# Mis-placed home-like folder name in vault root (if present)
+/~/
+
+# Large local trees (untracked); remove a line if you want that folder in Git
+BSC/
+Becas/
+PDF/
+# CPC4U/
+# Drafts/
+# ai interaction/
+
 # Ignore internal folders inside Clippings
 Clippings/.cache/
 Clippings/.obsidian/

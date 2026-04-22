@@ -1,5 +1,5 @@
 ---
-title: "An Impossible Turn? The Dialogical/Participatory Potential of Science Communication Provided by Science Centers in Light of Niklas Luhmann's Systems Theory"
+title: An Impossible Turn? The Dialogical/Participatory Potential of Science Communication Provided by Science Centers in Light of Niklas Luhmann's Systems Theory
 authors:
   - Faculty of Philosophy and Social Sciences, Institute of Sociology, Nicolaus Copernicus University in Toruń, Poland
   - Katarzyna Tamborska
@@ -13,9 +13,10 @@ source: Crossref
 tags:
   - design/participatory
   - op/doc/tool
+  - design/participatory/participatoryTurn
 issue: 3
 last_enrichment_run: 2025-08-20
-publisher: "Projekt Avant"
+publisher: Projekt Avant
 updated: 2025-08-20
 url: https://doi.org/10.26913/ava3202410
 volume: 15

@@ -1,5 +1,5 @@
 ---
-title: "Reasoning With Bias"
+title: Reasoning With Bias
 authors:
   - Chiara Manganini
   - Giuseppe Primiero
@@ -11,6 +11,7 @@ tags:
   - themes/bias
   - tech/Ai
   - themes/ethics
+  - op/acc/download
 ---
 
 # Notes

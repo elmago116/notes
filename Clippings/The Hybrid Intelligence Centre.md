@@ -6,7 +6,7 @@ published:
 created: 2025-12-12
 description:
 tags:
-  - tech/hybrid
+  - tech/NeSyAI/hybrid
   - op/doc/journal
 DOI:
 Type:

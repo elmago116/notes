@@ -172,8 +172,8 @@
     }
   ],
   "selectionProductMenuConfig": [
-    "color",
     "copy-format",
+    "color",
     "display"
   ],
   "writeFileProductMenuConfig": [
@@ -320,5 +320,7 @@
   "vimSmoothOutlineMode": true,
   "vimHintChars": "hjklasdfgyuiopqwertnmzxcvb",
   "vimHintArgs": "all",
-  "PATH": ""
+  "PATH": "",
+  "autoCheckForUpdates": true,
+  "fixObsidianTextSelectionBug": true
 }

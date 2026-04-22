@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.name.contains("ubxat")
+    - '!file.ext.containsAny("py")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - date
+    columnSize:
+      file.name: 384
+      file.tags: 225

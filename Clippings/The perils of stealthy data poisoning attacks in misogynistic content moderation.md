@@ -7,7 +7,7 @@ created: 2026-01-13
 description:
 tags:
   - "themes/gender"
-  - "tech/dataPoisoning"
+  - "tech/Ai/dataPoisoning"
   - "lis/contentModeration"
 DOI:
 Type:

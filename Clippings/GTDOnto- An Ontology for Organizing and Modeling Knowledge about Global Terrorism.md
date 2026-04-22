@@ -28,6 +28,18 @@ apa_citation: Reem Qadan Al-Fayez et al., 2023
 
 [[GTDOnto- An Ontology for Organizing and Modeling Knowledge about Global Terrorism.pdf]]
 
+## Extraction
+
+- **Process-driven (phases/patterns)**:
+  - “In this paper, we proposed GTD Ontology (GTDOnto) to organize and model knowledge about global incidents, targets, perpetrators, weapons, and other related information.” (Abstract)
+  - “The NeOn methodology for ontology engineering suggests a variety of pathways for developing ontologies… four main phases for ontology development: (i) the initiation phase… (ii) the design phase… (iii) the implementation phase… (iv) the maintenance phase…” (p. 4)
+- **Methodological tools/models**:
+  - Ontology engineering based on the NeOn methodology, implemented in OWL with Protégé and evaluated via competency questions, domain-expert opinions, and running examples. (Abstract)
+- **Levels of participation/engagement**:
+  - Evaluation involves domain experts (browsing, curating, analysing data) rather than lay users; participation is expert consultation. (p. 6)
+- **Inclusion/representational gaps/epistemic justice**:
+  - The sensitive terrorism domain is acknowledged, and GTDOnto is positioned as supporting consistent representation of incidents; explicit treatment of bias, intersectionality, or epistemic justice is limited in this clipping.
+
 ## Abstract
 
 [Read online](https://www.mdpi.com/2504-2289/7/1/24)

@@ -21,7 +21,7 @@ apa_citation: Arabinda Bhandari, 2022
 ---
 
 
-[[Design Thinking from Bibliometric Analysis to Content Analysis, Current Research Trends, and Future Research Directions.pdf]]
+![[Design Thinking from Bibliometric Analysis to Content Analysis, Current Research Trends, and Future Research Directions.pdf]]
 
 
 [[Design Thinking from Bibliometric Analysis to Content Analysis, Current Research Trends, and Future Research Directions.pdf]]

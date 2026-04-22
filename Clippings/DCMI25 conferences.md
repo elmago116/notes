@@ -9,7 +9,7 @@ tags:
 
 Linked PDF file(s) for **DCMI25 conferences**:
 
-- [[PDF/DCMI25 conferences.pdf]]
+- [[DCMI25 conferences.pdf]]
 
 ## PDF text extraction
 

@@ -6,7 +6,7 @@ published:
 created: 2026-02-18
 description:
 tags:
-  - "tech/ia"
+  - "tech/ai"
 DOI:
 Type:
 year:

@@ -15,6 +15,7 @@ tags:
   - Tech/KG/linked_open_data
 apa_citation: Patti, V. et al., 2015
 ---
+[[ArsEmotica for arsmeteo.org- Emotion-driven exploration of online art collections.pdf]]
 
 Authors: 
 

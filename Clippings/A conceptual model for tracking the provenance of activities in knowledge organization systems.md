@@ -15,6 +15,8 @@ doi: https://doi-org.sire.ub.edu/10.1108/JD-05-2024-0101
 ---
 [[ A conceptual model for tracking the provenance of activities in knowledge organization systems]]
 
+[[A conceptual model for tracking the provenance of activities in knowledge organization systems.pdf]]
+
 [Skip to Main Content](https://www-emerald-com.sire.ub.edu/jd/article/81/1/147/1242148/#skipNav)
 
 [Skip Nav Destination](https://www-emerald-com.sire.ub.edu/jd/article/81/1/147/1242148/#)

@@ -12,6 +12,7 @@ tags:
   - tech/Ai/LLM
   - themes/ethics
   - themes/bias/data
+created: 2025-12-18
 ---
 > ([[Social Science Is Necessary for Operationalizing Socially Responsible Foundation Models.pdf#page=3&annotation=587R|Social Science Is Necessary for Operationalizing Socially Responsible Foundation Models, p.3]])
 > To provide and deploy foundation models in a socially-responsible manner, we argue that it is necessary to involve social science expertise throughout the foundation model R&D process. In particular, we propose a conceptual framework to decompose this task into three key components: 

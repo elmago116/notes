@@ -4,8 +4,8 @@ type: article
 base: clippings
 source: pdf
 tags:
-  - Tech/NeuroSymbolic
-  - tech/Hybrid
+  - Tech/NeSyAI
+  - tech/NeSyAI/hybrid
   - Humanities/digitalHumanities
 authors:
   - Zhen Huang

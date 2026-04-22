@@ -7,7 +7,7 @@ published:
 created: 2024
 description:
 tags:
-  - "Tech/RAG"
+  - "Tech/Ai/RAG"
   - "op/doc/tool"
 DOI: "No"
 ---

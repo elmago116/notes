@@ -7,6 +7,7 @@ title: Ciència Ciutadana o Ciutadanies Científiques? Quatre Models de Particip
 tags:
   - themes/citizenScience
 apa_citation: Gómez-Ferri, Javier. 2014
+journal: International journal of deliberative mechanisms in science
 ---
 ![[Ciència Ciutadana o Ciutadanies Científiques? Quatre Models de Participació en Ciència i Tecnologia.pdf]]
 

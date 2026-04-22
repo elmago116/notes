@@ -16,7 +16,7 @@ source:https: //orcid.org/0000-0003-3788-6442
 tags:
   - Tech/KG
   - Tech/SemanticWeb
-  - tech/hybrid
+  - tech/NeSyAI/hybrid
 apa_citation: Alba Catalina Morales Tirado, Jason Carvalho", "Marco Ratta", "Chukwudi Uwasomba", "Paul Mulholland", "Helen Barlow", "Trevor Herbert, Enrico Daga, 2024
 ---
 [[The Semantic Web 21st International Conference, ESWC 2024.pdf]]

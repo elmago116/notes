@@ -7,7 +7,7 @@ created: 2026-02-10
 description:
 tags:
   - "op/doc/tool"
-  - "evaluation"
+  - "tech/evaluation"
 DOI:
 Type:
 year:

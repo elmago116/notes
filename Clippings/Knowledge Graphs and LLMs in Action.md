@@ -10,7 +10,7 @@ tags:
   - op/acc/leer
   - tech/Ai/LLM
   - Tech/KG
-  - tech/hybrid
+  - tech/NeSyAI/hybrid
 year: "2025"
 ---
 # 1.

@@ -11,8 +11,8 @@ authors:
   - Elena Gómez
 ---
 [[General Methodological context and theoretic framework]]
-[[Borrador_Participatory_Design_Digital_Libraries]]
-[[Maqueta Digital Libraries -12]] [[Maqueta Digital Libraries_with_citations]]
+[[Maqueta 12+tutor comments]]
+[[Maqueta 12]] [[Maqueta Digital Libraries_with_citations]]
 
 # Participantes
 Miquel, Nuria, Elena
@@ -27,7 +27,7 @@ Miquel, Nuria, Elena
 	2. Reunión con Enriq e Isabelle? 
 
 # Avances
-1. [[Borrador_Participatory_Design_Digital_Libraries]]
+1. [[Maqueta 12+tutor comments]]
 2. [[Hipertext-2025_ElenaG.docx]]
 
 

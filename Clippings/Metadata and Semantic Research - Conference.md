@@ -13,51 +13,16 @@ doi: https://doi.org/10.1007/978-3-030-98876-0
 ---
 [[Metadata and Semantic Research - Conference.pdf]]
 
-Emmanouel Garoufallou
-María-Antonia Ovalle-Perandones
-Andreas Vlachidis (Eds.)
-15th International Conference, MTSR 2021
-Virtual Event, November 29 – December 3, 2021
-Revised Selected Papers
-Metadata and 
-Semantic Research
-Communications in Computer and Information Science 1537
+## Extraction
 
-Communications
-in Computer and Information Science 1537
-Editorial Board Members
-Joaquim Filipe
-Polytechnic Institute of Setúbal, Setúbal, Portugal
-Ashish Ghosh
-Indian Statistical Institute, Kolkata, India
-Raquel Oliveira Prates
-Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil
-Lizhu Zhou
-Tsinghua University, Beijing, China
-
-More information about this series at https://link.springer.com/bookseries/7899
-
-Emmanouel Garoufallou ·
-María-Antonia Ovalle-Perandones ·
-Andreas Vlachidis (Eds.)
-Metadata and
-Semantic Research
-15th International Conference, MTSR 2021
-Virtual Event, November 29 – December 3, 2021
-Revised Selected Papers
-
-Editors
-Emmanouel Garoufallou
-International Hellenic University
-Thessaloniki, Greece
-Andreas Vlachidis
-University College London
-London, UK
-María-Antonia Ovalle-Perandones
-Complutense University of Madrid
-Madrid, Spain
-ISSN 1865-0929 ISSN 1865-0937 (electronic)
-Communications in Computer and Information Science
+- **Process-driven (phases/patterns)**:
+  - The volume introduces the 15th International Conference on Metadata and Semantic Research (MTSR 2021), framing metadata and semantic technologies as part of ongoing research and development cycles in digital libraries and related domains. (Preface)
+- **Methodological tools/models**:
+  - Contributions in the volume (including participatory archives work) combine semantic-web standards, metadata schemas, and knowledge-organization models to support semantic interoperability and enriched discovery. (Preface and table of contents)
+- **Levels of participation/engagement**:
+  - For the specific case of **participatory archives**, archivists and researchers collaborate in customising and enriching school archives, with sustained involvement rather than purely one-off consultation. (Hocker et al., 2022 chapter)
+- **Inclusion/representational gaps/epistemic justice**:
+  - The participatory-archives contribution highlights community involvement in shaping how archival materials are described and accessed, with implications for whose perspectives are documented in school-archive metadata. (Hocker et al., 2022 chapter)
 ISBN 978-3-030-98875-3 ISBN 978-3-030-98876-0 (eBook)
 https://doi.org/10.1007/978-3-030-98876-0
 © Springer Nature Switzerland AG 2022

@@ -6,7 +6,7 @@ published:
 created: 2026-02-17
 description:
 tags:
-  - "tech/bias/agorithmic"
+  - "themes/bias/agorithmic"
 DOI:
 Type:
 year:

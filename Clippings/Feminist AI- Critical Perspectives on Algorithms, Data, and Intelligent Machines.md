@@ -10,7 +10,10 @@ DOI:
 Type:
 year:
 ---
-[[Feminist AI: Critical Perspectives on Algorithms, Data, and Intelligent Machines.pdf]] esta en boox
+
+[[Feminist AI- Critical Perspectives on Algorithms, Data, and Intelligent Machines.pdf]]
+
+
 
 Book
 

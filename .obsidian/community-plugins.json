@@ -9,6 +9,13 @@
   "obsidian-checklist-plugin",
   "text-extractor",
   "pdf-plus",
-  "onyx-boox-extractor",
-  "calendar"
+  "calendar",
+  "obsidian-languagetool-plugin",
+  "obsidian-enhancing-export",
+  "deepl",
+  "mermaid-helper",
+  "bibtex-manager",
+  "markdown-table-editor",
+  "obsidian-pandoc",
+  "textgrams"
 ]

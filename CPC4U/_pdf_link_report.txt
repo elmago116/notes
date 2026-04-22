@@ -1,0 +1,23 @@
+=== NO MATCH ===
+0.571	Campos2022 - Comunicaciόn efectiva de la ciencia--- qué es y cόmo ayuda a los cient-'-ificos a mejorar su carrera y cumplir obje.pdf
+0.591	Communicating science in Latin America- insights, challenges, and future directions.pdf
+0.661	Communicating science in the universities.pdf
+0.595	Comunicacion_publica_de_la_ciencia_y_construccion_.pdf
+0.568	Comunicación para la ciencia, una ruta hacia la visibilidad en la Universidad Autónoma de Bucaramanga (UNAB).pdf
+0.531	Comunicar la ciencia en Iberoamérica - un sobrevuelo por la región.pdf
+0.586	Comunicação e universidades- a comunicação pública da ciência e a divulgaçãocientífica em universidades públicas do Sul do Brasil.pdf
+0.616	Dialnet-ElPapelDeLasUniversidadesEnLaDivulgacionCientifica-10111457.pdf
+0.491	Divulgación, transferencia e impacto social de la ciencia Granada Abril de 2025.pdf
+0.550	Dávila Rodríguez, Lisha y Alamo, O (...) (2024). Políticas institucionales y gestión de la comunicación pública de la ciencia y la (...).pdf
+0.570	Henke2025 - The new normal- the increasing adoption of generative AI in university communication.pdf
+0.600	La comunicación científica. Una perspectiva universitaria.pdf
+0.482	Morόn Monge2018 - Con el agua--- mόjate- Un proyecto de innovaciόn docente y alfabetizaciόn cient-'-ifica.pdf
+0.612	Popularización de la ciencia en América Latina - experiencias, avances y desafíos em 35 años deRedPOP.pdf
+0.449	Routledge Handbook of Public Communication of Science and -- Massimiano Bucchi, Brian Trench -- Routledge international handbooks, Third edition, -- 9780367483128 -- dfade4b971e402f572ac339cd65f0365 -- Anna’s Archive.pdf
+0.621	Universidades Públicas del nordeste argentino- indicadores y prácticas de Comunicación Pública de la Ciencia y la Tecnología.pdf
+0.575	Who works in science communication_ indentifying and characterizing professional profiles in Spain.pdf
+
+=== DUPLICATE NOTE (same clipping, multiple PDFs) ===
+Communicating Science A Global Perspective.md	already:Broks2020 - Communicating science- a global perspective.pdf	skipped:Daza-Caicedo2020 - Communicating Science- A Global Perspective.pdf	0.880
+A scoping review on the connection between research and practice in science communication.md	already:A scoping review on the connection between research and practice in science communication.pdf	skipped:Saladie2025 - A scoping review on the connection between research and practice in science communication.pdf	1.000
+Thinking tools for moving across boundaries.md	already:Perrault2015 - Thinking tools for moving across boundaries.pdf	skipped:Thinking Tools for Moving across Boundaries.pdf	0.862

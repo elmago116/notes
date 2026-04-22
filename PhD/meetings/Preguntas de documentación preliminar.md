@@ -11,7 +11,7 @@ authors:
 ---
 Thomas tenía una dificultad para la reunión entonces se quedó hasta las 4:00 pm 
 Miquel expresó conformidad con los documentos. 
-Elena preguntó si todos los prompts dispuestos en [[ubxat]] eran todos. Thomas responde que sí y explica la diferencia entre los prompts de usuario y los estructurales (que son los revisados). 
+Elena preguntó si todos los prompts dispuestos en [[UBXAT resumen de fase de diseño]] eran todos. Thomas responde que sí y explica la diferencia entre los prompts de usuario y los estructurales (que son los revisados). 
 
 Miquel comenta sobre los 4 formas de evaluación y sobre los quick messages para que el modelo sepa que algunos asuntos debe explicitarlos en el prompt de usuario (aún no está implementado). 
 
@@ -28,7 +28,7 @@ Se va Thomas y se revisan las expectativas de las fechas:
 Revisamos que en la memoria técnica [[Memoria tecnica - planteamiento incial del proyecto]] estuvieran las formas de evaluación cuáles son, no se encontraron fácilmente y Miquel las buscará. Explica que el proyecto se ha transformado mucho, por ejemplo, el tema del data poisoning se volvió un asunto transversal. 
 
 Tareas: 
-- [ ] Revisar el marco legal de uso de AI en Europa [[Gobernar los datos para gobernar la inteligencia artificial _ datos.gob.es]] y [[Estrategia de Unión de Datos - Desbloqueo de datos para la IA]]
-- [ ] Tener listo el borrador de presentaciones internas
+- [x] Revisar el marco legal de uso de AI en Europa [[Gobernar los datos para gobernar la inteligencia artificial _ datos.gob.es]] y [[Estrategia de Unión de Datos - Desbloqueo de datos para la IA]]
+- [x] Tener listo el borrador de presentaciones internas
 - [x] Agendar las reuniones de la semana en calendario.
 

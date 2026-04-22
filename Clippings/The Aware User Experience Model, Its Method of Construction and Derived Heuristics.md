@@ -16,9 +16,12 @@ authors:
 tags:
   - design/designHeuristics
   - design/UX
+  - design/UCD/UCDMethod
+  - "#design/UX/Method"
+  - op/acc/download
 apa_citation: Jorge Maya & Natalia Ariza, 2020
 ---
-[[Clippings/PDF/The Aware User Experience Model, Its Method of Construction and Derived Heuristics.pdf]]
+
 
 ---
 title: The Aware User Experience Model, Its Method of Construction and Derived Heuristics

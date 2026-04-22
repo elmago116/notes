@@ -39,6 +39,17 @@ author:
 ---
 [[Data Storytelling on Multi-modal Knowledge graph via data comics.pdf]]
 
+## Extraction
+
+- **Process-driven (phases/patterns)**:
+  - “We report on: (i) technical details involved in constructing the knowledge graph; (ii) processes involved in transforming a graph segment into a narrated knowledge stories; and (iii) the design and prototyping process of the eventual data comic visualisations…” (Abstract)
+- **Methodological tools/models**:
+  - “this paper investigate a data comic approach to transform complex graphical knowledge into narratives that are easier to understand and more engaging for the non-technical audience.” (Abstract)
+- **Levels of participation/engagement**:
+  - The paper positions “non-technical stakeholders (e.g., indigenous educators)” as the intended audience for accessible narratives (data comics) rather than as co-designers of the KG engineering process. (Abstract)
+- **Inclusion/representational gaps/epistemic justice**:
+  - The case addresses “the Yanyuwa language - a critically endangered Indigenous Australian language” and the need to capture “cultural and historical significance embedded in languages” for stakeholders involved in language revival. (Abstract)
+
 ## PDF text extraction
 
 Data Storytelling on Multi-modal Knowledge Graph

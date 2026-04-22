@@ -9,7 +9,7 @@ created: 2026-02-02
 description: This open access book provides practical guidance for higher education professionals looking to use Generative Artificial Intelligence (GenAI) technologies. Blending theoretical grounding with real-world examples and case studies, it gives step-by-step guidance on how to evaluate, select, and implement GenAI technologies in teaching, learning, assessment, and student support. It covers topics including automating administrative processes, adapting learning resources, and critiquing outputs. Each chapter includes reflective exercises and further reading lists and shows how AI can enhance accessibility, efficiency, and creativity in higher education. Alongside this, the many challenges and ethical considerations of using AI are introduced, including issues around plagiarism, quality control, and the need to establish governance protocols. The ebook editions of this book are available open access under a CC BY-NC-ND 4.0 licence on bloomsburycollections.com. Open access was funded by Lund University.
 tags:
   - tech/ai
-  - theme/education
+  - themes/education
   - op/suggested/tutors
   - op/acc/leer
 DOI: 10.5040/9781350535824

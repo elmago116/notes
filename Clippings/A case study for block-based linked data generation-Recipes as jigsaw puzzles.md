@@ -27,4 +27,3 @@ Keywords:
 - Knowledge Graphs: linked open data, ontology, linked data, linked open datum
 - Other: blockly, recipe, data handling, internet of thing, heterogeneous system, internet of thing ( iot ), open data
 
-[[a case ]]

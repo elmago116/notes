@@ -5,7 +5,7 @@ type: article
 base: clippings
 source: pdf
 tags:
-  - Tech/NeuroSymbolic
+  - Tech/NeSyAI
   - design/UCD/HCD
   - tech/explainability
   - op/acc/download

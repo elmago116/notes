@@ -1,0 +1,53 @@
+---
+title: "Your Paper Title"
+author: 
+  - name: "Elena Gómez"
+    affiliation: "Universidad de Barcelona"
+  - name: "Nuria Ferrán-Ferrer"
+    affiliation: "Universidad de Barcelona"
+  - name: "Miquel Centelles"
+    affiliation: "Universidad de Barcelona"
+date: today
+bibliography: bibliography.bib
+format:
+  pdf:
+    documentclass: article
+    citation-style: apa
+    fig-dpi: 300
+    keep-tex: true
+---
+
+## Introduction
+
+This study analyzes user integration in semantic AI systems @vohland2021.
+
+Previous research shows [@delgado2023; @capel2023] that participatory design approaches are essential for developing inclusive digital libraries.
+
+As shown in @fricker2007 [p. 15], epistemic justice requires attention to how knowledge is represented and who has authority over meaning-making.
+
+## Methodology
+
+This study adopts a mixed-methods design combining scoping review with content analysis of use cases.
+
+### Analytical Framework
+
+The analysis is structured through a four-dimensional framework:
+
+1. Process-oriented dimension
+2. Methodological tools dimension  
+3. Participation and engagement dimension
+4. Representational gaps and epistemic justice dimension
+
+## Results
+
+Analysis of 22 use cases reveals patterns in user integration approaches.
+
+## Discussion
+
+The findings highlight the need for early co-design in contexts involving cultural heritage or marginalized communities.
+
+## Conclusion
+
+This study contributes a systematic mapping of participatory practices in semantic AI systems for digital libraries.
+
+## References

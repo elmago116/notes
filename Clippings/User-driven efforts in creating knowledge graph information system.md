@@ -23,6 +23,17 @@ apa_citation: Stanislava Gardasevic, 2020
 
 [[User-driven efforts in creating knowledge graph information system.pdf]]
 
+## Extraction
+
+- **Process-driven (phases/patterns)**:
+  - “The study objective was to gather requirements to create a knowledge graph information system.” (Abstract)
+- **Methodological tools/models**:
+  - “The study design included semi-structured interviews with eight members of the community, followed by a website usability study with the same student participants.” (Abstract)
+- **Levels of participation/engagement**:
+  - Users contribute as informants in requirements elicitation and as evaluators in usability testing (consult/include). (Abstract)
+- **Inclusion/representational gaps/epistemic justice**:
+  - Not explicit in the Abstract/extracted summary; focus is on information needs, community practices, and decision-making support. (Abstract)
+
 ## PDF text extraction
 
 User-driven eﬀorts in creating

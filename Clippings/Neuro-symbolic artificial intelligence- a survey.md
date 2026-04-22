@@ -4,7 +4,7 @@ type: article
 base: clippings
 source: pdf
 tags:
-  - Tech/NeuroSymbolic
+  - Tech/NeSyAI
   - research_method/ScopingReview
 ---
 

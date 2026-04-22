@@ -76,6 +76,7 @@ Keywords: Semantic Web, Digital Humanities, Linked Open Data, data services, por
   - No explicit participatory design with end users is described in this clipping; focus is on data publishing and portal design.
 - **Epistemic justice**:
   - No explicit discussion of gender, intersectionality, or bias mitigation is present in this clipping.
+
 1. Breaking data silos of cultural heritage
 Cultural Heritage content is published independently by different memory organizations, such as museums, li-
 braries, archives, galleries, and media companies. The traditional web publishing model, where everybody can

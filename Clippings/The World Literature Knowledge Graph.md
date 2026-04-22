@@ -1,16 +1,16 @@
 ---
 title: The World Literature Knowledge Graph
-authors: 
-- Marco Antonio Stranisci
-- Eleonora Bernasconi
-- Viviana Patti
-- Stefano Ferilli
-- Miguel Ceriani
-- Rossana Damiano
+authors:
+  - Marco Antonio Stranisci
+  - Eleonora Bernasconi
+  - Viviana Patti
+  - Stefano Ferilli
+  - Miguel Ceriani
+  - Rossana Damiano
 year: 2017
 type: preprint
 journal: Lecture Notes in Computer Science
-doi: 10.1007/978-3-031-47243-5_24
+doi: https://doi-org.sire.ub.edu/10.1007/978-3-031-47243-5_2
 base: clippings
 source: Manual
 tags:
@@ -20,25 +20,27 @@ tags:
   - themes/literature
 last_enrichment_run: 2025-08-20
 pages: 435-452
-url: https://arxiv.org/abs/1701.00991
+url:
 apa_citation: Stranisci et al., 2017
 ---
+[[The World Literature Knowledge Graph.pdf]]
 
-## Notes for digital libraries article
-- **Process-driven**:
+## Extraction
+
+- **Process-driven (phases/patterns)**:
   - “In this paper we present The World Literature Knowledge Graph (WL-KG), a semantic resource containing 194,346 writers and 971,210 works, specifically designed for exploring facts about literary works and authors from different parts of the world.” (Abstract)
   - “The knowledge graph integrates information about the reception of literary works gathered from 3 different communities of readers, aligned according to a single semantic model.” (Abstract)
-- **Methodological tools**:
+- **Methodological tools/models**:
   - “The resource is accessible through an online visualization platform, which can be found at the following URL: https://literaturegraph.di.unito.it.” (Abstract)
-  - “This platform has been rigorously tested and validated by 3 distinct categories of experts who have found it to be highly beneficial for their respective work domains. These categories include teachers, researchers in the humanities, and professionals in the publishing industry.” (Abstract)
-- **Participation level**:
-  - “The resource is accessible through an online visualization platform ... This platform has been rigorously tested and validated by 3 distinct categories of experts who have found it to be highly beneficial for their respective work domains.” (Abstract)
-- **Epistemic justice**:
+  - “This platform has been rigorously tested and validated by 3 distinct categories of experts… These categories include teachers, researchers in the humanities, and professionals in the publishing industry.” (Abstract)
+- **Levels of participation/engagement**:
+  - Expert validation by three communities of professionals (teachers, humanities researchers, publishing professionals). (Abstract)
+- **Inclusion/representational gaps/epistemic justice**:
   - “However, these sources of knowledge are fragmented and do not adequately represent non-Western writers and their works.” (Abstract)
 
 [[The World Literature Knowledge Graph.pdf]]
 
-[[The World Literature Knowledge Graph.pdf]]
+
 
 ---
 title: The World Literature Knowledge Graph

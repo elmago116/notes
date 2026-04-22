@@ -1,5 +1,5 @@
 ---
-title: "Can Justice be a measurable value for AI? Proposed evaluation of the relationship between NLP models and principles of Justice"
+title: Can Justice be a measurable value for AI? Proposed evaluation of the relationship between NLP models and principles of Justice
 authors:
   - Lidia Marassi
   - Narendra Patwardhan
@@ -12,7 +12,7 @@ tags:
   - themes/bias
   - tech/Ai
   - themes/ethics
+  - op/acc/leer
 ---
 
-# Notes
-
+[[Can Justice be a measurable value for AI? Proposedevaluation of the relationship between NLP models andprinciples of Justice.pdf]]

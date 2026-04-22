@@ -7,7 +7,7 @@ authors:
   - Ferran-Ferrer, Núria
   - Juan-José Boté-Vericad
   - Minguillón Julià
-year: "2022"
+year: "2023"
 doi: https://doi.org/10.3145/epi.2023.nov.17
 journal: Profesional de la información,
 volume: 32, n. 6, e320617.

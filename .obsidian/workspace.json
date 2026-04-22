@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "aecda0967f14b7b3",
+    "id": "ad4982f813cc6915",
     "type": "split",
     "children": [
       {
-        "id": "3c9a8a32120e67d6",
+        "id": "1831319f68dc489b",
         "type": "tabs",
         "children": [
           {
-            "id": "480fedc0d2b8df4f",
+            "id": "0c5105c8eed6172e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TFM/Working docs/Borrador de estructura TFM.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Borrador de estructura TFM"
-            }
-          },
-          {
-            "id": "9ce8d54aeb7c4f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TFM/notas de ai and search engines/Cursor hasta 26 de junio:25.md",
+                "file": "CPC4U/Working docs/Temas de revisión y casos puntuales.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,94 +28,29 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cursor hasta 26 de junio:25"
-            }
-          },
-          {
-            "id": "098c0a4f118943c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Home _ CIDOC CRM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Home _ CIDOC CRM"
-            }
-          },
-          {
-            "id": "f0d1e0f487187037",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Clippings/PDF/!!Scoping Review on Research at the Boundary Between Learning and Working- A Bibliometric Mapping Analysis of the Last Decade.pdf",
-                "page": 2,
-                "left": -19,
-                "top": 430,
-                "zoom": 0.7798903365833665
-              },
-              "icon": "lucide-file-text",
-              "title": "!!Scoping Review on Research at the Boundary Between Learning and Working- A Bibliometric Mapping Analysis of the Last Decade"
-            }
-          },
-          {
-            "id": "7c5d837f4eb80325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TFM/Working docs/Knowledge Graphs in GLAM + Participatory Design.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Knowledge Graphs in GLAM + Participatory Design"
+              "title": "Temas de revisión y casos puntuales"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "960007711617b128",
+    "id": "d16864a53aa76cfa",
     "type": "split",
     "children": [
       {
-        "id": "f2f63c721d612485",
+        "id": "f663e044d6c96d7e",
         "type": "tabs",
         "children": [
           {
-            "id": "67563fc522aa123e",
+            "id": "1b60248ec6df4f43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -147,14 +58,14 @@
             }
           },
           {
-            "id": "1abd6eb07ae4d245",
+            "id": "924f1e3df3bf49b0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tech/UCC",
+                "query": "tag:#op/doc/journal",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -164,7 +75,7 @@
             }
           },
           {
-            "id": "374b2abca49b94bb",
+            "id": "cdd999609ae6b119",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -173,110 +84,99 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 200
   },
   "right": {
-    "id": "d43307540e3e32c7",
+    "id": "79e02d35aed2c43a",
     "type": "split",
     "children": [
       {
-        "id": "4a84afa02f3527e4",
+        "id": "4b670a3d5ac0e8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "dec3bfebe6cd33d3",
+            "id": "2867d11f58e4a0fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TFM/Working docs/Planeación de la TFM/DCMI - Call for application.md",
+                "file": "Drafts/Digital libraries/Comentarios.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DCMI - Call for application"
+              "title": "Backlinks for Comentarios"
             }
           },
           {
-            "id": "2d01ed3c400c2dc6",
+            "id": "2e927b4de83a6098",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TFM/Planeación de la TFM/Cronograma TFM.mw.mw",
+                "file": "PhD/Working docs/Memoria tecnica Peninsula - Lista de requisitos.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cronograma TFM.mw"
+              "title": "Outgoing links from Memoria tecnica Peninsula - Lista de requisitos"
             }
           },
           {
-            "id": "8119dc6e64a9cab1",
+            "id": "81e66a5ae6f6182e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "jour"
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "5daa985f7e252d8c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "TFM/Working docs/Knowledge Graphs in GLAM + Participatory Design.md",
-                "followCursor": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Knowledge Graphs in GLAM + Participatory Design"
-            }
-          },
-          {
-            "id": "ca3f32cd104d5d2e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "b720d91099eff59c",
+            "id": "5d029351122bb725",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "authors"
               },
               "icon": "lucide-archive",
               "title": "All properties"
             }
           },
           {
-            "id": "709392e037b87dec",
+            "id": "65698e7b871bb8bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPC4U/Working docs/Temas de revisión y casos puntuales.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Temas de revisión y casos puntuales"
+            }
+          },
+          {
+            "id": "4ea4bcf248811b79",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -284,78 +184,95 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "cdcfbae1dab0d80a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "markwhen:Create new Markwhen file": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markwhen:Create new Markwhen file": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "workspaces:Manage workspace layouts": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "7c5d837f4eb80325",
+  "active": "1b60248ec6df4f43",
   "lastOpenFiles": [
-    "TFM/Working docs/Borrador de estructura TFM.md",
-    "TFM/Working docs/Knowledge Graphs in GLAM + Participatory Design.md",
-    "TFM/Working docs/Knowledge_Graphs_in_GLAM_Context.md",
-    "Clippings/PDF/!!Scoping Review on Research at the Boundary Between Learning and Working- A Bibliometric Mapping Analysis of the Last Decade.pdf",
-    "Clippings/Home _ CIDOC CRM.md",
-    "TFM/notas de ai and search engines/Cursor hasta 26 de junio:25.md",
-    "Clippings/PDF/An approach for detecting, quantifying, and visualizing the evolution of a research field- A practical application to the Fuzzy Sets Theory field.pdf",
-    "borr.md",
-    "Clippings/Data Storytelling on multi-modal knowledge graph via data comics a case study in Yanyuwa language.md",
+    "Drafts/Digital libraries/sssss.md",
+    "Drafts/Digital libraries/sssss_media/a31cc5907e5b062243e912908dbc5bd778868cd7.png",
+    "Drafts/Digital libraries/sssss_media",
+    "Drafts/Digital libraries/sssss.docx",
+    "BSC/bsc_es_kitinern/Working docs/Journals para BSC article.md",
+    "Clippings/AI for social science and social science of AI a survey.md",
+    "Drafts/Article DCMI/DCMI2026-three-angles-abstracts.md",
+    "PDF/AI for social science and social science of AI a survey.pdf",
+    "Clippings/Humanities and Social Sciences Communications.md",
+    "Drafts/BSC/ix-congres-abstract.md",
+    "Drafts/BSC/bsc.md",
+    "Clippings/Journal finder and open access funding _ Springer Nature Link.md",
+    "Clippings/Journal Finder.md",
     "Clippings/Embedding Experiential Design Knowledge in Interactive Knowledge Graphs.md",
-    "TFM/notas de ai and search engines/2025-04-04.md",
-    "TFM/Working docs/Metodología de la investigación.md",
-    "HerStory/Técnica de inv/UB Knowledge graph - Guía.md",
-    "TFM/Working docs/Metadata/find_overlapping_articles.py",
+    "Untitled.md",
+    "Drafts/18JCID(2026)/1.1_Instruccions-Autors-Actes.pdf",
+    "Clippings/A conceptual model for tracking the provenance of activities in knowledge organization systems.md",
+    "Drafts/Digital libraries/Annex 2 - Use-case set.md",
+    "Drafts/Digital libraries/Cuadros comparativos 1.md",
+    "Drafts/Digital libraries/27.md",
+    "Drafts/Digital libraries/27_media/a31cc5907e5b062243e912908dbc5bd778868cd7.png",
+    "Drafts/Digital libraries/27_media",
+    "Drafts/Digital libraries/27.docx",
+    "Drafts/Digital libraries/27",
+    "Drafts/Digital libraries/2403.md",
+    "Clippings/PDF/Embedding Experiential Design Knowledge in Interactive Knowledge Graphs.pdf.md",
+    "TFM/Working docs/Borrador de estructura TFM.md",
+    "Clippings/AI_for_social_science_and_social_science_of_AI_A_Survey.pdf.md",
+    "PDF/Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review.pdf",
+    "PDF/Socialising epistemic risk- On the risks of epistemicinjustice.pdf",
+    "PDF/Stakeholder_Participation_in_AI_Beyond_Add_Diverse_Stakeholders_and_Stir.pdf",
+    "CPC4U/Working docs/Temas de revisión y casos puntuales.md",
+    "CPC4U/Working docs/24 de marzo - CPC 4U.md",
+    "Clippings/Semantic web technologies and bias- review.md",
+    "Clippings/Semantic Interoperability_in the European Digital_Library.md",
+    "Clippings/Ontology-guided Knowledge Graph Construction from Maintenance Short Texts.md",
+    "Clippings/A Semantic Web Primer-The MIT Press (2012).md",
+    "Drafts/Digital libraries/Participative practices analysis - reading evidences (restructured).md",
     "TFM/Working docs/Planeación de la TFM/Estructura de TFMs.canvas",
-    "HerStory/Publications – Women and Wikipedia.md",
-    "TFM/Working docs/Metadata/extract_participatory_design_articles.py",
     "TFM/Working docs/IMG/rayones de proceso.png",
-    "TFM/Working docs/IMG/Screenshot 2025-07-03 at 8.11.30 PM.png",
-    "TFM/Working docs/Metadata/extract_glam_kg_articles.py",
-    "TFM/Working docs/Metadata/Normalizados/README.md",
-    "Normalizados/README.md",
-    "Normalizados",
-    "TFM/Working docs/Metadata/Normalizados/metadataWoS3_completo.ris",
-    "TFM/Working docs/Metadata/Normalizados/metadataWoS2_completo.ris",
-    "TFM/Working docs/Metadata/Normalizados/metadataWoS1+_completo.ris",
-    "TFM/Working docs/Metadata/Normalizados/metadataWoS1_completo.ris",
-    "HerStory/Publications to read/Diversitat.md",
-    "TFM/Working docs/Planeación de la TFM/Proceso - borrador - one page proposal.md",
-    "HerStory/Ensayos/Censura description.md",
-    "HerStory/Ensayos/Descripción de SIDBRINT.md",
-    "HerStory/Ensayos/SIDBRINT Description.md",
-    "HerStory/Ensayos/SIDBRINT diagram replica.md",
-    "HerStory/Ensayos/README- version 1 SIDBRNT y V2.md",
-    "TFM/Working docs/Ecuaciones de búsqueda.md",
-    "Clippings/Science mapping software tools_ Review, analysis, and cooperative study among tools.md",
-    "TFM/notas de lecturas/An approach for detecting, quantifying, and visualizing the evolution of a research field - A practical application to the Fuzzy Sets Theory field.md",
-    "TFM/Working docs/Planeación de la TFM/SciMAT process.md",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshgIndex.svg",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentssumCitations.png",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentssumCitations.svg",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentsq2Index.svg",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentsq2Index.png",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshgIndex.png",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshIndex.svg",
-    "TFM/simple centers/images/strategicDiagram-period1-secondaryDocumentshIndex.png"
+    "TFM/Working docs/IMG/revisar grupo.png",
+    "TFM/Working docs/IMG/Screenshot 2025-06-25 at 10.57.21 AM.png",
+    "TFM/Working docs/IMG/Screenshot 2025-06-26 at 6.33.45 PM.png",
+    "TFM/Working docs/IMG/Screenshot 2025-06-25 at 10.45.39 AM.png",
+    "TFM/Working docs/IMG/Screenshot 2025-06-25 at 10.57.10 AM.png",
+    "TFM/Working docs/IMG/Screenshot 2025-06-25 at 10.50.00 AM.png",
+    "TFM/Working docs/IMG/Screenshot 2025-06-25 at 10.42.13 AM.png",
+    "BSC/bsc_es_kitinern/Working docs/Innovative Methodologies Review/Notes and fragments/Understanding the project/Review process.canvas",
+    "HerStory/Untitled.canvas",
+    "BSC/bsc_es_kitinern/Working docs/Innovative Methodologies Review/Notes and fragments/Understanding the project/Keywords map.canvas",
+    "BSC/bsc_es_kitinern/Working docs/TACTIC/TACTIC Estructura.canvas"
   ]
 }
